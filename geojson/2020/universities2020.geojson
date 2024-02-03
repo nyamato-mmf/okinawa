@@ -1,0 +1,1620 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73470200000008,
+          35.676397000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.676397000000001,
+        "lon" : 139.734702,
+        "name" : "国際医療福祉大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7376690000001,
+          35.682187000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.682186999999999,
+        "lon" : 139.73766900000001,
+        "name" : "城西国際大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69694700000002,
+          35.69166400000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.691664000000003,
+        "lon" : 139.69694699999999,
+        "name" : "東京国際工科専門職大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.81302100000005,
+          35.664787000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.664786999999997,
+        "lon" : 139.81302099999999,
+        "name" : "東京保健医療専門職大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75809700000002,
+          35.692443000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.692442999999997,
+        "lon" : 139.75809699999999,
+        "name" : "一橋大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72729600000002,
+          35.66383200000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.663831999999999,
+        "lon" : 139.727296,
+        "name" : "政策研究大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76102400000002,
+          35.700773000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.700772999999998,
+        "lon" : 139.76102399999999,
+        "name" : "東京医科歯科大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74713400000007,
+          35.624655000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.624654999999997,
+        "lon" : 139.74713399999999,
+        "name" : "東京海洋大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79123900000002,
+          35.668089000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.668089000000002,
+        "lon" : 139.79123899999999,
+        "name" : "東京海洋大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74724500000002,
+          35.644059000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.644058999999999,
+        "lon" : 139.74724499999999,
+        "name" : "東京工業大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72506800000008,
+          35.639915000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.639915000000002,
+        "lon" : 139.72506799999999,
+        "name" : "東京大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74926100000005,
+          35.606649000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.606648999999997,
+        "lon" : 139.74926099999999,
+        "name" : "産業技術大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.766885,
+          35.678055000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.678055000000001,
+        "lon" : 139.766885,
+        "name" : "ＳＢＩ大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73665900000003,
+          35.685444000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.685443999999997,
+        "lon" : 139.736659,
+        "name" : "グロービス経営大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76631900000007,
+          35.698694000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.698694000000003,
+        "lon" : 139.76631900000001,
+        "name" : "デジタルハリウッド大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72944800000005,
+          35.661488000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.661487999999999,
+        "lon" : 139.72944799999999,
+        "name" : "ハリウッド大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.737301,
+          35.68609500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.686095000000002,
+        "lon" : 139.737301,
+        "name" : "ビジネス・ブレークスルー大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68913700000007,
+          35.660666000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.660665999999999,
+        "lon" : 139.68913699999999,
+        "name" : "ヤマザキ動物看護大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7123600000001,
+          35.707479000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.707478999999999,
+        "lon" : 139.71235999999999,
+        "name" : "学習院女子大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75722200000007,
+          35.693167000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.693167000000003,
+        "lon" : 139.75722200000001,
+        "name" : "共立女子大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75722200000007,
+          35.693167000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.693167000000003,
+        "lon" : 139.75722200000001,
+        "name" : "共立女子大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75486000000001,
+          35.694547000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.694547,
+        "lon" : 139.75486000000001,
+        "name" : "共立女子大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75486000000001,
+          35.694547000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.694547,
+        "lon" : 139.75486000000001,
+        "name" : "共立女子大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74317200000007,
+          35.648366000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.648366000000003,
+        "lon" : 139.74317199999999,
+        "name" : "慶應義塾大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75168600000006,
+          35.658422000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.658422000000002,
+        "lon" : 139.75168600000001,
+        "name" : "慶應義塾大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7191600000001,
+          35.681433000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.681432999999998,
+        "lon" : 139.71915999999999,
+        "name" : "慶應義塾大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69568500000003,
+          35.690506000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.690505999999999,
+        "lon" : 139.695685,
+        "name" : "工学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69694700000002,
+          35.69166400000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.691664000000003,
+        "lon" : 139.69694699999999,
+        "name" : "国際ファッション専門職大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69829200000004,
+          35.705667000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.705666999999998,
+        "lon" : 139.69829200000001,
+        "name" : "桜美林大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72880000000009,
+          35.685373000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.685372999999998,
+        "lon" : 139.72880000000001,
+        "name" : "桜美林大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71365900000001,
+          35.66537500000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.665374999999997,
+        "lon" : 139.71365900000001,
+        "name" : "事業構想大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7101100000001,
+          35.657929000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.657929000000003,
+        "lon" : 139.71010999999999,
+        "name" : "実践女子大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74967900000001,
+          35.643371000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.643371000000002,
+        "lon" : 139.74967899999999,
+        "name" : "芝浦工業大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79572600000006,
+          35.66072100000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.660721000000002,
+        "lon" : 139.795726,
+        "name" : "芝浦工業大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70648300000005,
+          35.712306000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.712305999999998,
+        "lon" : 139.70648299999999,
+        "name" : "社会情報大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70362299999999,
+          35.608364000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.608364000000002,
+        "lon" : 139.70362299999999,
+        "name" : "昭和大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73174600000004,
+          35.68330300000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.683303000000002,
+        "lon" : 139.73174599999999,
+        "name" : "上智大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69481900000005,
+          35.720673000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.720672999999998,
+        "lon" : 139.694819,
+        "name" : "上智大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7158720000001,
+          35.631602000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.631602000000001,
+        "lon" : 139.71587199999999,
+        "name" : "杉野服飾大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71140800000001,
+          35.619338000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.619337999999999,
+        "lon" : 139.71140800000001,
+        "name" : "星薬科大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72823200000005,
+          35.627344000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.627344000000001,
+        "lon" : 139.72823199999999,
+        "name" : "清泉女子大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72131300000001,
+          35.651925000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.651924999999999,
+        "lon" : 139.72131300000001,
+        "name" : "聖心女子大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77536600000008,
+          35.667762000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.667762000000003,
+        "lon" : 139.77536599999999,
+        "name" : "聖路加国際大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7097490000001,
+          35.659029000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.659028999999997,
+        "lon" : 139.70974899999999,
+        "name" : "青山学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75384400000007,
+          35.696604000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.696604000000001,
+        "lon" : 139.75384399999999,
+        "name" : "専修大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.753736,
+          35.696610000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.69661,
+        "lon" : 139.753736,
+        "name" : "専修大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72209500000008,
+          35.709353000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.709353,
+        "lon" : 139.722095,
+        "name" : "早稲田大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71974,
+          35.708340000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.70834,
+        "lon" : 139.71974,
+        "name" : "早稲田大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71778600000005,
+          35.705137000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.705137000000001,
+        "lon" : 139.71778599999999,
+        "name" : "早稲田大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70603500000004,
+          35.705887000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.705886999999997,
+        "lon" : 139.70603500000001,
+        "name" : "早稲田大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72209500000008,
+          35.703618000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.703617999999999,
+        "lon" : 139.722095,
+        "name" : "早稲田大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77461600000004,
+          35.682525000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.682524999999998,
+        "lon" : 139.77461600000001,
+        "name" : "早稲田大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7725630000001,
+          35.68265400000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.682653999999999,
+        "lon" : 139.77256299999999,
+        "name" : "大学院大学至善館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75569400000006,
+          35.698787000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.698787000000003,
+        "lon" : 139.75569400000001,
+        "name" : "大原大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74236000000008,
+          35.690989000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.690989000000002,
+        "lon" : 139.74235999999999,
+        "name" : "大妻女子大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73660500000005,
+          35.693687000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.693686999999997,
+        "lon" : 139.736605,
+        "name" : "中央大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73007700000005,
+          35.692769000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.692768999999998,
+        "lon" : 139.73007699999999,
+        "name" : "中央大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71116300000006,
+          35.680371000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.680371000000001,
+        "lon" : 139.711163,
+        "name" : "津田塾大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68402200000003,
+          35.664676000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.664676,
+        "lon" : 139.684022,
+        "name" : "東海大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73456900000008,
+          35.63792600000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.637926,
+        "lon" : 139.73456899999999,
+        "name" : "東海大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71198000000004,
+          35.693720000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.693719999999999,
+        "lon" : 139.71198000000001,
+        "name" : "東京医科大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72640800000011,
+          35.63147500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.631475000000002,
+        "lon" : 139.72640799999999,
+        "name" : "東京医療保健大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74145800000008,
+          35.691261000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.691260999999997,
+        "lon" : 139.74145799999999,
+        "name" : "東京家政学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75482800000009,
+          35.701422000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.701422000000001,
+        "lon" : 139.754828,
+        "name" : "東京歯科大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.750449,
+          35.663081000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.663080999999998,
+        "lon" : 139.750449,
+        "name" : "東京慈恵会医科大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71990500000004,
+          35.697020000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.697020000000002,
+        "lon" : 139.71990500000001,
+        "name" : "東京女子医科大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69694700000002,
+          35.69166400000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.691664000000003,
+        "lon" : 139.69694699999999,
+        "name" : "東京通信大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7010590000001,
+          35.714764000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.714764000000002,
+        "lon" : 139.70105899999999,
+        "name" : "東京富士大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79663100000005,
+          35.64168200000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.641682000000003,
+        "lon" : 139.79663099999999,
+        "name" : "東京有明医療大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74136900000008,
+          35.699452000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.699452000000001,
+        "lon" : 139.74136899999999,
+        "name" : "東京理科大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76704500000005,
+          35.684863000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.684863,
+        "lon" : 139.767045,
+        "name" : "東洋大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74575000000004,
+          35.692211000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.692211,
+        "lon" : 139.74574999999999,
+        "name" : "二松學舎大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74578500000007,
+          35.697812000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.697811999999999,
+        "lon" : 139.74578500000001,
+        "name" : "日本歯科大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71923800000002,
+          35.653689000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.653689,
+        "lon" : 139.71923799999999,
+        "name" : "日本赤十字看護大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73755100000005,
+          35.69091700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.690916999999999,
+        "lon" : 139.737551,
+        "name" : "日本大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76360099999999,
+          35.697587000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.697586999999999,
+        "lon" : 139.76360099999999,
+        "name" : "日本大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75429500000007,
+          35.699624000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.699624,
+        "lon" : 139.75429500000001,
+        "name" : "日本大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76346100000001,
+          35.698311000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.698310999999997,
+        "lon" : 139.76346100000001,
+        "name" : "日本大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7563090000001,
+          35.700154000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.700153999999998,
+        "lon" : 139.75630899999999,
+        "name" : "日本大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78621700000008,
+          35.631255000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.631255000000003,
+        "lon" : 139.78621699999999,
+        "name" : "武蔵野大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69385700000009,
+          35.685606000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.685606,
+        "lon" : 139.69385700000001,
+        "name" : "文化ファッション大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69385700000009,
+          35.685606000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.685606,
+        "lon" : 139.69385700000001,
+        "name" : "文化学園大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70686000000001,
+          35.60583500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.605834999999999,
+        "lon" : 139.70686000000001,
+        "name" : "文教大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74143600000002,
+          35.696228000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.696227999999998,
+        "lon" : 139.74143599999999,
+        "name" : "法政大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7257330000001,
+          35.644800000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.644799999999996,
+        "lon" : 139.72573299999999,
+        "name" : "北里大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73022100000003,
+          35.636443000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.636443,
+        "lon" : 139.730221,
+        "name" : "明治学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76152400000001,
+          35.697268000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.697268000000001,
+        "lon" : 139.76152400000001,
+        "name" : "明治大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76145400000007,
+          35.697398000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.697398,
+        "lon" : 139.76145399999999,
+        "name" : "明治大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68006500000001,
+          35.717648000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.717647999999997,
+        "lon" : 139.68006500000001,
+        "name" : "目白大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.722936,
+          35.621442000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.621442000000002,
+        "lon" : 139.722936,
+        "name" : "立正大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.711456,
+          35.655499000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.655498999999999,
+        "lon" : 139.711456,
+        "name" : "國學院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75826000000006,
+          35.692387000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.692386999999997,
+        "lon" : 139.75826000000001,
+        "name" : "総合研究大学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76861100000008,
+          35.683718000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.683717999999999,
+        "lon" : 139.76861099999999,
+        "name" : "関西学院大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69734200000005,
+          35.693789000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.693789000000002,
+        "lon" : 139.69734199999999,
+        "name" : "宝塚大学"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70048700000007,
+          35.656346000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.656345999999999,
+        "lon" : 139.70048700000001,
+        "name" : "日本経済大学"
+      }
+    }
+  ]
+}

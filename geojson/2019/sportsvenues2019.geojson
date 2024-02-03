@@ -1,0 +1,7315 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72927500000003,
+          35.662122000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.662121999999997,
+        "lon" : 139.729275,
+        "name" : "BODY ARCHI(ボディアーキ) 六本木店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72878000000003,
+          35.665569000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.665568999999998,
+        "lon" : 139.72878,
+        "name" : "Magma spastudio insea(マグマ スパスタジオ インシー) 六本木店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72907700000007,
+          35.664651000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.664650999999999,
+        "lon" : 139.72907699999999,
+        "name" : "SIXPAD・STATION六本木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72962600000005,
+          35.662293000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.662292999999998,
+        "lon" : 139.729626,
+        "name" : "シェイプス六本木本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72860450000007,
+          35.659638000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.659638000000001,
+        "lon" : 139.72860449999999,
+        "name" : "NAGOMISPA AND FITNESS(ナゴミスパアンドフィットネス)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73146200000008,
+          35.66188800000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.661887999999998,
+        "lon" : 139.73146199999999,
+        "name" : "TIPNESS(ティップネス) 六本木店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73013450000008,
+          35.661339000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.661338999999998,
+        "lon" : 139.73013449999999,
+        "name" : "トータル・ワークアウト 六本木ヒルズ店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73013450000008,
+          35.661339000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.661338999999998,
+        "lon" : 139.73013449999999,
+        "name" : "フィールサイクル 六本木ヒルズ店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73254200000008,
+          35.66290500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.662905000000002,
+        "lon" : 139.732542,
+        "name" : "CANDYGYM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7316330000001,
+          35.66471400000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.664713999999996,
+        "lon" : 139.73163299999999,
+        "name" : "パーソナルジムボディーク(Bodyke)六本木店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.737303,
+          35.661573000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.661572999999997,
+        "lon" : 139.737303,
+        "name" : "BEEFMANworkout"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73686200000009,
+          35.661870000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.66187,
+        "lon" : 139.736862,
+        "name" : "ライザップ 六本木店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73943150000002,
+          35.664597000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.664597000000001,
+        "lon" : 139.73943149999999,
+        "name" : "エスフォルタ六本木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73943150000002,
+          35.664597000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.664597000000001,
+        "lon" : 139.73943149999999,
+        "name" : "クレビック(CREBIQ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73210100000006,
+          35.686224000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.686224000000003,
+        "lon" : 139.732101,
+        "name" : "ゴールドジム 四ツ谷東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74281970000004,
+          35.702325610000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.702325610000003,
+        "lon" : 139.74281970000001,
+        "name" : "コナミスポーツクラブ 飯田橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75992450000001,
+          35.673066000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.673065999999999,
+        "lon" : 139.75992450000001,
+        "name" : "メガロス日比谷シャンテ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77864450000004,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.667000000000002,
+        "lon" : 139.77864450000001,
+        "name" : "東急スポーツオアシス聖路加ガーデン店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77965700000004,
+          35.673507000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.673507000000001,
+        "lon" : 139.77965699999999,
+        "name" : "桜川ゲートボール場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74037200000009,
+          35.659935000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.659934999999997,
+        "lon" : 139.74037200000001,
+        "name" : "ワールドウィング麻布"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7373255,
+          35.653680000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.653680000000001,
+        "lon" : 139.7373255,
+        "name" : "新広尾公園投球場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73501250000004,
+          35.653644000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.653644,
+        "lon" : 139.73501250000001,
+        "name" : "麻布ボディメイキングボックス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73508000000004,
+          35.655408000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.655408000000001,
+        "lon" : 139.73508000000001,
+        "name" : "ISEA BODY STYLE(イセアボディスタイル) 麻布十番"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73561100000006,
+          35.654211000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.654210999999997,
+        "lon" : 139.73561100000001,
+        "name" : "JOYFIT+(ジョイフィットプラス) 麻布十番"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73499000000004,
+          35.654733000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.654733,
+        "lon" : 139.73499000000001,
+        "name" : "THEPOPEYEPersonalClub本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73464799999999,
+          35.65466100000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.654660999999997,
+        "lon" : 139.73464799999999,
+        "name" : "スポーツクラブJOYFIT 麻布十番"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73516549999999,
+          35.654652000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.654651999999999,
+        "lon" : 139.73516549999999,
+        "name" : "メガロスルフレ麻布十番"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73445900000002,
+          35.655066000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.655065999999998,
+        "lon" : 139.73445899999999,
+        "name" : "美コア東京スタジオ POWERED BY Reebok(パワード バイ リーボック)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73484600000006,
+          35.656443000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.656443000000003,
+        "lon" : 139.734846,
+        "name" : "オレンジセオリー・フィットネス麻布十番"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73450400000002,
+          35.656632000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.656632000000002,
+        "lon" : 139.73450399999999,
+        "name" : "basi(バシ)ピラティス 麻布十番スタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73488650000002,
+          35.656569000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.656568999999998,
+        "lon" : 139.73488649999999,
+        "name" : "Evolv Azabu Studio(エヴォルヴ アザブスタジオ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73371650000001,
+          35.656551000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.656551,
+        "lon" : 139.73371650000001,
+        "name" : "HOT STEP(ホットステップ)麻布十番店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73634450000009,
+          35.655831000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.655830999999999,
+        "lon" : 139.7363445,
+        "name" : "オズ-麻布"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73371650000001,
+          35.656551000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.656551,
+        "lon" : 139.73371650000001,
+        "name" : "スタジオボディデザイン"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68496800000003,
+          35.682165000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.682164999999998,
+        "lon" : 139.684968,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 渋谷初台店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.683852,
+          35.68012200000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.680121999999997,
+        "lon" : 139.683852,
+        "name" : "カーブス渋谷初台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.681017,
+          35.678853000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.678852999999997,
+        "lon" : 139.681017,
+        "name" : "パーソナルトレーニングスタジオ SWITCH(スイッチ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71223350000002,
+          35.666460000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.666460000000001,
+        "lon" : 139.7122335,
+        "name" : "24/7Workout 表参道店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7127375,
+          35.665749000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.665748999999998,
+        "lon" : 139.7127375,
+        "name" : "FURLA yoga(フルラヨガ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71698100000003,
+          35.672994000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.672994000000003,
+        "lon" : 139.716981,
+        "name" : "東急スポーツオアシス青山店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68916650000006,
+          35.702460000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.702460000000002,
+        "lon" : 139.6891665,
+        "name" : "北新宿多目的運動広場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69667700000002,
+          35.698410000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.698410000000003,
+        "lon" : 139.69667699999999,
+        "name" : "24/7Workout 新宿西口店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69572750000009,
+          35.700390000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.700389999999999,
+        "lon" : 139.6957275,
+        "name" : "ヌンサヤームジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7716650000001,
+          35.653491000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.653491000000002,
+        "lon" : 139.77166500000001,
+        "name" : "豊海テニス場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74127200000009,
+          35.67946500000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.679465,
+        "lon" : 139.74127200000001,
+        "name" : "adidas RUNBASE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74382800000001,
+          35.698914000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.698914000000002,
+        "lon" : 139.74382800000001,
+        "name" : "Re.Ra.Ku(リラク)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74382800000001,
+          35.698914000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.698914000000002,
+        "lon" : 139.74382800000001,
+        "name" : "セントラルスポーツ ジムスタ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68469800000003,
+          35.666838000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.666837999999998,
+        "lon" : 139.684698,
+        "name" : "ワークアウトイサミ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68848700000001,
+          35.667369000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.667369000000001,
+        "lon" : 139.68848700000001,
+        "name" : "クオリア代々木公園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70079450000003,
+          35.707878000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.707878000000001,
+        "lon" : 139.7007945,
+        "name" : "西戸山公園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69656900000007,
+          35.70417000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.704169999999998,
+        "lon" : 139.69656900000001,
+        "name" : "GENスポーツアカデミー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74889500000006,
+          35.698446000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.698445999999997,
+        "lon" : 139.748895,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 九段下店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74990300000002,
+          35.69805000000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.698050000000002,
+        "lon" : 139.74990299999999,
+        "name" : "パーソナルスタジオBee"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74851699999999,
+          35.699130000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.699129999999997,
+        "lon" : 139.74851699999999,
+        "name" : "パーソナルトレーニングジムgis"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77699749999999,
+          35.674227000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.674227000000002,
+        "lon" : 139.77699749999999,
+        "name" : "FASTGYM24(ファストジム トゥエンティフォー) 八丁堀店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7758275000001,
+          35.674866000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.674866000000002,
+        "lon" : 139.77582749999999,
+        "name" : "京華スクエア"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77880200000004,
+          35.67598200000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.675981999999998,
+        "lon" : 139.77880200000001,
+        "name" : "TRY Fitness & Sports Space(トライ フィットネス アンド スポーツ スペース)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76943300000005,
+          35.679906000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.679906000000003,
+        "lon" : 139.76943299999999,
+        "name" : "エクササイズコーチ 八重洲店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67750700000011,
+          35.677728000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.677728000000002,
+        "lon" : 139.67750699999999,
+        "name" : "FASTGYM24(ファストジム トゥエンティフォー) 幡ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67891100000008,
+          35.679042000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.679042000000003,
+        "lon" : 139.678911,
+        "name" : "カーブス渋谷幡ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67337150000003,
+          35.675919000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.675919,
+        "lon" : 139.6733715,
+        "name" : "ターゲットワン新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.722714,
+          35.638569000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.638568999999997,
+        "lon" : 139.722714,
+        "name" : "そらよんボルダリングジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72704300000009,
+          35.638614000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.638613999999997,
+        "lon" : 139.72704300000001,
+        "name" : "ボディバランシング 白金台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72324500000002,
+          35.636157000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.636156999999997,
+        "lon" : 139.72324499999999,
+        "name" : "メガロス 白金台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7193615000001,
+          35.706465000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.706465000000001,
+        "lon" : 139.71936149999999,
+        "name" : "FASTGYM24(ファストジム トゥエンティフォー) 早稲田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77430650000008,
+          35.690526000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.690525999999998,
+        "lon" : 139.77430649999999,
+        "name" : "A.R.M.TOKYO(エーアールエムトウキョウ) 日本橋ジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77453600000001,
+          35.687610000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.687609999999999,
+        "lon" : 139.77453600000001,
+        "name" : "ティップネス日本橋スタイル"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77540900000008,
+          35.687646000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.687646000000001,
+        "lon" : 139.775409,
+        "name" : "LBodymakeStudio"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77636300000006,
+          35.686494000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.686494000000003,
+        "lon" : 139.776363,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 日本橋本町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78836000000001,
+          35.684802000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.684801999999998,
+        "lon" : 139.78836000000001,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 日本橋浜町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78939050000008,
+          35.687817000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.687817000000003,
+        "lon" : 139.7893905,
+        "name" : "中央区総合スポーツセンター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78226700000005,
+          35.695431000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.695430999999999,
+        "lon" : 139.78226699999999,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 日本橋馬喰町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78177200000005,
+          35.685801000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.685800999999998,
+        "lon" : 139.78177199999999,
+        "name" : "FASTGYM24(ファストジム トゥエンティフォー) 人形町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77791550000006,
+          35.690625000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.690624999999997,
+        "lon" : 139.77791550000001,
+        "name" : "筋錬処ジクブレブ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77692550000006,
+          35.69109300000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.691093000000002,
+        "lon" : 139.7769255,
+        "name" : "十思スクエア"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77194400000008,
+          35.682039000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.682039000000003,
+        "lon" : 139.77194399999999,
+        "name" : "CREBIQ(クレビック) 東京日本橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77382950000003,
+          35.681337000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.681336999999999,
+        "lon" : 139.77382950000001,
+        "name" : "ニュートラルワークス.ニホンバシ 日本橋高島屋S.C.店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77559350000001,
+          35.683263000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.683262999999997,
+        "lon" : 139.77559350000001,
+        "name" : "ヨガスタジオ シャンティ201"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75401150000005,
+          35.673174000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.673174000000003,
+        "lon" : 139.75401149999999,
+        "name" : "SPORTS STATION Hibiya Park(スポーツ ステーション ヒビヤ パーク)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72243950000006,
+          35.651259000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.651259000000003,
+        "lon" : 139.72243950000001,
+        "name" : "XBODYLab広尾"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.727754,
+          35.652465000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.652464999999999,
+        "lon" : 139.727754,
+        "name" : "港区立 麻布運動場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72729500000003,
+          35.652267000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.652267000000002,
+        "lon" : 139.727295,
+        "name" : "東京ローンテニスクラブ(一般財団法人)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72464450000007,
+          35.647281000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.647281,
+        "lon" : 139.72464450000001,
+        "name" : "エニタイムフィットネス 広尾店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7315205000001,
+          35.649873000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.649872999999999,
+        "lon" : 139.73152049999999,
+        "name" : "加圧トレーニングスタジオバイタル(studioVital)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73576850000006,
+          35.64770400000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.647703999999997,
+        "lon" : 139.73576850000001,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 南麻布2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7371005,
+          35.649936000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.649935999999997,
+        "lon" : 139.7371005,
+        "name" : "加圧マスターサロンOZ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6959885,
+          35.655021000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.655020999999998,
+        "lon" : 139.6959885,
+        "name" : "Shapes(シェイプス)&シェイプス ガール 渋谷本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6959885,
+          35.655021000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.655020999999998,
+        "lon" : 139.6959885,
+        "name" : "株式会社Shapes(シェイプス)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71840750000001,
+          35.657811000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.657811000000002,
+        "lon" : 139.71840750000001,
+        "name" : "ジョイフィット24南青山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71521700000005,
+          35.661177000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.661177000000002,
+        "lon" : 139.715217,
+        "name" : "ゴールドジム南青山東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71631950000005,
+          35.66259000000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.662590000000002,
+        "lon" : 139.7163195,
+        "name" : "セントラルフィットネスクラブ 南青山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71258900000009,
+          35.661483000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.661482999999997,
+        "lon" : 139.71258900000001,
+        "name" : "チャームボディ表参道本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71815100000003,
+          35.662761000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.662761000000003,
+        "lon" : 139.71815100000001,
+        "name" : "ARTISANPersonalTraining"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71505050000007,
+          35.667486000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.667485999999997,
+        "lon" : 139.71505049999999,
+        "name" : "b-monster AOYAMA(ビーモンスターアオヤマ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71456000000001,
+          35.665740000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.66574,
+        "lon" : 139.71456000000001,
+        "name" : "BODYDirector"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71337200000005,
+          35.665470000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "lat" : 35.665469999999999,
+        "lon" : 139.71337199999999,
+        "name" : "FEELCYCLE Omotesando(フィールサイクル表参道)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71738600000003,
+          35.667036000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "lat" : 35.667036000000003,
+        "lon" : 139.717386,
+        "name" : "ボディリペア青山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71856050000008,
+          35.668953000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "lat" : 35.668953000000002,
+        "lon" : 139.7185605,
+        "name" : "青山運動場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76777700000002,
+          35.69118300000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "lat" : 35.691183000000002,
+        "lon" : 139.767777,
+        "name" : "ジムセントラル24神田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76754300000005,
+          35.689122000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "lat" : 35.689121999999998,
+        "lon" : 139.76754299999999,
+        "name" : "千代田区立スポーツセンター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76754300000005,
+          35.689122000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "lat" : 35.689121999999998,
+        "lon" : 139.76754299999999,
+        "name" : "千代田区立スポーツセンター弓道場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76501400000006,
+          35.690040000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "lat" : 35.690040000000003,
+        "lon" : 139.76501400000001,
+        "name" : "Body Produce AXIS 大手町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76514450000002,
+          35.691030000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "lat" : 35.691029999999998,
+        "lon" : 139.76514449999999,
+        "name" : "BOULCOM(ボルコム) 東京店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76669700000002,
+          35.690130000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "lat" : 35.690130000000003,
+        "lon" : 139.76669699999999,
+        "name" : "ラフィネ ランニングスタイル神田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69803150000007,
+          35.65884600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "lat" : 35.658845999999997,
+        "lon" : 139.69803150000001,
+        "name" : "スポーツプラス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78395,
+          35.691300000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "lat" : 35.691299999999998,
+        "lon" : 139.78395,
+        "name" : "SPORTSINSYNC."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75810200000001,
+          35.662257000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "lat" : 35.662256999999997,
+        "lon" : 139.75810200000001,
+        "name" : "D-MAXSTUDIO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76129250000008,
+          35.663013000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "lat" : 35.663012999999999,
+        "lon" : 139.7612925,
+        "name" : "FEELCYCLE Shiodome(フィールサイクル汐留)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76129250000008,
+          35.663013000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "lat" : 35.663012999999999,
+        "lon" : 139.7612925,
+        "name" : "水月スパ&フィットネス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.708935,
+          35.650251000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "lat" : 35.650250999999997,
+        "lon" : 139.708935,
+        "name" : "J&S Bouldering Gym(ジェイアンドエス ボルダリング ジム)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78640700000005,
+          35.669097000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "lat" : 35.669097000000001,
+        "lon" : 139.786407,
+        "name" : "フィットネス&スパNAS リバーシティ21"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78311300000007,
+          35.669268000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "lat" : 35.669268000000002,
+        "lon" : 139.78311299999999,
+        "name" : "ミミフィットネスクラブリバーシティ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7730375000001,
+          35.668026000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "lat" : 35.668025999999998,
+        "lon" : 139.77303749999999,
+        "name" : "FASTGYM24(ファストジム トゥエンティフォー) 築地店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76618400000007,
+          35.685099000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "lat" : 35.685099000000001,
+        "lon" : 139.76618400000001,
+        "name" : "コナミスポーツクラブグランサイズ大手町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76456400000006,
+          35.688780000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "lat" : 35.688780000000001,
+        "lon" : 139.76456400000001,
+        "name" : "SPA大手町FITNESS CLUB"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7044125000001,
+          35.708391000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "lat" : 35.708390999999999,
+        "lon" : 139.70441249999999,
+        "name" : "カーブスオレンジコート高田馬場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7054250000001,
+          35.706987000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "lat" : 35.706986999999998,
+        "lon" : 139.70542499999999,
+        "name" : "新宿スポーツセンター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7054250000001,
+          35.706987000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "lat" : 35.706986999999998,
+        "lon" : 139.70542499999999,
+        "name" : "新宿区立総合体育館屋内プール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70213550000005,
+          35.706555000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "lat" : 35.706555000000002,
+        "lon" : 139.7021355,
+        "name" : "大久保スポーツプラザ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70763900000009,
+          35.700723000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "lat" : 35.700723000000004,
+        "lon" : 139.707639,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 東新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "全日本弓道連盟中央道場 明治神宮武道場 至誠館 第二弓道場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69053000000008,
+          35.67149100000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "lat" : 35.671491000000003,
+        "lon" : 139.69053,
+        "name" : "ゴールドジム 代々木公園PREMIUM(プレミアム)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69899900000007,
+          35.687988000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "lat" : 35.687987999999997,
+        "lon" : 139.69899899999999,
+        "name" : "CREBIQ(クレビック) 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69940400000007,
+          35.686179000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "lat" : 35.686179000000003,
+        "lon" : 139.69940399999999,
+        "name" : "ジェクサー・フィットネス&スパ 新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6968435,
+          35.686044000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "lat" : 35.686044000000003,
+        "lon" : 139.6968435,
+        "name" : "和術慧舟會HEARTS"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69990800000005,
+          35.682021000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "lat" : 35.682020999999999,
+        "lon" : 139.69990799999999,
+        "name" : "Big-Oneパーソナルトレーニングジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70203200000003,
+          35.680770000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "lat" : 35.680770000000003,
+        "lon" : 139.702032,
+        "name" : "パーソナルトレーニングジムメクスター代々木店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70490300000006,
+          35.652420000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "lat" : 35.652419999999999,
+        "lon" : 139.704903,
+        "name" : "Dスタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70295450000003,
+          35.648280000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "lat" : 35.64828,
+        "lon" : 139.7029545,
+        "name" : "JOYFITプラス代官山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70295450000003,
+          35.648280000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "lat" : 35.64828,
+        "lon" : 139.7029545,
+        "name" : "スポーツクラブJOYFIT 代官山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70395800000006,
+          35.649153000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "lat" : 35.649152999999998,
+        "lon" : 139.703958,
+        "name" : "代官山スポーツプラザ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70775150000009,
+          35.682444000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "lat" : 35.682443999999997,
+        "lon" : 139.7077515,
+        "name" : "パーソナルトレーニングジムREAL WORKOUT(リアルワークアウト) 千駄ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70756700000004,
+          35.680977000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "lat" : 35.680976999999999,
+        "lon" : 139.70756700000001,
+        "name" : "ZEROGYM SENDAGAYA(ゼロジム センダガヤ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70334150000008,
+          35.681526000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "lat" : 35.681525999999998,
+        "lon" : 139.70334149999999,
+        "name" : "クライミングジムRec's代々木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7054700000001,
+          35.674488000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "lat" : 35.674487999999997,
+        "lon" : 139.70546999999999,
+        "name" : "完全プライベートパーソナルジム808 TOKYO(トウキョウ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71256200000005,
+          35.679735000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "lat" : 35.679735000000001,
+        "lon" : 139.71256199999999,
+        "name" : "東京体育館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72977000000003,
+          35.667405000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "lat" : 35.667405000000002,
+        "lon" : 139.72977,
+        "name" : "nature body house(ネイチャーボディハウス) 六本木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72820400000001,
+          35.666640000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "lat" : 35.666640000000001,
+        "lon" : 139.72820400000001,
+        "name" : "ジョイフィット24乃木坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72676850000005,
+          35.670978000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "lat" : 35.670977999999998,
+        "lon" : 139.72676849999999,
+        "name" : "エスフォルタ赤坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73039100000005,
+          35.670375000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "lat" : 35.670375,
+        "lon" : 139.730391,
+        "name" : "フィットネスジムレフォルム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73471100000006,
+          35.670114000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "lat" : 35.670113999999998,
+        "lon" : 139.734711,
+        "name" : "SIXPAD STATION(シックスパッド ステーション) 赤坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73772600000007,
+          35.669763000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "lat" : 35.669763000000003,
+        "lon" : 139.73772600000001,
+        "name" : "氷川武道場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73587650000002,
+          35.672085000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "lat" : 35.672085000000003,
+        "lon" : 139.73587649999999,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 赤坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73587650000002,
+          35.672085000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "lat" : 35.672085000000003,
+        "lon" : 139.73587649999999,
+        "name" : "FEELCYCLE Akasaka(フィールサイクル赤坂)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73586299999999,
+          35.672067000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "lat" : 35.672066999999998,
+        "lon" : 139.73586299999999,
+        "name" : "XBODYLab赤坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73184900000001,
+          35.674659000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "lat" : 35.674658999999998,
+        "lon" : 139.73184900000001,
+        "name" : "健康増進センター(ヘルシーナ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7371455,
+          35.673498000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "lat" : 35.673498000000002,
+        "lon" : 139.7371455,
+        "name" : "JOYFIT24(ジョイフィット24) 赤坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73798700000009,
+          35.671599000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "lat" : 35.671599000000001,
+        "lon" : 139.737987,
+        "name" : "トライエクス赤坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74088950000009,
+          35.67078900000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "lat" : 35.670788999999999,
+        "lon" : 139.74088950000001,
+        "name" : "ロングブレススタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67657550000001,
+          35.719767000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "lat" : 35.719766999999997,
+        "lon" : 139.67657550000001,
+        "name" : "新宿区立 西落合公園少年野球場・庭球場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72291200000006,
+          35.658909000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "lat" : 35.658909000000001,
+        "lon" : 139.72291200000001,
+        "name" : "TAKEITEASY"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72659750000003,
+          35.660259000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "lat" : 35.660259000000003,
+        "lon" : 139.7265975,
+        "name" : "24/7Workout 六本木店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72630050000009,
+          35.660142000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "lat" : 35.660142,
+        "lon" : 139.72630050000001,
+        "name" : "トレーニングジムメクスター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.723794,
+          35.659458000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "lat" : 35.659458000000001,
+        "lon" : 139.723794,
+        "name" : "ライザップ 西麻布店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.726044,
+          35.662149000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "lat" : 35.662148999999999,
+        "lon" : 139.726044,
+        "name" : "パーソナルトレーニングジムファーストボディ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71552300000008,
+          35.712063000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "lat" : 35.712063000000001,
+        "lon" : 139.71552299999999,
+        "name" : "新宿区立 甘泉園公園庭球場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71104100000002,
+          35.711019000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "lat" : 35.711019,
+        "lon" : 139.71104099999999,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 早稲田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72118850000004,
+          35.711523000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "lat" : 35.711523,
+        "lon" : 139.72118850000001,
+        "name" : "ワセダオートテニスプラザ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69229400000006,
+          35.696835000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "lat" : 35.696835,
+        "lon" : 139.692294,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 西新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6945035,
+          35.696277000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "lat" : 35.696277000000002,
+        "lon" : 139.6945035,
+        "name" : "B-FIT (ビーフィット)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6945035,
+          35.696277000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "lat" : 35.696277000000002,
+        "lon" : 139.6945035,
+        "name" : "B-FITSHINJUKU"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69813500000009,
+          35.694099000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "lat" : 35.694099000000001,
+        "lon" : 139.69813500000001,
+        "name" : "Shapes(シェイプス)新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69773450000002,
+          35.697798000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "lat" : 35.697797999999999,
+        "lon" : 139.6977345,
+        "name" : "インパクト"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69807650000007,
+          35.697798000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "lat" : 35.697797999999999,
+        "lon" : 139.69807650000001,
+        "name" : "エスカラード・クライミングジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69917000000009,
+          35.69430600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "lat" : 35.694305999999997,
+        "lon" : 139.69917000000001,
+        "name" : "ティップ.クロス TOKYO(トーキョー) 新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69784700000002,
+          35.696313000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "lat" : 35.696313000000004,
+        "lon" : 139.697847,
+        "name" : "ライザップ 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68723150000005,
+          35.690247000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "lat" : 35.690246999999999,
+        "lon" : 139.6872315,
+        "name" : "フォルツァサイクル&ランナーズステーション"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68686250000007,
+          35.690769000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "lat" : 35.690769000000003,
+        "lon" : 139.68686249999999,
+        "name" : "加圧トレーニングONE’s"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6907685000001,
+          35.685504000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "lat" : 35.685504000000002,
+        "lon" : 139.69076849999999,
+        "name" : "CLUB ON THE PARK(クラブオンザパーク)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69552050000004,
+          35.69170500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "lat" : 35.691704999999999,
+        "lon" : 139.69552049999999,
+        "name" : "ZEROGYM SHINJUKU(ゼロジム シンジュク)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75296300000002,
+          35.664867000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "lat" : 35.664867000000001,
+        "lon" : 139.75296299999999,
+        "name" : "Tウォール新橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73801400000002,
+          35.706051000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "lat" : 35.706051000000002,
+        "lon" : 139.73801399999999,
+        "name" : "コネクト(Co-Nect)神楽坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68081000000006,
+          35.669583000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "lat" : 35.669583000000003,
+        "lon" : 139.68081000000001,
+        "name" : "ゴールドジム代々木上原店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68087750000007,
+          35.675775000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "lat" : 35.675775000000002,
+        "lon" : 139.68087750000001,
+        "name" : "渋谷区スポーツセンター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77306450000003,
+          35.64942300000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "lat" : 35.649422999999999,
+        "lon" : 139.7730645,
+        "name" : "晴海運動場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77306450000003,
+          35.64942300000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "lat" : 35.649422999999999,
+        "lon" : 139.7730645,
+        "name" : "中央区立晴海運動場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78634850000003,
+          35.659125000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "lat" : 35.659125000000003,
+        "lon" : 139.7863485,
+        "name" : "月島運動場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.699746,
+          35.667279000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "lat" : 35.667279000000001,
+        "lon" : 139.699746,
+        "name" : "国立代々木競技場フットサルコート"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69484550000004,
+          35.666307000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "lat" : 35.666307000000003,
+        "lon" : 139.69484550000001,
+        "name" : "財団法人東京都公園協会代々木公園陸上競技場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69705410000006,
+          35.666336530000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "lat" : 35.666336530000002,
+        "lon" : 139.6970541,
+        "name" : "織田フィールド"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70055150000007,
+          35.662689000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "lat" : 35.662689,
+        "lon" : 139.70055149999999,
+        "name" : "T4 TOKTO(ティーフォー東京)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70055150000007,
+          35.662689000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "lat" : 35.662689,
+        "lon" : 139.70055149999999,
+        "name" : "タクティブ渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70135700000003,
+          35.66629800000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "lat" : 35.666297999999998,
+        "lon" : 139.701357,
+        "name" : "岸記念体育館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6996785,
+          35.66250000000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "lat" : 35.662500000000001,
+        "lon" : 139.6996785,
+        "name" : "勤労福祉会館卓球場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77457200000003,
+          35.692992000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "lat" : 35.692991999999997,
+        "lon" : 139.77457200000001,
+        "name" : "24/7Workout 秋葉原・神田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7738925000001,
+          35.699256000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "lat" : 35.699255999999998,
+        "lon" : 139.77389249999999,
+        "name" : "jump one Akihabara(ジャンプワン秋葉原)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77148050000005,
+          35.695971000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "lat" : 35.695971,
+        "lon" : 139.7714805,
+        "name" : "PHOENIXキックボクシング&ムエタイジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7714400000001,
+          35.696070000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "lat" : 35.696069999999999,
+        "lon" : 139.77144000000001,
+        "name" : "パーソナルトレーニングジムREAL WORKOUT(リアルワークアウト) 秋葉原・神田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75796700000001,
+          35.695422000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "lat" : 35.695422000000001,
+        "lon" : 139.75796700000001,
+        "name" : "ジョイフィット24神保町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7570760000001,
+          35.698518000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "lat" : 35.698518,
+        "lon" : 139.75707600000001,
+        "name" : "ハイテクスポーツ塾"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7570760000001,
+          35.698518000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "lat" : 35.698518,
+        "lon" : 139.75707600000001,
+        "name" : "ハイテクタウン"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75747200000001,
+          35.698671000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "lat" : 35.698670999999997,
+        "lon" : 139.75747200000001,
+        "name" : "加圧リハビット"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76014050000003,
+          35.696691000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "lat" : 35.696691000000001,
+        "lon" : 139.76014050000001,
+        "name" : "BoogieWonderFitnessClub."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.764321,
+          35.694612000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "lat" : 35.694611999999999,
+        "lon" : 139.764321,
+        "name" : "ヒワラニ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76516250000009,
+          35.698761000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "lat" : 35.698760999999998,
+        "lon" : 139.7651625,
+        "name" : "Dr.stretch お茶の水店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76282250000008,
+          35.697879000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "lat" : 35.697879,
+        "lon" : 139.7628225,
+        "name" : "YWCAフィットネスワオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69129050000004,
+          35.657811000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "lat" : 35.657811000000002,
+        "lon" : 139.69129050000001,
+        "name" : "コナミスポーツクラブ渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70236950000003,
+          35.663256000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "lat" : 35.663255999999997,
+        "lon" : 139.7023695,
+        "name" : "PEKID’S"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70437650000008,
+          35.668638000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "lat" : 35.668638000000001,
+        "lon" : 139.7043765,
+        "name" : "ゴールドジム・原宿東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70163600000001,
+          35.66281500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "lat" : 35.662815000000002,
+        "lon" : 139.70163600000001,
+        "name" : "宮下公園フットサル場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70886300000006,
+          35.66272500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "lat" : 35.662725000000002,
+        "lon" : 139.70886300000001,
+        "name" : "GRANCISE(グランサイズ) 青山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70623500000011,
+          35.66593800000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "lat" : 35.665937999999997,
+        "lon" : 139.70623499999999,
+        "name" : "lululemon Harajuku(ルルレモン ハラジュク)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70635650000008,
+          35.669448000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "lat" : 35.669448000000003,
+        "lon" : 139.7063565,
+        "name" : "B.I.F BY NERGY 原宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71059100000002,
+          35.666910000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "lat" : 35.666910000000001,
+        "lon" : 139.71059099999999,
+        "name" : "K YOGA Studio"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70862,
+          35.669241000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "lat" : 35.669241,
+        "lon" : 139.70862,
+        "name" : "SPORTS・SCIENCE・LAB"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.709655,
+          35.668872000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "lat" : 35.668872,
+        "lon" : 139.709655,
+        "name" : "カラダ・知る・ジム BODY TIPS(ボディティップス)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71096,
+          35.666910000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "lat" : 35.666910000000001,
+        "lon" : 139.71096,
+        "name" : "ゴールドジム・表参道東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70887650000009,
+          35.668044000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "lat" : 35.668044000000002,
+        "lon" : 139.7088765,
+        "name" : "プライベートジムベレッツァ表参道店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70916900000009,
+          35.670114000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "lat" : 35.670113999999998,
+        "lon" : 139.709169,
+        "name" : "エバ クオーレ ボディ本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71023100000002,
+          35.672310000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "lat" : 35.672310000000003,
+        "lon" : 139.71023099999999,
+        "name" : "ライザップ 神宮前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70626200000004,
+          35.671590000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "lat" : 35.671590000000002,
+        "lon" : 139.70626200000001,
+        "name" : "GOLDS GYM(ゴールドジム)原宿ANNEX"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73600700000009,
+          35.703288000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "lat" : 35.703288000000001,
+        "lon" : 139.736007,
+        "name" : "ジョイフィット24神楽坂駅前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73836950000009,
+          35.701992000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "lat" : 35.701991999999997,
+        "lon" : 139.7383695,
+        "name" : "エニタイムフィットネス 神楽坂駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73922900000002,
+          35.702649000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "lat" : 35.702649000000001,
+        "lon" : 139.73922899999999,
+        "name" : "文武一道塾 志道館 本社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7400255,
+          35.701812000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "lat" : 35.701811999999997,
+        "lon" : 139.7400255,
+        "name" : "ジョイン(Joyn)Beauty&Conditioning"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74220800000001,
+          35.700840000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "lat" : 35.700839999999999,
+        "lon" : 139.74220800000001,
+        "name" : "帝拳ボクシングジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77341100000001,
+          35.672877000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "lat" : 35.672877,
+        "lon" : 139.77341100000001,
+        "name" : "PREMIUM LIFE FITNESS(プレミアムライフフィットネス) 新富町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78125900000009,
+          35.676099000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "lat" : 35.676099000000001,
+        "lon" : 139.78125900000001,
+        "name" : "登處 八丁堀 (ボルダリングジム)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78125900000009,
+          35.676099000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "lat" : 35.676099000000001,
+        "lon" : 139.78125900000001,
+        "name" : "登處八丁堀"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78224450000005,
+          35.677233000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "lat" : 35.677233000000001,
+        "lon" : 139.78224449999999,
+        "name" : "I Relaxtion room & Fitness Studio GO-ON(アイ リラクゼーション ルーム アンド フィットネス スタジオ ゴーオン)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74177600000007,
+          35.704683000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "lat" : 35.704683000000003,
+        "lon" : 139.74177599999999,
+        "name" : "HoneyTrap"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71233700000005,
+          35.700831000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "lat" : 35.700831000000001,
+        "lon" : 139.71233699999999,
+        "name" : "新宿ここ・から広場多目的運動広場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70878200000004,
+          35.696682000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "lat" : 35.696682000000003,
+        "lon" : 139.70878200000001,
+        "name" : "TIPNESS(ティップネス) 東新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70821050000006,
+          35.695197000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "lat" : 35.695197,
+        "lon" : 139.70821050000001,
+        "name" : "ライザップ 新宿三丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70705400000008,
+          35.694108000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "lat" : 35.694108,
+        "lon" : 139.707054,
+        "name" : "24/7Workout 新宿東口店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70527650000008,
+          35.692929000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "lat" : 35.692928999999999,
+        "lon" : 139.7052765,
+        "name" : "b-monster(ビーモンスター) 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70367900000008,
+          35.689428000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "lat" : 35.689427999999999,
+        "lon" : 139.70367899999999,
+        "name" : "CARDIO BARRE(カーディオ バー) 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70311200000003,
+          35.688807000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "lat" : 35.688806999999997,
+        "lon" : 139.703112,
+        "name" : "FIRSTSHIP(ファーストシップ)新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70289600000001,
+          35.688384000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "lat" : 35.688383999999999,
+        "lon" : 139.70289600000001,
+        "name" : "ボクシングクラブ新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70309850000001,
+          35.691300000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "lat" : 35.691299999999998,
+        "lon" : 139.70309850000001,
+        "name" : "Evolv Shinjuku Studio(エボルブ シンジュク スタジオ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70300850000001,
+          35.689959000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "lat" : 35.689959000000002,
+        "lon" : 139.70300850000001,
+        "name" : "FEELCYCLE Shinjuku(フィールサイクル新宿)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70309850000001,
+          35.691300000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "lat" : 35.691299999999998,
+        "lon" : 139.70309850000001,
+        "name" : "GINZA de FUTSAL ビックロ新宿スタジアム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7018025000001,
+          35.69118300000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "lat" : 35.691183000000002,
+        "lon" : 139.70180250000001,
+        "name" : "jump one Shinjuku.East(ジャンプワン新宿)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70390850000001,
+          35.691075000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "lat" : 35.691074999999998,
+        "lon" : 139.70390850000001,
+        "name" : "Studio BOWSPRING SHINJUKU(スタジオ ボウスプリング シンジュク) 新宿マルイ本館店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70652749999999,
+          35.69188500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "lat" : 35.691884999999999,
+        "lon" : 139.70652749999999,
+        "name" : "エクササイズコーチ新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70652749999999,
+          35.69188500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "lat" : 35.691884999999999,
+        "lon" : 139.70652749999999,
+        "name" : "セイプス 新宿東口店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71159,
+          35.688150000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "lat" : 35.68815,
+        "lon" : 139.71159,
+        "name" : "MONKEYGYM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71166650000009,
+          35.688978000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "lat" : 35.688977999999999,
+        "lon" : 139.71166650000001,
+        "name" : "クライミングスクール&ジム J&S(ジェイアンドエス) 新宿店 (ボルダリングジム)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75469550000003,
+          35.662374000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "lat" : 35.662374,
+        "lon" : 139.7546955,
+        "name" : "VivaStudio"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.754727,
+          35.667270000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "lat" : 35.667270000000002,
+        "lon" : 139.754727,
+        "name" : "新橋フィットネススタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75989300000003,
+          35.667675000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "lat" : 35.667675000000003,
+        "lon" : 139.75989300000001,
+        "name" : "24/7 Workout 新橋・銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71923100000004,
+          35.682507000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "lat" : 35.682507000000001,
+        "lon" : 139.71923100000001,
+        "name" : "ジョイフィット24信濃町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68587250000007,
+          35.713764000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "lat" : 35.713763999999998,
+        "lon" : 139.68587249999999,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 新宿中井店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68920250000008,
+          35.713521000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "lat" : 35.713521,
+        "lon" : 139.68920249999999,
+        "name" : "Bouldering Gym LAUGH (ボルダリングジム ラフ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6851795,
+          35.710641000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "lat" : 35.710641000000003,
+        "lon" : 139.6851795,
+        "name" : "Curves(カーブス) 新宿落合店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69351800000004,
+          35.713989000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 246,
+        "lat" : 35.713988999999998,
+        "lon" : 139.69351800000001,
+        "name" : "新宿区立 落合中央公園野球場・庭球場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69439550000004,
+          35.659593000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 247,
+        "lat" : 35.659593000000001,
+        "lon" : 139.69439550000001,
+        "name" : "Globalfitness"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77811350000002,
+          35.659215000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 248,
+        "lat" : 35.659215000000003,
+        "lon" : 139.77811349999999,
+        "name" : "ライラプス東京北星ジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77662400000008,
+          35.661429000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 249,
+        "lat" : 35.661428999999998,
+        "lon" : 139.776624,
+        "name" : "スポーツクラブNAS 勝どき"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68747000000008,
+          35.674560000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 250,
+        "lat" : 35.67456,
+        "lon" : 139.68746999999999,
+        "name" : "カーブス代々木八幡"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68816300000003,
+          35.681976000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 251,
+        "lat" : 35.681975999999999,
+        "lon" : 139.688163,
+        "name" : "フィットネスジムミッドブレス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70966850000002,
+          35.659107000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 252,
+        "lat" : 35.659106999999999,
+        "lon" : 139.70966849999999,
+        "name" : "青山学院大学青山キャンパス 青山学院記念館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70850300000006,
+          35.660907000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 253,
+        "lat" : 35.660907000000002,
+        "lon" : 139.70850300000001,
+        "name" : "ダナエビューティースタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7038500000001,
+          35.660016000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 254,
+        "lat" : 35.660015999999999,
+        "lon" : 139.70384999999999,
+        "name" : "Reborn Myself(リボーンマイセルフ) 渋谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70484450000004,
+          35.660718000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 255,
+        "lat" : 35.660718000000003,
+        "lon" : 139.70484450000001,
+        "name" : "SSS渋谷 本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70262600000001,
+          35.662023000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 256,
+        "lat" : 35.662022999999998,
+        "lon" : 139.70262600000001,
+        "name" : "ゴールドジム 渋谷東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70539350000001,
+          35.661024000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 257,
+        "lat" : 35.661023999999998,
+        "lon" : 139.70539350000001,
+        "name" : "スクランブル渋谷ジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70326950000003,
+          35.662113000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 258,
+        "lat" : 35.662112999999998,
+        "lon" : 139.7032695,
+        "name" : "美竹公園 ジョーダンコート"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72221000000002,
+          35.692866000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 259,
+        "lat" : 35.692866000000002,
+        "lon" : 139.72220999999999,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 曙橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72222800000009,
+          35.692182000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 260,
+        "lat" : 35.692182000000003,
+        "lon" : 139.722228,
+        "name" : "BETA CLIMBING GYM(ベータクライミングジム)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72126950000006,
+          35.691993000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 261,
+        "lat" : 35.691992999999997,
+        "lon" : 139.72126950000001,
+        "name" : "カーブス新宿曙橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7142315000001,
+          35.699139000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 262,
+        "lat" : 35.699139000000002,
+        "lon" : 139.71423150000001,
+        "name" : "合気道学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74535350000008,
+          35.658657000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 263,
+        "lat" : 35.658656999999998,
+        "lon" : 139.74535349999999,
+        "name" : "ランナーズサロン LOVESPO TOKYO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74776550000001,
+          35.655354000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 264,
+        "lat" : 35.655354000000003,
+        "lon" : 139.74776550000001,
+        "name" : "芝公園 野球場兼競技場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74530850000008,
+          35.661312000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 265,
+        "lat" : 35.661312000000002,
+        "lon" : 139.74530849999999,
+        "name" : "芝給水所公園運動場多目的運動広場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75063650000004,
+          35.654571000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 266,
+        "lat" : 35.654570999999997,
+        "lon" : 139.75063650000001,
+        "name" : "アクアフィールド芝公園(芝公園多目的運動場)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7471445000001,
+          35.637057000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 267,
+        "lat" : 35.637056999999999,
+        "lon" : 139.74714449999999,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 芝浦店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.752162,
+          35.639730000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 268,
+        "lat" : 35.63973,
+        "lon" : 139.752162,
+        "name" : "CLUB芝浦アイランド"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74887250000006,
+          35.643519000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 269,
+        "lat" : 35.643518999999998,
+        "lon" : 139.7488725,
+        "name" : "プラスケア"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74977699999999,
+          35.642799000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 270,
+        "lat" : 35.642798999999997,
+        "lon" : 139.74977699999999,
+        "name" : "加圧スタジオB&B田町スタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7569410000001,
+          35.649981000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 271,
+        "lat" : 35.649980999999997,
+        "lon" : 139.75694100000001,
+        "name" : "ゼロイン"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75164000000007,
+          35.646615000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 272,
+        "lat" : 35.646614999999997,
+        "lon" : 139.75164000000001,
+        "name" : "港区スポーツセンター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7459295000001,
+          35.650062000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 273,
+        "lat" : 35.650061999999998,
+        "lon" : 139.74592949999999,
+        "name" : "THE・FITNESS芝"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7465145000001,
+          35.648235000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 274,
+        "lat" : 35.648235,
+        "lon" : 139.74651449999999,
+        "name" : "デイフィット田町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74746400000004,
+          35.647416000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 275,
+        "lat" : 35.647416,
+        "lon" : 139.74746400000001,
+        "name" : "パーソナルトレーニングジムREAL WORKOUT(リアルワークアウト) 三田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74531300000001,
+          35.650026000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 276,
+        "lat" : 35.650025999999997,
+        "lon" : 139.74531300000001,
+        "name" : "ファイティングラボ田町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74567300000001,
+          35.647092000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 277,
+        "lat" : 35.647092000000001,
+        "lon" : 139.74567300000001,
+        "name" : "ルネサンス田町・三田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7459295000001,
+          35.650062000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 278,
+        "lat" : 35.650061999999998,
+        "lon" : 139.74592949999999,
+        "name" : "日本ホリスティックコンディショニング協会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75217100000009,
+          35.652762000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 279,
+        "lat" : 35.652762000000003,
+        "lon" : 139.752171,
+        "name" : "エニタイムフィットネス 芝浜松町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72592250000002,
+          35.696538000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 280,
+        "lat" : 35.696537999999997,
+        "lon" : 139.7259225,
+        "name" : "ベルファ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73296500000004,
+          35.691210000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 281,
+        "lat" : 35.691209999999998,
+        "lon" : 139.73296500000001,
+        "name" : "エスフォルタ市ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72962150000001,
+          35.695728000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 282,
+        "lat" : 35.695728000000003,
+        "lon" : 139.72962150000001,
+        "name" : "DIS(ディス)市谷スポーツクラブ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71534300000008,
+          35.688636000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 283,
+        "lat" : 35.688636000000002,
+        "lon" : 139.71534299999999,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 新宿御苑前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71530700000005,
+          35.689428000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 284,
+        "lat" : 35.689427999999999,
+        "lon" : 139.715307,
+        "name" : "TOTALGOLFFITNESS"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7186640000001,
+          35.687466000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 285,
+        "lat" : 35.687466000000001,
+        "lon" : 139.71866399999999,
+        "name" : "APEX climbing gym(エイペックス クライミング ジム)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72160700000006,
+          35.687592000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 286,
+        "lat" : 35.687592000000002,
+        "lon" : 139.72160700000001,
+        "name" : "KODLAB fitness boxing(コドラボ フィットネス ボクシング)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7248965,
+          35.687700000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 287,
+        "lat" : 35.6877,
+        "lon" : 139.7248965,
+        "name" : "コスモス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72884940000006,
+          35.686699390000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 288,
+        "lat" : 35.686699390000001,
+        "lon" : 139.7288494,
+        "name" : "ジェクサー・フィットネスクラブ 四谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74500250000006,
+          35.689392000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 289,
+        "lat" : 35.689391999999998,
+        "lon" : 139.7450025,
+        "name" : "セントラルスポーツジム24h三番町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74138450000009,
+          35.640441000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 290,
+        "lat" : 35.640441000000003,
+        "lon" : 139.74138450000001,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 泉岳寺駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433195000001,
+          35.654598000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 291,
+        "lat" : 35.654598,
+        "lon" : 139.74331950000001,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 三田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74102450000009,
+          35.654769000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 292,
+        "lat" : 35.654769000000002,
+        "lon" : 139.74102450000001,
+        "name" : "B-FIT・AZABU"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75230600000009,
+          35.700732000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 293,
+        "lat" : 35.700732000000002,
+        "lon" : 139.752306,
+        "name" : "キックボクシングFANGジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66555950000009,
+          35.674209000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 294,
+        "lat" : 35.674208999999998,
+        "lon" : 139.6655595,
+        "name" : "AGNIYOGA(アグニヨガ) 笹塚スタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66873650000002,
+          35.675136000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 295,
+        "lat" : 35.675136000000002,
+        "lon" : 139.66873649999999,
+        "name" : "FASTGYM24(ファストジム トゥエンティフォー) 笹塚店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66351650000001,
+          35.67303000000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 296,
+        "lat" : 35.673029999999997,
+        "lon" : 139.66351649999999,
+        "name" : "GOLD'S GYM(ゴールドジム) 笹塚東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6669905,
+          35.674002000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 297,
+        "lat" : 35.674002000000002,
+        "lon" : 139.6669905,
+        "name" : "PLAYLON(プレロン)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66692750000004,
+          35.673174000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 298,
+        "lat" : 35.673174000000003,
+        "lon" : 139.66692750000001,
+        "name" : "スターフィット笹塚店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66861950000009,
+          35.672571000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 299,
+        "lat" : 35.672570999999998,
+        "lon" : 139.66861950000001,
+        "name" : "パーソナルトレーニングジムREAL WORKOUT(リアルワークアウト) 笹塚店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67118450000009,
+          35.675010000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 300,
+        "lat" : 35.67501,
+        "lon" : 139.67118450000001,
+        "name" : "笹塚高架下施設"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 301,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66950150000002,
+          35.674452000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 301,
+        "lat" : 35.674452000000002,
+        "lon" : 139.6695015,
+        "name" : "笹塚高架下施設体育室"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 302,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70281050000006,
+          35.65479600000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 302,
+        "lat" : 35.654795999999997,
+        "lon" : 139.7028105,
+        "name" : "NOBOROCK(ノボロック) 渋谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 303,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7009025000001,
+          35.655237000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 303,
+        "lat" : 35.655237,
+        "lon" : 139.70090250000001,
+        "name" : "エスフォルタ渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 304,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73667750000004,
+          35.684622000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 304,
+        "lat" : 35.684621999999997,
+        "lon" : 139.73667750000001,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 麹町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 305,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7375955,
+          35.683695000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 305,
+        "lat" : 35.683695,
+        "lon" : 139.7375955,
+        "name" : "Magma spastudio insea 麹町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 306,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74340050000001,
+          35.683425000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 306,
+        "lat" : 35.683425,
+        "lon" : 139.74340050000001,
+        "name" : "JOGLIS"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 307,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73736150000002,
+          35.625879000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 307,
+        "lat" : 35.625878999999998,
+        "lon" : 139.73736149999999,
+        "name" : "24/7 Workout 品川店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 308,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73677200000009,
+          35.626347000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 308,
+        "lat" : 35.626347000000003,
+        "lon" : 139.736772,
+        "name" : "GO’sGYM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 309,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73789250000004,
+          35.631963000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 309,
+        "lat" : 35.631962999999999,
+        "lon" : 139.73789249999999,
+        "name" : "ライザップ 品川店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 310,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73751000000004,
+          35.641035000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 310,
+        "lat" : 35.641035000000002,
+        "lon" : 139.73750999999999,
+        "name" : "FITLABOx4(フィットラボ クロスフォー) 白金高輪店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 311,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73326200000008,
+          35.637165000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 311,
+        "lat" : 35.637165000000003,
+        "lon" : 139.733262,
+        "name" : "カーブス高輪"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 312,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70248200000003,
+          35.713305000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 312,
+        "lat" : 35.713304999999998,
+        "lon" : 139.702482,
+        "name" : "Energy climbing gym(エナジークライミングジム) 高田馬場店 (ボルダリングジム)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 313,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69825200000002,
+          35.711190000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 313,
+        "lat" : 35.711190000000002,
+        "lon" : 139.698252,
+        "name" : "シチズンプラザ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 314,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69825200000002,
+          35.711190000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 314,
+        "lat" : 35.711190000000002,
+        "lon" : 139.698252,
+        "name" : "シチズンプラザ ボウリング場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 315,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70275650000008,
+          35.713881000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 315,
+        "lat" : 35.713881000000001,
+        "lon" : 139.70275649999999,
+        "name" : "ファイティングラボ高田馬場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 316,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70721600000002,
+          35.712954000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 316,
+        "lat" : 35.712954000000003,
+        "lon" : 139.70721599999999,
+        "name" : "青木ボクシングジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 317,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7090925,
+          35.709318000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 317,
+        "lat" : 35.709318000000003,
+        "lon" : 139.7090925,
+        "name" : "JOYFIT24(ジョイフィット24) 西早稲田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 318,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70430450000003,
+          35.712612000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 318,
+        "lat" : 35.712612,
+        "lon" : 139.70430450000001,
+        "name" : "西武フィットネスクラブ BIGBOX高田馬場店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 319,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75860360000001,
+          35.680499140000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 319,
+        "lat" : 35.680499140000002,
+        "lon" : 139.75860359999999,
+        "name" : "パレスサイクリングコース"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 320,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75650450000001,
+          35.627364000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 320,
+        "lat" : 35.627364,
+        "lon" : 139.75650450000001,
+        "name" : "ロッキーボルダリングクラブ 品川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 321,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74804450000011,
+          35.630964000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 321,
+        "lat" : 35.630963999999999,
+        "lon" : 139.74804449999999,
+        "name" : "ベイリズム品川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 322,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75067250000006,
+          35.62669800000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 322,
+        "lat" : 35.626697999999998,
+        "lon" : 139.75067250000001,
+        "name" : "文武一道塾 志道館 港南道場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 323,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7431620000001,
+          35.632638000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 323,
+        "lat" : 35.632638,
+        "lon" : 139.74316200000001,
+        "name" : "RUN CUBE(ラン キューブ) 品川シーズンテラス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 324,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74668100000008,
+          35.634096000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 324,
+        "lat" : 35.634096,
+        "lon" : 139.746681,
+        "name" : "芝浦中央公園運動場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 325,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74668100000008,
+          35.634096000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 325,
+        "lat" : 35.634096,
+        "lon" : 139.746681,
+        "name" : "芝浦中央公園運動場フットサル場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 326,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72282200000006,
+          35.64933300000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 326,
+        "lat" : 35.649332999999999,
+        "lon" : 139.72282200000001,
+        "name" : "FITNESS CLUB HIROO(フィットネス クラブ ヒロオ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 327,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72152600000004,
+          35.650296000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 327,
+        "lat" : 35.650295999999997,
+        "lon" : 139.72152600000001,
+        "name" : "カルペリエム広尾"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 328,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72213350000004,
+          35.649990000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 328,
+        "lat" : 35.649990000000003,
+        "lon" : 139.72213350000001,
+        "name" : "広尾倶楽部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 329,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72049550000008,
+          35.654670000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 329,
+        "lat" : 35.654670000000003,
+        "lon" : 139.7204955,
+        "name" : "フィットネスクラブ広尾 ガーデンヒルズスタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 330,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71305700000005,
+          35.648784000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 330,
+        "lat" : 35.648783999999999,
+        "lon" : 139.71305699999999,
+        "name" : "R-bodyproject"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 331,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71281850000003,
+          35.65048500000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 331,
+        "lat" : 35.650485000000003,
+        "lon" : 139.7128185,
+        "name" : "コナミスポーツクラブ恵比寿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 332,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73530049999999,
+          35.690166000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 332,
+        "lat" : 35.690165999999998,
+        "lon" : 139.73530049999999,
+        "name" : "JOYFIT24市ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 333,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73580000000004,
+          35.69003100000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 333,
+        "lat" : 35.690030999999998,
+        "lon" : 139.73580000000001,
+        "name" : "メガロス市ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 334,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74311250000005,
+          35.664750000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 334,
+        "lat" : 35.664749999999998,
+        "lon" : 139.7431125,
+        "name" : "The Premier Club(ザ プリミア クラブ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 335,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74605550000001,
+          35.664543000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 335,
+        "lat" : 35.664543000000002,
+        "lon" : 139.74605550000001,
+        "name" : "フィジオセンター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 336,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74545250000006,
+          35.667036000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 336,
+        "lat" : 35.667036000000003,
+        "lon" : 139.7454525,
+        "name" : "オークラヘルスクラブ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 337,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70915550000007,
+          35.706609000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 337,
+        "lat" : 35.706609,
+        "lon" : 139.70915550000001,
+        "name" : "元気館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 338,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71424950000005,
+          35.705223000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 338,
+        "lat" : 35.705222999999997,
+        "lon" : 139.71424949999999,
+        "name" : "戸山多目的運動広場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 339,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73404950000008,
+          35.655075000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 339,
+        "lat" : 35.655074999999997,
+        "lon" : 139.7340495,
+        "name" : "D-MAXSTUDIO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 340,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68379350000009,
+          35.670465000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 340,
+        "lat" : 35.670465,
+        "lon" : 139.68379350000001,
+        "name" : "Olaピラティススタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 341,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68456300000003,
+          35.670987000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 341,
+        "lat" : 35.670986999999997,
+        "lon" : 139.684563,
+        "name" : "パーソナルトレーニングジムREAL WORKOUT(リアルワークアウト) 代々木上原店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 342,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78303200000005,
+          35.66514600000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 342,
+        "lat" : 35.665146,
+        "lon" : 139.78303199999999,
+        "name" : "月島スポーツプラザ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 343,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70657700000004,
+          35.645895000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 343,
+        "lat" : 35.645895000000003,
+        "lon" : 139.70657700000001,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 恵比寿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 344,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70480400000008,
+          35.646264000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 344,
+        "lat" : 35.646264000000002,
+        "lon" : 139.704804,
+        "name" : "K-1 ジム代官山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 345,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70516850000001,
+          35.646003000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 345,
+        "lat" : 35.646003,
+        "lon" : 139.70516850000001,
+        "name" : "K-1ジム恵比寿小比類巻道場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 346,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70934900000009,
+          35.643420000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 346,
+        "lat" : 35.643419999999999,
+        "lon" : 139.709349,
+        "name" : "24/7Workout 恵比寿・目黒店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 347,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70753550000006,
+          35.645472000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 347,
+        "lat" : 35.645471999999998,
+        "lon" : 139.70753550000001,
+        "name" : "BALI STONE HOT YOGA STUDIO ALLURE CONZE店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 348,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70737350000002,
+          35.645418000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 348,
+        "lat" : 35.645417999999999,
+        "lon" : 139.70737349999999,
+        "name" : "パーソナルトレーニングジムREAL WORKOUT(リアルワークアウト) 恵比寿西口店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 349,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70841300000006,
+          35.644608000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 349,
+        "lat" : 35.644607999999998,
+        "lon" : 139.70841300000001,
+        "name" : "メガロス恵比寿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 350,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70753550000006,
+          35.645472000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 350,
+        "lat" : 35.645471999999998,
+        "lon" : 139.70753550000001,
+        "name" : "ライザップ 恵比寿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 351,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7089575,
+          35.646759000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 351,
+        "lat" : 35.646759000000003,
+        "lon" : 139.7089575,
+        "name" : "HOT STEP(ホットステップ)恵比寿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 352,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.707945,
+          35.646111000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 352,
+        "lat" : 35.646110999999998,
+        "lon" : 139.707945,
+        "name" : "シルバージム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 353,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70827800000006,
+          35.648181000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 353,
+        "lat" : 35.648181000000001,
+        "lon" : 139.70827800000001,
+        "name" : "b-monster(ビーモンスター)恵比寿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 354,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70610900000008,
+          35.648478000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 354,
+        "lat" : 35.648477999999997,
+        "lon" : 139.706109,
+        "name" : "BMRedaikanyama"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 355,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70246850000001,
+          35.647047000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 355,
+        "lat" : 35.647047000000001,
+        "lon" : 139.70246850000001,
+        "name" : "EXFIGHT(エクスファイト)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 356,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71346200000005,
+          35.642097000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 356,
+        "lat" : 35.642097,
+        "lon" : 139.71346199999999,
+        "name" : "GRANCISE YEBISU GARDEN(グランサイズ恵比寿ガーデン)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 357,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71261150000009,
+          35.645436000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 357,
+        "lat" : 35.645435999999997,
+        "lon" : 139.71261150000001,
+        "name" : "THECLUB22"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 358,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7144565000001,
+          35.645616000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 358,
+        "lat" : 35.645615999999997,
+        "lon" : 139.71445650000001,
+        "name" : "パーソナルトレーニングジムREAL WORKOUT(リアルワークアウト) 恵比寿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 359,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71589200000005,
+          35.643996000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 359,
+        "lat" : 35.643996000000001,
+        "lon" : 139.715892,
+        "name" : "Magma spastudio insea(マグマ スパスタジオ インシー)恵比寿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 360,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71006900000009,
+          35.647434000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 360,
+        "lat" : 35.647433999999997,
+        "lon" : 139.710069,
+        "name" : "OASIS RAFEEL(オアシス ラフィール) 恵比寿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 361,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71586950000005,
+          35.646237000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 361,
+        "lat" : 35.646236999999999,
+        "lon" : 139.7158695,
+        "name" : "バンゲリングベイ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 362,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7656935,
+          35.667018000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 362,
+        "lat" : 35.667017999999999,
+        "lon" : 139.7656935,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 東銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 363,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76340300000004,
+          35.668620000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 363,
+        "lat" : 35.668619999999997,
+        "lon" : 139.76340300000001,
+        "name" : "HOT STEP(ホットステップ)銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 364,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76426700000002,
+          35.667783000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 364,
+        "lat" : 35.667783,
+        "lon" : 139.76426699999999,
+        "name" : "ライザップ 汐留店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 365,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76394300000004,
+          35.669736000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 365,
+        "lat" : 35.669736,
+        "lon" : 139.76394300000001,
+        "name" : "BEAUTY TERRACE GINZA -DRESS CIRCLE-(ビューティーテラス ギンザ ドレスサークル) GINZA SIX店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 366,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76488800000004,
+          35.668872000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 366,
+        "lat" : 35.668872,
+        "lon" : 139.76488800000001,
+        "name" : "ハートワン 銀座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 367,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76463150000006,
+          35.670177000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 367,
+        "lat" : 35.670177000000002,
+        "lon" : 139.76463150000001,
+        "name" : "FEELCYCLE Ginza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 368,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76350650000006,
+          35.670897000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 368,
+        "lat" : 35.670896999999997,
+        "lon" : 139.76350650000001,
+        "name" : "FEELCYCLE Ginza 5th(フィールサイクル 銀座フィフス)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 369,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76281349999999,
+          35.67135600000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 369,
+        "lat" : 35.671356000000003,
+        "lon" : 139.76281349999999,
+        "name" : "Luxool(ラグール)銀座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 370,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76302050000004,
+          35.671662000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 370,
+        "lat" : 35.671661999999998,
+        "lon" : 139.76302050000001,
+        "name" : "スクリーン ヨガ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 371,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76707500000009,
+          35.670627000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 371,
+        "lat" : 35.670627000000003,
+        "lon" : 139.76707500000001,
+        "name" : "EXPA(エクスパ) 銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 372,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76512650000006,
+          35.67241800000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 372,
+        "lat" : 35.672418,
+        "lon" : 139.76512650000001,
+        "name" : "PLAYGROUND(プレイグラウンド) 銀座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 373,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76878500000009,
+          35.669061000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 373,
+        "lat" : 35.669060999999999,
+        "lon" : 139.76878500000001,
+        "name" : "RDC GYM(アールディーシージム)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 374,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7674935,
+          35.669538000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 374,
+        "lat" : 35.669538000000003,
+        "lon" : 139.7674935,
+        "name" : "アスリーダーズ銀座本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 375,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76330849999999,
+          35.67294000000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 375,
+        "lat" : 35.672939999999997,
+        "lon" : 139.76330849999999,
+        "name" : "エクササイズコーチ 銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 376,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76473950000002,
+          35.672607000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 376,
+        "lat" : 35.672606999999999,
+        "lon" : 139.76473949999999,
+        "name" : "ミットネス 銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 377,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76399250000009,
+          35.672625000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 377,
+        "lat" : 35.672624999999996,
+        "lon" : 139.7639925,
+        "name" : "美健LABO フィットネス館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 378,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76852400000007,
+          35.670798000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 378,
+        "lat" : 35.670797999999998,
+        "lon" : 139.76852400000001,
+        "name" : "Shapes(シェイプス) 銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 379,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7651535,
+          35.673732000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 379,
+        "lat" : 35.673732000000001,
+        "lon" : 139.7651535,
+        "name" : "The 銀座 de フットサル マロニゲート銀座2屋上"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 380,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76542800000004,
+          35.672607000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 380,
+        "lat" : 35.672606999999999,
+        "lon" : 139.76542800000001,
+        "name" : "ゴールドジム銀座中央"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 381,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76817750000009,
+          35.671887000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 381,
+        "lat" : 35.671886999999998,
+        "lon" : 139.76817750000001,
+        "name" : "ヨガ教室ノア 銀座校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 382,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76815950000002,
+          35.672625000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 382,
+        "lat" : 35.672624999999996,
+        "lon" : 139.7681595,
+        "name" : "APFCLUB 銀座 (エーピーエフクラブ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 383,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76772750000009,
+          35.672544000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 383,
+        "lat" : 35.672544000000002,
+        "lon" : 139.76772750000001,
+        "name" : "B-MONSTER GINZA STUDIO(ビーモンスター 銀座スタジオ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 384,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76866800000005,
+          35.672085000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 384,
+        "lat" : 35.672085000000003,
+        "lon" : 139.76866799999999,
+        "name" : "FiNC Fit(フィンクフィット) 銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 385,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7672235,
+          35.673597000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 385,
+        "lat" : 35.673597000000001,
+        "lon" : 139.7672235,
+        "name" : "サーフフィットスタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 386,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7689785,
+          35.672139000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 386,
+        "lat" : 35.672139000000001,
+        "lon" : 139.7689785,
+        "name" : "ライザップ 銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 387,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76860950000003,
+          35.674254000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 387,
+        "lat" : 35.674253999999998,
+        "lon" : 139.7686095,
+        "name" : "Face Lift Lesson(フェイス レフト レッスン) スタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 388,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.767876,
+          35.674776000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 388,
+        "lat" : 35.674776000000001,
+        "lon" : 139.767876,
+        "name" : "jump one Ginza.1 (ジャンプワン 銀座)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 389,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76775000000009,
+          35.675208000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 389,
+        "lat" : 35.675207999999998,
+        "lon" : 139.76775000000001,
+        "name" : "ゴールドジム銀座東京店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 390,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76795250000009,
+          35.675154000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 390,
+        "lat" : 35.675153999999999,
+        "lon" : 139.76795250000001,
+        "name" : "ワウディーTOKYO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 391,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73691600000006,
+          35.67955500000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 391,
+        "lat" : 35.679555000000001,
+        "lon" : 139.73691600000001,
+        "name" : "SPA & FITNESS KIOI(スパ アンド フィットネス キオイ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 392,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73202000000003,
+          35.683362000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 392,
+        "lat" : 35.683362000000002,
+        "lon" : 139.73202000000001,
+        "name" : "上智大学真田堀運動場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 393,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77696150000008,
+          35.691696000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 393,
+        "lat" : 35.691696,
+        "lon" : 139.7769615,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 千代田岩本町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 394,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73645700000009,
+          35.700984000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 394,
+        "lat" : 35.700983999999998,
+        "lon" : 139.736457,
+        "name" : "カーブス神楽坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 395,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 395,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "Bodies running+丸の内"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 396,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76136450000001,
+          35.677845000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 396,
+        "lat" : 35.677844999999998,
+        "lon" : 139.76136450000001,
+        "name" : "セントラルスポーツジム&ラン丸の内二重橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 397,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76301599999999,
+          35.67876300000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 397,
+        "lat" : 35.678762999999996,
+        "lon" : 139.76301599999999,
+        "name" : "TIPNESS MARUNOUCHI STYLE(ティップネスマルノウチスタイル)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 398,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76424900000006,
+          35.68271400000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 398,
+        "lat" : 35.682713999999997,
+        "lon" : 139.76424900000001,
+        "name" : "MARUNOUCHI Bike&Run(マルノウチ バイクアンドラン)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 399,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77013950000003,
+          35.682813000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 399,
+        "lat" : 35.682813000000003,
+        "lon" : 139.7701395,
+        "name" : "THE JEXER TOKYO Annex(ジェクサートウキョウアネックス)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 400,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77152100000001,
+          35.703477000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 400,
+        "lat" : 35.703476999999999,
+        "lon" : 139.77152100000001,
+        "name" : "ヨガ教室ノア 秋葉原校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 401,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76896950000003,
+          35.700219000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 401,
+        "lat" : 35.700218999999997,
+        "lon" : 139.7689695,
+        "name" : "エニタイムフィットネス 秋葉原店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 402,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7586285000001,
+          35.645238000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 402,
+        "lat" : 35.645237999999999,
+        "lon" : 139.75862849999999,
+        "name" : "フットサルポイント芝浦"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 403,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75885800000003,
+          35.63815500000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 403,
+        "lat" : 35.638154999999998,
+        "lon" : 139.758858,
+        "name" : "港区立芝浦南ふ頭公園運動広場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 404,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75885800000003,
+          35.63815500000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 404,
+        "lat" : 35.638154999999998,
+        "lon" : 139.758858,
+        "name" : "芝浦南ふ頭公園運動広場(かいがんぱ-く)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 405,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75854750000008,
+          35.657010000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 405,
+        "lat" : 35.65701,
+        "lon" : 139.75854749999999,
+        "name" : "GOLD'S GYM(ゴールドジム) 浜松町東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 406,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71489750000001,
+          35.680275000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 406,
+        "lat" : 35.680275000000002,
+        "lon" : 139.71489750000001,
+        "name" : "神宮外苑フットサルクラブ千駄ヶ谷コート"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 407,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71793500000001,
+          35.675973000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 407,
+        "lat" : 35.675972999999999,
+        "lon" : 139.71793500000001,
+        "name" : "神宮球場 室内球技場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 408,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71325940000008,
+          35.67501451000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 408,
+        "lat" : 35.675014509999997,
+        "lon" : 139.7132594,
+        "name" : "明治神宮外苑"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 409,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71757500000001,
+          35.677413000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 409,
+        "lat" : 35.677413000000001,
+        "lon" : 139.71757500000001,
+        "name" : "明治神宮外苑 打撃練習場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 410,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70098800000005,
+          35.696628000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 410,
+        "lat" : 35.696627999999997,
+        "lon" : 139.700988,
+        "name" : "東急スポーツオアシス 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 411,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7041875000001,
+          35.693145000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 411,
+        "lat" : 35.693145000000001,
+        "lon" : 139.70418749999999,
+        "name" : "RIZAP WOMAN(ライザップ ウーマン) 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 412,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69592550000004,
+          35.722053000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 412,
+        "lat" : 35.722053000000002,
+        "lon" : 139.69592549999999,
+        "name" : "ジョイフィット24目白"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 413,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74377850000008,
+          35.702946000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 413,
+        "lat" : 35.702945999999997,
+        "lon" : 139.74377849999999,
+        "name" : "エニタイムフィットネスセンター飯田橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 414,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75795800000003,
+          35.700705000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 414,
+        "lat" : 35.700704999999999,
+        "lon" : 139.757958,
+        "name" : "エスフォルタ水道橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 415,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70167650000008,
+          35.651070000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 415,
+        "lat" : 35.651069999999997,
+        "lon" : 139.70167649999999,
+        "name" : "猿楽トレーニングジム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 416,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70231100000001,
+          35.651871000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 416,
+        "lat" : 35.651871,
+        "lon" : 139.70231100000001,
+        "name" : "東京プロポーションラボ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 417,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6955385,
+          35.657478000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 417,
+        "lat" : 35.657477999999998,
+        "lon" : 139.6955385,
+        "name" : "TOTAL Workout SHIBUYA (トータルワークアウト 渋谷)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 418,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7286405000001,
+          35.704539000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 418,
+        "lat" : 35.704538999999997,
+        "lon" : 139.72864050000001,
+        "name" : "ANYTIME FITNESS(エニタイムフィットネス) 神楽坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 419,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73877000000005,
+          35.675658000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 419,
+        "lat" : 35.675657999999999,
+        "lon" : 139.73876999999999,
+        "name" : "WOW’D赤坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 420,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73877000000005,
+          35.675658000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 420,
+        "lat" : 35.675657999999999,
+        "lon" : 139.73876999999999,
+        "name" : "スポーツクラブNAS 赤坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 421,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69956150000007,
+          35.661438000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 421,
+        "lat" : 35.661437999999997,
+        "lon" : 139.69956149999999,
+        "name" : "CREBIQ(クレビック) 渋谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 422,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69959300000005,
+          35.659800000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 422,
+        "lat" : 35.659799999999997,
+        "lon" : 139.69959299999999,
+        "name" : "CYCLE&STUDIO R Shibuya(サイクルスタジオアールシブヤ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 423,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6998225000001,
+          35.660781000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 423,
+        "lat" : 35.660781,
+        "lon" : 139.69982250000001,
+        "name" : "FEEL CYCLE(フィール サイクル) 渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 424,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69894500000009,
+          35.662032000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 424,
+        "lat" : 35.662032000000004,
+        "lon" : 139.69894500000001,
+        "name" : "jump one(ジャンプ ワン)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 425,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69667700000002,
+          35.66184300000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 425,
+        "lat" : 35.661842999999998,
+        "lon" : 139.69667699999999,
+        "name" : "MITTNESS渋谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 426,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69680300000005,
+          35.660898000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 426,
+        "lat" : 35.660898000000003,
+        "lon" : 139.69680299999999,
+        "name" : "TARGET SHIBUYA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 427,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69872000000009,
+          35.66250000000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 427,
+        "lat" : 35.662500000000001,
+        "lon" : 139.69872000000001,
+        "name" : "エクササイズコーチ 渋谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 428,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69921500000009,
+          35.661411000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 428,
+        "lat" : 35.661411000000001,
+        "lon" : 139.69921500000001,
+        "name" : "ティップ.クロス TOKYO(トーキョー) 渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 429,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7572110000001,
+          35.691129000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 429,
+        "lat" : 35.691128999999997,
+        "lon" : 139.75721100000001,
+        "name" : "Run Pit by au Smart Sports(ランピット バイ エーユー スマート スポーツ)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 430,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74919199999999,
+          35.664201000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 430,
+        "lat" : 35.664200999999998,
+        "lon" : 139.74919199999999,
+        "name" : "愛宕弓道場"
+      }
+    }
+  ]
+}

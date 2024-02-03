@@ -1,0 +1,7468 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73143500000003,
+          35.663589000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.663589000000002,
+        "lon" : 139.731435,
+        "name" : "ｎｉｃｏｆａｒｒｅ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7272365,
+          35.66383200000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.663831999999999,
+        "lon" : 139.7272365,
+        "name" : "政策研究大学院大学　想海樓ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7321955000001,
+          35.662518000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.662517999999999,
+        "lon" : 139.73219549999999,
+        "name" : "JAZZ RESTAURANT SATIN DOLL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73013450000008,
+          35.661339000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.661338999999998,
+        "lon" : 139.73013449999999,
+        "name" : "六本木ヒルズ　ハリウッドビューティプラザ〔ハリウッドホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72926150000001,
+          35.660430000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.660429999999998,
+        "lon" : 139.72926150000001,
+        "name" : "【野外】六本木ヒルズアリーナ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73324850000006,
+          35.65934100000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.659340999999998,
+        "lon" : 139.7332485,
+        "name" : "Zeppブルーシアター六本木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7334555000001,
+          35.658441000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.658441000000003,
+        "lon" : 139.73345549999999,
+        "name" : "国際文化会館 岩崎小彌太記念ホール〔岩崎小彌太記念ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73508450000008,
+          35.660682000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.660682000000001,
+        "lon" : 139.7350845,
+        "name" : "港区立麻布区民センター〔区民ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.737258,
+          35.661213000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.661212999999996,
+        "lon" : 139.737258,
+        "name" : "六本木ＶＡＲＩＴ．"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73697000000004,
+          35.660943000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.660943000000003,
+        "lon" : 139.73697000000001,
+        "name" : "六本木ＣＬＵＢ ＥＤＧＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7332755000001,
+          35.662077000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.662076999999996,
+        "lon" : 139.73327549999999,
+        "name" : "六本木ケントス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73355450000008,
+          35.661969000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.661968999999999,
+        "lon" : 139.7335545,
+        "name" : "六本木ＢＡＵＨＡＵＳ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73460750000004,
+          35.661960000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.661960000000001,
+        "lon" : 139.73460750000001,
+        "name" : "V2TOKYO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73152500000003,
+          35.664237000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.664237,
+        "lon" : 139.731525,
+        "name" : "ｍｏｒｐｈ－ｔｏｋｙｏ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73192100000006,
+          35.664138000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.664138000000001,
+        "lon" : 139.731921,
+        "name" : "ＡＢＢＥＹ ＲＯＡＤ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73251950000008,
+          35.663760000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.663760000000003,
+        "lon" : 139.7325195,
+        "name" : "俳優座劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73401350000006,
+          35.663112000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.663111999999998,
+        "lon" : 139.7340135,
+        "name" : "ＢＩＲＤＬＡＮＤ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73638950000009,
+          35.662050000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.662050000000001,
+        "lon" : 139.7363895,
+        "name" : "六本木クラップス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73538600000006,
+          35.688339000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.688338999999999,
+        "lon" : 139.73538600000001,
+        "name" : "インスティトゥト・セルバンテス東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76356500000009,
+          35.673570000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.673569999999998,
+        "lon" : 139.763565,
+        "name" : "オルタナティブシアター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76356500000009,
+          35.673570000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.673569999999998,
+        "lon" : 139.763565,
+        "name" : "有楽町朝日ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76356500000009,
+          35.673570000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.673569999999998,
+        "lon" : 139.763565,
+        "name" : "ヒューリックホール東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7595060000001,
+          35.674560000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.67456,
+        "lon" : 139.75950599999999,
+        "name" : "松尾ホール〔スタインウェイ・サロン東京　松尾ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75860150000005,
+          35.67325500000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.673254999999997,
+        "lon" : 139.7586015,
+        "name" : "日生劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76292150000006,
+          35.675451000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.675451000000002,
+        "lon" : 139.7629215,
+        "name" : "有楽町よみうりホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75910550000003,
+          35.672949000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.672949000000003,
+        "lon" : 139.7591055,
+        "name" : "東京宝塚劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75963200000001,
+          35.672580000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.672580000000004,
+        "lon" : 139.75963200000001,
+        "name" : "シアタークリエ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73498100000006,
+          35.704323000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.704323000000002,
+        "lon" : 139.734981,
+        "name" : "神楽坂セッションハウス　〔BF1スタジオ〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73498100000006,
+          35.704323000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.704323000000002,
+        "lon" : 139.734981,
+        "name" : "神楽坂セッションハウス　〔２Fギャラリーガーデン〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73238900000001,
+          35.702730000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.702730000000003,
+        "lon" : 139.73238900000001,
+        "name" : "矢来能楽堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68004500000006,
+          35.688321000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.688321000000002,
+        "lon" : 139.68004500000001,
+        "name" : "TOGI BAR"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68065250000006,
+          35.686791000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.686790999999999,
+        "lon" : 139.68065250000001,
+        "name" : "本町区民会館〔大集会場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68600300000003,
+          35.682660000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.682659999999998,
+        "lon" : 139.686003,
+        "name" : "新国立劇場〔オペラ劇場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68600300000003,
+          35.682660000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.682659999999998,
+        "lon" : 139.686003,
+        "name" : "新国立劇場〔中劇場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68600300000003,
+          35.682660000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.682659999999998,
+        "lon" : 139.686003,
+        "name" : "新国立劇場〔小劇場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68551250000007,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.681390999999998,
+        "lon" : 139.68551249999999,
+        "name" : "初台Ｔｈｅ ＤＯＯＲＳ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71713850000003,
+          35.671905000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.671905000000002,
+        "lon" : 139.7171385,
+        "name" : "ＨＥＡＶＥＮ 青山’ＳＲ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69010250000008,
+          35.697006000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.697006000000002,
+        "lon" : 139.69010249999999,
+        "name" : "新宿村LIVE〔新宿村LIVE〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75307100000009,
+          35.691291000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.691291,
+        "lon" : 139.75307100000001,
+        "name" : "科学技術館サイエンスホール〔科学技術館　サイエンスホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69018800000003,
+          35.667333000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.667332999999999,
+        "lon" : 139.69018800000001,
+        "name" : "HAKUJU HALL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70034900000007,
+          35.704719000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.704718999999997,
+        "lon" : 139.70034899999999,
+        "name" : "東京グローブ座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70219850000001,
+          35.701515000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.701515000000001,
+        "lon" : 139.70219850000001,
+        "name" : "新大久保ｕｎｉｑｕｅ ＬＡＢＯＲＡＴＯＲＹ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698711,
+          35.704071000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.704070999999999,
+        "lon" : 139.698711,
+        "name" : "スタジオヴィルトゥオージ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70147400000008,
+          35.701524000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.701523999999999,
+        "lon" : 139.70147399999999,
+        "name" : "ＫＰＬ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69664550000005,
+          35.702343000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.702342999999999,
+        "lon" : 139.69664549999999,
+        "name" : "クラッシックスペース\u2605100"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69944450000003,
+          35.703387000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.703386999999999,
+        "lon" : 139.6994445,
+        "name" : "スペースＤｏ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70118150000008,
+          35.698239000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.698239000000001,
+        "lon" : 139.70118149999999,
+        "name" : "新宿 ネイキッドロフト"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6999350000001,
+          35.700318000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.700318000000003,
+        "lon" : 139.69993500000001,
+        "name" : "新大久保CLUB Voice"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69963800000005,
+          35.700210000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.700209999999998,
+        "lon" : 139.69963799999999,
+        "name" : "Quarter Note"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69760400000007,
+          35.701542000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.701542000000003,
+        "lon" : 139.69760400000001,
+        "name" : "OKUBO ＨＯＴ ＳＨＯＴ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69642500000009,
+          35.700498000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.700498000000003,
+        "lon" : 139.696425,
+        "name" : "石森管楽器"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70093400000007,
+          35.701272000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.701272000000003,
+        "lon" : 139.70093399999999,
+        "name" : "Ｌｉｖｅ Ｂａｒ Ｂｌｕｅ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74868350000008,
+          35.699076000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.699075999999998,
+        "lon" : 139.7486835,
+        "name" : "飯田橋 スペースウィズ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74336000000005,
+          35.681436000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.681435999999998,
+        "lon" : 139.74336,
+        "name" : "国立劇場〔大劇場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74336000000005,
+          35.681436000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.681435999999998,
+        "lon" : 139.74336,
+        "name" : "国立劇場〔小劇場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74336000000005,
+          35.681436000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.681435999999998,
+        "lon" : 139.74336,
+        "name" : "国立演芸場〔国立演芸場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69674450000002,
+          35.651115000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.651114999999997,
+        "lon" : 139.69674449999999,
+        "name" : "ＬＯＯＰ 代官山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77041400000007,
+          35.680149000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.680149,
+        "lon" : 139.77041399999999,
+        "name" : "東京建物八重洲ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67595000000006,
+          35.679789000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.679789,
+        "lon" : 139.67595,
+        "name" : "幡ヶ谷区民会館〔集会場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67708850000008,
+          35.678007000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.678007000000001,
+        "lon" : 139.6770885,
+        "name" : "フォレストリミット"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7744100000001,
+          35.688195000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.688195,
+        "lon" : 139.77440999999999,
+        "name" : "お江戸日本橋亭"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78701450000005,
+          35.687817000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.687817000000003,
+        "lon" : 139.7870145,
+        "name" : "明治座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78161,
+          35.684685000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.684685000000002,
+        "lon" : 139.78161,
+        "name" : "日本橋社会教育会館〔ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77420300000006,
+          35.686674000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.686673999999996,
+        "lon" : 139.774203,
+        "name" : "日本橋三井ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77349200000003,
+          35.685603000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.685603,
+        "lon" : 139.773492,
+        "name" : "三越劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77936,
+          35.680599000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.680599000000001,
+        "lon" : 139.77936,
+        "name" : "東京証券会館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78426050000007,
+          35.682462000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.682462000000001,
+        "lon" : 139.78426049999999,
+        "name" : "中央区立日本橋公会堂（日本橋劇場）〔ホール（日本橋劇場）〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77109800000005,
+          35.680671000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.680670999999997,
+        "lon" : 139.77109799999999,
+        "name" : "ＨＩＴ ＳＴＵＤＩＯ ＴＯＫＹＯ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75464150000005,
+          35.671941000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.671940999999997,
+        "lon" : 139.75464149999999,
+        "name" : "千代田区立日比谷図書文化館〔日比谷コンベンションホール（大ホール）〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75464150000005,
+          35.671941000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.671940999999997,
+        "lon" : 139.75464149999999,
+        "name" : "千代田区立日比谷図書文化館〔スタジオプラス（小ホール）〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75522599999999,
+          35.672633660000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.672633660000002,
+        "lon" : 139.75522599999999,
+        "name" : "【野外】日比谷公園〔にれの木広場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75522599999999,
+          35.672633660000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.672633660000002,
+        "lon" : 139.75522599999999,
+        "name" : "【野外】日比谷公園〔噴水広場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75522599999999,
+          35.672633660000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.672633660000002,
+        "lon" : 139.75522599999999,
+        "name" : "【野外】日比谷公園〔日比谷小音楽堂〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75401150000005,
+          35.673174000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.673174000000003,
+        "lon" : 139.75401149999999,
+        "name" : "【野外】日比谷野外音楽堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.695021,
+          35.653482000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.653481999999997,
+        "lon" : 139.695021,
+        "name" : "ミュージックサロン エスプリ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71521700000005,
+          35.65929600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.659295999999998,
+        "lon" : 139.715217,
+        "name" : "Ｆｕｔｕｒｅ ＳＥＶＥＮ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71621600000003,
+          35.661168000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.661168000000004,
+        "lon" : 139.716216,
+        "name" : "ブルーノート東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71175200000005,
+          35.663598000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.663598,
+        "lon" : 139.71175199999999,
+        "name" : "Restaurant Bar CAY"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71175200000005,
+          35.663598000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.663598,
+        "lon" : 139.71175199999999,
+        "name" : "スパイラルホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71489300000007,
+          35.663859000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.663859000000002,
+        "lon" : 139.71489299999999,
+        "name" : "銕仙会能楽研修所"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7181465000001,
+          35.667342000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.667341999999998,
+        "lon" : 139.71814649999999,
+        "name" : "青山月見ル君想フ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71710250000001,
+          35.668026000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.668025999999998,
+        "lon" : 139.71710250000001,
+        "name" : "南青山ＭＡＮＤＡＬＡ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71451050000007,
+          35.687520000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.687519999999999,
+        "lon" : 139.71451049999999,
+        "name" : "新宿区立四谷区民ホール〔四谷区民ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75272900000004,
+          35.670942000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.670941999999997,
+        "lon" : 139.75272899999999,
+        "name" : "イイノホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7576835000001,
+          35.66972700000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.669727000000002,
+        "lon" : 139.75768350000001,
+        "name" : "千代田区立内幸町ホール〔ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69645650000007,
+          35.659215000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.659215000000003,
+        "lon" : 139.69645650000001,
+        "name" : "B.Y.G"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69832400000007,
+          35.659413000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.659413000000001,
+        "lon" : 139.69832400000001,
+        "name" : "CBGK　シブゲキ!!"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.695921,
+          35.658693000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.658693,
+        "lon" : 139.695921,
+        "name" : "七面鳥"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69559700000002,
+          35.658729000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.658729000000001,
+        "lon" : 139.69559699999999,
+        "name" : "ｄｕｏ ＭＵＳＩＣ ＥＸＣＨＡＮＧＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69559700000002,
+          35.658729000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.658729000000001,
+        "lon" : 139.69559699999999,
+        "name" : "ＴＳＵＴＡＹＡ Ｏ－ＥＡＳＴ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69559700000002,
+          35.658729000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.658729000000001,
+        "lon" : 139.69559699999999,
+        "name" : "ＴＳＵＴＡＹＡ Ｏ－Ｃｒｅｓｔ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69552950000002,
+          35.65898100000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.658980999999997,
+        "lon" : 139.69552949999999,
+        "name" : "渋谷ＶＵＥＮＯＳ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69552950000002,
+          35.65898100000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.658980999999997,
+        "lon" : 139.69552949999999,
+        "name" : "Shibuya Glad"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69552950000002,
+          35.65898100000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.658980999999997,
+        "lon" : 139.69552949999999,
+        "name" : "LOUNGE NEO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69598400000007,
+          35.659998000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.659998000000002,
+        "lon" : 139.69598400000001,
+        "name" : "渋谷Studio Freedom"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69594800000004,
+          35.660655000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "lat" : 35.660654999999998,
+        "lon" : 139.69594799999999,
+        "name" : "Bunkamura 〔Bunkamuraオーチャードホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69594800000004,
+          35.660655000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "lat" : 35.660654999999998,
+        "lon" : 139.69594799999999,
+        "name" : "Bunkamura 〔Bunkamuraシアターコクーン〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69765800000005,
+          35.659566000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "lat" : 35.659565999999998,
+        "lon" : 139.69765799999999,
+        "name" : "RUBY ROOM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69832400000007,
+          35.659413000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "lat" : 35.659413000000001,
+        "lon" : 139.69832400000001,
+        "name" : "eplus LIVING ROOM CAFE & DINING"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69832400000007,
+          35.659413000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "lat" : 35.659413000000001,
+        "lon" : 139.69832400000001,
+        "name" : "Mt.RAINIER HALL SHIBUYA PLEASURE PLEASURE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69768950000002,
+          35.65730700000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "lat" : 35.657307000000003,
+        "lon" : 139.6976895,
+        "name" : "Stage House 渋谷La.mama〔渋谷La.mama〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69707300000005,
+          35.656866000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "lat" : 35.656866000000001,
+        "lon" : 139.69707299999999,
+        "name" : "ＬＩＶＥ ＳＴＡＧＥ ＧＵＩＬＴＹ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.696911,
+          35.657424000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "lat" : 35.657423999999999,
+        "lon" : 139.696911,
+        "name" : "渋谷ＲＥＸ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78006200000004,
+          35.693442000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "lat" : 35.693441999999997,
+        "lon" : 139.78006199999999,
+        "name" : "LIVE　HOUSE　A　BOMBER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75809300000003,
+          35.661024000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "lat" : 35.661023999999998,
+        "lon" : 139.758093,
+        "name" : "汐留ベヒシュタイン・サロン"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7604060000001,
+          35.666046000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "lat" : 35.666046000000001,
+        "lon" : 139.76040599999999,
+        "name" : "ヤクルトホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7590560000001,
+          35.663310000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "lat" : 35.663310000000003,
+        "lon" : 139.75905599999999,
+        "name" : "日仏文化協会 汐留ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76248500000008,
+          35.664921000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "lat" : 35.664921,
+        "lon" : 139.762485,
+        "name" : "大同生命ミュージカルシアター　電通四季劇場〔海〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70950200000004,
+          35.651349000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "lat" : 35.651349000000003,
+        "lon" : 139.70950199999999,
+        "name" : "恵比寿ＣｒｅＡｔｏ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7105325,
+          35.649135000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "lat" : 35.649135000000001,
+        "lon" : 139.7105325,
+        "name" : "ＬＩＱＵＩＤＲＯＯＭ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7105325,
+          35.649135000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "lat" : 35.649135000000001,
+        "lon" : 139.7105325,
+        "name" : "KATA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7096775,
+          35.649756000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "lat" : 35.649755999999996,
+        "lon" : 139.7096775,
+        "name" : "恵比寿・エコー劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70871900000009,
+          35.65800900000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "lat" : 35.658009,
+        "lon" : 139.708719,
+        "name" : "ベルサール渋谷ファースト〔B1 HALL〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70871900000009,
+          35.65800900000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "lat" : 35.658009,
+        "lon" : 139.708719,
+        "name" : "ベルサール渋谷ファースト〔2F HALL〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70843100000002,
+          35.654607000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "lat" : 35.654606999999999,
+        "lon" : 139.70843099999999,
+        "name" : "CLUB CRAWL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70740499999999,
+          35.654967000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "lat" : 35.654966999999999,
+        "lon" : 139.70740499999999,
+        "name" : "リフレッシュ氷川〔集会室〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70695050000006,
+          35.655462000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "lat" : 35.655462,
+        "lon" : 139.7069505,
+        "name" : "APC 弦楽器工房　ホール　ラトリエ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69341000000009,
+          35.72222400000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "lat" : 35.722223999999997,
+        "lon" : 139.69341,
+        "name" : "シアター風姿花伝"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68862650000005,
+          35.719137000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "lat" : 35.719137000000003,
+        "lon" : 139.6886265,
+        "name" : "音楽サロン パパゲーノ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76657550000004,
+          35.664183000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "lat" : 35.664183000000001,
+        "lon" : 139.76657549999999,
+        "name" : "浜離宮朝日ホール〔音楽ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76657550000004,
+          35.664183000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "lat" : 35.664183000000001,
+        "lon" : 139.76657549999999,
+        "name" : "浜離宮朝日ホール 〔小ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76561700000002,
+          35.662374000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "lat" : 35.662374,
+        "lon" : 139.76561699999999,
+        "name" : "ＢＬＵＥ ＭＯＯＤ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77216900000008,
+          35.666361000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "lat" : 35.666361000000002,
+        "lon" : 139.77216899999999,
+        "name" : "ブディストホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73419800000011,
+          35.700534000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "lat" : 35.700533999999998,
+        "lon" : 139.73419799999999,
+        "name" : "新宿区立牛込箪笥区民ホール〔牛込箪笥区民ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76229150000006,
+          35.688762000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "lat" : 35.688761999999997,
+        "lon" : 139.7622915,
+        "name" : "日経ホール＆カンファレンスルーム〔日経ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.764501,
+          35.687133000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "lat" : 35.687133000000003,
+        "lon" : 139.764501,
+        "name" : "よみうり大手町ホール〔よみうり大手町ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.764501,
+          35.687133000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "lat" : 35.687133000000003,
+        "lon" : 139.764501,
+        "name" : "よみうり大手町ホール〔小ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70254950000003,
+          35.701434000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "lat" : 35.701433999999999,
+        "lon" : 139.7025495,
+        "name" : "新大久保ＥＡＲＴＨＤＯＭ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70811600000002,
+          35.702973000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "lat" : 35.702973,
+        "lon" : 139.70811599999999,
+        "name" : "新宿ＨＥＡＤ ＰＯＷＥＲ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70793150000009,
+          35.701839000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "lat" : 35.701839,
+        "lon" : 139.7079315,
+        "name" : "新宿グラムシュタイン"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70793150000009,
+          35.701839000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "lat" : 35.701839,
+        "lon" : 139.7079315,
+        "name" : "新宿Ｃａｔ’ｓ ｈｏｌｅ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70781450000004,
+          35.701380000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "lat" : 35.70138,
+        "lon" : 139.70781450000001,
+        "name" : "真昼の月・夜の太陽"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7040300000001,
+          35.698536000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "lat" : 35.698535999999997,
+        "lon" : 139.70402999999999,
+        "name" : "代アニＬＩＶＥステーション"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70236950000003,
+          35.698302000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "lat" : 35.698301999999998,
+        "lon" : 139.7023695,
+        "name" : "ＳＨＯＷＢＯＸ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7047050000001,
+          35.700390000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "lat" : 35.700389999999999,
+        "lon" : 139.70470499999999,
+        "name" : "Ｒ’ｓアートコート"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77706499999999,
+          35.629965000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "lat" : 35.629964999999999,
+        "lon" : 139.77706499999999,
+        "name" : "台場区民センター〔区民ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69328400000006,
+          35.675883000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "lat" : 35.675882999999999,
+        "lon" : 139.69328400000001,
+        "name" : "国立オリンピック記念青少年総合センタ－〔カルチャー棟　大ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69328400000006,
+          35.675883000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "lat" : 35.675882999999999,
+        "lon" : 139.69328400000001,
+        "name" : "国立オリンピック記念青少年総合センタ－〔カルチャー棟　小ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69173600000011,
+          35.671788000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "lat" : 35.671787999999999,
+        "lon" : 139.69173599999999,
+        "name" : "【野外】代々木公園　野外ステージ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68941400000006,
+          35.671905000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "lat" : 35.671905000000002,
+        "lon" : 139.689414,
+        "name" : "YCC 代々木八幡コミュニティセンター〔ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68963900000006,
+          35.680959000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "lat" : 35.680959000000001,
+        "lon" : 139.689639,
+        "name" : "代々木能舞台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69160100000011,
+          35.678142000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "lat" : 35.678142000000001,
+        "lon" : 139.69160099999999,
+        "name" : "参宮橋 ＴＲＡＮＣＥ ＭＩＳＳＩＯＮ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69341900000006,
+          35.682687000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "lat" : 35.682687000000001,
+        "lon" : 139.69341900000001,
+        "name" : "代々木の森 リブロホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69735650000007,
+          35.686998000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "lat" : 35.686998000000003,
+        "lon" : 139.69735650000001,
+        "name" : "全労済ホール〔スペース・ゼロ〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69747800000005,
+          35.686737000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "lat" : 35.686737000000001,
+        "lon" : 139.69747799999999,
+        "name" : "プーク人形劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69748250000009,
+          35.686134000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "lat" : 35.686134000000003,
+        "lon" : 139.69748250000001,
+        "name" : "女性と政治センター 〔多目的ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7017575000001,
+          35.682228000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "lat" : 35.682228000000002,
+        "lon" : 139.70175750000001,
+        "name" : "Ｚｈｅｒ ｔｈｅ ＺＯＯ ＹＯＹＯＧＩ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70232900000008,
+          35.681472000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "lat" : 35.681471999999999,
+        "lon" : 139.70232899999999,
+        "name" : "ＬＩＶＥ ｌａｂｏ代々木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69950300000005,
+          35.682678000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "lat" : 35.682678000000003,
+        "lon" : 139.69950299999999,
+        "name" : "代々木Ｂａｒｂａｒａ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69996200000003,
+          35.684217000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "lat" : 35.684216999999997,
+        "lon" : 139.699962,
+        "name" : "山野ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70035800000005,
+          35.684622000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "lat" : 35.684621999999997,
+        "lon" : 139.70035799999999,
+        "name" : "アトリエ・ムジカ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70223450000003,
+          35.648082000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "lat" : 35.648082000000002,
+        "lon" : 139.7022345,
+        "name" : "晴れたら空に豆まいて"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72253850000004,
+          35.705862000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "lat" : 35.705862000000003,
+        "lon" : 139.72253850000001,
+        "name" : "Space 早稲田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72253850000004,
+          35.705862000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "lat" : 35.705862000000003,
+        "lon" : 139.72253850000001,
+        "name" : "早稲田RiNen"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70253600000001,
+          35.685936000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "lat" : 35.685935999999998,
+        "lon" : 139.70253600000001,
+        "name" : "紀伊國屋サザンシアターＴＡＫＡＳＨＩＭＡＹＡ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70123100000001,
+          35.688654000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "lat" : 35.688654,
+        "lon" : 139.70123100000001,
+        "name" : "LUMINE 0〔ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70123100000001,
+          35.688654000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "lat" : 35.688654,
+        "lon" : 139.70123100000001,
+        "name" : "LUMINE 0〔スタジオ1〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70123100000001,
+          35.688654000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "lat" : 35.688654,
+        "lon" : 139.70123100000001,
+        "name" : "LUMINE 0〔スタジオ2〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7082375,
+          35.68043700000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "lat" : 35.680436999999998,
+        "lon" : 139.7082375,
+        "name" : "国立能楽堂〔能舞台〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7082375,
+          35.68043700000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "lat" : 35.680436999999998,
+        "lon" : 139.7082375,
+        "name" : "国立能楽堂〔研修能舞台〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70498850000001,
+          35.681004000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "lat" : 35.681004000000001,
+        "lon" : 139.70498850000001,
+        "name" : "ＳＹＤホール〔SYDホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70396700000003,
+          35.679348000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "lat" : 35.679347999999997,
+        "lon" : 139.70396700000001,
+        "name" : "北参道ストロボカフェ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72777200000007,
+          35.667774000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "lat" : 35.667774000000001,
+        "lon" : 139.72777199999999,
+        "name" : "BAR COREDO〔EVENT SPACE COREDO〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7302830000001,
+          35.666460000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "lat" : 35.666460000000001,
+        "lon" : 139.73028299999999,
+        "name" : "Ｂｉｌｌｂｏａｒｄ－ＬＩＶＥ東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7293155000001,
+          35.674083000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "lat" : 35.674083000000003,
+        "lon" : 139.72931550000001,
+        "name" : "草月会館〔草月ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73009400000001,
+          35.673093000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "lat" : 35.673093000000001,
+        "lon" : 139.73009400000001,
+        "name" : "ドイツ文化会館 ＯＡＧホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73755950000009,
+          35.67038400000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "lat" : 35.670383999999999,
+        "lon" : 139.7375595,
+        "name" : "赤坂ジャズライブスポットＢ－ｆｌａｔ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73529600000006,
+          35.672535000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "lat" : 35.672535000000003,
+        "lon" : 139.73529600000001,
+        "name" : "マイナビBLITZ赤坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73529600000006,
+          35.672535000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "lat" : 35.672535000000003,
+        "lon" : 139.73529600000001,
+        "name" : "TBS赤坂ACTシアター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73184900000001,
+          35.674659000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "lat" : 35.674658999999998,
+        "lon" : 139.73184900000001,
+        "name" : "赤坂区民センター〔区民ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73708700000009,
+          35.675595000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "lat" : 35.675595000000001,
+        "lon" : 139.737087,
+        "name" : "赤坂RED/THEATER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73756850000007,
+          35.674551000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "lat" : 35.674551000000001,
+        "lon" : 139.73756850000001,
+        "name" : "ＣＲＡＷＦＩＳＨ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73627700000009,
+          35.675091000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "lat" : 35.675091000000002,
+        "lon" : 139.736277,
+        "name" : "ノヴェンバー・イレブンス１１１１ Ｐａｒｔ２"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.737888,
+          35.672877000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "lat" : 35.672877,
+        "lon" : 139.737888,
+        "name" : "赤坂ＣＬＵＢ ＴＥＮＪＩＫＵ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74088500000005,
+          35.666955000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "lat" : 35.666955000000002,
+        "lon" : 139.74088499999999,
+        "name" : "サントリーホール〔ブルーローズ（小ホール）〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74088500000005,
+          35.666955000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "lat" : 35.666955000000002,
+        "lon" : 139.74088499999999,
+        "name" : "サントリーホール〔大ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72733550000009,
+          35.661456000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "lat" : 35.661456000000001,
+        "lon" : 139.72733550000001,
+        "name" : "ＥＸ ＴＨＥＡＴＥＲ ＲＯＰＰＯＮＧＩ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71160800000007,
+          35.711379000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "lat" : 35.711379000000001,
+        "lon" : 139.71160800000001,
+        "name" : "西早稲田BLAH BLAH BLAH"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7107125,
+          35.711685000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "lat" : 35.711685000000003,
+        "lon" : 139.7107125,
+        "name" : "高田馬場ＲＡＢＩＮＥＳＴ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71681450000005,
+          35.70774300000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "lat" : 35.707743000000001,
+        "lon" : 139.7168145,
+        "name" : "早稲田奉仕園〔スコットホール・講堂〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71681450000005,
+          35.70774300000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "lat" : 35.707743000000001,
+        "lon" : 139.7168145,
+        "name" : "早稲田奉仕園〔リバティホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71633300000008,
+          35.707986000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "lat" : 35.707985999999998,
+        "lon" : 139.71633299999999,
+        "name" : "Tokyo Concerts Lab."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71784950000006,
+          35.710776000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "lat" : 35.710776000000003,
+        "lon" : 139.7178495,
+        "name" : "早稲田大学　井深記念ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69237500000008,
+          35.694801000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "lat" : 35.694800999999998,
+        "lon" : 139.692375,
+        "name" : "ムラマツホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69660950000002,
+          35.694666000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "lat" : 35.694665999999998,
+        "lon" : 139.69660949999999,
+        "name" : "ライブハウス新宿21世紀"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.695066,
+          35.69435100000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "lat" : 35.694350999999997,
+        "lon" : 139.695066,
+        "name" : "関交協ハーモニックホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69314450000002,
+          35.693082000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "lat" : 35.693081999999997,
+        "lon" : 139.69314449999999,
+        "name" : "新宿ＲｅＮＹ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68909000000008,
+          35.686206000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "lat" : 35.686205999999999,
+        "lon" : 139.68908999999999,
+        "name" : "新宿区角筈区民ホール〔角筈区民ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68969300000003,
+          35.683902000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "lat" : 35.683902000000003,
+        "lon" : 139.68969300000001,
+        "name" : "ＬＩＶＥ ＨＯＵＳＥ ＷＡＬＬ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68675450000001,
+          35.683002000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "lat" : 35.683002000000002,
+        "lon" : 139.68675450000001,
+        "name" : "東京オペラシティ 〔東京オペラシティ　コンサートホール：タケミツ　メモリアル〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68675450000001,
+          35.683002000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "lat" : 35.683002000000002,
+        "lon" : 139.68675450000001,
+        "name" : "近江楽堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68675450000001,
+          35.683002000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "lat" : 35.683002000000002,
+        "lon" : 139.68675450000001,
+        "name" : "東京オペラシティ 〔東京オペラシティ　リサイタルホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69667700000002,
+          35.689797000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "lat" : 35.689796999999999,
+        "lon" : 139.69667699999999,
+        "name" : "ドルチェ楽器　管楽器アヴェニュー東京〔アーティストサロン”Dolce”〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6818045,
+          35.671185000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "lat" : 35.671185000000001,
+        "lon" : 139.6818045,
+        "name" : "ムジカーザ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77332550000006,
+          35.646948000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "lat" : 35.646948000000002,
+        "lon" : 139.7733255,
+        "name" : "晴海客船ターミナルホール〔晴海ターミナルホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7819475,
+          35.65683000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "lat" : 35.656829999999999,
+        "lon" : 139.7819475,
+        "name" : "第一生命ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69611900000007,
+          35.664939000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "lat" : 35.664938999999997,
+        "lon" : 139.69611900000001,
+        "name" : "NHKホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70100150000007,
+          35.663634000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "lat" : 35.663634000000002,
+        "lon" : 139.70100149999999,
+        "name" : "シダックス・カルチャーホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69954800000005,
+          35.663526000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "lat" : 35.663525999999997,
+        "lon" : 139.69954799999999,
+        "name" : "踊心ダンスシアター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69936800000005,
+          35.663751000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "lat" : 35.663750999999998,
+        "lon" : 139.69936799999999,
+        "name" : "ｎａｇｏｍｉｘ渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70047050000005,
+          35.661582000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "lat" : 35.661582000000003,
+        "lon" : 139.70047049999999,
+        "name" : "HMV&BOOKS TOKYO・7Fイベントスペース"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70097900000007,
+          35.660142000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "lat" : 35.660142,
+        "lon" : 139.70097899999999,
+        "name" : "渋谷ＰＬＵＧ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70124450000003,
+          35.664723000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "lat" : 35.664723000000002,
+        "lon" : 139.7012445,
+        "name" : "ＵＮＤＥＲ ＤＥＥＲ ＬＯＵＮＧＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.699386,
+          35.66439900000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "lat" : 35.664399000000003,
+        "lon" : 139.699386,
+        "name" : "Ｓｈｉｂｕｙａ ｅｇｇｍａｎ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77629550000006,
+          35.699778000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "lat" : 35.699778000000002,
+        "lon" : 139.7762955,
+        "name" : "秋葉原地下（旧秋葉原 ROCKET GATE）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77653400000008,
+          35.699157000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "lat" : 35.699157,
+        "lon" : 139.776534,
+        "name" : "ちよだパークサイドプラザ〔多目的ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76712450000002,
+          35.697573000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "lat" : 35.697572999999998,
+        "lon" : 139.76712449999999,
+        "name" : "ＷＡＴＥＲＲＡＳ ＣＯＭＭＯＮ ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76797950000002,
+          35.694756000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "lat" : 35.694755999999998,
+        "lon" : 139.7679795,
+        "name" : "神田THE SHOJIMARU"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76100000000008,
+          35.695035000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "lat" : 35.695034999999997,
+        "lon" : 139.761,
+        "name" : "神保町花月（神保町シアタービル）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76655750000009,
+          35.695305000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "lat" : 35.695304999999998,
+        "lon" : 139.7665575,
+        "name" : "Ｚｉｐｐａｌ Ｈａｌｌ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76583300000004,
+          35.697015000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "lat" : 35.697015,
+        "lon" : 139.76583299999999,
+        "name" : "全電通ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76282250000008,
+          35.697879000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "lat" : 35.697879,
+        "lon" : 139.7628225,
+        "name" : "東京YWCA会館〔カフマンホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.768506,
+          35.693037000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "lat" : 35.693036999999997,
+        "lon" : 139.768506,
+        "name" : "神田さくら館〔多目的ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77646200000004,
+          35.697141000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "lat" : 35.697141000000002,
+        "lon" : 139.77646200000001,
+        "name" : "秋葉原ＣＬＵＢ ＧＯＯＤＭＡＮ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70260350000001,
+          35.66435400000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "lat" : 35.664354000000003,
+        "lon" : 139.70260350000001,
+        "name" : "クロコダイル"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70393550000006,
+          35.668287000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "lat" : 35.668286999999999,
+        "lon" : 139.7039355,
+        "name" : "hall 60"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70992950000004,
+          35.665785000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "lat" : 35.665785,
+        "lon" : 139.70992949999999,
+        "name" : "カワイ表参道〔コンサートサロン　パウゼ〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70352150000008,
+          35.664804000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "lat" : 35.664803999999997,
+        "lon" : 139.70352149999999,
+        "name" : "Ｇａｌａｘｙ － ｇｉｎｇａｋｅｉ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70766600000002,
+          35.664345000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "lat" : 35.664344999999997,
+        "lon" : 139.70766599999999,
+        "name" : "ラパン・エ・アロ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70811600000002,
+          35.663238000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "lat" : 35.663238,
+        "lon" : 139.70811599999999,
+        "name" : "東京ウィメンズプラザ〔ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71099150000009,
+          35.666334000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "lat" : 35.666333999999999,
+        "lon" : 139.71099150000001,
+        "name" : "表参道ＧＲＯＵＮＤ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70881800000006,
+          35.667360000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "lat" : 35.667360000000002,
+        "lon" : 139.70881800000001,
+        "name" : "表参道ヒルズ　スペース オー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70690999999999,
+          35.669142000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "lat" : 35.669142000000001,
+        "lon" : 139.70690999999999,
+        "name" : "Ｍｕｓｉｃ Ｒｅｓｔａｕｒａｎｔ Ｌａ Ｄｏｎｎａ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70663100000002,
+          35.674047000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "lat" : 35.674047000000002,
+        "lon" : 139.70663099999999,
+        "name" : "千駄ヶ谷区民会館〔集会場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7054025000001,
+          35.669088000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "lat" : 35.669088000000002,
+        "lon" : 139.70540249999999,
+        "name" : "ラフォーレミュージアム六本木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70382300000006,
+          35.669601000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "lat" : 35.669601,
+        "lon" : 139.703823,
+        "name" : "原宿クエストホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70449800000006,
+          35.671545000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "lat" : 35.671545000000002,
+        "lon" : 139.704498,
+        "name" : "原宿ストロボカフェ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70428650000008,
+          35.672850000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "lat" : 35.672849999999997,
+        "lon" : 139.70428649999999,
+        "name" : "アコスタディオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70561400000008,
+          35.669646000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "lat" : 35.669646,
+        "lon" : 139.705614,
+        "name" : "Ｔｈｅ Ｓａｄ Ｃａｆｅ ＳＴＵＤＩＯ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73618700000009,
+          35.703684000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "lat" : 35.703684000000003,
+        "lon" : 139.736187,
+        "name" : "音楽の友ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74098400000003,
+          35.700768000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "lat" : 35.700767999999997,
+        "lon" : 139.740984,
+        "name" : "ＴＨＥＧＬＥＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70937150000009,
+          35.695368000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "lat" : 35.695368000000002,
+        "lon" : 139.7093715,
+        "name" : "新宿区立新宿文化センター 〔大ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70937150000009,
+          35.695368000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "lat" : 35.695368000000002,
+        "lon" : 139.7093715,
+        "name" : "新宿区立新宿文化センター 〔小ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70736450000004,
+          35.695728000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "lat" : 35.695728000000003,
+        "lon" : 139.70736450000001,
+        "name" : "Neo LiveHouse 新宿 SACT!"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70713950000004,
+          35.693307000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "lat" : 35.693306999999997,
+        "lon" : 139.70713950000001,
+        "name" : "新宿 SUN FACE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70768850000002,
+          35.692137000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "lat" : 35.692137000000002,
+        "lon" : 139.70768849999999,
+        "name" : "新宿ミノトール２"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70761200000004,
+          35.693568000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "lat" : 35.693567999999999,
+        "lon" : 139.70761200000001,
+        "name" : "新宿 ＬＥＦＫＡＤＡ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71060900000009,
+          35.691813000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "lat" : 35.691813000000003,
+        "lon" : 139.71060900000001,
+        "name" : "Ｌｉｖｅ Ｈｏｕｓｅ ＦＮＶ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7036025000001,
+          35.688510000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "lat" : 35.688510000000001,
+        "lon" : 139.70360249999999,
+        "name" : "新宿ＡＮＴＩＫＮＯＣＫ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70300850000001,
+          35.692254000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "lat" : 35.692253999999998,
+        "lon" : 139.70300850000001,
+        "name" : "紀伊國屋ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70237400000008,
+          35.692326000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "lat" : 35.692326000000001,
+        "lon" : 139.70237399999999,
+        "name" : "新宿ケントス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70299050000006,
+          35.692803000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "lat" : 35.692802999999998,
+        "lon" : 139.7029905,
+        "name" : "新宿角座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70267100000001,
+          35.690805000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "lat" : 35.690804999999997,
+        "lon" : 139.70267100000001,
+        "name" : "dues 新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70374200000003,
+          35.690391000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "lat" : 35.690390999999998,
+        "lon" : 139.70374200000001,
+        "name" : "新宿シアターモリエール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70251800000005,
+          35.689779000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "lat" : 35.689779000000001,
+        "lon" : 139.702518,
+        "name" : "新宿シアターＰＯＯ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7004750000001,
+          35.689653000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 246,
+        "lat" : 35.689653,
+        "lon" : 139.70047500000001,
+        "name" : "ルミネ the よしもと"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70587500000011,
+          35.691156000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 247,
+        "lat" : 35.691155999999999,
+        "lon" : 139.70587499999999,
+        "name" : "新宿末廣亭"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70672550000006,
+          35.690751000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 248,
+        "lat" : 35.690750999999999,
+        "lon" : 139.7067255,
+        "name" : "ＳＰＡＣＥ 雑遊"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70672550000006,
+          35.690751000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 249,
+        "lat" : 35.690750999999999,
+        "lon" : 139.7067255,
+        "name" : "ＳＰＡＣＥ 梟門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70732850000002,
+          35.690562000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 250,
+        "lat" : 35.690562,
+        "lon" : 139.70732849999999,
+        "name" : "新宿ＰＩＴ ＩＮＮ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70732850000002,
+          35.690562000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 251,
+        "lat" : 35.690562,
+        "lon" : 139.70732849999999,
+        "name" : "新宿Ｌｉｖｅ Ｆｒｅａｋ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70798550000006,
+          35.689203000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 252,
+        "lat" : 35.689202999999999,
+        "lon" : 139.70798550000001,
+        "name" : "御苑サウンド"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71289050000007,
+          35.689581000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 253,
+        "lat" : 35.689580999999997,
+        "lon" : 139.71289049999999,
+        "name" : "サンモールスタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71289050000007,
+          35.689581000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 254,
+        "lat" : 35.689580999999997,
+        "lon" : 139.71289049999999,
+        "name" : "シアターサンモール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71254400000009,
+          35.689788000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 255,
+        "lat" : 35.689788,
+        "lon" : 139.71254400000001,
+        "name" : "Gyoen ROSSO 198"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71086550000007,
+          35.691255000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 256,
+        "lat" : 35.691254999999998,
+        "lon" : 139.71086550000001,
+        "name" : "Ｗｉｌｄ Ｓｉｄｅ Ｔｏｋｙｏ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71122100000002,
+          35.691066000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 257,
+        "lat" : 35.691065999999999,
+        "lon" : 139.71122099999999,
+        "name" : "シアターブラッツ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71027150000009,
+          35.691147000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 258,
+        "lat" : 35.691147000000001,
+        "lon" : 139.7102715,
+        "name" : "ＳＯＭＥＤＡＹ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69359450000002,
+          35.716041000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 259,
+        "lat" : 35.716040999999997,
+        "lon" : 139.69359449999999,
+        "name" : "ＴＡＣＣＳ １１７９"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6802295,
+          35.667981000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 260,
+        "lat" : 35.667980999999997,
+        "lon" : 139.6802295,
+        "name" : "古賀政男音楽博物館〔けやきホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69333349999999,
+          35.65911600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 261,
+        "lat" : 35.659115999999997,
+        "lon" : 139.69333349999999,
+        "name" : "タカギクラヴィア 松濤サロン"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6849095,
+          35.67960000000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 262,
+        "lat" : 35.679600000000001,
+        "lon" : 139.6849095,
+        "name" : "初台区民会館〔大集会室〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70919600000002,
+          35.658639000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 263,
+        "lat" : 35.658639000000001,
+        "lon" : 139.70919599999999,
+        "name" : "青山蜂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7032200000001,
+          35.657163000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 264,
+        "lat" : 35.657162999999997,
+        "lon" : 139.70321999999999,
+        "name" : "渋谷ストリーム〔渋谷ストリームホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70799900000009,
+          35.658630000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 265,
+        "lat" : 35.658630000000002,
+        "lon" : 139.707999,
+        "name" : "ＬＡＳＴ ＷＡＬＴＺ ｂｙ ｓｈｉｏｓａｉ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70392650000008,
+          35.65911600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 266,
+        "lat" : 35.659115999999997,
+        "lon" : 139.70392649999999,
+        "name" : "渋谷ヒカリエ ヒカリエホール〔ホールＡ〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70392650000008,
+          35.65911600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 267,
+        "lat" : 35.659115999999997,
+        "lon" : 139.70392649999999,
+        "name" : "東急シアターオーブ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70392650000008,
+          35.65911600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 268,
+        "lat" : 35.659115999999997,
+        "lon" : 139.70392649999999,
+        "name" : "渋谷ヒカリエ ヒカリエホール〔ホールＢ〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70404070000006,
+          35.661810350000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 269,
+        "lat" : 35.661810350000003,
+        "lon" : 139.70404070000001,
+        "name" : "ユーロライブ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70505600000001,
+          35.660673000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 270,
+        "lat" : 35.660673000000003,
+        "lon" : 139.70505600000001,
+        "name" : "ｃｌｕｂ ｂａｒ ＦＡＭＩＬＹ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7049525000001,
+          35.660484000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 271,
+        "lat" : 35.660483999999997,
+        "lon" : 139.70495249999999,
+        "name" : "渋谷 ＨＯＭＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7049525000001,
+          35.660484000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 272,
+        "lat" : 35.660483999999997,
+        "lon" : 139.70495249999999,
+        "name" : "渋谷 ＬＵＳＨ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70462850000001,
+          35.661861000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 273,
+        "lat" : 35.661861000000002,
+        "lon" : 139.70462850000001,
+        "name" : "シニア・いきいきコミュニティ・美竹の丘〔多目的ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70262600000001,
+          35.662023000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 274,
+        "lat" : 35.662022999999998,
+        "lon" : 139.70262600000001,
+        "name" : "東京カルチャーカルチャー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70636100000002,
+          35.662014000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 275,
+        "lat" : 35.662013999999999,
+        "lon" : 139.70636099999999,
+        "name" : "DDD AOYAMA CROSS THEATER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72045500000002,
+          35.692254000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 276,
+        "lat" : 35.692253999999998,
+        "lon" : 139.72045499999999,
+        "name" : "ＢＡＣＫ ＩＮ ＴＯＷＮ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72593600000005,
+          35.682624000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 277,
+        "lat" : 35.682623999999997,
+        "lon" : 139.72593599999999,
+        "name" : "クリエイティブスペース絵本塾ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74546150000003,
+          35.658621000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 278,
+        "lat" : 35.658620999999997,
+        "lon" : 139.7454615,
+        "name" : "東京タワー フットタウン タワーホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7449170000001,
+          35.657775000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 279,
+        "lat" : 35.657775000000001,
+        "lon" : 139.74491699999999,
+        "name" : "Ｓｔａｒ Ｒｉｓｅ Ｔｏｗｅｒ〔STUDIO EARTH〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7449170000001,
+          35.657775000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 280,
+        "lat" : 35.657775000000001,
+        "lon" : 139.74491699999999,
+        "name" : "Ｓｔａｒ Ｒｉｓｅ Ｔｏｗｅｒ〔STUDIO JUPITER〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75134750000007,
+          35.655255000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 281,
+        "lat" : 35.655254999999997,
+        "lon" : 139.75134750000001,
+        "name" : "メルパルクホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74857100000008,
+          35.640531000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 282,
+        "lat" : 35.640531000000003,
+        "lon" : 139.748571,
+        "name" : "芝浦港南区民センター〔区民ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75164000000007,
+          35.646615000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 283,
+        "lat" : 35.646614999999997,
+        "lon" : 139.75164000000001,
+        "name" : "港区立男女平等参画センター　リーブラ〔リーブラホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74614100000008,
+          35.647416000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 284,
+        "lat" : 35.647416,
+        "lon" : 139.74614099999999,
+        "name" : "建築会館ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73106150000001,
+          35.69082300000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 285,
+        "lat" : 35.690823000000002,
+        "lon" : 139.73106150000001,
+        "name" : "四谷Honey Burst"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73621400000002,
+          35.694117000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 286,
+        "lat" : 35.694116999999999,
+        "lon" : 139.73621399999999,
+        "name" : "ルーテル市ヶ谷ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7287980000001,
+          35.697933000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 287,
+        "lat" : 35.697932999999999,
+        "lon" : 139.72879800000001,
+        "name" : "加賀町ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71739500000001,
+          35.68725900000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 288,
+        "lat" : 35.687258999999997,
+        "lon" : 139.71739500000001,
+        "name" : "韓国文化院 ハンマダンホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72174649999999,
+          35.687790000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 289,
+        "lat" : 35.68779,
+        "lon" : 139.72174649999999,
+        "name" : "四谷ＬＯＴＵＳ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7248965,
+          35.687700000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 290,
+        "lat" : 35.6877,
+        "lon" : 139.7248965,
+        "name" : "四谷ＯＵＴＢＲＥＡＫ！"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7301255000001,
+          35.709021000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 291,
+        "lat" : 35.709021,
+        "lon" : 139.73012550000001,
+        "name" : "Performing Gallery & Cafe 絵空箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74573150000003,
+          35.692290000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 292,
+        "lat" : 35.69229,
+        "lon" : 139.74573150000001,
+        "name" : "二松学舎大学　中洲記念講堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73822100000007,
+          35.647920000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 293,
+        "lat" : 35.647919999999999,
+        "lon" : 139.73822100000001,
+        "name" : "白金高輪SELENE STUDIO・STUDIO b2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74285600000007,
+          35.642565000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 294,
+        "lat" : 35.642564999999998,
+        "lon" : 139.74285599999999,
+        "name" : "笹川記念会館　〔国際会議場〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66882650000002,
+          35.675370000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 295,
+        "lat" : 35.675370000000001,
+        "lon" : 139.66882649999999,
+        "name" : "デュオステージ ＢＢｓ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7023200000001,
+          35.656569000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 296,
+        "lat" : 35.656568999999998,
+        "lon" : 139.70231999999999,
+        "name" : "渋谷ｃｌｕｂ乙－ｋｉｎｏｔｏ－"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70110050000005,
+          35.656794000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 297,
+        "lat" : 35.656793999999998,
+        "lon" : 139.7011005,
+        "name" : "ＲＵＩＤＯ Ｋ２"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69991700000003,
+          35.655480000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 298,
+        "lat" : 35.655479999999997,
+        "lon" : 139.699917,
+        "name" : "渋谷区文化総合センター大和田〔さくらホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69991700000003,
+          35.655480000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 299,
+        "lat" : 35.655479999999997,
+        "lon" : 139.699917,
+        "name" : "渋谷区文化総合センター大和田〔伝承ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69959300000005,
+          35.656353000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 300,
+        "lat" : 35.656353000000003,
+        "lon" : 139.69959299999999,
+        "name" : "セルリアンタワー能楽堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 301,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69959300000005,
+          35.656353000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 301,
+        "lat" : 35.656353000000003,
+        "lon" : 139.69959299999999,
+        "name" : "JZ Brat SOUND OF TOKYO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 302,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7023200000001,
+          35.656569000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 302,
+        "lat" : 35.656568999999998,
+        "lon" : 139.70231999999999,
+        "name" : "渋谷ＤＥＳＥＯ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 303,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74340050000001,
+          35.683425000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 303,
+        "lat" : 35.683425,
+        "lon" : 139.74340050000001,
+        "name" : "TOKYO FM ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 304,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73670450000009,
+          35.62762500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 304,
+        "lat" : 35.627625000000002,
+        "lon" : 139.7367045,
+        "name" : "品川プリンスホテル　ステラボール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 305,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73670450000009,
+          35.62762500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 305,
+        "lat" : 35.627625000000002,
+        "lon" : 139.7367045,
+        "name" : "品川プリンスホテル　Club eX（クラブエックス）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 306,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73562450000009,
+          35.625051000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 306,
+        "lat" : 35.625050999999999,
+        "lon" : 139.7356245,
+        "name" : "ＡＭＢＩＥＮＴＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 307,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73401800000011,
+          35.642043000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 307,
+        "lat" : 35.642043000000001,
+        "lon" : 139.73401799999999,
+        "name" : "港区高輪区民センター〔区民ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 308,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7023200000001,
+          35.714601000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 308,
+        "lat" : 35.714601000000002,
+        "lon" : 139.70231999999999,
+        "name" : "四谷天窓"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 309,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7023200000001,
+          35.714601000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 309,
+        "lat" : 35.714601000000002,
+        "lon" : 139.70231999999999,
+        "name" : "四谷天窓．ｃｏｍｆｏｒｔ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 310,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70173950000003,
+          35.71354800000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 310,
+        "lat" : 35.713548000000003,
+        "lon" : 139.7017395,
+        "name" : "高田馬場ＡＲＥＡ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 311,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6949535,
+          35.711505000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 311,
+        "lat" : 35.711505000000002,
+        "lon" : 139.6949535,
+        "name" : "プロト・シアター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 312,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7051325000001,
+          35.714574000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 312,
+        "lat" : 35.714573999999999,
+        "lon" : 139.70513249999999,
+        "name" : "高田馬場LiveCafe mono"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 313,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74207750000005,
+          35.626527000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 313,
+        "lat" : 35.626527000000003,
+        "lon" : 139.74207749999999,
+        "name" : "品川インターシティホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 314,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.740633,
+          35.626599000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 314,
+        "lat" : 35.626598999999999,
+        "lon" : 139.740633,
+        "name" : "THE GRAND HALL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 315,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74082200000009,
+          35.628975000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 315,
+        "lat" : 35.628974999999997,
+        "lon" : 139.74082200000001,
+        "name" : "Live Jazz Lounge TRIBECA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 316,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74568650000003,
+          35.669520000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 316,
+        "lat" : 35.669519999999999,
+        "lon" : 139.74568650000001,
+        "name" : "JTアートホール　アフィニス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 317,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74595650000003,
+          35.668035000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 317,
+        "lat" : 35.668035000000003,
+        "lon" : 139.74595650000001,
+        "name" : "日本消防会館（ニッショーホール）〔ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 318,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71997350000004,
+          35.707599000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 318,
+        "lat" : 35.707599000000002,
+        "lon" : 139.71997350000001,
+        "name" : "早稲田小劇場どらま館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 319,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71997350000004,
+          35.707599000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 319,
+        "lat" : 35.707599000000002,
+        "lon" : 139.71997350000001,
+        "name" : "早稲田大学　どらま館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 320,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72214250000002,
+          35.709867000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 320,
+        "lat" : 35.709867000000003,
+        "lon" : 139.72214249999999,
+        "name" : "早稲田大学　大隈記念講堂〔大講堂〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 321,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72214250000002,
+          35.709867000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 321,
+        "lat" : 35.709867000000003,
+        "lon" : 139.72214249999999,
+        "name" : "早稲田大学　大隈記念講堂〔小講堂〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 322,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78174050000007,
+          35.661897000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 322,
+        "lat" : 35.661897000000003,
+        "lon" : 139.78174050000001,
+        "name" : "月島社会教育会館〔ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 323,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70631150000008,
+          35.646066000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 323,
+        "lat" : 35.646065999999998,
+        "lon" : 139.7063115,
+        "name" : "ＢＡＴＩＣＡ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 324,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70753550000006,
+          35.645472000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 324,
+        "lat" : 35.645471999999998,
+        "lon" : 139.70753550000001,
+        "name" : "ＮＯＳ ＥＢＩＳＵ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 325,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70983050000007,
+          35.646120000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 325,
+        "lat" : 35.646120000000003,
+        "lon" : 139.70983050000001,
+        "name" : "art caf・friends"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 326,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70578050000006,
+          35.650413000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 326,
+        "lat" : 35.650413,
+        "lon" : 139.7057805,
+        "name" : "シアター代官山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 327,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70246850000001,
+          35.647047000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 327,
+        "lat" : 35.647047000000001,
+        "lon" : 139.70246850000001,
+        "name" : "ＵＮＩＴ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 328,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71475350000003,
+          35.645049000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 328,
+        "lat" : 35.645049,
+        "lon" : 139.7147535,
+        "name" : "恵比寿ｃｌｕｂ ａｉｍ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 329,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7159415000001,
+          35.643780000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 329,
+        "lat" : 35.64378,
+        "lon" : 139.71594150000001,
+        "name" : "恵比寿天窓．ｓｗｉｔｃｈ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 330,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71568950000005,
+          35.644158000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 330,
+        "lat" : 35.644157999999997,
+        "lon" : 139.7156895,
+        "name" : "日仏会館ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 331,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71333600000003,
+          35.646804000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 331,
+        "lat" : 35.646804000000003,
+        "lon" : 139.713336,
+        "name" : "EBiS 303〔イベントホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 332,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7463795000001,
+          35.692182000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 332,
+        "lat" : 35.692182000000003,
+        "lon" : 139.74637949999999,
+        "name" : "イタリア文化会館 アニェッリホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 333,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75371140000004,
+          35.693930060000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 333,
+        "lat" : 35.69393006,
+        "lon" : 139.75371139999999,
+        "name" : "在日本韓国YMCA\u00A0アジア青少年センター\u00A0　YMCA Hotel〔スペースYホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 334,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75205850000009,
+          35.695161000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 334,
+        "lat" : 35.695160999999999,
+        "lon" : 139.7520585,
+        "name" : "千代田区立九段生涯学習館〔レクリエーションホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 335,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75971750000008,
+          35.670051000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 335,
+        "lat" : 35.670051000000001,
+        "lon" : 139.75971749999999,
+        "name" : "銀座ケントス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 336,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75916400000006,
+          35.669043000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 336,
+        "lat" : 35.669043000000002,
+        "lon" : 139.759164,
+        "name" : "月夜の仔猫/３６５１"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 337,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7609910000001,
+          35.667855000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 337,
+        "lat" : 35.667855000000003,
+        "lon" : 139.76099099999999,
+        "name" : "博品館劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 338,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7617110000001,
+          35.670285000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 338,
+        "lat" : 35.670285,
+        "lon" : 139.76171099999999,
+        "name" : "GINZA Lounge ZERO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 339,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76256150000006,
+          35.669421000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 339,
+        "lat" : 35.669421,
+        "lon" : 139.7625615,
+        "name" : "RockyTop"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 340,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76263349999999,
+          35.668620000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 340,
+        "lat" : 35.668619999999997,
+        "lon" : 139.76263349999999,
+        "name" : "ヤマハホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 341,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76263349999999,
+          35.668620000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 341,
+        "lat" : 35.668619999999997,
+        "lon" : 139.76263349999999,
+        "name" : "ヤマハ銀座スタジオ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 342,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76394300000004,
+          35.669736000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 342,
+        "lat" : 35.669736,
+        "lon" : 139.76394300000001,
+        "name" : "ザ・グラン銀座・多目的ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 343,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76698050000005,
+          35.666883000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 343,
+        "lat" : 35.666882999999999,
+        "lon" : 139.76698049999999,
+        "name" : "新橋演舞場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 344,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76113950000001,
+          35.671608000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 344,
+        "lat" : 35.671607999999999,
+        "lon" : 139.76113950000001,
+        "name" : "Ｍｉｉｙａ Ｃａｆｅ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 345,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76307450000002,
+          35.669961000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 345,
+        "lat" : 35.669961000000001,
+        "lon" : 139.76307449999999,
+        "name" : "銀座タクト"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 346,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76732250000009,
+          35.668080000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 346,
+        "lat" : 35.668080000000003,
+        "lon" : 139.76732250000001,
+        "name" : "時事通信ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 347,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76790300000005,
+          35.669421000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 347,
+        "lat" : 35.669421,
+        "lon" : 139.76790299999999,
+        "name" : "歌舞伎座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 348,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76649000000009,
+          35.671284000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 348,
+        "lat" : 35.671284,
+        "lon" : 139.76649,
+        "name" : "王子ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 349,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76664740000001,
+          35.670869820000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 349,
+        "lat" : 35.67086982,
+        "lon" : 139.76664740000001,
+        "name" : "ジャズクラブ 銀座スウィング"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 350,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76664740000001,
+          35.670869820000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 350,
+        "lat" : 35.67086982,
+        "lon" : 139.76664740000001,
+        "name" : "シャンソニエ蛙たち"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 351,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77120150000007,
+          35.671257000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 351,
+        "lat" : 35.671256999999997,
+        "lon" : 139.77120149999999,
+        "name" : "中央区中央会館（銀座ブロッサム）〔ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 352,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76568000000009,
+          35.674749000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 352,
+        "lat" : 35.674748999999998,
+        "lon" : 139.76568,
+        "name" : "Ginza SOLA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 353,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77159300000005,
+          35.673147000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 353,
+        "lat" : 35.673147,
+        "lon" : 139.771593,
+        "name" : "京橋プラザ区民館〔多目的ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 354,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76860950000003,
+          35.674254000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 354,
+        "lat" : 35.674253999999998,
+        "lon" : 139.7686095,
+        "name" : "PLUSTOKYO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 355,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73755500000004,
+          35.681859000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 355,
+        "lat" : 35.681859000000003,
+        "lon" : 139.73755499999999,
+        "name" : "紀尾井町サロンホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 356,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73247900000001,
+          35.682039000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 356,
+        "lat" : 35.682039000000003,
+        "lon" : 139.73247900000001,
+        "name" : "紀尾井ホール〔紀尾井ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 357,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73247900000001,
+          35.682039000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 357,
+        "lat" : 35.682039000000003,
+        "lon" : 139.73247900000001,
+        "name" : "紀尾井ホール〔紀尾井小ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 358,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72044600000004,
+          35.705475000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 358,
+        "lat" : 35.705475,
+        "lon" : 139.72044600000001,
+        "name" : "ＬＩＶＥ ＨＯＵＳＥ ＺＯＮＥ－Ｂ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 359,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77781200000004,
+          35.696097000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 359,
+        "lat" : 35.696097000000002,
+        "lon" : 139.77781200000001,
+        "name" : "LIVE GARAGE 秋田犬（あきたいぬ）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 360,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77810450000004,
+          35.694342000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 360,
+        "lat" : 35.694341999999999,
+        "lon" : 139.77810450000001,
+        "name" : "岩本町ほほえみプラザ〔多目的ホールＡ〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 361,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77810450000004,
+          35.694342000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 361,
+        "lat" : 35.694341999999999,
+        "lon" : 139.77810450000001,
+        "name" : "岩本町ほほえみプラザ〔多目的ホールＢ〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 362,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77832950000004,
+          35.694594000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 362,
+        "lat" : 35.694594000000002,
+        "lon" : 139.77832950000001,
+        "name" : "Ｔｏｋｙｏ ＴＵＣ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 363,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77598950000004,
+          35.693406000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 363,
+        "lat" : 35.693406000000003,
+        "lon" : 139.77598950000001,
+        "name" : "Ｅｇｇｍａｎ ｔｏｋｙｏ ｅａｓｔ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 364,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 364,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "帝国劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 365,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76363250000009,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 365,
+        "lat" : 35.676971999999999,
+        "lon" : 139.7636325,
+        "name" : "東京国際フォーラム〔ホールA〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 366,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76363250000009,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 366,
+        "lat" : 35.676971999999999,
+        "lon" : 139.7636325,
+        "name" : "東京国際フォーラム〔ホールB7〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 367,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76363250000009,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 367,
+        "lat" : 35.676971999999999,
+        "lon" : 139.7636325,
+        "name" : "東京国際フォーラム〔ホールC〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 368,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76363250000009,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 368,
+        "lat" : 35.676971999999999,
+        "lon" : 139.7636325,
+        "name" : "東京国際フォーラム〔ホールD7〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 369,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76214300000004,
+          35.678979000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 369,
+        "lat" : 35.678978999999998,
+        "lon" : 139.76214300000001,
+        "name" : "ＭＹ ＰＬＡＺＡホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 370,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76379000000009,
+          35.681139000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 370,
+        "lat" : 35.681139000000002,
+        "lon" : 139.76379,
+        "name" : "丸ビルホール＆コンファレンススクエア〔丸ビルホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 371,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76491050000004,
+          35.678574000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 371,
+        "lat" : 35.678573999999998,
+        "lon" : 139.76491050000001,
+        "name" : "東京ＣＯＴＴＯＮ ＣＬＵＢ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 372,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77081450000003,
+          35.704242000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 372,
+        "lat" : 35.704242000000001,
+        "lon" : 139.7708145,
+        "name" : "ちよだアートスクエア（アーツ千代田3331）〔コミュニティスペース〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 373,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7701350000001,
+          35.700444000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 373,
+        "lat" : 35.700443999999997,
+        "lon" : 139.77013500000001,
+        "name" : "Ｔｗｉｎ Ｂｏｘ ＡＫＩＨＡＢＡＲＡ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 374,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7701350000001,
+          35.700444000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 374,
+        "lat" : 35.700443999999997,
+        "lon" : 139.77013500000001,
+        "name" : "Ｔｗｉｎ Ｂｏｘ ＧＡＲＡＧＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 375,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76972550000005,
+          35.700399000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 375,
+        "lat" : 35.700398999999997,
+        "lon" : 139.76972549999999,
+        "name" : "秋葉原ZEST"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 376,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76793900000007,
+          35.702046000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 376,
+        "lat" : 35.702046000000003,
+        "lon" : 139.76793900000001,
+        "name" : "神田明神文化交流館・神田明神ホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 377,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77038700000003,
+          35.699508000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 377,
+        "lat" : 35.699508000000002,
+        "lon" : 139.770387,
+        "name" : "ＡＫＩＢＡカルチャーズ劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 378,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76205300000004,
+          35.656866000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 378,
+        "lat" : 35.656866000000001,
+        "lon" : 139.76205300000001,
+        "name" : "JR東日本アートセンター　四季劇場〔春〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 379,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76205300000004,
+          35.656866000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 379,
+        "lat" : 35.656866000000001,
+        "lon" : 139.76205300000001,
+        "name" : "JR東日本アートセンター　四季劇場〔秋〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 380,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76196300000004,
+          35.656929000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 380,
+        "lat" : 35.656928999999998,
+        "lon" : 139.76196300000001,
+        "name" : "JR東日本アートセンター　自由劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 381,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76376750000009,
+          35.655804000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 381,
+        "lat" : 35.655804000000003,
+        "lon" : 139.7637675,
+        "name" : "NEW PIER HALL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 382,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74781950000011,
+          35.671806000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 382,
+        "lat" : 35.671805999999997,
+        "lon" : 139.74781949999999,
+        "name" : "霞が関コモンゲート〔霞が関ナレッジスクエア〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 383,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70639249999999,
+          35.695008000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 383,
+        "lat" : 35.695008000000001,
+        "lon" : 139.70639249999999,
+        "name" : "新宿ナインスパイス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 384,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7036925000001,
+          35.695719000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 384,
+        "lat" : 35.695718999999997,
+        "lon" : 139.70369249999999,
+        "name" : "ＨＯＬＩＤＡＹ ＳＨＩＮＪＵＫＵ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 385,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70357100000001,
+          35.695476000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 385,
+        "lat" : 35.695475999999999,
+        "lon" : 139.70357100000001,
+        "name" : "Club SIENCE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 386,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70340900000008,
+          35.696106000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 386,
+        "lat" : 35.696106,
+        "lon" : 139.70340899999999,
+        "name" : "新宿ＯＲＥＢＡＫＯ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 387,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7024100000001,
+          35.695908000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 387,
+        "lat" : 35.695908000000003,
+        "lon" : 139.70240999999999,
+        "name" : "ライブハウス新宿ACB HALL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 388,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70177550000005,
+          35.697861000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 388,
+        "lat" : 35.697861000000003,
+        "lon" : 139.7017755,
+        "name" : "新宿SAMURAI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 389,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70098800000005,
+          35.696628000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 389,
+        "lat" : 35.696627999999997,
+        "lon" : 139.700988,
+        "name" : "ハイジアＶ－１"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 390,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70057400000007,
+          35.696340000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 390,
+        "lat" : 35.696339999999999,
+        "lon" : 139.70057399999999,
+        "name" : "新宿ＭＡＲＺ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 391,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7004300000001,
+          35.696358000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 391,
+        "lat" : 35.696357999999996,
+        "lon" : 139.70043000000001,
+        "name" : "新宿シアター・ミラクル"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 392,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7004300000001,
+          35.696358000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 392,
+        "lat" : 35.696357999999996,
+        "lon" : 139.70043000000001,
+        "name" : "新宿Ｍａｒｂｌｅ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 393,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7004300000001,
+          35.696358000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 393,
+        "lat" : 35.696357999999996,
+        "lon" : 139.70043000000001,
+        "name" : "新宿Ｍｏｔｉｏｎ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 394,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70048400000007,
+          35.696448000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 394,
+        "lat" : 35.696447999999997,
+        "lon" : 139.70048399999999,
+        "name" : "バティオス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 395,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7004525000001,
+          35.696664000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 395,
+        "lat" : 35.696663999999998,
+        "lon" : 139.70045250000001,
+        "name" : "新宿永谷ホール(Fu-)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 396,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70049300000005,
+          35.697105000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 396,
+        "lat" : 35.697105000000001,
+        "lon" : 139.70049299999999,
+        "name" : "新宿STAR CRANE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 397,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70257650000008,
+          35.695341000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 397,
+        "lat" : 35.695340999999999,
+        "lon" : 139.70257649999999,
+        "name" : "新宿ＬＯＦＴ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 398,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70218050000005,
+          35.694594000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 398,
+        "lat" : 35.694594000000002,
+        "lon" : 139.7021805,
+        "name" : "ＤＲＥＡＭＳＴＯＲＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 399,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70218050000005,
+          35.694594000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 399,
+        "lat" : 35.694594000000002,
+        "lon" : 139.7021805,
+        "name" : "新宿ＬＯＦＴ／ＰＬＵＳ ＯＮＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 400,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70217600000001,
+          35.693847000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 400,
+        "lat" : 35.693846999999998,
+        "lon" : 139.70217600000001,
+        "name" : "ライブハウス＆バー GOLDEN EGG"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 401,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70449350000001,
+          35.694135000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 401,
+        "lat" : 35.694135000000003,
+        "lon" : 139.70449350000001,
+        "name" : "新宿ゴールデン街劇場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 402,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70146050000005,
+          35.695836000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 402,
+        "lat" : 35.695836,
+        "lon" : 139.7014605,
+        "name" : "新宿フェイス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 403,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70442150000008,
+          35.694693000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 403,
+        "lat" : 35.694693000000001,
+        "lon" : 139.7044215,
+        "name" : "ＲＵＩＤＯ Ｋ４"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 404,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70442150000008,
+          35.694693000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 404,
+        "lat" : 35.694693000000001,
+        "lon" : 139.7044215,
+        "name" : "新宿レッドノーズ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 405,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7009925000001,
+          35.695323000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 405,
+        "lat" : 35.695323000000002,
+        "lon" : 139.70099250000001,
+        "name" : "新宿ＢＬＡＺＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 406,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70284200000003,
+          35.693676000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 406,
+        "lat" : 35.693676000000004,
+        "lon" : 139.702842,
+        "name" : "新宿メモリーズ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 407,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70399400000008,
+          35.693685000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 407,
+        "lat" : 35.693685000000002,
+        "lon" : 139.70399399999999,
+        "name" : "Zirco Tokyo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 408,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69901700000003,
+          35.716122000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 408,
+        "lat" : 35.716121999999999,
+        "lon" : 139.699017,
+        "name" : "東京富士大学　二上講堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 409,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70147400000008,
+          35.647398000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 409,
+        "lat" : 35.647398000000003,
+        "lon" : 139.70147399999999,
+        "name" : "HILLSIDE TERRACE　HILLSIDE PLAZA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 410,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7042550000001,
+          35.652078000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 410,
+        "lat" : 35.652078000000003,
+        "lon" : 139.70425499999999,
+        "name" : "代官山NOMAD"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 411,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69522800000004,
+          35.659305000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 411,
+        "lat" : 35.659305000000003,
+        "lon" : 139.69522799999999,
+        "name" : "LOFT9 Shibuya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 412,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69532700000002,
+          35.659035000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 412,
+        "lat" : 35.659035000000003,
+        "lon" : 139.69532699999999,
+        "name" : "clubasia"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 413,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69415700000002,
+          35.656974000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 413,
+        "lat" : 35.656973999999998,
+        "lon" : 139.69415699999999,
+        "name" : "Ｌａｎｔｅｒｎ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 414,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6950435,
+          35.658405000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 414,
+        "lat" : 35.658405000000002,
+        "lon" : 139.6950435,
+        "name" : "ＷＯＭＢ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 415,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.695246,
+          35.658486000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 415,
+        "lat" : 35.658486000000003,
+        "lon" : 139.695246,
+        "name" : "ＴＳＵＴＡＹＡ Ｏ－ｎｅｓｔ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 416,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.695246,
+          35.658486000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 416,
+        "lat" : 35.658486000000003,
+        "lon" : 139.695246,
+        "name" : "渋谷７ｔｈ ＦＬＯＯＲ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 417,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.695246,
+          35.658486000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 417,
+        "lat" : 35.658486000000003,
+        "lon" : 139.695246,
+        "name" : "ＴＳＵＴＡＹＡ Ｏ－ＷＥＳＴ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 418,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74082200000009,
+          35.676720000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 418,
+        "lat" : 35.676720000000003,
+        "lon" : 139.74082200000001,
+        "name" : "星陵会館〔ホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 419,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69784250000009,
+          35.661348000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 419,
+        "lat" : 35.661347999999997,
+        "lon" : 139.69784250000001,
+        "name" : "ＷＡＳＴＥＤ ＴＩＭＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 420,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69799550000005,
+          35.661996000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 420,
+        "lat" : 35.661996000000002,
+        "lon" : 139.69799549999999,
+        "name" : "Midnight Lounge ballo ballo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 421,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69854000000009,
+          35.661447000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 421,
+        "lat" : 35.661447000000003,
+        "lon" : 139.69854000000001,
+        "name" : "渋谷ＣＹＣＬＯＮＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 422,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69854000000009,
+          35.661447000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 422,
+        "lat" : 35.661447000000003,
+        "lon" : 139.69854000000001,
+        "name" : "ＧＡＲＲＥＴ ｕｄａｇａｗａ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 423,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698711,
+          35.661465000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 423,
+        "lat" : 35.661465,
+        "lon" : 139.698711,
+        "name" : "ＷＷＷ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 424,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698711,
+          35.661465000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 424,
+        "lat" : 35.661465,
+        "lon" : 139.698711,
+        "name" : "渋谷WWW X"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 425,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69795500000009,
+          35.660871000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 425,
+        "lat" : 35.660871,
+        "lon" : 139.69795500000001,
+        "name" : "渋谷Club Malcolm"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 426,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69872000000009,
+          35.66250000000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 426,
+        "lat" : 35.662500000000001,
+        "lon" : 139.69872000000001,
+        "name" : "Ｌｉｖｅ＆Ｐｕｂ Ｓｈｉｂｕｙａ ｇｅｅ－ｇｅ．"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 427,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69752300000005,
+          35.661357000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 427,
+        "lat" : 35.661357000000002,
+        "lon" : 139.69752299999999,
+        "name" : "よしもと\u221Eホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 428,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69737450000002,
+          35.661087000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 428,
+        "lat" : 35.661087000000002,
+        "lon" : 139.6973745,
+        "name" : "渋谷 ＴＡＫＥ ＯＦＦ ７"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 429,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69753650000007,
+          35.661024000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 429,
+        "lat" : 35.661023999999998,
+        "lon" : 139.69753650000001,
+        "name" : "渋谷ＣＬＵＢ ＱＵＡＴＴＲＯ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 430,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.694796,
+          35.662851000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 430,
+        "lat" : 35.662851000000003,
+        "lon" : 139.694796,
+        "name" : "アップリンク渋谷〔UP　LINK　FACTORY〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 431,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69493550000004,
+          35.66299500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 431,
+        "lat" : 35.662995000000002,
+        "lon" : 139.69493550000001,
+        "name" : "渋谷 ＳＯＮＧＬＩＮＥＳ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 432,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69786950000002,
+          35.662464000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 432,
+        "lat" : 35.662464,
+        "lon" : 139.6978695,
+        "name" : "渋谷Ｓｔａｒ ｌｏｕｎｇｅ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 433,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69786950000002,
+          35.662464000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 433,
+        "lat" : 35.662464,
+        "lon" : 139.6978695,
+        "name" : "ＣＨＥＬＳＥＡ ＨＯＴＥＬ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 434,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69786950000002,
+          35.662464000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 434,
+        "lat" : 35.662464,
+        "lon" : 139.6978695,
+        "name" : "渋谷ＴＨＥ ＧＡＭＥ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 435,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69786950000002,
+          35.662464000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 435,
+        "lat" : 35.662464,
+        "lon" : 139.6978695,
+        "name" : "渋谷Ｍｉｌｋｙｗａｙ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 436,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69786950000002,
+          35.662464000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 436,
+        "lat" : 35.662464,
+        "lon" : 139.6978695,
+        "name" : "ａｕｂｅ ｓｈｉｂｕｙａ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 437,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73931900000002,
+          35.686971000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 437,
+        "lat" : 35.686971,
+        "lon" : 139.73931899999999,
+        "name" : "いきいきプラザ一番町〔カスケードホール〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 438,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75799400000005,
+          35.692479000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 438,
+        "lat" : 35.692478999999999,
+        "lon" : 139.757994,
+        "name" : "一橋大学　一橋講堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 439,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7562435000001,
+          35.694279000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 439,
+        "lat" : 35.694279000000002,
+        "lon" : 139.75624350000001,
+        "name" : "日本教育会館〔一ツ橋ホール〕"
+      }
+    }
+  ]
+}

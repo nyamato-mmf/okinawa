@@ -1,0 +1,5785 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72567000000004,
+          35.627194000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "name" : "VRAIMENT",
+        "lon" : 139.72567000000001,
+        "lat" : 35.627194000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78136100000006,
+          35.69157000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "name" : "CITAN",
+        "lon" : 139.781361,
+        "lat" : 35.691569999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77126600000008,
+          35.688755000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "name" : "Extrawelt",
+        "lon" : 139.771266,
+        "lat" : 35.688755
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77393900000004,
+          35.687305000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "name" : "XEX Nihonbashi",
+        "lon" : 139.77393900000001,
+        "lat" : 35.687305000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77726500000006,
+          35.674788000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "name" : "SOUND&BAR HOWL",
+        "lon" : 139.777265,
+        "lat" : 35.674787999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76644600000009,
+          35.674298000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "name" : "Ginza Roots Tokyo",
+        "lon" : 139.766446,
+        "lat" : 35.674298
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76867100000004,
+          35.674202000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "name" : "PLUSTOKYO",
+        "lon" : 139.76867100000001,
+        "lat" : 35.674202000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76475600000003,
+          35.672341000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "name" : "POP INN",
+        "lon" : 139.76475600000001,
+        "lat" : 35.672341000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.761706,
+          35.671359000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "name" : "GENIUS TOKYO",
+        "lon" : 139.761706,
+        "lat" : 35.671359000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7613520000001,
+          35.671046000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "name" : "333",
+        "lon" : 139.76135199999999,
+        "lat" : 35.671045999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76313500000003,
+          35.669959000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "name" : "TACT",
+        "lon" : 139.76313500000001,
+        "lat" : 35.669958999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76134000000002,
+          35.669860000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "name" : "The Soul Garden",
+        "lon" : 139.76133999999999,
+        "lat" : 35.66986
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75917200000004,
+          35.669200000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "name" : "ThreeHundred Bar GINZA8",
+        "lon" : 139.75917200000001,
+        "lat" : 35.669199999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76189900000008,
+          35.669081000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "name" : "GINZA MAGIC",
+        "lon" : 139.761899,
+        "lat" : 35.669080999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.762023,
+          35.668884000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "name" : "GINZA MUSIC BAR",
+        "lon" : 139.762023,
+        "lat" : 35.668883999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76033900000004,
+          35.668374000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "name" : "CYGNUS",
+        "lon" : 139.76033899999999,
+        "lat" : 35.668374
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7628850000001,
+          35.667362000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "name" : "Las Risas",
+        "lon" : 139.76288500000001,
+        "lat" : 35.667361999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7642360000001,
+          35.672760000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "name" : "LAPIS TOKYO",
+        "lon" : 139.76423600000001,
+        "lat" : 35.672759999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77342700000008,
+          35.692051000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "name" : "ISOLDE",
+        "lon" : 139.773427,
+        "lat" : 35.692050999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76428700000008,
+          35.682543000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "name" : "(marunouchi)HOUSE",
+        "lon" : 139.764287,
+        "lat" : 35.682543000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76493600000003,
+          35.678607000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "name" : "COTTON CLUB",
+        "lon" : 139.76493600000001,
+        "lat" : 35.678607
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76493600000003,
+          35.678607000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "name" : "P.C.M. PUB CARDINAL MARUNOUCHI",
+        "lon" : 139.76493600000001,
+        "lat" : 35.678607
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76007900000002,
+          35.674212000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "name" : "CLUB DIANA",
+        "lon" : 139.76007899999999,
+        "lat" : 35.674211999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75917600000002,
+          35.67357700000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "name" : "Billboard cafe & dining",
+        "lon" : 139.759176,
+        "lat" : 35.673577000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7599570000001,
+          35.672425000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "name" : "300BAR NEXT",
+        "lon" : 139.75995700000001,
+        "lat" : 35.672424999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77641850000009,
+          35.69714440000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "name" : "CLUB GOODMAN",
+        "lon" : 139.77641850000001,
+        "lat" : 35.697144399999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77638710000008,
+          35.697889200000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "name" : "あるけみすと",
+        "lon" : 139.77638709999999,
+        "lat" : 35.697889199999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75833980000004,
+          35.668961900000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "name" : "club GHQ",
+        "lon" : 139.75833979999999,
+        "lat" : 35.668961899999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70155900000009,
+          35.713657000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "name" : "AREA",
+        "lon" : 139.701559,
+        "lat" : 35.713656999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.707176,
+          35.711944000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "name" : "DJ Bar SIGNAL",
+        "lon" : 139.707176,
+        "lat" : 35.711944000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68390900000009,
+          35.710867000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "name" : "soup",
+        "lon" : 139.683909,
+        "lat" : 35.710867
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71730500000001,
+          35.70662800000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "name" : "Sabaco",
+        "lon" : 139.71730500000001,
+        "lat" : 35.706628000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70816300000001,
+          35.702979000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "name" : "HEAD POWER",
+        "lon" : 139.70816300000001,
+        "lat" : 35.702978999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.697632,
+          35.701535000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "name" : "HOTSHOT",
+        "lon" : 139.697632,
+        "lat" : 35.701535
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70220400000005,
+          35.70153300000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "name" : "unique LABORATORY",
+        "lon" : 139.70220399999999,
+        "lat" : 35.701532999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70247900000004,
+          35.701507000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "name" : "EARTHDOM",
+        "lon" : 139.70247900000001,
+        "lat" : 35.701506999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69993900000009,
+          35.70032800000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "name" : "CLUB Voice",
+        "lon" : 139.699939,
+        "lat" : 35.700327999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.697181,
+          35.698769000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "name" : "Rock Inn DICE",
+        "lon" : 139.697181,
+        "lat" : 35.698768999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70180000000005,
+          35.697905000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "name" : "SAMURAI",
+        "lon" : 139.70179999999999,
+        "lat" : 35.697904999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70053900000005,
+          35.69648200000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "name" : "あるけみすたぁ",
+        "lon" : 139.70053899999999,
+        "lat" : 35.696482000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70046200000002,
+          35.69639600000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "name" : "Motion",
+        "lon" : 139.70046199999999,
+        "lat" : 35.696396
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70046200000002,
+          35.69639600000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "name" : "Marble",
+        "lon" : 139.70046199999999,
+        "lat" : 35.696396
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7006100000001,
+          35.696381000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "name" : "MARZ",
+        "lon" : 139.70061000000001,
+        "lat" : 35.696381000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70341400000007,
+          35.696102000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "name" : "FATE",
+        "lon" : 139.70341400000001,
+        "lat" : 35.696102000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7019140000001,
+          35.696008000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "name" : "TOKYO LOOSE",
+        "lon" : 139.70191399999999,
+        "lat" : 35.696007999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70241300000009,
+          35.695905000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "name" : "ACB HALL",
+        "lon" : 139.70241300000001,
+        "lat" : 35.695905000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70151300000009,
+          35.695809000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "name" : "SHINJUKU FACE",
+        "lon" : 139.70151300000001,
+        "lat" : 35.695808999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70325700000001,
+          35.695801000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "name" : "HONEY BEE",
+        "lon" : 139.70325700000001,
+        "lat" : 35.695801000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70370300000002,
+          35.695728000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "name" : "HOLIDAY SHINJUKU",
+        "lon" : 139.70370299999999,
+        "lat" : 35.695728000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70355600000005,
+          35.695503000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "name" : "club SCIENCE",
+        "lon" : 139.70355599999999,
+        "lat" : 35.695503000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70262000000002,
+          35.695354000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "name" : "LOFT",
+        "lon" : 139.70262,
+        "lat" : 35.695354000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70104900000001,
+          35.695317000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "name" : "BLAZE",
+        "lon" : 139.70104900000001,
+        "lat" : 35.695317000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70131900000001,
+          35.695243000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "name" : "WARP SHINJUKU",
+        "lon" : 139.70131900000001,
+        "lat" : 35.695242999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70640300000002,
+          35.695010000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "name" : "NINE SPICES",
+        "lon" : 139.70640299999999,
+        "lat" : 35.695010000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70342500000004,
+          35.694870000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "name" : "DECABAR 超",
+        "lon" : 139.70342500000001,
+        "lat" : 35.694870000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70442700000001,
+          35.694761000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "name" : "CLUB & DJ BAR BUMP",
+        "lon" : 139.70442700000001,
+        "lat" : 35.694761
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70216900000003,
+          35.694605000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "name" : "DREAM STORE",
+        "lon" : 139.702169,
+        "lat" : 35.694605000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70261400000004,
+          35.694553000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "name" : "MUSIC BAR L.G",
+        "lon" : 139.70261400000001,
+        "lat" : 35.694552999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7025920000001,
+          35.694322000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "name" : "CLUB23 TOKYO",
+        "lon" : 139.70259200000001,
+        "lat" : 35.694322
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70102000000009,
+          35.694268000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "name" : "カブキラウンジ",
+        "lon" : 139.70102,
+        "lat" : 35.694268000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70277800000008,
+          35.694211000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "name" : "CASABLANCA ex. CROSSOVER",
+        "lon" : 139.702778,
+        "lat" : 35.694211000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70187200000009,
+          35.694176000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "name" : "Soul Dining Bar 歌舞伎町 鶴千",
+        "lon" : 139.70187200000001,
+        "lat" : 35.694175999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70229300000005,
+          35.694165000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "name" : "BE-WAVE",
+        "lon" : 139.702293,
+        "lat" : 35.694164999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70453900000007,
+          35.694115000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "name" : "URACUE",
+        "lon" : 139.70453900000001,
+        "lat" : 35.694114999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70180500000004,
+          35.693956000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "name" : "Garam",
+        "lon" : 139.70180500000001,
+        "lat" : 35.693956
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70216400000004,
+          35.693880000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "name" : "GOLDEN EGG",
+        "lon" : 139.70216400000001,
+        "lat" : 35.69388
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70288300000004,
+          35.693843000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "name" : "AL",
+        "lon" : 139.70288300000001,
+        "lat" : 35.693843000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7039870000001,
+          35.693738000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "name" : "Zirco Tokyo",
+        "lon" : 139.70398700000001,
+        "lat" : 35.693738000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69316600000002,
+          35.693177000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "name" : "ReNY",
+        "lon" : 139.69316599999999,
+        "lat" : 35.693176999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70521600000006,
+          35.692950000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "name" : "Christon Cafe",
+        "lon" : 139.70521600000001,
+        "lat" : 35.692950000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69121300000006,
+          35.692724000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "name" : "バー&ラウンジ ZATTA",
+        "lon" : 139.691213,
+        "lat" : 35.692723999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71062500000005,
+          35.69184000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "name" : "FUTURE NATURE VALVE",
+        "lon" : 139.71062499999999,
+        "lat" : 35.691839999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70737100000008,
+          35.691743000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "name" : "DJ BAR Heart",
+        "lon" : 139.70737099999999,
+        "lat" : 35.691743000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70860900000002,
+          35.691523000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "name" : "NeoMasquerade",
+        "lon" : 139.708609,
+        "lat" : 35.691522999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70649700000001,
+          35.691412000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "name" : "Bar BaoBab",
+        "lon" : 139.70649700000001,
+        "lat" : 35.691412
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.706548,
+          35.691324000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "name" : "Soul Stream",
+        "lon" : 139.706548,
+        "lat" : 35.691324000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71087300000011,
+          35.691290000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "name" : "Wild Side Tokyo",
+        "lon" : 139.71087299999999,
+        "lat" : 35.691290000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70801300000005,
+          35.691095000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "name" : "NEW SAZAE",
+        "lon" : 139.70801299999999,
+        "lat" : 35.691094999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70652000000007,
+          35.690865000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "name" : "CURTIS",
+        "lon" : 139.70652000000001,
+        "lat" : 35.690865000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70827600000007,
+          35.690781000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "name" : "AiiRO CAFE",
+        "lon" : 139.70827600000001,
+        "lat" : 35.690781000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70950800000003,
+          35.690694000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "name" : "DJ&VJ Bar A-UN",
+        "lon" : 139.709508,
+        "lat" : 35.690694000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.707356,
+          35.690609000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "name" : "Live Freak",
+        "lon" : 139.707356,
+        "lat" : 35.690609000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.707673,
+          35.690593000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "name" : "BAR GOLDFINGER",
+        "lon" : 139.707673,
+        "lat" : 35.690593
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.707898,
+          35.690453000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "name" : "AISOTOPE LOUNGE",
+        "lon" : 139.707898,
+        "lat" : 35.690452999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70732700000008,
+          35.690419000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "name" : "ARTY FARTY",
+        "lon" : 139.70732699999999,
+        "lat" : 35.690418999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70787700000005,
+          35.690346000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "name" : "ALAMAS CAFE",
+        "lon" : 139.707877,
+        "lat" : 35.690345999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.707269,
+          35.690263000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "name" : "DRAGON MEN",
+        "lon" : 139.707269,
+        "lat" : 35.690263000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70766600000002,
+          35.690126000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "name" : "EAGLE TOKYO BLUE",
+        "lon" : 139.70766599999999,
+        "lat" : 35.690125999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70303100000001,
+          35.689871000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "name" : "新宿ドゥースラー",
+        "lon" : 139.70303100000001,
+        "lat" : 35.689870999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70640000000003,
+          35.689779000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "name" : "BAR 3R",
+        "lon" : 139.7064,
+        "lat" : 35.689779000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70724600000005,
+          35.689231000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "name" : "REGGAE CLUB OPEN",
+        "lon" : 139.707246,
+        "lat" : 35.689230999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70361200000002,
+          35.688483000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "name" : "ANTIKNOCK",
+        "lon" : 139.70361199999999,
+        "lat" : 35.688482999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68969800000002,
+          35.683914000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "name" : "WALL",
+        "lon" : 139.68969799999999,
+        "lat" : 35.683914000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73610350000001,
+          35.703327100000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "name" : "KGR(n) / 神楽音",
+        "lon" : 139.73610350000001,
+        "lat" : 35.703327100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72283360000006,
+          35.705796400000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "name" : "RiNen",
+        "lon" : 139.7228336,
+        "lat" : 35.705796399999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72521870000003,
+          35.687658800000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "name" : "OUTBREAK",
+        "lon" : 139.7252187,
+        "lat" : 35.687658800000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7041011,
+          35.694848500000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "name" : "ORIZURU",
+        "lon" : 139.7041011,
+        "lat" : 35.694848499999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69927500000006,
+          35.685260000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "name" : "Spincoaster Music Bar",
+        "lon" : 139.699275,
+        "lat" : 35.68526
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698398,
+          35.682264000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "name" : "shirokuma",
+        "lon" : 139.698398,
+        "lat" : 35.682264000000004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70176600000002,
+          35.682259000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "name" : "Zher the ZOO YOYOGI",
+        "lon" : 139.70176599999999,
+        "lat" : 35.682259000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70112600000004,
+          35.681758000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "name" : "Village Music Bar",
+        "lon" : 139.70112599999999,
+        "lat" : 35.681758000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70233400000006,
+          35.681437000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "name" : "LIVE labo YOYOGI",
+        "lon" : 139.70233400000001,
+        "lat" : 35.681437000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67709000000002,
+          35.678048000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "name" : "FORESTLIMIT",
+        "lon" : 139.67708999999999,
+        "lat" : 35.678047999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67889000000002,
+          35.677563000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "name" : "SCUBA",
+        "lon" : 139.67889,
+        "lat" : 35.677562999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67835600000001,
+          35.675226000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "name" : "CLUB HEAVY SICK",
+        "lon" : 139.67835600000001,
+        "lat" : 35.675226000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70971500000007,
+          35.671793000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "name" : "Deus Ex Machina",
+        "lon" : 139.70971499999999,
+        "lat" : 35.671793000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7038060000001,
+          35.667201000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "name" : "Sankeys PENTHOUSE",
+        "lon" : 139.70380599999999,
+        "lat" : 35.667200999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70156100000008,
+          35.664936000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "name" : "Bar SUBTERRANEANS",
+        "lon" : 139.701561,
+        "lat" : 35.664935999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70156100000008,
+          35.664936000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "name" : "Cafe Apres-midi",
+        "lon" : 139.701561,
+        "lat" : 35.664935999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70351400000004,
+          35.664807000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "name" : "Galaxy Gingakei",
+        "lon" : 139.70351400000001,
+        "lat" : 35.664807000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.701233,
+          35.664778000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "name" : "UNDER DEER LOUNGE",
+        "lon" : 139.701233,
+        "lat" : 35.664777999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69938400000001,
+          35.66439900000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "name" : "eggman",
+        "lon" : 139.69938400000001,
+        "lat" : 35.664399000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70264000000009,
+          35.664389000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "name" : "CROCODILE",
+        "lon" : 139.70264,
+        "lat" : 35.664389
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69933000000003,
+          35.664147000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "name" : "Green Lounge",
+        "lon" : 139.69933,
+        "lat" : 35.664147
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70040400000005,
+          35.663996000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "name" : "KOARA",
+        "lon" : 139.70040399999999,
+        "lat" : 35.663995999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70798200000002,
+          35.663816000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "name" : "Tokyo Salon",
+        "lon" : 139.70798199999999,
+        "lat" : 35.663815999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69938500000001,
+          35.663744000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "name" : "nagomix",
+        "lon" : 139.69938500000001,
+        "lat" : 35.663744000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69937000000004,
+          35.663576000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "name" : "UNDERBAR",
+        "lon" : 139.69936999999999,
+        "lat" : 35.663575999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70165200000008,
+          35.66290900000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "name" : "or",
+        "lon" : 139.701652,
+        "lat" : 35.662908999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7005620000001,
+          35.662849000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "name" : "TRUMPROOM",
+        "lon" : 139.70056199999999,
+        "lat" : 35.662849000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69996000000003,
+          35.662780000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "name" : "Club Camelot",
+        "lon" : 139.69996,
+        "lat" : 35.662779999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69728700000007,
+          35.66263500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "name" : "rhythmcafe",
+        "lon" : 139.69728699999999,
+        "lat" : 35.662635000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69728700000007,
+          35.66263500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "name" : "ROCKAHOLIC",
+        "lon" : 139.69728699999999,
+        "lat" : 35.662635000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69689400000004,
+          35.662626000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "name" : "FLAMINGO",
+        "lon" : 139.69689399999999,
+        "lat" : 35.662626000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69720000000007,
+          35.662566000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "name" : "喫茶SMiLE",
+        "lon" : 139.69720000000001,
+        "lat" : 35.662565999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69899700000008,
+          35.662561000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "name" : "koe space (hotel koe tokyo)",
+        "lon" : 139.69899699999999,
+        "lat" : 35.662560999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69694700000002,
+          35.662552000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "name" : "JUMP",
+        "lon" : 139.69694699999999,
+        "lat" : 35.662551999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69694700000002,
+          35.662552000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "name" : "虎子食堂",
+        "lon" : 139.69694699999999,
+        "lat" : 35.662551999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69694700000002,
+          35.662552000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "name" : "Rock no Cocoro",
+        "lon" : 139.69694699999999,
+        "lat" : 35.662551999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69837700000005,
+          35.662543000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "name" : "NOS ORG",
+        "lon" : 139.69837699999999,
+        "lat" : 35.662542999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69876900000008,
+          35.662513000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "name" : "gee-ge.",
+        "lon" : 139.698769,
+        "lat" : 35.662512999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69769900000006,
+          35.662483000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "name" : "Organ Bar",
+        "lon" : 139.697699,
+        "lat" : 35.662483000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69769900000006,
+          35.662483000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "name" : "Club BALL",
+        "lon" : 139.697699,
+        "lat" : 35.662483000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69789500000002,
+          35.662481000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "name" : "R Lounge",
+        "lon" : 139.69789499999999,
+        "lat" : 35.662481
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69789500000002,
+          35.662481000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "name" : "STAR LOUNGE",
+        "lon" : 139.69789499999999,
+        "lat" : 35.662481
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69789500000002,
+          35.662481000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "name" : "Milkyway",
+        "lon" : 139.69789499999999,
+        "lat" : 35.662481
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69789500000002,
+          35.662481000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "name" : "shibuya THE GAME",
+        "lon" : 139.69789499999999,
+        "lat" : 35.662481
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69789500000002,
+          35.662481000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "name" : "CHELSEA HOTEL",
+        "lon" : 139.69789499999999,
+        "lat" : 35.662481
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69746300000008,
+          35.662364000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "name" : "ROOTS",
+        "lon" : 139.697463,
+        "lat" : 35.662363999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698939,
+          35.66211700000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "name" : "QUATTRO LABO",
+        "lon" : 139.698939,
+        "lat" : 35.662117000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69739600000003,
+          35.662009000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "name" : "CAFE&DINNER スタジオ",
+        "lon" : 139.697396,
+        "lat" : 35.662008999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69806500000004,
+          35.661759000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "name" : "CLUB VIZEL",
+        "lon" : 139.69806500000001,
+        "lat" : 35.661759000000004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69872400000008,
+          35.661491000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "name" : "WWW X",
+        "lon" : 139.698724,
+        "lat" : 35.661490999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69872400000008,
+          35.661491000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "name" : "WWW",
+        "lon" : 139.698724,
+        "lat" : 35.661490999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698533,
+          35.661459000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "name" : "JUMANJI 33",
+        "lon" : 139.698533,
+        "lat" : 35.661459000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698533,
+          35.661459000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "name" : "GARRET udagawa",
+        "lon" : 139.698533,
+        "lat" : 35.661459000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698533,
+          35.661459000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "name" : "CYCLONE",
+        "lon" : 139.698533,
+        "lat" : 35.661459000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70021600000007,
+          35.661167000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "name" : "GRANDE",
+        "lon" : 139.70021600000001,
+        "lat" : 35.661166999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69854400000008,
+          35.66111200000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "name" : "TK SHIBUYA",
+        "lon" : 139.698544,
+        "lat" : 35.661112000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69737300000008,
+          35.661085000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "name" : "TAKE OFF 7",
+        "lon" : 139.697373,
+        "lat" : 35.661085
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70445500000005,
+          35.661049000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "name" : "THE GUINGUETTE by MOJA",
+        "lon" : 139.704455,
+        "lat" : 35.661048999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70603000000006,
+          35.661035000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "name" : "INC COCKTAILS",
+        "lon" : 139.70603,
+        "lat" : 35.661034999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69668100000001,
+          35.660996000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "name" : "MILLIBAR",
+        "lon" : 139.69668100000001,
+        "lat" : 35.660995999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69756700000005,
+          35.660986000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "name" : "CLUB QUATTRO",
+        "lon" : 139.69756699999999,
+        "lat" : 35.660986000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.697992,
+          35.660892000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "name" : "Club Malcolm",
+        "lon" : 139.697992,
+        "lat" : 35.660891999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70571500000005,
+          35.660880000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "name" : "COZMO’S",
+        "lon" : 139.705715,
+        "lat" : 35.660879999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69742900000006,
+          35.660752000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "name" : "Veats Shibuya",
+        "lon" : 139.697429,
+        "lat" : 35.660752000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70508200000006,
+          35.660682000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "name" : "club bar FAMILY",
+        "lon" : 139.705082,
+        "lat" : 35.660682000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70495300000005,
+          35.66059000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "name" : "Shibuya HOME",
+        "lon" : 139.70495299999999,
+        "lat" : 35.660589999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70495300000005,
+          35.66059000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "name" : "LUSH",
+        "lon" : 139.70495299999999,
+        "lat" : 35.660589999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70294100000001,
+          35.66054500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "name" : "BLOODY ANGLE",
+        "lon" : 139.70294100000001,
+        "lat" : 35.660544999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69612400000005,
+          35.660117000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "name" : "EN SOF TOKYO",
+        "lon" : 139.696124,
+        "lat" : 35.660117
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70009300000004,
+          35.660030000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "name" : "GASPANIC Center-Gai",
+        "lon" : 139.70009300000001,
+        "lat" : 35.660029999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.695967,
+          35.660009000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "name" : "Studio Freedom",
+        "lon" : 139.695967,
+        "lat" : 35.660009000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.695967,
+          35.660009000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "name" : "DAIA",
+        "lon" : 139.695967,
+        "lat" : 35.660009000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.695967,
+          35.660009000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "name" : "Icon",
+        "lon" : 139.695967,
+        "lat" : 35.660009000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70095100000003,
+          35.659873000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "name" : "MAG7 (MAGNET by SHIBUYA109)",
+        "lon" : 139.700951,
+        "lat" : 35.659872999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69556299999999,
+          35.659725000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "name" : "しぶや花魁",
+        "lon" : 139.69556299999999,
+        "lat" : 35.659725000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7015090000001,
+          35.659683000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "name" : "DJ Bar&Lounge WREP",
+        "lon" : 139.70150899999999,
+        "lat" : 35.659683000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7015090000001,
+          35.659683000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "name" : "DJ BAR Bridge",
+        "lon" : 139.70150899999999,
+        "lat" : 35.659683000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7011510000001,
+          35.659625000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "name" : "Cafe & Bar SCRAMBLE",
+        "lon" : 139.70115100000001,
+        "lat" : 35.659624999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69539700000007,
+          35.659596000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "name" : "nob",
+        "lon" : 139.69539700000001,
+        "lat" : 35.659596000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69786500000009,
+          35.659578000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "name" : "Yellow Blank Market (YBM)",
+        "lon" : 139.69786500000001,
+        "lat" : 35.659578000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69765800000005,
+          35.659576000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "name" : "RUBY ROOM",
+        "lon" : 139.69765799999999,
+        "lat" : 35.659576000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69589600000006,
+          35.659568000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "name" : "RECORD BAR analog",
+        "lon" : 139.695896,
+        "lat" : 35.659568
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69828100000007,
+          35.659504000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "name" : "eplus LIVING ROOM CAFE&DINING",
+        "lon" : 139.69828100000001,
+        "lat" : 35.659503999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69602800000007,
+          35.659459000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "name" : "Mikkeller Tokyo",
+        "lon" : 139.69602800000001,
+        "lat" : 35.659458999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69638000000009,
+          35.659083000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "name" : "Good Wood Terrace",
+        "lon" : 139.69638,
+        "lat" : 35.659083000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69555200000002,
+          35.659000000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "name" : "LOUNGE NEO",
+        "lon" : 139.69555199999999,
+        "lat" : 35.658999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69555200000002,
+          35.659000000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "name" : "Glad",
+        "lon" : 139.69555199999999,
+        "lat" : 35.658999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69555200000002,
+          35.659000000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "name" : "VUENOS",
+        "lon" : 139.69555199999999,
+        "lat" : 35.658999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69532900000002,
+          35.658999000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "name" : "club asia",
+        "lon" : 139.69532899999999,
+        "lat" : 35.658999000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6949370000001,
+          35.658765000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "name" : "White Space Lab",
+        "lon" : 139.69493700000001,
+        "lat" : 35.658765000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69667000000004,
+          35.658750000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "name" : "THE WU DJ's bar",
+        "lon" : 139.69667000000001,
+        "lat" : 35.658749999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69566100000009,
+          35.658662000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "name" : "東間屋 (AZUMAYA)",
+        "lon" : 139.695661,
+        "lat" : 35.658662
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69566100000009,
+          35.658662000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "name" : "TSUTAYA O-Crest",
+        "lon" : 139.695661,
+        "lat" : 35.658662
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69566100000009,
+          35.658662000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "name" : "duo MUSIC EXCHANGE",
+        "lon" : 139.695661,
+        "lat" : 35.658662
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69566100000009,
+          35.658662000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "name" : "TSUTAYA O-EAST",
+        "lon" : 139.695661,
+        "lat" : 35.658662
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70918500000005,
+          35.658657000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "name" : "AOYAMA HACHI",
+        "lon" : 139.70918499999999,
+        "lat" : 35.658656999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70918500000005,
+          35.658657000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "name" : "Aoyama Tunnel",
+        "lon" : 139.70918499999999,
+        "lat" : 35.658656999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70918500000005,
+          35.658657000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "name" : "RED BAR",
+        "lon" : 139.70918499999999,
+        "lat" : 35.658656999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69528100000002,
+          35.658506000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "name" : "TSUTAYA O-nest",
+        "lon" : 139.69528099999999,
+        "lat" : 35.658506000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69528100000002,
+          35.658506000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "name" : "TSUTAYA O-WEST",
+        "lon" : 139.69528099999999,
+        "lat" : 35.658506000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69528100000002,
+          35.658506000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "name" : "7th FLOOR",
+        "lon" : 139.69528099999999,
+        "lat" : 35.658506000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69508000000008,
+          35.658437000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "name" : "WOMB",
+        "lon" : 139.69507999999999,
+        "lat" : 35.658436999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69508000000008,
+          35.658437000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "name" : "WOMB LOUNGE",
+        "lon" : 139.69507999999999,
+        "lat" : 35.658436999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69571400000007,
+          35.65836500000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "name" : "beat cafe",
+        "lon" : 139.69571400000001,
+        "lat" : 35.658365000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69571400000007,
+          35.65836500000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "name" : "SHIBUYA DESEO",
+        "lon" : 139.69571400000001,
+        "lat" : 35.658365000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69778300000007,
+          35.658348000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "name" : "Contact",
+        "lon" : 139.69778299999999,
+        "lat" : 35.658347999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69526800000006,
+          35.658298000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "name" : "ATOM TOKYO",
+        "lon" : 139.695268,
+        "lat" : 35.658298000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69526800000006,
+          35.658298000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "name" : "HARLEM",
+        "lon" : 139.695268,
+        "lat" : 35.658298000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69526800000006,
+          35.658298000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "name" : "A BAR",
+        "lon" : 139.695268,
+        "lat" : 35.658298000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69707300000005,
+          35.658190000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "name" : "SOUND MUSEUM VISION",
+        "lon" : 139.69707299999999,
+        "lat" : 35.658189999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69924300000002,
+          35.657849000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "name" : "ZUBAR",
+        "lon" : 139.699243,
+        "lat" : 35.657848999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69917600000008,
+          35.657755000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "name" : "OATH",
+        "lon" : 139.69917599999999,
+        "lat" : 35.657755000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69908100000009,
+          35.657740000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "name" : "Bar Music",
+        "lon" : 139.69908100000001,
+        "lat" : 35.657739999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70785000000001,
+          35.657688000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "name" : "Violetta",
+        "lon" : 139.70785000000001,
+        "lat" : 35.657688
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70785000000001,
+          35.657688000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "name" : "Test Flight",
+        "lon" : 139.70785000000001,
+        "lat" : 35.657688
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6985810000001,
+          35.657575000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "name" : "NOSTYLE",
+        "lon" : 139.69858099999999,
+        "lat" : 35.657575000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69861600000002,
+          35.657506000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "name" : "Rockin Cafe Shibuya GABIGABI",
+        "lon" : 139.69861599999999,
+        "lat" : 35.657505999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6969150000001,
+          35.657464000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "name" : "SHIBUYA REX",
+        "lon" : 139.69691499999999,
+        "lat" : 35.657463999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69770700000004,
+          35.657326000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "name" : "La.mama",
+        "lon" : 139.69770700000001,
+        "lat" : 35.657325999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.696958,
+          35.657206000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "name" : "Edge End",
+        "lon" : 139.696958,
+        "lat" : 35.657206000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70378500000004,
+          35.657173000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "name" : "OTO",
+        "lon" : 139.70378500000001,
+        "lat" : 35.657173
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7032210000001,
+          35.65716400000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "name" : "Bar&Dining TORRENT",
+        "lon" : 139.70322100000001,
+        "lat" : 35.657164000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69710100000009,
+          35.657051000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "name" : "LAUREL TOKYO",
+        "lon" : 139.697101,
+        "lat" : 35.657051000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69554500000004,
+          35.657040000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "name" : "Dimension",
+        "lon" : 139.69554500000001,
+        "lat" : 35.657040000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.697136,
+          35.656911000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "name" : "GUILTY",
+        "lon" : 139.697136,
+        "lat" : 35.656911000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70111600000007,
+          35.656809000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "name" : "RUIDO K2",
+        "lon" : 139.70111600000001,
+        "lat" : 35.656809000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69576700000005,
+          35.656583000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "name" : "翠月",
+        "lon" : 139.69576699999999,
+        "lat" : 35.656582999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69752400000004,
+          35.656557000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "name" : "Music Bar Boogie Back",
+        "lon" : 139.69752399999999,
+        "lat" : 35.656556999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70160500000009,
+          35.656457000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "name" : "THE ROOM",
+        "lon" : 139.701605,
+        "lat" : 35.656457000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70107800000005,
+          35.656400000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "name" : "Woodstock",
+        "lon" : 139.701078,
+        "lat" : 35.656399999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69932800000004,
+          35.656358000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "name" : "JZ Brat SOUND OF TOKYO",
+        "lon" : 139.69932800000001,
+        "lat" : 35.656357999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70110700000009,
+          35.65623700000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "name" : "Bar star star",
+        "lon" : 139.70110700000001,
+        "lat" : 35.656236999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70547500000009,
+          35.655931000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "name" : "POINT･66",
+        "lon" : 139.70547500000001,
+        "lat" : 35.655931000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7084440000001,
+          35.654631000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "name" : "CLUB CRAWL",
+        "lon" : 139.70844399999999,
+        "lat" : 35.654631000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70558100000005,
+          35.654165000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "name" : "CIRCUS TOKYO",
+        "lon" : 139.705581,
+        "lat" : 35.654164999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7090300000001,
+          35.653370000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "name" : "dining&bar KITSUNE",
+        "lon" : 139.70903000000001,
+        "lat" : 35.653370000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70454000000007,
+          35.653308000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "name" : "SPACE ODD",
+        "lon" : 139.70454000000001,
+        "lat" : 35.653308000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.704297,
+          35.652048000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "name" : "NOMAD",
+        "lon" : 139.704297,
+        "lat" : 35.652048000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70878500000003,
+          35.651670000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "name" : "Suree",
+        "lon" : 139.70878500000001,
+        "lat" : 35.651670000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70949000000007,
+          35.651345000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "name" : "自由空間 CreAto",
+        "lon" : 139.70948999999999,
+        "lat" : 35.651344999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69676600000003,
+          35.651117000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "name" : "LIVE HOUSE LOOP 代官山",
+        "lon" : 139.696766,
+        "lat" : 35.651116999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70371,
+          35.650924000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "name" : "Debris",
+        "lon" : 139.70371,
+        "lat" : 35.650924000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70725100000004,
+          35.649159000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "name" : "enjoy!house",
+        "lon" : 139.70725100000001,
+        "lat" : 35.649158999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.710646,
+          35.64914200000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "name" : "LIQUIDROOM",
+        "lon" : 139.710646,
+        "lat" : 35.649141999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.710646,
+          35.64914200000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "name" : "KATA",
+        "lon" : 139.710646,
+        "lat" : 35.649141999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.710646,
+          35.64914200000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "name" : "TimeOut Caf・& Diner",
+        "lon" : 139.710646,
+        "lat" : 35.649141999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70226200000002,
+          35.64808000000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "name" : "晴れたら空に豆まいて",
+        "lon" : 139.70226199999999,
+        "lat" : 35.64808
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70838000000003,
+          35.647776000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "name" : "INDUSTRIAL LOUNGE",
+        "lon" : 139.70838000000001,
+        "lat" : 35.647776
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70793100000003,
+          35.647624000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "name" : "What the Dickens",
+        "lon" : 139.707931,
+        "lat" : 35.647624
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70248500000002,
+          35.647032000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "name" : "B1FLAT",
+        "lon" : 139.702485,
+        "lat" : 35.647032000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70248500000002,
+          35.647032000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "name" : "SALOON",
+        "lon" : 139.702485,
+        "lat" : 35.647032000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70248500000002,
+          35.647032000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "name" : "UNIT",
+        "lon" : 139.702485,
+        "lat" : 35.647032000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70631100000003,
+          35.646049000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 246,
+        "name" : "Batica",
+        "lon" : 139.706311,
+        "lat" : 35.646048999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70687000000009,
+          35.645792000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 247,
+        "name" : "Cafe&Dining nurikabe",
+        "lon" : 139.70687000000001,
+        "lat" : 35.645792
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70748400000002,
+          35.645527000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 248,
+        "name" : "NOS EBISU",
+        "lon" : 139.70748399999999,
+        "lat" : 35.645527000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70787200000007,
+          35.645380000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 249,
+        "name" : "LIFE IS BEAUTIFUL",
+        "lon" : 139.70787200000001,
+        "lat" : 35.645380000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.714744,
+          35.645050000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 250,
+        "name" : "club aim",
+        "lon" : 139.714744,
+        "lat" : 35.645049999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70031140000003,
+          35.657654500000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 251,
+        "name" : "CE LA VI TOKYO",
+        "lon" : 139.7003114,
+        "lat" : 35.6576545
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70386370000006,
+          35.66423860000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 252,
+        "name" : "TRUNK (LOUNGE)",
+        "lon" : 139.7038637,
+        "lat" : 35.664238599999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7076366,
+          35.660863100000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 253,
+        "name" : "0 Zero",
+        "lon" : 139.7076366,
+        "lat" : 35.6608631
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73677200000009,
+          35.676856000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 254,
+        "name" : "鶴千",
+        "lon" : 139.736772,
+        "lat" : 35.676856000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73588900000004,
+          35.676447000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 255,
+        "name" : "Graffiti",
+        "lon" : 139.73588899999999,
+        "lat" : 35.676447000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73633800000005,
+          35.676186000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 256,
+        "name" : "Bar Luther",
+        "lon" : 139.73633799999999,
+        "lat" : 35.676186000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73756500000002,
+          35.674585000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 257,
+        "name" : "CRAWFISH",
+        "lon" : 139.73756499999999,
+        "lat" : 35.674585
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73732300000006,
+          35.674081000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 258,
+        "name" : "The Great Journey",
+        "lon" : 139.737323,
+        "lat" : 35.674081000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73643800000002,
+          35.673189000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 259,
+        "name" : "P.C.A. PUB CARDINAL AKASAKA",
+        "lon" : 139.73643799999999,
+        "lat" : 35.673189000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73787400000003,
+          35.672886000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 260,
+        "name" : "CLUB TENJIKU",
+        "lon" : 139.73787400000001,
+        "lat" : 35.672885999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72173000000009,
+          35.672305000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 261,
+        "name" : "青山RizM",
+        "lon" : 139.72173000000001,
+        "lat" : 35.672305000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73300700000004,
+          35.669838000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 262,
+        "name" : "dot & blue",
+        "lon" : 139.73300699999999,
+        "lat" : 35.669837999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72678300000007,
+          35.66815500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 263,
+        "name" : "Club CACTUS",
+        "lon" : 139.72678300000001,
+        "lat" : 35.668154999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71815000000004,
+          35.667349000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 264,
+        "name" : "月見ル君想フ",
+        "lon" : 139.71815000000001,
+        "lat" : 35.667349000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7129900000001,
+          35.665245000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 265,
+        "name" : "VENT",
+        "lon" : 139.71298999999999,
+        "lat" : 35.665244999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7129900000001,
+          35.665245000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 266,
+        "name" : "cafe ATLANTIS",
+        "lon" : 139.71298999999999,
+        "lat" : 35.665244999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73263200000008,
+          35.665074000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 267,
+        "name" : "atomage",
+        "lon" : 139.732632,
+        "lat" : 35.665073999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7297870000001,
+          35.664895000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 268,
+        "name" : "SEL OCTAGON TOKYO",
+        "lon" : 139.72978699999999,
+        "lat" : 35.664895000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72855500000003,
+          35.664645000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 269,
+        "name" : "Funky D",
+        "lon" : 139.728555,
+        "lat" : 35.664645
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73155800000006,
+          35.664228000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 270,
+        "name" : "morph-tokyo",
+        "lon" : 139.73155800000001,
+        "lat" : 35.664228000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73052600000005,
+          35.66402400000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 271,
+        "name" : "V2 TOKYO",
+        "lon" : 139.730526,
+        "lat" : 35.664023999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73052600000005,
+          35.66402400000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 272,
+        "name" : "VILLA TOKYO",
+        "lon" : 139.730526,
+        "lat" : 35.664023999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73085400000002,
+          35.663792000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 273,
+        "name" : "R2 SUPPERCLUB",
+        "lon" : 139.73085399999999,
+        "lat" : 35.663792000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73143200000004,
+          35.663719000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 274,
+        "name" : "TOKYO R Bar&Cafe",
+        "lon" : 139.73143200000001,
+        "lat" : 35.663719
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71175800000003,
+          35.663577000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 275,
+        "name" : "CAY",
+        "lon" : 139.711758,
+        "lat" : 35.663576999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73186100000009,
+          35.663334000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 276,
+        "name" : "GERONIMO SHOT BAR",
+        "lon" : 139.73186100000001,
+        "lat" : 35.663333999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73421900000005,
+          35.663308000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 277,
+        "name" : "ZEUS GARDEN",
+        "lon" : 139.734219,
+        "lat" : 35.663308000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73421900000005,
+          35.663308000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 278,
+        "name" : "ZEN TOKYO",
+        "lon" : 139.734219,
+        "lat" : 35.663308000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.732936,
+          35.663276000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 279,
+        "name" : "RAKAN TOKYO",
+        "lon" : 139.732936,
+        "lat" : 35.663276000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73339700000008,
+          35.663169000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 280,
+        "name" : "NEW PLANET TOKYO",
+        "lon" : 139.733397,
+        "lat" : 35.663169000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73339700000008,
+          35.663169000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 281,
+        "name" : "JUMANJI 55",
+        "lon" : 139.733397,
+        "lat" : 35.663169000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73308300000008,
+          35.663099000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 282,
+        "name" : "IBEX TOKYO",
+        "lon" : 139.73308299999999,
+        "lat" : 35.663099000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73308300000008,
+          35.663099000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 283,
+        "name" : "Motown House",
+        "lon" : 139.73308299999999,
+        "lat" : 35.663099000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73308300000008,
+          35.663099000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 284,
+        "name" : "Sheyda BAR",
+        "lon" : 139.73308299999999,
+        "lat" : 35.663099000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73383000000001,
+          35.66290500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 285,
+        "name" : "New Lex Tokyo (Lex Tokyo)",
+        "lon" : 139.73383000000001,
+        "lat" : 35.662905000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73383000000001,
+          35.66290500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 286,
+        "name" : "MAGNET",
+        "lon" : 139.73383000000001,
+        "lat" : 35.662905000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73404400000004,
+          35.662903000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 287,
+        "name" : "THE NEW MATRIX BAR",
+        "lon" : 139.73404400000001,
+        "lat" : 35.662903
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73350700000003,
+          35.662856000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 288,
+        "name" : "88 STREET BAR",
+        "lon" : 139.733507,
+        "lat" : 35.662855999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73368600000003,
+          35.662771000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 289,
+        "name" : "Padi’s Tokyo",
+        "lon" : 139.73368600000001,
+        "lat" : 35.662770999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71098900000004,
+          35.66274100000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 290,
+        "name" : "fai aoyama",
+        "lon" : 139.71098900000001,
+        "lat" : 35.662740999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73223200000007,
+          35.662727000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 291,
+        "name" : "MAHARAJA",
+        "lon" : 139.73223200000001,
+        "lat" : 35.662726999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73544500000003,
+          35.662707000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 292,
+        "name" : "LINE CLUB",
+        "lon" : 139.735445,
+        "lat" : 35.662706999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73544500000003,
+          35.662707000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 293,
+        "name" : "Two Dogs Taproom",
+        "lon" : 139.735445,
+        "lat" : 35.662706999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73544500000003,
+          35.662707000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 294,
+        "name" : "EL CAFE LATINO",
+        "lon" : 139.735445,
+        "lat" : 35.662706999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73315200000002,
+          35.662618000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 295,
+        "name" : "ESPRIT TOKYO",
+        "lon" : 139.73315199999999,
+        "lat" : 35.662618000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73400700000002,
+          35.662618000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 296,
+        "name" : "mint",
+        "lon" : 139.73400699999999,
+        "lat" : 35.662618000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73492500000009,
+          35.662572000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 297,
+        "name" : "Seven Tokyo",
+        "lon" : 139.734925,
+        "lat" : 35.662571999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73492500000009,
+          35.662572000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 298,
+        "name" : "7Sense",
+        "lon" : 139.734925,
+        "lat" : 35.662571999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73322900000005,
+          35.662546000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 299,
+        "name" : "MEZZO TOKYO",
+        "lon" : 139.73322899999999,
+        "lat" : 35.662545999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73436900000002,
+          35.662532000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 300,
+        "name" : "BLACK HORSE",
+        "lon" : 139.73436899999999,
+        "lat" : 35.662531999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 301,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71205000000009,
+          35.662516000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 301,
+        "name" : "Le Donjon M",
+        "lon" : 139.71205,
+        "lat" : 35.662515999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 302,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73485700000003,
+          35.662447000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 302,
+        "name" : "SONIDO’S BAR",
+        "lon" : 139.73485700000001,
+        "lat" : 35.662447
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 303,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73524900000007,
+          35.662357000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 303,
+        "name" : "ODEON TOKYO",
+        "lon" : 139.73524900000001,
+        "lat" : 35.662357
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 304,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73524900000007,
+          35.662357000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 304,
+        "name" : "MILWAUKEE BAR",
+        "lon" : 139.73524900000001,
+        "lat" : 35.662357
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 305,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73524900000007,
+          35.662357000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 305,
+        "name" : "jokers Bar",
+        "lon" : 139.73524900000001,
+        "lat" : 35.662357
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 306,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73517900000002,
+          35.662199000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 306,
+        "name" : "JP Bar",
+        "lon" : 139.73517899999999,
+        "lat" : 35.662199000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 307,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73328300000003,
+          35.66208800000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 307,
+        "name" : "Bar Quest",
+        "lon" : 139.733283,
+        "lat" : 35.662087999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 308,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73300200000006,
+          35.661955000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 308,
+        "name" : "Electrik神社",
+        "lon" : 139.733002,
+        "lat" : 35.661954999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 309,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73546800000008,
+          35.661699000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 309,
+        "name" : "THE FIRST HOUSE",
+        "lon" : 139.735468,
+        "lat" : 35.661698999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 310,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.712354,
+          35.661697000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 310,
+        "name" : "IDOL",
+        "lon" : 139.712354,
+        "lat" : 35.661696999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 311,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73534300000006,
+          35.661585000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 311,
+        "name" : "F.Y.B TOKYO",
+        "lon" : 139.735343,
+        "lat" : 35.661585000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 312,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72341000000006,
+          35.661313000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 312,
+        "name" : "Trip Bar",
+        "lon" : 139.72341,
+        "lat" : 35.661313
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 313,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73725300000001,
+          35.661209000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 313,
+        "name" : "VARIT.",
+        "lon" : 139.73725300000001,
+        "lat" : 35.661208999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 314,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71623700000009,
+          35.66120200000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 314,
+        "name" : "BLUE NOTE TOKYO",
+        "lon" : 139.71623700000001,
+        "lat" : 35.661202000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 315,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73697600000003,
+          35.660963000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 315,
+        "name" : "Club EDGE",
+        "lon" : 139.736976,
+        "lat" : 35.660963000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 316,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71561300000008,
+          35.660861000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 316,
+        "name" : "ever",
+        "lon" : 139.71561299999999,
+        "lat" : 35.660860999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 317,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72624600000006,
+          35.660846000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 317,
+        "name" : "A-LIFE",
+        "lon" : 139.726246,
+        "lat" : 35.660845999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 318,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72746200000006,
+          35.660752000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 318,
+        "name" : "SuperDeluxe",
+        "lon" : 139.727462,
+        "lat" : 35.660752000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 319,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72581700000001,
+          35.660709000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 319,
+        "name" : "新世界",
+        "lon" : 139.72581700000001,
+        "lat" : 35.660708999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 320,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73897600000009,
+          35.660563000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 320,
+        "name" : "CUBE",
+        "lon" : 139.73897600000001,
+        "lat" : 35.660563000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 321,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.725055,
+          35.660465000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 321,
+        "name" : "PULPLISM",
+        "lon" : 139.725055,
+        "lat" : 35.660465000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 322,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72923300000002,
+          35.660448000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 322,
+        "name" : "TUSK",
+        "lon" : 139.72923299999999,
+        "lat" : 35.660448000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 323,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72776600000009,
+          35.660156000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 323,
+        "name" : "BASECAMP",
+        "lon" : 139.727766,
+        "lat" : 35.660156000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 324,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72409700000003,
+          35.660105000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 324,
+        "name" : "BAR BLUE",
+        "lon" : 139.724097,
+        "lat" : 35.660105000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 325,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73228600000004,
+          35.659817000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 325,
+        "name" : "THE PUBLIC SIX",
+        "lon" : 139.73228599999999,
+        "lat" : 35.659816999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 326,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71721200000002,
+          35.659445000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 326,
+        "name" : "REDSHOES",
+        "lon" : 139.71721199999999,
+        "lat" : 35.659444999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 327,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72320200000001,
+          35.659372000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 327,
+        "name" : "西麻布MUSE",
+        "lon" : 139.72320199999999,
+        "lat" : 35.659371999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 328,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71521600000005,
+          35.659370000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 328,
+        "name" : "Future SEVEN",
+        "lon" : 139.715216,
+        "lat" : 35.659370000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 329,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73253700000009,
+          35.659250000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 329,
+        "name" : "1OAK Tokyo",
+        "lon" : 139.73253700000001,
+        "lat" : 35.65925
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 330,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73529100000007,
+          35.656938000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 330,
+        "name" : "1OAK TOKYO",
+        "lon" : 139.73529099999999,
+        "lat" : 35.656937999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 331,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73529100000007,
+          35.656938000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 331,
+        "name" : "ELE TOKYO",
+        "lon" : 139.73529099999999,
+        "lat" : 35.656937999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 332,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73336800000004,
+          35.656457000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 332,
+        "name" : "The Beach Lounge",
+        "lon" : 139.73336800000001,
+        "lat" : 35.656457000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 333,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.734737,
+          35.655530000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 333,
+        "name" : "Cafe del A.R.M",
+        "lon" : 139.734737,
+        "lat" : 35.655529999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 334,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.760402,
+          35.650572000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 334,
+        "name" : "JICOO",
+        "lon" : 139.760402,
+        "lat" : 35.650571999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 335,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74499200000002,
+          35.644637000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 335,
+        "name" : "GUARDIAN DININGBAR & SOUL",
+        "lon" : 139.744992,
+        "lat" : 35.644637000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 336,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7354630000001,
+          35.628047000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 336,
+        "name" : "TABLE 9 TOKYO (NINE BAR)",
+        "lon" : 139.73546300000001,
+        "lat" : 35.628047000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 337,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76187990000005,
+          35.656884600000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 337,
+        "name" : "BANK30",
+        "lon" : 139.7618799,
+        "lat" : 35.656884599999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 338,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72689720000005,
+          35.670307800000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 338,
+        "name" : "EDITION",
+        "lon" : 139.7268972,
+        "lat" : 35.670307800000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 339,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.82652400000006,
+          35.695415000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 339,
+        "name" : "Charlie",
+        "lon" : 139.82652400000001,
+        "lat" : 35.695414999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 340,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.825287,
+          35.642184000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 340,
+        "name" : "ageHa",
+        "lon" : 139.825287,
+        "lat" : 35.642184
+      }
+    }
+  ]
+}

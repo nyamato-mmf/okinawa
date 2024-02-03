@@ -1,0 +1,2453 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73418900000001,
+          35.65753200000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.657532000000003,
+        "lon" : 139.73418899999999,
+        "name" : "駐日シンガポール共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73553450000009,
+          35.660097000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.660097,
+        "lon" : 139.7355345,
+        "name" : "駐日フィリピン共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74183900000003,
+          35.664687000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.664687000000001,
+        "lon" : 139.741839,
+        "name" : "駐日スウェーデン王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74151500000005,
+          35.665614000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.665613999999998,
+        "lon" : 139.74151499999999,
+        "name" : "駐日スペイン王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.739238,
+          35.663265000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.663265000000003,
+        "lon" : 139.739238,
+        "name" : "駐日サウジアラビア王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7595060000001,
+          35.674560000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.67456,
+        "lon" : 139.75950599999999,
+        "name" : "在東京キプロス共和国名誉総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74037200000009,
+          35.659935000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.659934999999997,
+        "lon" : 139.74037200000001,
+        "name" : "駐日ナミビア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.741308,
+          35.659431000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.659430999999998,
+        "lon" : 139.741308,
+        "name" : "駐日ロシア連邦大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74261750000005,
+          35.659179000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.659179000000002,
+        "lon" : 139.74261749999999,
+        "name" : "駐日フィジー共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74218100000007,
+          35.658180000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.658180000000002,
+        "lon" : 139.74218099999999,
+        "name" : "駐日アフガニスタン・イスラム共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7425995000001,
+          35.659728000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.659728000000001,
+        "lon" : 139.74259950000001,
+        "name" : "駐日モルディブ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7415555,
+          35.660088000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.660088000000002,
+        "lon" : 139.7415555,
+        "name" : "駐日カザフスタン共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7425995000001,
+          35.659728000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.659728000000001,
+        "lon" : 139.74259950000001,
+        "name" : "駐日トンガ王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71454200000005,
+          35.670852000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.670851999999996,
+        "lon" : 139.71454199999999,
+        "name" : "駐日ブラジル連邦共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74498000000006,
+          35.697807000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.697806999999997,
+        "lon" : 139.74498,
+        "name" : "駐日東ティモール民主共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698216,
+          35.652258000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.652258000000003,
+        "lon" : 139.698216,
+        "name" : "駐日ウガンダ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69674450000002,
+          35.651736000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.651736,
+        "lon" : 139.69674449999999,
+        "name" : "駐日ギニア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72008600000004,
+          35.641377000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.641376999999999,
+        "lon" : 139.72008600000001,
+        "name" : "駐日ジンバブエ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.726089,
+          35.638119000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.638119000000003,
+        "lon" : 139.726089,
+        "name" : "駐日エリトリア国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72743000000003,
+          35.640594000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.640594,
+        "lon" : 139.72743,
+        "name" : "駐日リベリア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77798749999999,
+          35.671923000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.671923,
+        "lon" : 139.77798749999999,
+        "name" : "駐日サモア独立国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77382950000003,
+          35.681337000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.681336999999999,
+        "lon" : 139.77382950000001,
+        "name" : "在東京ルクセンブルク大公国名誉総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73589450000009,
+          35.685090000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.685090000000002,
+        "lon" : 139.7358945,
+        "name" : "駐日ベルギー王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73589450000009,
+          35.685090000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.685090000000002,
+        "lon" : 139.7358945,
+        "name" : "在東京ベルギー王国総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73733000000004,
+          35.685846000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.685845999999998,
+        "lon" : 139.73732999999999,
+        "name" : "駐日イスラエル国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72360500000002,
+          35.653644000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.653644,
+        "lon" : 139.72360499999999,
+        "name" : "駐日スイス大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72369050000009,
+          35.652906000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.652906000000002,
+        "lon" : 139.7236905,
+        "name" : "駐日ノルウェー王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72450050000009,
+          35.653554000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.653554,
+        "lon" : 139.7245005,
+        "name" : "駐日ボスニア・ヘルツェゴビナ大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.728069,
+          35.650188000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.650188,
+        "lon" : 139.728069,
+        "name" : "駐日パキスタン・イスラム共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72470750000002,
+          35.65053000000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.650530000000003,
+        "lon" : 139.72470749999999,
+        "name" : "駐日ドイツ連邦共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72623750000002,
+          35.647218000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.647218000000002,
+        "lon" : 139.7262375,
+        "name" : "駐日フランス大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72891950000007,
+          35.649936000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.649935999999997,
+        "lon" : 139.72891949999999,
+        "name" : "駐日コンゴ民主共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7287305000001,
+          35.650188000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.650188,
+        "lon" : 139.72873050000001,
+        "name" : "駐日フィンランド大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73135400000001,
+          35.648064000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.648063999999998,
+        "lon" : 139.73135400000001,
+        "name" : "駐日イラン・イスラム共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73279400000001,
+          35.651988000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.651988000000003,
+        "lon" : 139.73279400000001,
+        "name" : "駐日大韓民国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7318130000001,
+          35.650476000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.650475999999998,
+        "lon" : 139.73181299999999,
+        "name" : "在東京アイスランド共和国名誉総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73238450000008,
+          35.650242000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.650241999999999,
+        "lon" : 139.73238449999999,
+        "name" : "在東京バルバドス名誉領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69548000000009,
+          35.652276000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.652276000000001,
+        "lon" : 139.69548,
+        "name" : "駐日マレーシア大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69655550000004,
+          35.653869000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.653869,
+        "lon" : 139.69655549999999,
+        "name" : "駐日アラブ首長国連邦大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71730050000008,
+          35.656704000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.656703999999998,
+        "lon" : 139.71730049999999,
+        "name" : "駐日スロベニア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.711365,
+          35.66299500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.662995000000002,
+        "lon" : 139.711365,
+        "name" : "在東京コモロ連合名誉領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7142765000001,
+          35.662194000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.662194,
+        "lon" : 139.71427650000001,
+        "name" : "駐日モロッコ王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.754232,
+          35.670960000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.670960000000001,
+        "lon" : 139.754232,
+        "name" : "在東京モンテネグロ名誉領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74135750000005,
+          35.656569000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.656568999999998,
+        "lon" : 139.74135749999999,
+        "name" : "駐日パラオ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74166350000007,
+          35.656317000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.656317000000001,
+        "lon" : 139.74166349999999,
+        "name" : "駐日パナマ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74166350000007,
+          35.656317000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.656317000000001,
+        "lon" : 139.74166349999999,
+        "name" : "在東京パナマ共和国総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7439495000001,
+          35.655435000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.655434999999997,
+        "lon" : 139.74394950000001,
+        "name" : "駐日キューバ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7135115000001,
+          35.654760000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.654760000000003,
+        "lon" : 139.71351150000001,
+        "name" : "在東京サントメ・プリンシペ民主共和国名誉領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71025350000002,
+          35.653797000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.653796999999997,
+        "lon" : 139.71025349999999,
+        "name" : "駐日トルクメニスタン大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77255150000008,
+          35.664984000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.664983999999997,
+        "lon" : 139.77255149999999,
+        "name" : "駐日アルバニア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67756550000001,
+          35.669106000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.669105999999999,
+        "lon" : 139.67756549999999,
+        "name" : "駐日ブルキナファソ大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69049400000006,
+          35.673615000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.673614999999998,
+        "lon" : 139.690494,
+        "name" : "駐日ブルガリア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70464650000008,
+          35.650935000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.650934999999997,
+        "lon" : 139.7046465,
+        "name" : "駐日リビア大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72876650000001,
+          35.67131100000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.671311000000003,
+        "lon" : 139.72876650000001,
+        "name" : "駐日カンボジア王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73000850000005,
+          35.67210300000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.672103,
+        "lon" : 139.7300085,
+        "name" : "駐日レソト王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72902750000003,
+          35.672850000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.672849999999997,
+        "lon" : 139.7290275,
+        "name" : "駐日カナダ大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73322600000006,
+          35.667684000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.667684000000001,
+        "lon" : 139.733226,
+        "name" : "駐日シリア・アラブ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7387655,
+          35.670294000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.670293999999998,
+        "lon" : 139.7387655,
+        "name" : "在東京シエラレオネ共和国名誉総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7387655,
+          35.670294000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.670293999999998,
+        "lon" : 139.7387655,
+        "name" : "在東京コソボ共和国名誉総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74169500000005,
+          35.66871000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.668709999999997,
+        "lon" : 139.74169499999999,
+        "name" : "駐日アルメニア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74169500000005,
+          35.66871000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.668709999999997,
+        "lon" : 139.74169499999999,
+        "name" : "駐日ジョージア大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74185250000005,
+          35.667180000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.667180000000002,
+        "lon" : 139.74185249999999,
+        "name" : "駐日ミクロネシア連邦大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74169500000005,
+          35.66871000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.668709999999997,
+        "lon" : 139.74169499999999,
+        "name" : "駐日バーレーン王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74169500000005,
+          35.66871000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.668709999999997,
+        "lon" : 139.74169499999999,
+        "name" : "駐日レバノン共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74324300000001,
+          35.668917000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.668917,
+        "lon" : 139.74324300000001,
+        "name" : "駐日アメリカ合衆国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日イエメン共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日ウルグアイ東方共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日エクアドル共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日エルサルバドル共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日グアテマラ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日コスタリカ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日ドミニカ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "在東京ドミニカ共和国総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日ニカラグア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日ハイチ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "在東京ハイチ共和国総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日ベネズエラ・ボリバル共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日ボリビア多民族国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72181850000004,
+          35.659197000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.659196999999999,
+        "lon" : 139.72181850000001,
+        "name" : "駐日ホンジュラス共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72688550000009,
+          35.658162000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.658161999999997,
+        "lon" : 139.72688550000001,
+        "name" : "駐日ラオス人民民主共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72519800000009,
+          35.65712700000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.657127000000003,
+        "lon" : 139.72519800000001,
+        "name" : "駐日ウクライナ大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72603500000002,
+          35.658342000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.658341999999998,
+        "lon" : 139.726035,
+        "name" : "駐日ギリシャ大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72446450000007,
+          35.657937000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.657936999999997,
+        "lon" : 139.72446450000001,
+        "name" : "駐日ルーマニア大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72543200000007,
+          35.661690000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.66169,
+        "lon" : 139.72543200000001,
+        "name" : "駐日ガーナ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6878435000001,
+          35.69166000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.691659999999999,
+        "lon" : 139.68784350000001,
+        "name" : "在東京ツバル名誉総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68571500000007,
+          35.689059000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.689059,
+        "lon" : 139.68571499999999,
+        "name" : "駐日ベリーズ大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75079850000009,
+          35.664462000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.664462,
+        "lon" : 139.7507985,
+        "name" : "駐日コソボ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75079850000009,
+          35.664462000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.664462,
+        "lon" : 139.7507985,
+        "name" : "駐日マーシャル諸島共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68915750000008,
+          35.662230000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.662230000000001,
+        "lon" : 139.68915749999999,
+        "name" : "駐日モンゴル国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68836550000003,
+          35.663508000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.663508,
+        "lon" : 139.6883655,
+        "name" : "駐日コンゴ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6911960000001,
+          35.665200000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.665199999999999,
+        "lon" : 139.69119599999999,
+        "name" : "駐日ラトビア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69054800000004,
+          35.66333700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.663336999999999,
+        "lon" : 139.69054800000001,
+        "name" : "駐日ニュージーランド大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69279800000004,
+          35.663076000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.663075999999997,
+        "lon" : 139.69279800000001,
+        "name" : "駐日イラク共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69168200000001,
+          35.66439900000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.664399000000003,
+        "lon" : 139.69168199999999,
+        "name" : "駐日ヨルダン・ハシェミット王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71167550000007,
+          35.673012000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.673012,
+        "lon" : 139.71167550000001,
+        "name" : "駐日エストニア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70856150000009,
+          35.673291000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "lat" : 35.673290999999999,
+        "lon" : 139.7085615,
+        "name" : "駐日トルコ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68262800000002,
+          35.664588000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "lat" : 35.664588000000002,
+        "lon" : 139.68262799999999,
+        "name" : "駐日コートジボワール共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74582600000008,
+          35.661744000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "lat" : 35.661743999999999,
+        "lon" : 139.74582599999999,
+        "name" : "駐日オランダ王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75092900000004,
+          35.64872100000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "lat" : 35.648721000000002,
+        "lon" : 139.75092900000001,
+        "name" : "駐日ボツワナ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74929550000002,
+          35.652015000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "lat" : 35.652014999999999,
+        "lon" : 139.74929549999999,
+        "name" : "在東京ブータン王国名誉総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74560550000001,
+          35.654193000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "lat" : 35.654192999999999,
+        "lon" : 139.74560550000001,
+        "name" : "駐日チリ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74560550000001,
+          35.654193000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "lat" : 35.654192999999999,
+        "lon" : 139.74560550000001,
+        "name" : "在東京チリ共和国総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73735250000004,
+          35.689779000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "lat" : 35.689779000000001,
+        "lon" : 139.73735249999999,
+        "name" : "駐日ルクセンブルク大公国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.741848,
+          35.689716000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "lat" : 35.689715999999997,
+        "lon" : 139.741848,
+        "name" : "駐日バチカン（ローマ法王庁）大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74151950000009,
+          35.645310000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "lat" : 35.645310000000002,
+        "lon" : 139.74151950000001,
+        "name" : "駐日クウェート国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74251400000003,
+          35.650710000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "lat" : 35.650709999999997,
+        "lon" : 139.742514,
+        "name" : "駐日イタリア大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74104700000009,
+          35.648478000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "lat" : 35.648477999999997,
+        "lon" : 139.74104700000001,
+        "name" : "駐日ハンガリー大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73923350000007,
+          35.651898000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "lat" : 35.651898000000003,
+        "lon" : 139.73923350000001,
+        "name" : "駐日オーストラリア大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7402055,
+          35.653401000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "lat" : 35.653401000000002,
+        "lon" : 139.7402055,
+        "name" : "駐日キルギス共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73902200000009,
+          35.685531000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "lat" : 35.685530999999997,
+        "lon" : 139.73902200000001,
+        "name" : "駐日ポルトガル大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74058350000007,
+          35.685648000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "lat" : 35.685648,
+        "lon" : 139.74058350000001,
+        "name" : "駐日アイルランド大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74351300000001,
+          35.684298000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "lat" : 35.684297999999998,
+        "lon" : 139.74351300000001,
+        "name" : "駐日南アフリカ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73378400000001,
+          35.626401000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "lat" : 35.626401000000001,
+        "lon" : 139.73378400000001,
+        "name" : "駐日アイスランド共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73301450000008,
+          35.62647300000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "lat" : 35.626472999999997,
+        "lon" : 139.7330145,
+        "name" : "駐日セルビア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73160600000006,
+          35.634924000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "lat" : 35.634923999999998,
+        "lon" : 139.731606,
+        "name" : "駐日エチオピア連邦民主共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73160600000006,
+          35.634924000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "lat" : 35.634923999999998,
+        "lon" : 139.731606,
+        "name" : "駐日マラウイ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7368305,
+          35.639883000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "lat" : 35.639882999999998,
+        "lon" : 139.7368305,
+        "name" : "駐日スリランカ民主社会主義共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73700150000002,
+          35.639667000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "lat" : 35.639667000000003,
+        "lon" : 139.73700149999999,
+        "name" : "駐日ウズベキスタン共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72154850000004,
+          35.654220000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "lat" : 35.654220000000002,
+        "lon" : 139.72154850000001,
+        "name" : "駐日オマーン国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71495600000003,
+          35.655345000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "lat" : 35.655344999999997,
+        "lon" : 139.714956,
+        "name" : "駐日クロアチア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71700800000008,
+          35.651988000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "lat" : 35.651988000000003,
+        "lon" : 139.71700799999999,
+        "name" : "駐日チェコ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71404700000005,
+          35.652537000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "lat" : 35.652537000000002,
+        "lon" : 139.71404699999999,
+        "name" : "駐日ペルー共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74537600000008,
+          35.666613000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "lat" : 35.666612999999998,
+        "lon" : 139.74537599999999,
+        "name" : "駐日ナイジェリア連邦共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72732200000007,
+          35.656209000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "lat" : 35.656208999999997,
+        "lon" : 139.72732199999999,
+        "name" : "駐日中華人民共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72831650000001,
+          35.65683000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "lat" : 35.656829999999999,
+        "lon" : 139.72831650000001,
+        "name" : "駐日サンマリノ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7297205000001,
+          35.65629000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "lat" : 35.656289999999998,
+        "lon" : 139.72972050000001,
+        "name" : "駐日リトアニア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72775850000005,
+          35.653644000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "lat" : 35.653644,
+        "lon" : 139.72775849999999,
+        "name" : "駐日マダガスカル共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7305305000001,
+          35.654364000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "lat" : 35.654364000000001,
+        "lon" : 139.73053049999999,
+        "name" : "駐日スロバキア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72662450000007,
+          35.654418000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "lat" : 35.654418,
+        "lon" : 139.72662450000001,
+        "name" : "駐日カタール国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028750000003,
+          35.652627000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "lat" : 35.652627000000003,
+        "lon" : 139.7302875,
+        "name" : "駐日アルゼンチン共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73078700000008,
+          35.654265000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "lat" : 35.654265000000002,
+        "lon" : 139.73078699999999,
+        "name" : "駐日ジャマイカ大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73286150000001,
+          35.65590300000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "lat" : 35.655903000000002,
+        "lon" : 139.73286150000001,
+        "name" : "駐日オーストリア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68581400000005,
+          35.672832000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "lat" : 35.672832,
+        "lon" : 139.68581399999999,
+        "name" : "駐日ベトナム社会主義共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74346800000001,
+          35.692650000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "lat" : 35.69265,
+        "lon" : 139.74346800000001,
+        "name" : "駐日チュニジア共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74718050000001,
+          35.694000000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "lat" : 35.694000000000003,
+        "lon" : 139.74718050000001,
+        "name" : "駐日インド大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76928900000007,
+          35.674308000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "lat" : 35.674308000000003,
+        "lon" : 139.76928899999999,
+        "name" : "在東京ソロモン諸島名誉領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73755500000004,
+          35.681859000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "lat" : 35.681859000000003,
+        "lon" : 139.73755499999999,
+        "name" : "駐日バングラデシュ人民共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73563799999999,
+          35.679402000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "lat" : 35.679402000000003,
+        "lon" : 139.73563799999999,
+        "name" : "在東京セーシェル共和国名誉総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76256599999999,
+          35.681067000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "lat" : 35.681066999999999,
+        "lon" : 139.76256599999999,
+        "name" : "在東京モナコ公国名誉総領事館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6998135,
+          35.648388000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "lat" : 35.648387999999997,
+        "lon" : 139.6998135,
+        "name" : "駐日デンマーク王国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7287530000001,
+          35.704935000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "lat" : 35.704934999999999,
+        "lon" : 139.72875300000001,
+        "name" : "駐日モルドバ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73958900000002,
+          35.676882000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "lat" : 35.676881999999999,
+        "lon" : 139.739589,
+        "name" : "駐日メキシコ合衆国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7442870000001,
+          35.688636000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "lat" : 35.688636000000002,
+        "lon" : 139.74428700000001,
+        "name" : "駐日パラグアイ共和国大使館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7442195000001,
+          35.686755000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "lat" : 35.686754999999998,
+        "lon" : 139.74421950000001,
+        "name" : "駐日英国大使館"
+      }
+    }
+  ]
+}

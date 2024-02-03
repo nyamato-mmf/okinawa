@@ -1,0 +1,5564 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74947100000009,
+          35.665929000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.665928999999998,
+        "lon" : 139.749471,
+        "name" : "まいばすけっと 西新宿8丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74893100000008,
+          35.662149000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.662148999999999,
+        "lon" : 139.748931,
+        "name" : "まいばすけっと 西早稲田1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69865700000003,
+          35.66360700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.663606999999999,
+        "lon" : 139.698657,
+        "name" : "maruetsu(マルエツ) プチ 東麻布店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69865700000003,
+          35.66360700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.663606999999999,
+        "lon" : 139.698657,
+        "name" : "maruetsu(マルエツ) プチ 白金台(有料)プラチナ通り店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69678950000002,
+          35.662239000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.662239,
+        "lon" : 139.69678949999999,
+        "name" : "スーパーみらべる中井店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7033550000001,
+          35.65150200000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.651502000000001,
+        "lon" : 139.70335499999999,
+        "name" : "ダイエー月島店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7434995000001,
+          35.702928000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.702928,
+        "lon" : 139.74349950000001,
+        "name" : "ピーコックストア 神田妻恋坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70250900000008,
+          35.695170000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.695169999999997,
+        "lon" : 139.70250899999999,
+        "name" : "ピーコックストア 代官山店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70344010000008,
+          35.693797560000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.69379756,
+        "lon" : 139.70344009999999,
+        "name" : "まいばすけっと 三田駅東店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70310300000006,
+          35.695467000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.695467000000001,
+        "lon" : 139.703103,
+        "name" : "ピーコックストア 目白店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74714000000006,
+          35.67126600000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.671266000000003,
+        "lon" : 139.74714,
+        "name" : "まいばすけっと 参宮橋駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75854750000008,
+          35.657010000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.65701,
+        "lon" : 139.75854749999999,
+        "name" : "まいばすけっと 西早稲田3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76143200000001,
+          35.655570000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.655569999999997,
+        "lon" : 139.76143200000001,
+        "name" : "まいばすけっと 西早稲田駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76136730000007,
+          35.65545362000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.655453620000003,
+        "lon" : 139.76136729999999,
+        "name" : "まいばすけっと 西麻布3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76210700000001,
+          35.654679000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.654679000000002,
+        "lon" : 139.76210699999999,
+        "name" : "まいばすけっと 西麻布店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76230050000004,
+          35.653761000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.653761000000003,
+        "lon" : 139.76230050000001,
+        "name" : "まいばすけっと 西落合2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75933050000003,
+          35.656794000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.656793999999998,
+        "lon" : 139.7593305,
+        "name" : "まいばすけっと 青山一丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75781400000005,
+          35.653401000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.653401000000002,
+        "lon" : 139.757814,
+        "name" : "まいばすけっと 千駄ヶ谷3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76015400000006,
+          35.65012500000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.650125000000003,
+        "lon" : 139.760154,
+        "name" : "まいばすけっと 早稲田鶴巻町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75556850000009,
+          35.640270000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.640270000000001,
+        "lon" : 139.75556850000001,
+        "name" : "まいばすけっと 代々木2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75478550000003,
+          35.640684000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.640684,
+        "lon" : 139.7547855,
+        "name" : "まいばすけっと 代々木八幡駅西店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75655400000005,
+          35.644680000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.644680000000001,
+        "lon" : 139.75655399999999,
+        "name" : "まいばすけっと 台場1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.754187,
+          35.64158400000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.641584000000002,
+        "lon" : 139.754187,
+        "name" : "まいばすけっと 大久保店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7564235000001,
+          35.643114000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.643113999999997,
+        "lon" : 139.75642350000001,
+        "name" : "まいばすけっと 築地2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7562885000001,
+          35.642628000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.642628000000002,
+        "lon" : 139.75628850000001,
+        "name" : "まいばすけっと 東五軒町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75711200000001,
+          35.641611000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.641610999999997,
+        "lon" : 139.75711200000001,
+        "name" : "まいばすけっと 東新宿駅北店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75245900000004,
+          35.636364000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.636364,
+        "lon" : 139.75245899999999,
+        "name" : "まいばすけっと 東麻布1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.753287,
+          35.638299000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.638299000000004,
+        "lon" : 139.753287,
+        "name" : "まいばすけっと 東麻布2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77089690000003,
+          35.698440140000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.698440140000002,
+        "lon" : 139.7708969,
+        "name" : "まいばすけっと 山吹町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7687985,
+          35.700039000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.700038999999997,
+        "lon" : 139.7687985,
+        "name" : "まいばすけっと 四谷2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77031050000005,
+          35.70015600000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.700156,
+        "lon" : 139.77031049999999,
+        "name" : "まいばすけっと 市谷薬王寺町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77013950000003,
+          35.682813000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.682813000000003,
+        "lon" : 139.7701395,
+        "name" : "mini(ミニ)ピアゴ 代々木1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77013950000003,
+          35.682813000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.682813000000003,
+        "lon" : 139.7701395,
+        "name" : "mini(ミニ)ピアゴ 百人町1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76894250000009,
+          35.681427000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.681426999999999,
+        "lon" : 139.76894250000001,
+        "name" : "miniピアゴ 広尾5丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76894250000009,
+          35.681427000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.681426999999999,
+        "lon" : 139.76894250000001,
+        "name" : "miniピアゴ 新川2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76512580000008,
+          35.683532240000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.683532239999998,
+        "lon" : 139.76512579999999,
+        "name" : "まいばすけっと 芝2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76874900000007,
+          35.681310000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.681310000000003,
+        "lon" : 139.76874900000001,
+        "name" : "まいばすけっと 芝4丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76256599999999,
+          35.681067000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.681066999999999,
+        "lon" : 139.76256599999999,
+        "name" : "KINOKUNIYA INTERNATIONAL(紀ノ国屋インターナショナル)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76256599999999,
+          35.681067000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.681066999999999,
+        "lon" : 139.76256599999999,
+        "name" : "KINOKUNIYA 新宿高島屋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76214300000004,
+          35.678979000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.678978999999998,
+        "lon" : 139.76214300000001,
+        "name" : "miniピアゴ 入船1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76214300000004,
+          35.678979000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.678978999999998,
+        "lon" : 139.76214300000001,
+        "name" : "miniピアゴ代々木駅東口店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "miniピアゴ東新橋2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "miniピアゴ入船3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76351040000009,
+          35.676890250000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.67689025,
+        "lon" : 139.7635104,
+        "name" : "まいばすけっと 芝5丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76351040000009,
+          35.676890250000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.67689025,
+        "lon" : 139.7635104,
+        "name" : "まいばすけっと 芝浦1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77550350000001,
+          35.694189000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.694189000000001,
+        "lon" : 139.77550350000001,
+        "name" : "まいばすけっと 渋谷本町2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76950500000009,
+          35.677341000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.677340999999998,
+        "lon" : 139.76950500000001,
+        "name" : "OMO KINOKUNIYA エチカ表参道店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76950500000009,
+          35.677341000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.677340999999998,
+        "lon" : 139.76950500000001,
+        "name" : "Picard(ピカール) 広尾店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77052200000003,
+          35.674065000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.674064999999999,
+        "lon" : 139.770522,
+        "name" : "まいばすけっと 新宿百人町2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76812800000005,
+          35.670258000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.670257999999997,
+        "lon" : 139.76812799999999,
+        "name" : "まいばすけっと 新宿百人町3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76676450000002,
+          35.668296000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.668295999999998,
+        "lon" : 139.76676449999999,
+        "name" : "まいばすけっと 新川2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76523000000009,
+          35.666595000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.666595000000001,
+        "lon" : 139.76523,
+        "name" : "まいばすけっと 新大久保駅南店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75351650000005,
+          35.693973000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.693973,
+        "lon" : 139.75351649999999,
+        "name" : "まいばすけっと 渋谷本町6丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75208550000002,
+          35.696520000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.69652,
+        "lon" : 139.75208549999999,
+        "name" : "まいばすけっと 初台駅西店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72065300000008,
+          35.643870000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.64387,
+        "lon" : 139.720653,
+        "name" : "ダイエー幡ケ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70640600000002,
+          35.645913000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.645913,
+        "lon" : 139.70640599999999,
+        "name" : "ダイエー麻布十番店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73501250000004,
+          35.67779100000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.677790999999999,
+        "lon" : 139.73501250000001,
+        "name" : "まいばすけっと 南麻布古川橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73412600000006,
+          35.676945000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.676945000000003,
+        "lon" : 139.734126,
+        "name" : "まいばすけっと 日本橋横山町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72630050000009,
+          35.654454000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.654454000000001,
+        "lon" : 139.72630050000001,
+        "name" : "まいばすけっと 日本橋蛎殻町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74836850000008,
+          35.669241000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.669241,
+        "lon" : 139.7483685,
+        "name" : "オリンピック早稲田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75058250000006,
+          35.668440000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.668439999999997,
+        "lon" : 139.75058250000001,
+        "name" : "まいばすけっと 日本橋小網町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75002900000004,
+          35.669187000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.669187000000001,
+        "lon" : 139.75002900000001,
+        "name" : "まいばすけっと 日本橋箱崎町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7502045,
+          35.670357000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.670357000000003,
+        "lon" : 139.7502045,
+        "name" : "まいばすけっと 日本橋浜町2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74934949999999,
+          35.66880000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.668799999999997,
+        "lon" : 139.74934949999999,
+        "name" : "まいばすけっと 日本橋富沢町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74897150000004,
+          35.668431000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.668430999999998,
+        "lon" : 139.74897150000001,
+        "name" : "まいばすけっと 日本橋堀留町1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74872850000008,
+          35.670267000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.670267000000003,
+        "lon" : 139.7487285,
+        "name" : "まいばすけっと 日本橋本町4丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74884100000008,
+          35.66995200000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.669952000000002,
+        "lon" : 139.748841,
+        "name" : "まいばすけっと 幡ヶ谷2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74937650000004,
+          35.666892000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.666891999999997,
+        "lon" : 139.74937650000001,
+        "name" : "まいばすけっと 飯田橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75106400000004,
+          35.669322000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.669322000000001,
+        "lon" : 139.75106400000001,
+        "name" : "まいばすけっと 百人町文化通り店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74643350000008,
+          35.669214000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.669213999999997,
+        "lon" : 139.74643349999999,
+        "name" : "maruetsu(マルエツ) プチ 一番町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74643350000008,
+          35.669214000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.669213999999997,
+        "lon" : 139.74643349999999,
+        "name" : "maruetsu(マルエツ) プチ 港南シティタワー店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74568650000003,
+          35.669520000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.669519999999999,
+        "lon" : 139.74568650000001,
+        "name" : "キッチンコート 神楽坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74545250000006,
+          35.667036000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.667036000000003,
+        "lon" : 139.7454525,
+        "name" : "まいばすけっと 浜松町1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74524100000008,
+          35.667351000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.667350999999996,
+        "lon" : 139.74524099999999,
+        "name" : "まいばすけっと 浜松町駅南店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74669900000004,
+          35.667882000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.667881999999999,
+        "lon" : 139.74669900000001,
+        "name" : "まいばすけっと 北新宿1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74700050000001,
+          35.66510100000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.665101,
+        "lon" : 139.74700050000001,
+        "name" : "まいばすけっと 北新宿税務署通り店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7464470000001,
+          35.664048000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.664048000000001,
+        "lon" : 139.74644699999999,
+        "name" : "まいばすけっと 面影橋駅東店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74619050000001,
+          35.666442000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.666442000000004,
+        "lon" : 139.74619050000001,
+        "name" : "まいばすけっと 目白駅西店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7453445000001,
+          35.664273000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.664273000000001,
+        "lon" : 139.74534449999999,
+        "name" : "まいばすけっと 六本木1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74311250000005,
+          35.664750000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.664749999999998,
+        "lon" : 139.7431125,
+        "name" : "マルエツ プチ 下落合駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74376500000005,
+          35.666127000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.666127000000003,
+        "lon" : 139.743765,
+        "name" : "マルエツ プチ 三田二丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74414750000005,
+          35.664408000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.664408000000002,
+        "lon" : 139.7441475,
+        "name" : "マルエツ プチ 新川一丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74455250000005,
+          35.663508000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.663508,
+        "lon" : 139.7445525,
+        "name" : "マルエツ プチ 中落合一丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74425550000001,
+          35.663931000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.663930999999998,
+        "lon" : 139.74425550000001,
+        "name" : "マルエツ プチ 日本橋本町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74598350000008,
+          35.66365200000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.663651999999999,
+        "lon" : 139.74598349999999,
+        "name" : "maruetsu(マルエツ) プチ 高田馬場店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74598350000008,
+          35.66365200000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.663651999999999,
+        "lon" : 139.74598349999999,
+        "name" : "maruetsu(マルエツ) プチ 汐留シオサイト店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74531300000001,
+          35.66281500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.662815000000002,
+        "lon" : 139.74531300000001,
+        "name" : "マルエツ プチ浜松町一丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74425550000001,
+          35.661690000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.66169,
+        "lon" : 139.74425550000001,
+        "name" : "マルエツ 江戸川橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74534900000003,
+          35.62956900000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.629568999999996,
+        "lon" : 139.745349,
+        "name" : "マルエツ 新宿六丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74449850000008,
+          35.629704000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.629703999999997,
+        "lon" : 139.74449849999999,
+        "name" : "マルエツ 晴海3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7425545000001,
+          35.630415000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.630414999999999,
+        "lon" : 139.74255450000001,
+        "name" : "マルエツ 代々木上原店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74145200000009,
+          35.629794000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.629793999999997,
+        "lon" : 139.74145200000001,
+        "name" : "マルエツプチ 四谷二丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7431620000001,
+          35.632638000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.632638,
+        "lon" : 139.74316200000001,
+        "name" : "マルエツプチ 芝二丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7431620000001,
+          35.632638000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.632638,
+        "lon" : 139.74316200000001,
+        "name" : "マルエツプチ 新橋五丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7447595000001,
+          35.630766000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.630766000000001,
+        "lon" : 139.74475949999999,
+        "name" : "マルエツプチ 神田神保町二丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73853600000007,
+          35.628516000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "lat" : 35.628515999999998,
+        "lon" : 139.73853600000001,
+        "name" : "maruetsu(マルエツ) プチ 芝四丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73853600000007,
+          35.628516000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "lat" : 35.628515999999998,
+        "lon" : 139.73853600000001,
+        "name" : "maruetsu(マルエツ) プチ 渋谷神泉店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7453670000001,
+          35.624520000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "lat" : 35.624519999999997,
+        "lon" : 139.74536699999999,
+        "name" : "マルエツプチ 浜松町二丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74199650000003,
+          35.628660000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "lat" : 35.628660000000004,
+        "lon" : 139.7419965,
+        "name" : "マルマンストア 参宮橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7419155,
+          35.626815000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "lat" : 35.626815000000001,
+        "lon" : 139.7419155,
+        "name" : "マルマンストア 代々木八幡店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7419155,
+          35.626815000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "lat" : 35.626815000000001,
+        "lon" : 139.7419155,
+        "name" : "マルマンストア 南新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74070500000005,
+          35.627886000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "lat" : 35.627885999999997,
+        "lon" : 139.74070499999999,
+        "name" : "マルマンストア 日本橋馬喰町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74044850000007,
+          35.626599000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "lat" : 35.626598999999999,
+        "lon" : 139.74044850000001,
+        "name" : "まる一 浜田商店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73951700000009,
+          35.624628000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "lat" : 35.624628000000001,
+        "lon" : 139.73951700000001,
+        "name" : "ミニコープ落合店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74268500000005,
+          35.629326000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "lat" : 35.629325999999999,
+        "lon" : 139.74268499999999,
+        "name" : "もとまちUNION(ユニオン) 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74382800000001,
+          35.628606000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "lat" : 35.628605999999998,
+        "lon" : 139.74382800000001,
+        "name" : "もとまちユニオン ウィング新橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74303150000003,
+          35.628696000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "lat" : 35.628695999999998,
+        "lon" : 139.7430315,
+        "name" : "もとまちユニオン 六本木店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74536250000006,
+          35.625501000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "lat" : 35.625501,
+        "lon" : 139.7453625,
+        "name" : "よしや 神楽坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74066900000003,
+          35.626050000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "lat" : 35.626049999999999,
+        "lon" : 139.740669,
+        "name" : "よしや 番町麹町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74431850000008,
+          35.629056000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "lat" : 35.629055999999999,
+        "lon" : 139.74431849999999,
+        "name" : "よしや 柳町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73853600000007,
+          35.628516000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "lat" : 35.628515999999998,
+        "lon" : 139.73853600000001,
+        "name" : "株式会社北島商店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74899400000004,
+          35.631774000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "lat" : 35.631774,
+        "lon" : 139.74899400000001,
+        "name" : "ライフ ムスブ田町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75106850000009,
+          35.629632000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "lat" : 35.629632000000001,
+        "lon" : 139.7510685,
+        "name" : "ライフ 笹塚店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74670800000001,
+          35.629650000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "lat" : 35.629649999999998,
+        "lon" : 139.74670800000001,
+        "name" : "ライフ 若松河田駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75527600000009,
+          35.629668000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "lat" : 35.629668000000002,
+        "lon" : 139.75527600000001,
+        "name" : "ライフ 渋谷東店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75650450000001,
+          35.627364000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "lat" : 35.627364,
+        "lon" : 139.75650450000001,
+        "name" : "ライフ 神田和泉町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75668450000001,
+          35.628075000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "lat" : 35.628075000000003,
+        "lon" : 139.75668450000001,
+        "name" : "ライフ 幡ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73560650000002,
+          35.644536000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "lat" : 35.644536000000002,
+        "lon" : 139.73560649999999,
+        "name" : "リマ 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73357250000004,
+          35.637741000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "lat" : 35.637740999999998,
+        "lon" : 139.73357250000001,
+        "name" : "リンコス リバーシティ店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73193900000001,
+          35.637435000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "lat" : 35.637435000000004,
+        "lon" : 139.73193900000001,
+        "name" : "リンコス 九段店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73829750000004,
+          35.635797000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "lat" : 35.635796999999997,
+        "lon" : 139.73829749999999,
+        "name" : "リンコス 高輪店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73857200000009,
+          35.637912000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "lat" : 35.637912,
+        "lon" : 139.738572,
+        "name" : "リンコス 六本木ヒルズ店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73456370000008,
+          35.634057750000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "lat" : 35.634057749999997,
+        "lon" : 139.7345637,
+        "name" : "クイーンズ伊勢丹お客さま相談担当"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73456370000008,
+          35.634057750000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "lat" : 35.634057749999997,
+        "lon" : 139.7345637,
+        "name" : "株式会社グルメシティ関東幡ケ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7321730000001,
+          35.631882000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "lat" : 35.631881999999997,
+        "lon" : 139.73217299999999,
+        "name" : "株式会社ファミリーセンターダイヤ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73353650000001,
+          35.630127000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "lat" : 35.630127000000002,
+        "lon" : 139.73353650000001,
+        "name" : "株式会社ホウスイ 豊海第一冷蔵庫"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73590799999999,
+          35.629776000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "lat" : 35.629776,
+        "lon" : 139.73590799999999,
+        "name" : "株式会社ライフコーポレーション 幡ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7377755,
+          35.630172000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "lat" : 35.630172000000002,
+        "lon" : 139.7377755,
+        "name" : "株式会社駿河屋大塚商店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73797350000007,
+          35.62916400000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "lat" : 35.629164000000003,
+        "lon" : 139.73797350000001,
+        "name" : "株式会社大丸ピーコック 目白店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73158350000006,
+          35.634186000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "lat" : 35.634186,
+        "lon" : 139.7315835,
+        "name" : "丸正食品 若葉店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73670450000009,
+          35.62762500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "lat" : 35.627625000000002,
+        "lon" : 139.7367045,
+        "name" : "丸正食品 代々木上原駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73511150000002,
+          35.62669800000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "lat" : 35.626697999999998,
+        "lon" : 139.73511149999999,
+        "name" : "丸正食品 東新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73319900000001,
+          35.685216000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "lat" : 35.685215999999997,
+        "lon" : 139.73319900000001,
+        "name" : "まいばすけっと 曙橋駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72045950000006,
+          35.686224000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "lat" : 35.686224000000003,
+        "lon" : 139.7204595,
+        "name" : "ビオセボン 外苑西通り店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66828200000009,
+          35.674092000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "lat" : 35.674092000000002,
+        "lon" : 139.668282,
+        "name" : "チョンガーネ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7419020000001,
+          35.654688000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "lat" : 35.654688,
+        "lon" : 139.74190200000001,
+        "name" : "丸正食品 北新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73953950000009,
+          35.654490000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "lat" : 35.654490000000003,
+        "lon" : 139.73953950000001,
+        "name" : "丸正総本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74066900000003,
+          35.655057000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "lat" : 35.655056999999999,
+        "lon" : 139.740669,
+        "name" : "紀ノ国屋京王百貨店新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74364350000008,
+          35.653698000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "lat" : 35.653697999999999,
+        "lon" : 139.74364349999999,
+        "name" : "紀ノ國屋アントレ 日本橋高島屋S.C.店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74459300000001,
+          35.652654000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "lat" : 35.652653999999998,
+        "lon" : 139.74459300000001,
+        "name" : "京急ストア ウィング高輪店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74460650000003,
+          35.65057500000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "lat" : 35.650575000000003,
+        "lon" : 139.7446065,
+        "name" : "業務スーパー 笹塚店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.737753,
+          35.64854100000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "lat" : 35.648541000000002,
+        "lon" : 139.737753,
+        "name" : "業務スーパー 新宿榎店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73790150000002,
+          35.648559000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "lat" : 35.648558999999999,
+        "lon" : 139.73790149999999,
+        "name" : "業務スーパー 新宿大久保店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74111900000003,
+          35.640252000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "lat" : 35.640251999999997,
+        "lon" : 139.741119,
+        "name" : "業務スーパー 神田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7419695000001,
+          35.643087000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "lat" : 35.643087000000001,
+        "lon" : 139.74196950000001,
+        "name" : "業務スーパー 東新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74413850000008,
+          35.646921000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "lat" : 35.646920999999999,
+        "lon" : 139.74413849999999,
+        "name" : "業務用スーパーSHIODAYA新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74088950000009,
+          35.641152000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "lat" : 35.641151999999998,
+        "lon" : 139.74088950000001,
+        "name" : "三浦屋 飯田橋ラムラ店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74185250000005,
+          35.641521000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "lat" : 35.641520999999997,
+        "lon" : 139.74185249999999,
+        "name" : "三徳 新宿本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74138450000009,
+          35.640441000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "lat" : 35.640441000000003,
+        "lon" : 139.74138450000001,
+        "name" : "三徳?河田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74305400000003,
+          35.643312000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "lat" : 35.643312000000002,
+        "lon" : 139.743054,
+        "name" : "三徳牛込神楽坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74335100000008,
+          35.646552000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "lat" : 35.646552,
+        "lon" : 139.74335099999999,
+        "name" : "三徳住吉店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74251400000003,
+          35.644239000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "lat" : 35.644238999999999,
+        "lon" : 139.742514,
+        "name" : "三徳西早稲田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73881500000005,
+          35.640135000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "lat" : 35.640135000000001,
+        "lon" : 139.73881499999999,
+        "name" : "三徳早稲田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73734350000007,
+          35.64475200000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "lat" : 35.644751999999997,
+        "lon" : 139.73734350000001,
+        "name" : "maruetsu(マルエツ) プチ 渋谷鶯谷町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73734350000007,
+          35.64475200000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "lat" : 35.644751999999997,
+        "lon" : 139.73734350000001,
+        "name" : "maruetsu(マルエツ) プチ 小伝馬町駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74547050000001,
+          35.691147000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "lat" : 35.691147000000001,
+        "lon" : 139.74547050000001,
+        "name" : "まいばすけっと 新井薬師前駅北店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72614300000009,
+          35.691768000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "lat" : 35.691768000000003,
+        "lon" : 139.72614300000001,
+        "name" : "いなげや白金台店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73101650000001,
+          35.695620000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "lat" : 35.695619999999998,
+        "lon" : 139.73101650000001,
+        "name" : "ビオセボン四谷三丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7244465,
+          35.694801000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "lat" : 35.694800999999998,
+        "lon" : 139.7244465,
+        "name" : "ビオセボン赤坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72549500000002,
+          35.696286000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "lat" : 35.696286000000001,
+        "lon" : 139.725495,
+        "name" : "ビオセボン明治神宮前メトロピア店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75442550000002,
+          35.652276000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "lat" : 35.652276000000001,
+        "lon" : 139.7544255,
+        "name" : "三徳飯田橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75499250000007,
+          35.650791000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "lat" : 35.650790999999998,
+        "lon" : 139.75499249999999,
+        "name" : "三平ストア 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75222050000002,
+          35.651169000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "lat" : 35.651169000000003,
+        "lon" : 139.75222049999999,
+        "name" : "三平ストア本部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75009650000004,
+          35.652600000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "lat" : 35.6526,
+        "lon" : 139.75009650000001,
+        "name" : "若羽食品"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75330500000007,
+          35.650782000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "lat" : 35.650782,
+        "lon" : 139.75330500000001,
+        "name" : "小田急商事株式会社 事業本部 ショップ新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75217100000009,
+          35.652762000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "lat" : 35.652762000000003,
+        "lon" : 139.752171,
+        "name" : "食品スーパーマーケット三徳 牛込神楽坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74755850000008,
+          35.652888000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "lat" : 35.652887999999997,
+        "lon" : 139.7475585,
+        "name" : "SUPER MARKET FUJI(スーパーマーケットフジ) デリド勝どき駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74746400000004,
+          35.650458000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "lat" : 35.650458,
+        "lon" : 139.74746400000001,
+        "name" : "クイーンズ伊勢丹白金高輪店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74913350000008,
+          35.65233900000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "lat" : 35.652338999999998,
+        "lon" : 139.7491335,
+        "name" : "杉の木屋恵比寿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74538050000001,
+          35.653077000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "lat" : 35.653077000000003,
+        "lon" : 139.74538050000001,
+        "name" : "成城石井 アトレ恵比寿西館店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74872850000008,
+          35.650764000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "lat" : 35.650764000000002,
+        "lon" : 139.7487285,
+        "name" : "成城石井 アトレ秋葉原1店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74736500000006,
+          35.65233900000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "lat" : 35.652338999999998,
+        "lon" : 139.747365,
+        "name" : "成城石井 フレンテ笹塚店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75088400000004,
+          35.648109000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "lat" : 35.648108999999998,
+        "lon" : 139.75088400000001,
+        "name" : "成城石井 御茶ノ水ソラシティ店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75023600000009,
+          35.648964000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "lat" : 35.648963999999999,
+        "lon" : 139.750236,
+        "name" : "成城石井 高田馬場店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74906150000004,
+          35.647335000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "lat" : 35.647334999999998,
+        "lon" : 139.74906150000001,
+        "name" : "成城石井 麹町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75002000000006,
+          35.648622000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "lat" : 35.648622000000003,
+        "lon" : 139.75002000000001,
+        "name" : "成城石井 芝浦シーバンス店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7521395,
+          35.649000000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "lat" : 35.649000000000001,
+        "lon" : 139.7521395,
+        "name" : "成城石井 小伝馬町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7462445000001,
+          35.648955000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "lat" : 35.648955000000001,
+        "lon" : 139.74624449999999,
+        "name" : "成城石井 新丸ビル店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7448945000001,
+          35.64792900000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "lat" : 35.647928999999998,
+        "lon" : 139.74489449999999,
+        "name" : "成城石井 神保町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74681150000004,
+          35.648667000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "lat" : 35.648667000000003,
+        "lon" : 139.74681150000001,
+        "name" : "成城石井 赤坂Bizタワー店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74672600000008,
+          35.647110000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "lat" : 35.647109999999998,
+        "lon" : 139.746726,
+        "name" : "成城石井 東京ガーデンテラス紀尾井町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7459295000001,
+          35.650062000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "lat" : 35.650061999999998,
+        "lon" : 139.74592949999999,
+        "name" : "成城石井 日本橋一丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74721650000004,
+          35.647101000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "lat" : 35.647100999999999,
+        "lon" : 139.74721650000001,
+        "name" : "成城石井 日本橋高島屋S.C.店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74669900000004,
+          35.646003000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "lat" : 35.646003,
+        "lon" : 139.74669900000001,
+        "name" : "成城石井 日本橋浜町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74696900000004,
+          35.646165000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "lat" : 35.646165000000003,
+        "lon" : 139.74696900000001,
+        "name" : "成城石井 飯田橋サクラテラス店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7477070000001,
+          35.647632000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "lat" : 35.647632000000002,
+        "lon" : 139.74770699999999,
+        "name" : "成城石井 麻布十番店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74477300000001,
+          35.645841000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "lat" : 35.645840999999997,
+        "lon" : 139.74477300000001,
+        "name" : "成城石井ルミネ有楽町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74493500000005,
+          35.644725000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "lat" : 35.644725000000001,
+        "lon" : 139.744935,
+        "name" : "西友 高田馬場店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7573460000001,
+          35.650926000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "lat" : 35.650925999999998,
+        "lon" : 139.75734600000001,
+        "name" : "全日食チェーンしろいち"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75164000000007,
+          35.646615000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "lat" : 35.646614999999997,
+        "lon" : 139.75164000000001,
+        "name" : "地産マルシェ笹塚店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75654050000003,
+          35.64955800000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "lat" : 35.649557999999999,
+        "lon" : 139.7565405,
+        "name" : "東急ストア フードステーション渋谷キャスト店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75602300000003,
+          35.650566000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "lat" : 35.650565999999998,
+        "lon" : 139.756023,
+        "name" : "東食品株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7573460000001,
+          35.650926000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "lat" : 35.650925999999998,
+        "lon" : 139.75734600000001,
+        "name" : "東武ストア 勝どき店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75317900000005,
+          35.646246000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "lat" : 35.646245999999998,
+        "lon" : 139.75317899999999,
+        "name" : "肉のハナマサ 銀座店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75654050000003,
+          35.64955800000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "lat" : 35.649557999999999,
+        "lon" : 139.7565405,
+        "name" : "肉のハナマサ 市ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75534800000003,
+          35.647110000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "lat" : 35.647109999999998,
+        "lon" : 139.755348,
+        "name" : "肉のハナマサ 芝浦店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75451100000009,
+          35.645265000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "lat" : 35.645265000000002,
+        "lon" : 139.75451100000001,
+        "name" : "クック-Y 新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75203600000009,
+          35.644878000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "lat" : 35.644877999999999,
+        "lon" : 139.752036,
+        "name" : "肉のハナマサ 新川店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75330050000002,
+          35.644104000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "lat" : 35.644103999999999,
+        "lon" : 139.75330049999999,
+        "name" : "肉のハナマサ 新日本橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74835950000011,
+          35.644968000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "lat" : 35.644967999999999,
+        "lon" : 139.74835949999999,
+        "name" : "maruetsu(マルエツ) プチ 城山ヒルズ店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74835950000011,
+          35.644968000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "lat" : 35.644967999999999,
+        "lon" : 139.74835949999999,
+        "name" : "maruetsu(マルエツ) プチ 神田司町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74977699999999,
+          35.642799000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "lat" : 35.642798999999997,
+        "lon" : 139.74977699999999,
+        "name" : "肉のハナマサ 神田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74907949999999,
+          35.643240000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "lat" : 35.643239999999999,
+        "lon" : 139.74907949999999,
+        "name" : "肉のハナマサ 西新橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74808950000011,
+          35.642844000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "lat" : 35.642843999999997,
+        "lon" : 139.74808949999999,
+        "name" : "肉のハナマサ 赤坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7470770000001,
+          35.642448000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "lat" : 35.642448000000002,
+        "lon" : 139.74707699999999,
+        "name" : "肉のハナマサ 大久保店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74915150000004,
+          35.64144900000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "lat" : 35.641449000000001,
+        "lon" : 139.74915150000001,
+        "name" : "肉のハナマサ 湯島店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74920550000002,
+          35.643024000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "lat" : 35.643023999999997,
+        "lon" : 139.74920549999999,
+        "name" : "肉のハナマサ 南麻布店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74686700000007,
+          35.643041390000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "lat" : 35.64304139,
+        "lon" : 139.74686700000001,
+        "name" : "肉のハナマサ 富ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74643350000008,
+          35.642952000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "lat" : 35.642952000000001,
+        "lon" : 139.74643349999999,
+        "name" : "日進ワールドデリカテッセン"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74937199999999,
+          35.643708000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "lat" : 35.643707999999997,
+        "lon" : 139.74937199999999,
+        "name" : "福島屋 六本木店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74965100000009,
+          35.645265000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "lat" : 35.645265000000002,
+        "lon" : 139.749651,
+        "name" : "文化堂月島店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74557400000003,
+          35.643762000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "lat" : 35.643762000000002,
+        "lon" : 139.745574,
+        "name" : "文化堂勝どき店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74800850000008,
+          35.640180000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "lat" : 35.640180000000001,
+        "lon" : 139.7480085,
+        "name" : "コープみらい コープ戸山店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7471220000001,
+          35.639739000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "lat" : 35.639738999999999,
+        "lon" : 139.74712199999999,
+        "name" : "コープみらい ミニコープ西落合店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74678000000006,
+          35.641125000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "lat" : 35.641125000000002,
+        "lon" : 139.74678,
+        "name" : "明治屋 新宿西口ハルク店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7502495,
+          35.637426000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "lat" : 35.637425999999998,
+        "lon" : 139.7502495,
+        "name" : "明治屋 大丸東京店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7443095000001,
+          35.640864000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "lat" : 35.640864000000001,
+        "lon" : 139.74430950000001,
+        "name" : "明治屋 六本木ストアー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74594750000006,
+          35.640036000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "lat" : 35.640036000000002,
+        "lon" : 139.7459475,
+        "name" : "明治屋ストアー 日本橋高島屋S.C.店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74748650000004,
+          35.638335000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "lat" : 35.638334999999998,
+        "lon" : 139.74748650000001,
+        "name" : "有楽町 micro FOOD&IDEA MARKET(マイクロ フード アンド アイデア マーケット)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75169850000009,
+          35.660466000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "lat" : 35.660466,
+        "lon" : 139.7516985,
+        "name" : "コープみらい ミニコープ富久店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7515459,
+          35.658017080000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "lat" : 35.65801708,
+        "lon" : 139.7515459,
+        "name" : "成城石井 東麻布店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7542095,
+          35.658180000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "lat" : 35.658180000000002,
+        "lon" : 139.7542095,
+        "name" : "maruetsu(マルエツ) プチ 人形町駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7542095,
+          35.658180000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "lat" : 35.658180000000002,
+        "lon" : 139.7542095,
+        "name" : "maruetsu(マルエツ) プチ 晴海店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7545695,
+          35.658585000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "lat" : 35.658585000000002,
+        "lon" : 139.7545695,
+        "name" : "THE MART AT FRED SEGAL(ザ・マート・アット・フレッド・シーガル)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75284150000005,
+          35.654400000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "lat" : 35.654400000000003,
+        "lon" : 139.75284149999999,
+        "name" : "イオンリテール株式会社 北関東カンパニー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70502250000004,
+          35.659054600000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "lat" : 35.659054599999997,
+        "lon" : 139.70502250000001,
+        "name" : "Bio c' Bon(ビオセボン) 麻布十番店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70502250000004,
+          35.659054600000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "lat" : 35.659054599999997,
+        "lon" : 139.70502250000001,
+        "name" : "Bio c'Bon(ビオセボン) 富ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70502250000004,
+          35.659054600000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "lat" : 35.659054599999997,
+        "lon" : 139.70502250000001,
+        "name" : "EPICERIE BONHEUR(エピスリー ボヌール) OOTEMORI店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70502250000004,
+          35.659054600000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "lat" : 35.659054599999997,
+        "lon" : 139.70502250000001,
+        "name" : "FRESCO VengaVenga(フレスコベンガベンガ) ダイヤ店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70214450000003,
+          35.659080000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "lat" : 35.659080000000003,
+        "lon" : 139.7021445,
+        "name" : "KINOKUNIYA entree(紀伊国屋アントレ) グランスタ丸の内店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70214450000003,
+          35.659080000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "lat" : 35.659080000000003,
+        "lon" : 139.7021445,
+        "name" : "KINOKUNIYA entreeルミネ新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70214450000003,
+          35.659080000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "lat" : 35.659080000000003,
+        "lon" : 139.7021445,
+        "name" : "KINOKUNIYA entree恵比寿駅店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70869650000009,
+          35.660268000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "lat" : 35.660268000000002,
+        "lon" : 139.7086965,
+        "name" : "デリド湊店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70966850000002,
+          35.659107000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "lat" : 35.659106999999999,
+        "lon" : 139.70966849999999,
+        "name" : "maruetsu(マルエツ) プチ 白金台店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70966850000002,
+          35.659107000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "lat" : 35.659106999999999,
+        "lon" : 139.70966849999999,
+        "name" : "maruetsu(マルエツ) プチ 八丁堀店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68675900000005,
+          35.678484000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "lat" : 35.678483999999997,
+        "lon" : 139.686759,
+        "name" : "ナショナル麻布 広尾ガーデンヒルズ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77850950000004,
+          35.65809900000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "lat" : 35.658099,
+        "lon" : 139.77850950000001,
+        "name" : "まいばすけっと 新大久保駅北店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75541100000009,
+          35.666694000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "lat" : 35.666694,
+        "lon" : 139.75541100000001,
+        "name" : "コープみらい 戸山店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75476300000003,
+          35.662914000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "lat" : 35.662914000000001,
+        "lon" : 139.754763,
+        "name" : "コープみらい 西落合店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70258550000005,
+          35.688555000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "lat" : 35.688555000000001,
+        "lon" : 139.7025855,
+        "name" : "maruetsu(マルエツ) 勝どき六丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70258550000005,
+          35.688555000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "lat" : 35.688555000000001,
+        "lon" : 139.7025855,
+        "name" : "maruetsu(マルエツ) 佃店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78161450000005,
+          35.67831300000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "lat" : 35.678313000000003,
+        "lon" : 139.78161449999999,
+        "name" : "Precce Premium(プレッセ プレミアム)東京ミッドタウン店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78161450000005,
+          35.67831300000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "lat" : 35.678313000000003,
+        "lon" : 139.78161449999999,
+        "name" : "Precce Shibuya DELIMARKET(プレッセ シブヤ デリマーケット) 渋谷ストリーム店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78453950000005,
+          35.675127000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "lat" : 35.675127000000003,
+        "lon" : 139.78453949999999,
+        "name" : "まいばすけっと 新富町駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74264000000005,
+          35.701029000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "lat" : 35.701028999999998,
+        "lon" : 139.74263999999999,
+        "name" : "ファミリーデパート 吉池 食品専門店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71055050000007,
+          35.674137000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 246,
+        "lat" : 35.674137000000002,
+        "lon" : 139.71055050000001,
+        "name" : "maruetsu(マルエツ) プチ 飯田橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71055050000007,
+          35.674137000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 247,
+        "lat" : 35.674137000000002,
+        "lon" : 139.71055050000001,
+        "name" : "maruetsu(マルエツ) プチ 富ヶ谷一丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69277550000004,
+          35.655003000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 248,
+        "lat" : 35.655003000000001,
+        "lon" : 139.69277550000001,
+        "name" : "ナニワヤ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76165700000001,
+          35.691786000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 249,
+        "lat" : 35.691786,
+        "lon" : 139.76165700000001,
+        "name" : "まいばすけっと 新橋5丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76849700000002,
+          35.697258000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 250,
+        "lat" : 35.697257999999998,
+        "lon" : 139.768497,
+        "name" : "maruetsu(マルエツ) オレンジコート店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76849700000002,
+          35.697258000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 251,
+        "lat" : 35.697257999999998,
+        "lon" : 139.768497,
+        "name" : "maruetsu(マルエツ) お台場店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68240300000002,
+          35.676873000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 252,
+        "lat" : 35.676873000000001,
+        "lon" : 139.68240299999999,
+        "name" : "ニューみ乃り屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75107300000002,
+          35.661348000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 253,
+        "lat" : 35.661347999999997,
+        "lon" : 139.75107299999999,
+        "name" : "コープみらい 富久店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69725220000009,
+          35.69050019000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 254,
+        "lat" : 35.690500190000002,
+        "lon" : 139.69725220000001,
+        "name" : "MEIDI-YA STORE広尾ストアー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69725220000009,
+          35.69050019000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 255,
+        "lat" : 35.690500190000002,
+        "lon" : 139.69725220000001,
+        "name" : "MEIDI-YA STORE日本橋ストアー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69667700000002,
+          35.689797000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 256,
+        "lat" : 35.689796999999999,
+        "lon" : 139.69667699999999,
+        "name" : "ファミリーデパート 吉池 総合食品フロア"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69615500000009,
+          35.689770000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 257,
+        "lat" : 35.689770000000003,
+        "lon" : 139.696155,
+        "name" : "フォトエコー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69552050000004,
+          35.69170500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 258,
+        "lat" : 35.691704999999999,
+        "lon" : 139.69552049999999,
+        "name" : "フジマート 月島店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69273500000008,
+          35.691129000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 259,
+        "lat" : 35.691128999999997,
+        "lon" : 139.692735,
+        "name" : "まいばすけっと 下落合4丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69265849999999,
+          35.685918000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 260,
+        "lat" : 35.685918000000001,
+        "lon" : 139.69265849999999,
+        "name" : "まいばすけっと 海岸3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69176300000004,
+          35.693271000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 261,
+        "lat" : 35.693271000000003,
+        "lon" : 139.69176300000001,
+        "name" : "mini(ミニ)ピアゴ 九段南4丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69176300000004,
+          35.693271000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 262,
+        "lat" : 35.693271000000003,
+        "lon" : 139.69176300000001,
+        "name" : "mini(ミニ)ピアゴ 渋谷本町3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69314450000002,
+          35.693883000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 263,
+        "lat" : 35.693883,
+        "lon" : 139.69314449999999,
+        "name" : "まいばすけっと 茅場町3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69068750000008,
+          35.693730000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 264,
+        "lat" : 35.693730000000002,
+        "lon" : 139.6906875,
+        "name" : "まいばすけっと 岩本町2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69767150000007,
+          35.696844000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 265,
+        "lat" : 35.696843999999999,
+        "lon" : 139.69767150000001,
+        "name" : "FUKUSHIMAYA TASTING MARKET@AKIHABARA(福島屋 秋葉原店)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69767150000007,
+          35.696844000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 266,
+        "lat" : 35.696843999999999,
+        "lon" : 139.69767150000001,
+        "name" : "Gourmand Market KINOKUNIYA(ゲルマンマーケットキノクニヤ) 渋谷スクランブルスクエア店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69767150000007,
+          35.696844000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 267,
+        "lat" : 35.696843999999999,
+        "lon" : 139.69767150000001,
+        "name" : "KINOKUNIYA entre ルミネ ザ・キッチン品川店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69868400000007,
+          35.69430600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 268,
+        "lat" : 35.694305999999997,
+        "lon" : 139.69868399999999,
+        "name" : "まいばすけっと 岩本町3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69525050000004,
+          35.693910000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 269,
+        "lat" : 35.693910000000002,
+        "lon" : 139.69525049999999,
+        "name" : "まいばすけっと 岩本町駅南店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 270,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "mini(ミニ)ピアゴ 渋谷本町5丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 271,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "mini(ミニ)ピアゴ 千駄ヶ谷1丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72326750000002,
+          35.659476000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 272,
+        "lat" : 35.659475999999998,
+        "lon" : 139.72326749999999,
+        "name" : "イトーヨーカドー 食品館新宿富久店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74228900000003,
+          35.671617000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 273,
+        "lat" : 35.671616999999998,
+        "lon" : 139.742289,
+        "name" : "コープみらい 落合店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72907250000003,
+          35.667945000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 274,
+        "lat" : 35.667945000000003,
+        "lon" : 139.7290725,
+        "name" : "ココスナカムラ麹町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7102175,
+          35.678907000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 275,
+        "lat" : 35.678907000000002,
+        "lon" : 139.7102175,
+        "name" : "ピーコックストア グランパーク田町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71251700000005,
+          35.67607200000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 276,
+        "lat" : 35.676071999999998,
+        "lon" : 139.71251699999999,
+        "name" : "ピーコックストア トルナーレ日本橋浜町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7028375000001,
+          35.686494000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 277,
+        "lat" : 35.686494000000003,
+        "lon" : 139.70283749999999,
+        "name" : "maruetsu(マルエツ) 港南ワールドシティ店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7028375000001,
+          35.686494000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 278,
+        "lat" : 35.686494000000003,
+        "lon" : 139.70283749999999,
+        "name" : "maruetsu(マルエツ) 市ヶ谷見附店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69791000000009,
+          35.681985000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 279,
+        "lat" : 35.681984999999997,
+        "lon" : 139.69791000000001,
+        "name" : "ピーコックストア 恵比寿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68845550000003,
+          35.669979000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 280,
+        "lat" : 35.669978999999998,
+        "lon" : 139.6884555,
+        "name" : "ピーコックストア 恵比寿南店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.708845,
+          35.703963000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 281,
+        "lat" : 35.703963000000002,
+        "lon" : 139.708845,
+        "name" : "まいばすけっと 牛込神楽坂駅西店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70825100000002,
+          35.704161000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 282,
+        "lat" : 35.704160999999999,
+        "lon" : 139.70825099999999,
+        "name" : "まいばすけっと 牛込柳町駅東店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76693550000005,
+          35.686881000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 283,
+        "lat" : 35.686881,
+        "lon" : 139.76693549999999,
+        "name" : "Odakyu OX(小田急OX) 代々木上原店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76693550000005,
+          35.686881000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 284,
+        "lat" : 35.686881,
+        "lon" : 139.76693549999999,
+        "name" : "OdakyuOX代々木上原店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76718300000005,
+          35.685198000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 285,
+        "lat" : 35.685198,
+        "lon" : 139.76718299999999,
+        "name" : "まいばすけっと 新宿5丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77077850000001,
+          35.691471000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 286,
+        "lat" : 35.691471,
+        "lon" : 139.77077850000001,
+        "name" : "OK(オーケー) 初台店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77077850000001,
+          35.691471000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 287,
+        "lat" : 35.691471,
+        "lon" : 139.77077850000001,
+        "name" : "OK(オーケー) 千駄ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77228150000008,
+          35.691219000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 288,
+        "lat" : 35.691218999999997,
+        "lon" : 139.77228149999999,
+        "name" : "オーケー お台場店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77148050000005,
+          35.691534000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 289,
+        "lat" : 35.691533999999997,
+        "lon" : 139.7714805,
+        "name" : "まいばすけっと 新宿原町3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76458200000002,
+          35.662869000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 290,
+        "lat" : 35.662869000000001,
+        "lon" : 139.76458199999999,
+        "name" : "まいばすけっと 神楽坂駅西店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77388800000006,
+          35.66387700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 291,
+        "lat" : 35.663876999999999,
+        "lon" : 139.773888,
+        "name" : "まいばすけっと 神宮前2丁目商店街店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69837940000002,
+          35.657431220000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 292,
+        "lat" : 35.657431219999999,
+        "lon" : 139.69837939999999,
+        "name" : "ピーコックストア 高田馬場店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69837940000002,
+          35.657431220000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 293,
+        "lat" : 35.657431219999999,
+        "lon" : 139.69837939999999,
+        "name" : "ピーコックストア 高輪魚籃坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70090700000003,
+          35.658693000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 294,
+        "lat" : 35.658693,
+        "lon" : 139.700907,
+        "name" : "ピーコックストア 三田伊皿子店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71346200000005,
+          35.66193300000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 295,
+        "lat" : 35.661932999999998,
+        "lon" : 139.71346199999999,
+        "name" : "イトーヨーカドー 食品館早稲田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77563850000001,
+          35.680662000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 296,
+        "lat" : 35.680661999999998,
+        "lon" : 139.77563850000001,
+        "name" : "まいばすけっと 神泉駅前店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78277550000007,
+          35.683416000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 297,
+        "lat" : 35.683416000000001,
+        "lon" : 139.78277550000001,
+        "name" : "まいばすけっと 神田駅西店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7803725,
+          35.680797000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 298,
+        "lat" : 35.680796999999998,
+        "lon" : 139.7803725,
+        "name" : "まいばすけっと 神田駅北口店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.781205,
+          35.686008000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 299,
+        "lat" : 35.686008000000001,
+        "lon" : 139.781205,
+        "name" : "オオゼキ 高田馬場店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78628550000008,
+          35.687601000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 300,
+        "lat" : 35.687601000000001,
+        "lon" : 139.78628549999999,
+        "name" : "まいばすけっと 神田佐久間町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 301,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73417550000011,
+          35.643897000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 301,
+        "lat" : 35.643897000000003,
+        "lon" : 139.73417549999999,
+        "name" : "こだわりや 新宿西口ハルク店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 302,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67711550000001,
+          35.679735000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 302,
+        "lat" : 35.679735000000001,
+        "lon" : 139.67711550000001,
+        "name" : "いなげや 新宿小滝橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 303,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76943300000005,
+          35.679906000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 303,
+        "lat" : 35.679906000000003,
+        "lon" : 139.76943299999999,
+        "name" : "まいばすけっと 神田神保町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 304,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77593550000006,
+          35.677755000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 304,
+        "lat" : 35.677754999999998,
+        "lon" : 139.7759355,
+        "name" : "まいばすけっと 水天宮店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 305,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.778235,
+          35.676396000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 305,
+        "lat" : 35.676395999999997,
+        "lon" : 139.778235,
+        "name" : "まいばすけっと 清洲橋西店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 306,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75053300000002,
+          35.700363000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 306,
+        "lat" : 35.700363000000003,
+        "lon" : 139.75053299999999,
+        "name" : "Olympic(オリンピック) 淡路町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 307,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75053300000002,
+          35.700363000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 307,
+        "lat" : 35.700363000000003,
+        "lon" : 139.75053299999999,
+        "name" : "Olympic(オリンピック) 北新宿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 308,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74664050000001,
+          35.701623000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 308,
+        "lat" : 35.701622999999998,
+        "lon" : 139.74664050000001,
+        "name" : "まいばすけっと 新宿三栄町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 309,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74504750000006,
+          35.702082000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 309,
+        "lat" : 35.702081999999997,
+        "lon" : 139.7450475,
+        "name" : "まいばすけっと 新宿住吉町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 310,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.694256,
+          35.709336000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 310,
+        "lat" : 35.709336,
+        "lon" : 139.694256,
+        "name" : "まいばすけっと 九段南3丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 311,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75716150000005,
+          35.656812000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 311,
+        "lat" : 35.656812000000002,
+        "lon" : 139.7571615,
+        "name" : "ザ・ガーデン自由が丘 アトレ恵比寿店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 312,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75557750000007,
+          35.655624000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 312,
+        "lat" : 35.655624000000003,
+        "lon" : 139.75557749999999,
+        "name" : "maruetsu(マルエツ) プチ 西新宿三丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 313,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75557750000007,
+          35.655624000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 313,
+        "lat" : 35.655624000000003,
+        "lon" : 139.75557749999999,
+        "name" : "maruetsu(マルエツ) プチ 西新宿六丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 314,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75557750000007,
+          35.655624000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 314,
+        "lat" : 35.655624000000003,
+        "lon" : 139.75557749999999,
+        "name" : "maruetsu(マルエツ) プチ 赤坂店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 315,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75557750000007,
+          35.655624000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 315,
+        "lat" : 35.655624000000003,
+        "lon" : 139.75557749999999,
+        "name" : "maruetsu(マルエツ) プチ 東日本橋三丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 316,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7561535000001,
+          35.655606000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 316,
+        "lat" : 35.655605999999999,
+        "lon" : 139.75615350000001,
+        "name" : "サミットストア 笹塚店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 317,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74016500000005,
+          35.680419000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 317,
+        "lat" : 35.680419000000001,
+        "lon" : 139.74016499999999,
+        "name" : "オーケー下落合店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 318,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76973450000003,
+          35.653527000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 318,
+        "lat" : 35.653526999999997,
+        "lon" : 139.7697345,
+        "name" : "まいばすけっと 西五軒町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 319,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69078650000006,
+          35.701569000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 319,
+        "lat" : 35.701568999999999,
+        "lon" : 139.6907865,
+        "name" : "まいばすけっと 三田2丁目店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 320,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71159450000005,
+          35.66453400000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 320,
+        "lat" : 35.664534000000003,
+        "lon" : 139.71159449999999,
+        "name" : "サミットストア 三田店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 321,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67970300000002,
+          35.678475000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 321,
+        "lat" : 35.678474999999999,
+        "lon" : 139.67970299999999,
+        "name" : "いなげや 飯田橋店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 322,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68303300000002,
+          35.687727000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 322,
+        "lat" : 35.687727000000002,
+        "lon" : 139.68303299999999,
+        "name" : "ピーコックストア 芝浦アイランド店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 323,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77864450000004,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 323,
+        "lat" : 35.667000000000002,
+        "lon" : 139.77864450000001,
+        "name" : "Santoku(サントク) 新宿本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 324,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77864450000004,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 324,
+        "lat" : 35.667000000000002,
+        "lon" : 139.77864450000001,
+        "name" : "Santoku(サントク) 幡ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 325,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73943150000002,
+          35.664597000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 325,
+        "lat" : 35.664597000000001,
+        "lon" : 139.73943149999999,
+        "name" : "サミットストア 渋谷本町店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 326,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74096150000003,
+          35.663463000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 326,
+        "lat" : 35.663463,
+        "lon" : 139.7409615,
+        "name" : "サンディ 幡ヶ谷店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 327,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73686200000009,
+          35.661870000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 327,
+        "lat" : 35.66187,
+        "lon" : 139.736862,
+        "name" : "スーパーマーケット成城石井 市ヶ谷店"
+      }
+    }
+  ]
+}

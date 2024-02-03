@@ -1,0 +1,8199 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72919200000001,
+          35.663828570000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.66382857,
+        "lon" : 139.72919200000001,
+        "name" : "佐藤一斎墓"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7334555000001,
+          35.658441000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.658441000000003,
+        "lon" : 139.73345549999999,
+        "name" : "国際文化会館本館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73466600000006,
+          35.703918000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.703918000000002,
+        "lon" : 139.734666,
+        "name" : "高橋建築事務所社屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73238900000001,
+          35.702730000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.702730000000003,
+        "lon" : 139.73238900000001,
+        "name" : "矢来能楽堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72968450000008,
+          35.699796000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.699795999999999,
+        "lon" : 139.72968449999999,
+        "name" : "新井家住宅主屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7516296,
+          35.691730650000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.691730649999997,
+        "lon" : 139.7516296,
+        "name" : "江戸城跡のヒカリゴケ生育地"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "エロシェンコ像〈中村　彜筆　一九二〇年／油絵　麻布〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "絹本著色賢首菩薩図〈菱田春草筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "絹本著色日高河清姫図〈村上華岳筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "絹本著色湯女図〈土田麦僊筆／二曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "絹本墨画生々流転図〈横山大観筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "ゆあみ〈新海竹太郎作　一九〇七年／石膏原型〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "裸体美人〈萬鐵五郎筆／油絵　麻布〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "三遊亭円朝像（鏑木清方筆／絹本著色）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "切通しの写生〈岸田劉生筆　一九一五年／油絵　麻布〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75477840000008,
+          35.690603560000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.69060356,
+        "lon" : 139.75477839999999,
+        "name" : "紙本著色行く春図〈川合玉堂筆／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7516296,
+          35.691730650000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.691730649999997,
+        "lon" : 139.7516296,
+        "name" : "旧江戸城田安門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7516296,
+          35.691730650000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.691730649999997,
+        "lon" : 139.7516296,
+        "name" : "旧江戸城田安門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7516296,
+          35.691730650000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.691730649999997,
+        "lon" : 139.7516296,
+        "name" : "旧江戸城清水門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7516296,
+          35.691730650000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.691730649999997,
+        "lon" : 139.7516296,
+        "name" : "旧江戸城清水門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7516296,
+          35.691730650000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.691730649999997,
+        "lon" : 139.7516296,
+        "name" : "旧近衛師団司令部庁舎"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75461900000005,
+          35.690535000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.690534999999997,
+        "lon" : 139.75461899999999,
+        "name" : "絹本著色王昭君図〈菱田春草筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75461900000005,
+          35.690535000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.690534999999997,
+        "lon" : 139.75461899999999,
+        "name" : "騎竜観音〈原田直次郎筆　一八九〇年／油絵　麻布〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75461900000005,
+          35.690535000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.690534999999997,
+        "lon" : 139.75461899999999,
+        "name" : "紙本著色黄瀬川陣〈安田靫彦筆/六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75461900000005,
+          35.690535000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.690534999999997,
+        "lon" : 139.75461899999999,
+        "name" : "南風"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75461900000005,
+          35.690535000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.690534999999997,
+        "lon" : 139.75461899999999,
+        "name" : "母子〈上村松園筆/絹本著色〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75461900000005,
+          35.690535000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.690534999999997,
+        "lon" : 139.75461899999999,
+        "name" : "風蕭々兮易水寒"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75461900000005,
+          35.690535000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.690534999999997,
+        "lon" : 139.75461899999999,
+        "name" : "木花之佐久夜毘売"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "吾妻鏡（北条本）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "阿蘭陀本草和解〈野呂玄丈抄訳／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "管見抄〈（第三冊欠）／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "国絵図並郷帳"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "元版全相平話"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "公文録（図表共）並索引"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "貞享暦〈渋川春海筆／（巻四補写本）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "正保城絵図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "諸宗末寺帳"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "庶物類纂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "庶物類纂図翼"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "尋憲記"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版頴浜先生大全文集"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版鉅宋広韻"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版周易新講義"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版子略"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版史略"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版東坡集"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版梅亭先生四六標準"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版平斉文集"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版予章先生集"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版廬山記"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "宋版准海集"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "北槎聞略〈寛政六年八月／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "法曹類林〈巻第百九十二断簡／第百九十七断簡、第二百（金沢文庫本）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "本朝続文粋（金沢文庫本）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "間宮林蔵北蝦夷等見分関係記録"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386300000002,
+          35.690256000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.690255999999998,
+        "lon" : 139.753863,
+        "name" : "江戸幕府書物方関係資料"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72562630000004,
+          35.702365920000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.702365919999998,
+        "lon" : 139.72562629999999,
+        "name" : "山鹿素行墓"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74499350000008,
+          35.700624000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.700623999999998,
+        "lon" : 139.74499349999999,
+        "name" : "謡本〈百二十番／（車屋本）鳥養道晰筆〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74499350000008,
+          35.700624000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.700623999999998,
+        "lon" : 139.74499349999999,
+        "name" : "曲舞〈三十番／（車屋本）鳥養道晰筆〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76469850000001,
+          35.659133890000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.65913389,
+        "lon" : 139.76469850000001,
+        "name" : "旧浜離宮庭園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72051440000007,
+          35.63788578000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.637885779999998,
+        "lon" : 139.72051440000001,
+        "name" : "旧白金御料地"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72051440000007,
+          35.63788578000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.637885779999998,
+        "lon" : 139.72051440000001,
+        "name" : "旧朝香宮邸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72051440000007,
+          35.63788578000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.637885779999998,
+        "lon" : 139.72051440000001,
+        "name" : "旧朝香宮邸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72051440000007,
+          35.63788578000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.637885779999998,
+        "lon" : 139.72051440000001,
+        "name" : "旧朝香宮邸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72051440000007,
+          35.63788578000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.637885779999998,
+        "lon" : 139.72051440000001,
+        "name" : "旧朝香宮邸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72051440000007,
+          35.63788578000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.637885779999998,
+        "lon" : 139.72051440000001,
+        "name" : "旧朝香宮邸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72621480000009,
+          35.635967020000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.635967020000002,
+        "lon" : 139.72621480000001,
+        "name" : "瑞聖寺大雄宝殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "圜悟克勤墨蹟（建炎二年二月十二日）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "兼輔集断簡"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "虚堂智愚墨蹟〈与閲禅者偈頌／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "寸松庵色紙（たかための）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "大慧宗杲墨蹟〈尺牘／性禅姪宛〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "大燈国師墨蹟〈与明輪禅尼法語／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "大燈国師墨蹟〈孤桂字号／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "継色紙（きみをおきて）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "南楚師説墨蹟（至正二年秋）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "無準師範墨蹟〈与聖一国師尺牘／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72684250000009,
+          35.632229530000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.632229529999996,
+        "lon" : 139.7268425,
+        "name" : "無学祖元墨蹟"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73062500000003,
+          35.635788000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.635787999999998,
+        "lon" : 139.730625,
+        "name" : "三菱電機高輪荘蔵"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73062500000003,
+          35.635788000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.635787999999998,
+        "lon" : 139.730625,
+        "name" : "三菱電機高輪荘主屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73062500000003,
+          35.635788000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.635787999999998,
+        "lon" : 139.730625,
+        "name" : "三菱電機高輪荘洋館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73098500000003,
+          35.638587000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.638587000000001,
+        "lon" : 139.730985,
+        "name" : "明治学院インブリー館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7704189000001,
+          35.686161700000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.6861617,
+        "lon" : 139.77041890000001,
+        "name" : "常盤橋門跡"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77154800000005,
+          35.686575000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.686574999999998,
+        "lon" : 139.771548,
+        "name" : "日本銀行本店本館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78190700000005,
+          35.688888000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.688887999999999,
+        "lon" : 139.78190699999999,
+        "name" : "ハリオグラスビル"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79050490000009,
+          35.682789870000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.682789870000001,
+        "lon" : 139.7905049,
+        "name" : "清洲橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77830700000004,
+          35.689113000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.689112999999999,
+        "lon" : 139.77830700000001,
+        "name" : "江戸屋店舗兼住宅"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78188450000005,
+          35.685324000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.685324000000001,
+        "lon" : 139.78188449999999,
+        "name" : "よし梅芳町亭"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77305550000005,
+          35.686935000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.686934999999998,
+        "lon" : 139.7730555,
+        "name" : "拾遺抄"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77305550000005,
+          35.686935000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.686934999999998,
+        "lon" : 139.7730555,
+        "name" : "旧金剛宗家伝来能面"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77305550000005,
+          35.686935000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.686934999999998,
+        "lon" : 139.7730555,
+        "name" : "紙本著色東福門院入内図〈／四曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "粉引茶碗（三好）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "刀〈銘国広／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "唐物肩衝茶入（北野）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "熊野御幸記〈藤原定家筆／建仁元年十月〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "古林清茂墨蹟〈与無夢一清偈／泰定四年至節後三日〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "黒楽茶碗（俊寛）〈長次郎作／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "志野茶碗〈銘卯花墻／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "清拙正澄墨蹟〈霊致別称偈／延元元年仲夏〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "太刀〈銘国信／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "太刀〈銘助真／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "太刀〈銘則宗／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "太刀〈銘備州長船住兼光／暦応二年正月日〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "太刀〈銘備州長鉛基光／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "短刀〈無銘貞宗（名物徳善院貞宗）／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "短刀〈無銘正宗（名物日向正宗）／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "手鑑「たかまつ」（百八十六葉）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "銅製船氏王後墓誌"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "薙刀〈銘一／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "日本航海図&amp;lt;（羊皮紙著色）／&amp;gt;"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "楽焼黒茶碗（雨雲）〈光悦作／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "鸞天目茶碗"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "紙本金地著色日月松鶴図〈／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77313409999999,
+          35.686355690000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "lat" : 35.686355689999999,
+        "lon" : 139.77313409999999,
+        "name" : "紙本淡彩雪松図〈円山応挙筆／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77305550000005,
+          35.686935000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "lat" : 35.686934999999998,
+        "lon" : 139.7730555,
+        "name" : "三井本館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77494100000001,
+          35.684811000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "lat" : 35.684811000000003,
+        "lon" : 139.77494100000001,
+        "name" : "三越日本橋本店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77343350000001,
+          35.679690000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "lat" : 35.679690000000001,
+        "lon" : 139.77343350000001,
+        "name" : "大唐三蔵玄弉法師表啓"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77361350000001,
+          35.680761000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "lat" : 35.680760999999997,
+        "lon" : 139.77361350000001,
+        "name" : "髙島屋東京店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77617210000005,
+          35.682762970000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "lat" : 35.682762969999999,
+        "lon" : 139.7761721,
+        "name" : "日本橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "秋野蒔絵手箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "蘆屋松梅図真形釜"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "飛鳥井雅経筆懐紙（詠暁紅葉和歌）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "雨漏茶碗"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "一山一寧墨蹟（正和丙辰十月下澣）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "井戸茶碗（柴田）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "色絵山寺図茶壺〈仁清作／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "春日山蒔絵硯箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "堅手茶碗（長崎）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "唐物肩衝茶入〈銘松屋／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "観世音菩薩受記経"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "観普賢経〈（裝飾経）／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "犠首饕餮\u3013竜文尊〈図形文字一／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "犠首饕餮\u3013竜文方罍〈図形文字一／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "居涇和尚墨蹟〈弔白雲恵曉偈／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "金襴手下蕪花生"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "月礀文明墨蹟〈拈香語／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "月江正印墨蹟〈玉泉字号偈／至正八年仲冬〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "月江正印墨蹟〈与楚雙峯偈語／至正三年二月十八日〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色愛染曼荼羅図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色愛染明王像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色愛染明王像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色阿弥陀如来像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色鶉図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色春日補陀落山曼荼羅図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色春日宮曼荼羅図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色華厳五十五所絵"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色五百羅漢図〈伝明兆筆／東福寺伝来〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色金剛界八十一尊大曼荼羅図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色釈迦如来像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色釈迦八相図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色夕陽山水図〈馬麟筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色善光寺如来縁起絵"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色銭塘観潮図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色大威徳明王像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色大日如来像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色那智滝図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色普賢十羅刹女像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色仏涅槃図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本著色法相宗曼荼羅図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本墨画古木牧牛図〈毛倫筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "絹本墨画羅漢図〈／（第五諾矩尊者）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "高麗青磁蓮華唐草文水瓶"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "古今集〈藤原為氏筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "金光明最勝王経註釈〈巻第二断筒／（飯室切）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紺紙銀字華厳経巻第\u3013六〈（二月堂焼経）／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "金銅鉢"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "根本百一羯磨〈巻第六／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "嵯峨山蒔絵硯箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "銹藍金絵絵替皿〈尾形乾山作／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "子元祖元墨蹟（弘安三年中夏）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本淡彩山水図〈祥啓筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本墨画淡彩山水図〈曽我紹仙筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "宗峰妙超墨蹟（元亨壬戌）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "順正理論巻第六残巻"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "青磁花瓶"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "青磁筒花生〈銘大内筒／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "石造浮彫十一面観音龕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "双羊尊"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "大乗掌珍論〈巻上残巻／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "大乗法界無差別論疏〈成弁筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "大唐内典録〈巻第九　第十残巻／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "大般若経巻五十七残巻"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "大般若経巻第二十三"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "大般若経巻第二百六十七"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "註楞伽経〈巻第七／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "饕餮\u3013鳳文\u3013〈図形文字一／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "饕餮\u3013鳳文方彝〈文字六／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "饕餮\u3013竜文尊〈図形文字一／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "饕餮文\u3013〈図形文字一／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "饕餮文方\u3013〈文字一／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "内大臣殿歌合〈／元永二年七月〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "鼠志野亀甲文茶碗（山端）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "花白河蒔絵硯箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "不空三蔵表制集巻第五"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "宝相華銀平文袈裟箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "丸壺茶入（相坂）〈瀬戸／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "明極楚俊墨蹟（元徳二年仲春上澣五日）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "明染付花卉文大皿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "無量義経（裝飾経）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "木造地蔵菩薩立像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "竜巖徳真墨蹟〈与無夢一清偈／至順二年辛未重陽後十日〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本淡彩山水図〈伝周文筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本淡彩観瀑図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本墨画漁村夕照図〈伝牧谿筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本墨画風雨山水図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本著色瓜虫図〈呂敬甫筆／自賛がある〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本金地著色藤花図〈円山応挙筆／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "銅造〈釈迦如来／多宝如来〉並坐像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本金地著色燕子花図〈尾形光琳筆／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本墨画禅機図断簡〈因陀羅筆／（布袋図）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本著色絵過去現在因果経〈巻第二／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本著色天狗草紙"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本著色十二因縁絵巻"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71712050000008,
+          35.662203000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "lat" : 35.662202999999998,
+        "lon" : 139.71712049999999,
+        "name" : "紙本墨画竹雀図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71065850000002,
+          35.687151000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "lat" : 35.687151,
+        "lon" : 139.71065849999999,
+        "name" : "新宿御苑旧洋館御休所"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74461100000008,
+          35.658198000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "lat" : 35.658197999999999,
+        "lon" : 139.74461099999999,
+        "name" : "心光院表門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74421500000005,
+          35.658378000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "lat" : 35.658377999999999,
+        "lon" : 139.744215,
+        "name" : "心光院本堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78556100000003,
+          35.694540000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "lat" : 35.694540000000003,
+        "lon" : 139.785561,
+        "name" : "玉置文治郎ビル"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76072370000009,
+          35.663729620000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "lat" : 35.663729619999998,
+        "lon" : 139.7607237,
+        "name" : "旧新橋停車場跡"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7121075,
+          35.655345000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "lat" : 35.655344999999997,
+        "lon" : 139.7121075,
+        "name" : "石枕（立花二箇共）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7121075,
+          35.655345000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "lat" : 35.655344999999997,
+        "lon" : 139.7121075,
+        "name" : "金葉和歌集（二奏本）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7121075,
+          35.655345000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "lat" : 35.655344999999997,
+        "lon" : 139.7121075,
+        "name" : "久我家文書"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7121075,
+          35.655345000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "lat" : 35.655344999999997,
+        "lon" : 139.7121075,
+        "name" : "神皇正統記〈上中下／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7121075,
+          35.655345000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "lat" : 35.655344999999997,
+        "lon" : 139.7121075,
+        "name" : "朝野群載〈巻第一／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7121075,
+          35.655345000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "lat" : 35.655344999999997,
+        "lon" : 139.7121075,
+        "name" : "梁塵秘抄口伝集巻第十残巻"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7121075,
+          35.655345000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "lat" : 35.655344999999997,
+        "lon" : 139.7121075,
+        "name" : "令義解〈神祇令第六／僧尼令第七〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71208050000007,
+          35.65179900000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "lat" : 35.651798999999997,
+        "lon" : 139.71208050000001,
+        "name" : "渋谷区立広尾小学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71151350000002,
+          35.653320000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "lat" : 35.653320000000001,
+        "lon" : 139.7115135,
+        "name" : "群書類従版木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71139650000009,
+          35.654319000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "lat" : 35.654319000000001,
+        "lon" : 139.71139650000001,
+        "name" : "温故学会会館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73663250000004,
+          35.69967900000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "lat" : 35.699679000000003,
+        "lon" : 139.73663250000001,
+        "name" : "宮城道雄記念館検校の間"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68505320000008,
+          35.716512550000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "lat" : 35.716512549999997,
+        "lon" : 139.6850532,
+        "name" : "旧島津家住宅アトリエ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68505320000008,
+          35.716512550000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "lat" : 35.716512549999997,
+        "lon" : 139.6850532,
+        "name" : "栗原家住宅主屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68505320000008,
+          35.716512550000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "lat" : 35.716512549999997,
+        "lon" : 139.6850532,
+        "name" : "栗原家住宅蔵"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68505320000008,
+          35.716512550000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "lat" : 35.716512549999997,
+        "lon" : 139.6850532,
+        "name" : "栗原家住宅稲荷社及び石鳥居"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68505320000008,
+          35.716512550000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "lat" : 35.716512549999997,
+        "lon" : 139.6850532,
+        "name" : "栗原家住宅門柱及び塀"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77304040000001,
+          35.667237890000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "lat" : 35.667237890000003,
+        "lon" : 139.77304040000001,
+        "name" : "勝鬨橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77304040000001,
+          35.667237890000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "lat" : 35.667237890000003,
+        "lon" : 139.77304040000001,
+        "name" : "築地本願寺本堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77274050000005,
+          35.690283000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "lat" : 35.690283000000001,
+        "lon" : 139.7727405,
+        "name" : "太洋ビルディング（丸石ビルディング）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76811670000006,
+          35.68572467000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "lat" : 35.685724669999999,
+        "lon" : 139.76811670000001,
+        "name" : "常盤橋門跡"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77567350000004,
+          35.629632250000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "lat" : 35.62963225,
+        "lon" : 139.77567350000001,
+        "name" : "品川台場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 246,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 247,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 248,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 249,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 250,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 251,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 252,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7031750000001,
+          35.676009000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 253,
+        "lat" : 35.676009000000001,
+        "lon" : 139.70317499999999,
+        "name" : "明治神宮宝物殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68951750000008,
+          35.681139000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 254,
+        "lat" : 35.681139000000002,
+        "lon" : 139.68951749999999,
+        "name" : "代々木能舞台舞台・橋掛・鏡の間"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68951750000008,
+          35.681139000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 255,
+        "lat" : 35.681139000000002,
+        "lon" : 139.68951749999999,
+        "name" : "代々木能舞台敷舞台及び座敷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7302830000001,
+          35.666460000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 256,
+        "lat" : 35.666460000000001,
+        "lon" : 139.73028299999999,
+        "name" : "紙本著色病草紙断簡（不眠の女）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 257,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "色絵花鳥文八角大壺〈伊万里／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 258,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "色絵五艘船図大平鉢〈伊万里／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 259,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "小倉山蒔絵硯箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 260,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "桐竹鳳凰蒔絵文台及硯箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 261,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "紙本著色三十六歌仙切〈（順）／佐竹家伝来〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 262,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "紙本著色四季花鳥図〈／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 263,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "染付松樹文三脚皿〈鍋島／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 264,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "浮線綾螺鈿蒔絵手箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 265,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "紙本墨画善教房絵詞"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 266,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "紙本金地著色泰西王侯騎馬図〈／四曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 267,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "紙本金地著色南蛮人渡来図〈／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73028490000002,
+          35.666460390000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 268,
+        "lat" : 35.666460389999997,
+        "lon" : 139.73028489999999,
+        "name" : "清水・住吉図蒔絵螺鈿西洋双六盤"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73250600000006,
+          35.674263000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 269,
+        "lat" : 35.674263000000003,
+        "lon" : 139.732506,
+        "name" : "武家屋敷門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 270,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "近江国香庄文書（三十一通）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 271,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "大槻玄沢関係資料"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 272,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "玉篇巻第九残巻"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 273,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "紙本墨書尾張国解文"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 274,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "紙本墨書東大寺文書（十五通）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 275,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "崇光天皇宸翰御願文〈永和二年十一月十一日／伊勢太神宮宛〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 276,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "埴輪女子像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71943800000008,
+          35.709345000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 277,
+        "lat" : 35.709344999999999,
+        "lon" : 139.719438,
+        "name" : "礼記子本疏義巻第五十九"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75738650000005,
+          35.699391000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 278,
+        "lat" : 35.699390999999999,
+        "lon" : 139.7573865,
+        "name" : "カトリック神田教会聖堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69171610000001,
+          35.689456330000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 279,
+        "lat" : 35.689456329999999,
+        "lon" : 139.69171610000001,
+        "name" : "旧山口萬吉邸門及び塀"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69171610000001,
+          35.689456330000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 280,
+        "lat" : 35.689456329999999,
+        "lon" : 139.69171610000001,
+        "name" : "旧山口萬吉邸主屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69171610000001,
+          35.689456330000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 281,
+        "lat" : 35.689456329999999,
+        "lon" : 139.69171610000001,
+        "name" : "繭山龍泉堂店舗"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69171610000001,
+          35.689456330000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 282,
+        "lat" : 35.689456329999999,
+        "lon" : 139.69171610000001,
+        "name" : "新富町躍金楼店舗"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69171610000001,
+          35.689456330000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 283,
+        "lat" : 35.689456329999999,
+        "lon" : 139.69171610000001,
+        "name" : "喜代川店舗"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7688885,
+          35.69403600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 284,
+        "lat" : 35.694035999999997,
+        "lon" : 139.7688885,
+        "name" : "松本家住宅主屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76932950000003,
+          35.696124000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 285,
+        "lat" : 35.696123999999998,
+        "lon" : 139.7693295,
+        "name" : "山本歯科医院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76551800000004,
+          35.698023000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 286,
+        "lat" : 35.698022999999999,
+        "lon" : 139.76551799999999,
+        "name" : "日本ハリストス正教会教団復活大聖堂（ニコライ堂）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75930800000003,
+          35.700453000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 287,
+        "lat" : 35.700453000000003,
+        "lon" : 139.759308,
+        "name" : "絵唐津松樹文大皿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75930800000003,
+          35.700453000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 288,
+        "lat" : 35.700453000000003,
+        "lon" : 139.759308,
+        "name" : "古瀬戸黄釉巴文壺"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75930800000003,
+          35.700453000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 289,
+        "lat" : 35.700453000000003,
+        "lon" : 139.759308,
+        "name" : "釉裏紅草花文大壺"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75930800000003,
+          35.700453000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 290,
+        "lat" : 35.700453000000003,
+        "lon" : 139.759308,
+        "name" : "医心方〈巻第廿ニ／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75930800000003,
+          35.700453000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 291,
+        "lat" : 35.700453000000003,
+        "lon" : 139.759308,
+        "name" : "古葉略類聚鈔"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75930800000003,
+          35.700453000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 292,
+        "lat" : 35.700453000000003,
+        "lon" : 139.759308,
+        "name" : "古律書残篇"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75930800000003,
+          35.700453000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 293,
+        "lat" : 35.700453000000003,
+        "lon" : 139.759308,
+        "name" : "秘府略〈巻第八百六十四／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75930800000003,
+          35.700453000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 294,
+        "lat" : 35.700453000000003,
+        "lon" : 139.759308,
+        "name" : "不空三蔵表制集〈巻第六／（紙背）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76149050000004,
+          35.697591000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 295,
+        "lat" : 35.697591000000003,
+        "lon" : 139.76149050000001,
+        "name" : "岩宿遺跡出土品"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76149050000004,
+          35.697591000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 296,
+        "lat" : 35.697591000000003,
+        "lon" : 139.76149050000001,
+        "name" : "神奈川県夏島貝塚出土品"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76149050000004,
+          35.697591000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 297,
+        "lat" : 35.697591000000003,
+        "lon" : 139.76149050000001,
+        "name" : "埼玉県砂川遺跡出土品"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76149050000004,
+          35.697591000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 298,
+        "lat" : 35.697591000000003,
+        "lon" : 139.76149050000001,
+        "name" : "下野出流原遺跡出土品"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75893900000005,
+          35.693352000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 299,
+        "lat" : 35.693351999999997,
+        "lon" : 139.758939,
+        "name" : "学士会館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70221200000003,
+          35.665731000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 300,
+        "lat" : 35.665731000000001,
+        "lon" : 139.702212,
+        "name" : "能本〈世阿弥筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 301,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 301,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面翁（白色尉）（伝弥勒作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 302,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 302,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面皺尉（伝福来作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 303,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 303,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面父尉（伝弥勒作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 304,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 304,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面延命冠者（伝文蔵作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 305,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 305,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面大悪尉（伝赤鶴作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 306,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 306,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面鼻瘤悪尉（伝福来作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 307,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 307,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面慈童（伝竜右衛門作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 308,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 308,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面翁（黒色尉）（伝日光作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 309,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 309,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面子牛尉（伝小牛作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 310,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 310,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面阿古父尉（伝小牛作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 311,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 311,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面笑尉（伝小牛作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 312,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 312,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面朝倉尉（伝福来作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 313,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 313,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面大飛出（伝赤鶴作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 314,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70376450000003,
+          35.664849000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 314,
+        "lat" : 35.664848999999997,
+        "lon" : 139.70376450000001,
+        "name" : "能面天神（伝赤鶴作）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 315,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74048000000005,
+          35.701605000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 315,
+        "lat" : 35.701605000000001,
+        "lon" : 139.74047999999999,
+        "name" : "旧常盤家本館（石合家住宅主屋）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 316,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77370350000001,
+          35.671293000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 316,
+        "lat" : 35.671292999999999,
+        "lon" : 139.77370350000001,
+        "name" : "大野屋總本店店舗"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 317,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78231200000005,
+          35.676762600000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 317,
+        "lat" : 35.676762600000004,
+        "lon" : 139.78231199999999,
+        "name" : "永代橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 318,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7561760000001,
+          35.667918000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 318,
+        "lat" : 35.667918,
+        "lon" : 139.75617600000001,
+        "name" : "堀商店"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 319,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71074920000001,
+          35.659264700000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 319,
+        "lat" : 35.659264700000001,
+        "lon" : 139.71074920000001,
+        "name" : "ミュージアム１９９９（旧千葉常五郎邸）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 320,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71096570000009,
+          35.659662490000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 320,
+        "lat" : 35.659662490000002,
+        "lon" : 139.7109657,
+        "name" : "青山学院ベリーホール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 321,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71096570000009,
+          35.659662490000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 321,
+        "lat" : 35.659662490000002,
+        "lon" : 139.7109657,
+        "name" : "青山学院間島記念館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 322,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73843700000009,
+          35.698347000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 322,
+        "lat" : 35.698346999999998,
+        "lon" : 139.738437,
+        "name" : "旧馬場家牛込邸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 323,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74857500000007,
+          35.655563770000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 323,
+        "lat" : 35.655563770000001,
+        "lon" : 139.74857499999999,
+        "name" : "東京タワー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 324,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74684750000006,
+          35.654058000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 324,
+        "lat" : 35.654057999999999,
+        "lon" : 139.7468475,
+        "name" : "妙定院上土蔵"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 325,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74684750000006,
+          35.654058000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 325,
+        "lat" : 35.654057999999999,
+        "lon" : 139.7468475,
+        "name" : "妙定院熊野堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 326,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74826950000011,
+          35.65739700000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 326,
+        "lat" : 35.657397000000003,
+        "lon" : 139.74826949999999,
+        "name" : "増上寺三解脱門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 327,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74982650000004,
+          35.655966000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 327,
+        "lat" : 35.655965999999999,
+        "lon" : 139.74982650000001,
+        "name" : "旧台徳院霊廟惣門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 328,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74789600000008,
+          35.658297000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 328,
+        "lat" : 35.658296999999997,
+        "lon" : 139.747896,
+        "name" : "有章院（徳川家継）霊廟二天門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 329,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75091100000009,
+          35.65739700000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 329,
+        "lat" : 35.657397000000003,
+        "lon" : 139.750911,
+        "name" : "廣度院表門及び練塀"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 330,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75192800000002,
+          35.657595000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 330,
+        "lat" : 35.657595000000001,
+        "lon" : 139.75192799999999,
+        "name" : "常照院本堂内陣"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 331,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72855140000001,
+          35.699927260000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 331,
+        "lat" : 35.699927260000003,
+        "lon" : 139.72855139999999,
+        "name" : "林氏墓地"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 332,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7334780000001,
+          35.694585000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 332,
+        "lat" : 35.694584999999996,
+        "lon" : 139.73347799999999,
+        "name" : "一瀬家住宅主屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 333,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7334780000001,
+          35.694585000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 333,
+        "lat" : 35.694584999999996,
+        "lon" : 139.73347799999999,
+        "name" : "一瀬家住宅倉庫"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 334,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73862150000002,
+          35.64255600000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 334,
+        "lat" : 35.642555999999999,
+        "lon" : 139.73862149999999,
+        "name" : "キリスト友会フレンズセンター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 335,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73934819999999,
+          35.641305320000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 335,
+        "lat" : 35.641305320000001,
+        "lon" : 139.73934819999999,
+        "name" : "荻生徂徠墓"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 336,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308550000001,
+          35.64840600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 336,
+        "lat" : 35.648406000000001,
+        "lon" : 139.74308550000001,
+        "name" : "岩偶"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 337,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308550000001,
+          35.64840600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 337,
+        "lat" : 35.648406000000001,
+        "lon" : 139.74308550000001,
+        "name" : "岩版"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 338,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308550000001,
+          35.64840600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 338,
+        "lat" : 35.648406000000001,
+        "lon" : 139.74308550000001,
+        "name" : "後鳥羽院御抄〈并／〉越部禅尼消息"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 339,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308550000001,
+          35.64840600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 339,
+        "lat" : 35.648406000000001,
+        "lon" : 139.74308550000001,
+        "name" : "相良家文書"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 340,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308550000001,
+          35.64840600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 340,
+        "lat" : 35.648406000000001,
+        "lon" : 139.74308550000001,
+        "name" : "大かうさまくんきのうち〈太田牛一筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 341,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308550000001,
+          35.64840600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 341,
+        "lat" : 35.648406000000001,
+        "lon" : 139.74308550000001,
+        "name" : "対馬宗家関係資料"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 342,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308550000001,
+          35.64840600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 342,
+        "lat" : 35.648406000000001,
+        "lon" : 139.74308550000001,
+        "name" : "武蔵国日吉矢上古墳出土品"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 343,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308550000001,
+          35.64840600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 343,
+        "lat" : 35.648406000000001,
+        "lon" : 139.74308550000001,
+        "name" : "慶応義塾図書館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 344,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308550000001,
+          35.64840600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 344,
+        "lat" : 35.648406000000001,
+        "lon" : 139.74308550000001,
+        "name" : "慶応義塾三田演説館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 345,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73734660000002,
+          35.636227680000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 345,
+        "lat" : 35.636227679999998,
+        "lon" : 139.7373466,
+        "name" : "高輪大木戸跡"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 346,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73734660000002,
+          35.636227680000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 346,
+        "lat" : 35.636227679999998,
+        "lon" : 139.7373466,
+        "name" : "浅野長矩墓および赤穂義士墓"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 347,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75860360000001,
+          35.680499140000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 347,
+        "lat" : 35.680499140000002,
+        "lon" : 139.75860359999999,
+        "name" : "旧江戸城外桜田門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 348,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75860360000001,
+          35.680499140000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 348,
+        "lat" : 35.680499140000002,
+        "lon" : 139.75860359999999,
+        "name" : "旧江戸城外桜田門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 349,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74741900000004,
+          35.624781000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 349,
+        "lat" : 35.624780999999999,
+        "lon" : 139.74741900000001,
+        "name" : "東京水産大学雲鷹丸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 350,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72027950000006,
+          35.650611000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 350,
+        "lat" : 35.650610999999998,
+        "lon" : 139.7202795,
+        "name" : "上宮寺本堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 351,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72027950000006,
+          35.650611000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 351,
+        "lat" : 35.650610999999998,
+        "lon" : 139.7202795,
+        "name" : "上宮寺鐘楼"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 352,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72027950000006,
+          35.650611000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 352,
+        "lat" : 35.650610999999998,
+        "lon" : 139.7202795,
+        "name" : "上宮寺本堂応接部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 353,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72108950000006,
+          35.654022000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 353,
+        "lat" : 35.654021999999998,
+        "lon" : 139.72108950000001,
+        "name" : "旧久邇宮邸（聖心女子大学）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 354,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72108950000006,
+          35.654022000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 354,
+        "lat" : 35.654021999999998,
+        "lon" : 139.72108950000001,
+        "name" : "旧久邇宮邸（聖心女子大学）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 355,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74222150000003,
+          35.662878000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 355,
+        "lat" : 35.662877999999999,
+        "lon" : 139.7422215,
+        "name" : "大橋茶寮茶室葵"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 356,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74222150000003,
+          35.662878000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 356,
+        "lat" : 35.662877999999999,
+        "lon" : 139.7422215,
+        "name" : "大橋茶寮茶室山吹"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 357,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74222150000003,
+          35.662878000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 357,
+        "lat" : 35.662877999999999,
+        "lon" : 139.7422215,
+        "name" : "大橋茶寮表門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 358,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74222150000003,
+          35.662878000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 358,
+        "lat" : 35.662877999999999,
+        "lon" : 139.7422215,
+        "name" : "大橋茶寮中門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 359,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74222150000003,
+          35.662878000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 359,
+        "lat" : 35.662877999999999,
+        "lon" : 139.7422215,
+        "name" : "大橋茶寮茶室如庵写"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 360,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74222150000003,
+          35.662878000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 360,
+        "lat" : 35.662877999999999,
+        "lon" : 139.7422215,
+        "name" : "大橋茶寮茶室桂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 361,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74222150000003,
+          35.662878000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 361,
+        "lat" : 35.662877999999999,
+        "lon" : 139.7422215,
+        "name" : "大橋茶寮茶室守貧庵"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 362,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74222150000003,
+          35.662878000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 362,
+        "lat" : 35.662877999999999,
+        "lon" : 139.7422215,
+        "name" : "大橋茶寮不老門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 363,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74222150000003,
+          35.662878000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 363,
+        "lat" : 35.662877999999999,
+        "lon" : 139.7422215,
+        "name" : "大橋茶寮塀"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 364,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74461100000008,
+          35.666064000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 364,
+        "lat" : 35.666063999999999,
+        "lon" : 139.74461099999999,
+        "name" : "菊池寛実記念智美術館別館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 365,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 365,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "大倉集古館陳列館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 366,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 366,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "寿老図六角皿〈尾形乾山作／尾形光琳画〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 367,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 367,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "長生殿蒔絵手筥"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 368,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 368,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "石造如来立像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 369,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 369,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "紙本著色鵜飼図〈狩野探幽筆／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 370,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 370,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "徐公文集（宋刊本）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 371,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 371,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "宋版韓集挙正"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 372,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 372,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "宋版大唐三蔵取経詩話（高山寺本）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 373,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 373,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "短刀〈銘則重／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 374,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7433420000001,
+          35.667000000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 374,
+        "lat" : 35.667000000000002,
+        "lon" : 139.74334200000001,
+        "name" : "東大寺文書〈（二十四通）／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 375,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74868800000002,
+          35.667945000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 375,
+        "lat" : 35.667945000000003,
+        "lon" : 139.74868799999999,
+        "name" : "虎ノ門大坂屋砂場店舗"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 376,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72214250000002,
+          35.709867000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 376,
+        "lat" : 35.709867000000003,
+        "lon" : 139.72214249999999,
+        "name" : "早稲田大学大隈記念講堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 377,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71106800000007,
+          35.707527000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 377,
+        "lat" : 35.707526999999999,
+        "lon" : 139.71106800000001,
+        "name" : "学習院旧正門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 378,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73241480000002,
+          35.653022560000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 378,
+        "lat" : 35.653022559999997,
+        "lon" : 139.73241479999999,
+        "name" : "善福寺のイチョウ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 379,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73204250000003,
+          35.677080000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 379,
+        "lat" : 35.677079999999997,
+        "lon" : 139.73204250000001,
+        "name" : "旧東宮御所（迎賓館赤坂離宮）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 380,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76266050000004,
+          35.667999000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 380,
+        "lat" : 35.667999000000002,
+        "lon" : 139.76266050000001,
+        "name" : "石帆惟衍墨蹟"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 381,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76266050000004,
+          35.667999000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 381,
+        "lat" : 35.667999000000002,
+        "lon" : 139.76266050000001,
+        "name" : "達磨大師安心法門（絹本）〈石溪心月筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 382,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77309150000008,
+          35.676540000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 382,
+        "lat" : 35.676540000000003,
+        "lon" : 139.77309149999999,
+        "name" : "彩色設計図集"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 383,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 383,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "古今和歌集巻第一断簡〈（高野切）／（寛平の）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 384,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 384,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "色絵花鳥文八角大壺〈伊万里／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 385,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 385,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "色絵罌粟文茶壺〈仁清作／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 386,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 386,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "色絵鳳凰文壺〈仁清作／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 387,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 387,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "絵唐津芦文壺"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 388,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 388,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "絵唐津柿文三耳壺"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 389,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 389,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "金銀藍絵松樹文蓋物〈尾形乾山作／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 390,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 390,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "絹本著色漁釣図〈徐祚筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 391,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 391,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "絹本著色更衣美人図〈喜多川歌麿筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 392,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 392,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "絹本著色十王図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 393,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 393,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "絹本著色真言八祖行状図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 394,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 394,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "虎関師錬筆消息〈六月十八日／檀溪心涼宛〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 395,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 395,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "古文孝経（金沢文庫本）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 396,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 396,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "金銅蓮唐草文透彫経箱"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 397,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 397,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "定頼集〈藤原定家筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 398,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 398,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本淡彩山水図〈与謝蕪村筆／宝暦十三年四月の年記がある／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 399,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 399,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本著色三十六歌仙切〈（遍昭）／佐竹家伝来〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 400,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 400,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本著色四季日待図〈英一蝶筆〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 401,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 401,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨画花鳥図〈能阿弥筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 402,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 402,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨書光厳院宸翰御消息（十一月五日）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 403,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 403,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨書後光厳院宸翰御消息（七月廿九日）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 404,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 404,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨書後小松天皇宸翰御消息（七月廿五日）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 405,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 405,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨書陽光院御筆御消息（七十三通）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 406,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 406,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "青磁下蕪花生"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 407,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 407,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "青磁袴腰大香炉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 408,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 408,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "禅院額字〈選仏場／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 409,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 409,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "大燈国師墨蹟〈偈頌／（夏日）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 410,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 410,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "大燈国師墨蹟〈偈語（興作）／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 411,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 411,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "太刀〈銘国村／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 412,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 412,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "継色紙（むめのかの）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 413,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 413,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "壺形土器"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 414,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 414,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "手鑑「見ぬ世の友」（二百二十九葉）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 415,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 415,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "中務集"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 416,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 416,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "伏見天皇宸翰御歌集（五十六首）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 417,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 417,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "藤原定家筆消息〈九月十日／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 418,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 418,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "明恵上人筆消息"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 419,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 419,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "理趣経種子曼荼羅"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 420,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 420,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "楼閣人物螺鈿食籠"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 421,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 421,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "和漢朗詠抄〈巻下／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 422,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 422,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨画青山園荘図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 423,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 423,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本著色西行法師行状絵詞〈巻第一、第二、第四〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 424,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 424,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨画平沙落雁図〈伝牧谿筆／「道有」ノ印アリ〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 425,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 425,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本淡彩十二月離合山水図〈池大雅筆／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 426,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 426,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "著色絵料紙墨書法華経残闕〈／（扇面写経）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 427,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 427,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨画山市晴嵐図〈玉澗筆／自賛がある〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 428,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 428,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本著色柿本人麿像〈／（佐竹本三十六歌仙切）〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 429,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 429,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本著色梅花書屋図〈田能村竹田筆／天保三年の年記がある〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 430,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 430,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本金地著色祇園祭礼図〈／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 431,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 431,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨画双峰挿雲図〈浦上玉堂筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 432,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 432,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨画籠煙惹滋図〈浦上玉堂筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 433,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 433,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本淡彩戸山山荘図〈谷文晁筆／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 434,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 434,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本著色絵因果経〈巻第三上／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 435,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 435,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本著色四季花木図〈／六曲屏風〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 436,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 436,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本著色伴大納言絵詞"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 437,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 437,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本著色直幹申文絵詞"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 438,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 438,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "紙本墨画淡彩野々宮図"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 439,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76065660000006,
+          35.676568140000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 439,
+        "lat" : 35.676568140000001,
+        "lon" : 139.7606566,
+        "name" : "赤楽兎文香合〈光悦作／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 440,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76065660000006,
+          35.676568140000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 440,
+        "lat" : 35.676568140000001,
+        "lon" : 139.7606566,
+        "name" : "柏木菟蒔絵料紙箱及春日野蒔絵硯箱〈小川破笠作／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 441,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76214300000004,
+          35.678979000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 441,
+        "lat" : 35.678978999999998,
+        "lon" : 139.76214300000001,
+        "name" : "明治生命保険相互会社本社本館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 442,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76464950000002,
+          35.683317000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 442,
+        "lat" : 35.683317000000002,
+        "lon" : 139.76464949999999,
+        "name" : "日本工業倶楽部会館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 443,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76225550000004,
+          35.684469000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 443,
+        "lat" : 35.684469,
+        "lon" : 139.76225550000001,
+        "name" : "東京駅丸ノ内本屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 444,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76793900000007,
+          35.702046000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 444,
+        "lat" : 35.702046000000003,
+        "lon" : 139.76793900000001,
+        "name" : "神田神社瑞垣"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 445,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76793900000007,
+          35.702046000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 445,
+        "lat" : 35.702046000000003,
+        "lon" : 139.76793900000001,
+        "name" : "神田神社宝庫"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 446,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76793900000007,
+          35.702046000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 446,
+        "lat" : 35.702046000000003,
+        "lon" : 139.76793900000001,
+        "name" : "神田神社本殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 447,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76793900000007,
+          35.702046000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 447,
+        "lat" : 35.702046000000003,
+        "lon" : 139.76793900000001,
+        "name" : "神田神社西門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 448,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76793900000007,
+          35.702046000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 448,
+        "lat" : 35.702046000000003,
+        "lon" : 139.76793900000001,
+        "name" : "神田神社幣殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 449,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76793900000007,
+          35.702046000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 449,
+        "lat" : 35.702046000000003,
+        "lon" : 139.76793900000001,
+        "name" : "神田神社神饌所"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 450,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76793900000007,
+          35.702046000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 450,
+        "lat" : 35.702046000000003,
+        "lon" : 139.76793900000001,
+        "name" : "神田神社拝殿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 451,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76793900000007,
+          35.702046000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 451,
+        "lat" : 35.702046000000003,
+        "lon" : 139.76793900000001,
+        "name" : "神田神社東門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 452,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76136730000007,
+          35.65545362000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 452,
+        "lat" : 35.655453620000003,
+        "lon" : 139.76136729999999,
+        "name" : "旧芝離宮庭園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 453,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71764250000001,
+          35.678655000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 453,
+        "lat" : 35.678654999999999,
+        "lon" : 139.71764250000001,
+        "name" : "聖徳記念絵画館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 454,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74864750000006,
+          35.671383000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 454,
+        "lat" : 35.671382999999999,
+        "lon" : 139.7486475,
+        "name" : "木造釈迦如来立像"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 455,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74864750000006,
+          35.671383000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 455,
+        "lat" : 35.671382999999999,
+        "lon" : 139.7486475,
+        "name" : "乾漆伎楽面"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 456,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74864750000006,
+          35.671383000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 456,
+        "lat" : 35.671382999999999,
+        "lon" : 139.7486475,
+        "name" : "新撰和歌髄脳"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 457,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74864750000006,
+          35.671383000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 457,
+        "lat" : 35.671382999999999,
+        "lon" : 139.7486475,
+        "name" : "旧文部省庁舎"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 458,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75478550000003,
+          35.676063000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 458,
+        "lat" : 35.676062999999999,
+        "lon" : 139.7547855,
+        "name" : "法務省旧本館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 459,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70267860000001,
+          35.717598010000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 459,
+        "lat" : 35.717598010000003,
+        "lon" : 139.70267860000001,
+        "name" : "日本バプテストキリスト教目白ヶ丘教会礼拝堂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 460,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73520600000006,
+          35.702928000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 460,
+        "lat" : 35.702928,
+        "lon" : 139.73520600000001,
+        "name" : "鈴木家住宅主屋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 461,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73520600000006,
+          35.702928000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 461,
+        "lat" : 35.702928,
+        "lon" : 139.73520600000001,
+        "name" : "一水寮"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 462,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70033100000001,
+          35.647911000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 462,
+        "lat" : 35.647911000000001,
+        "lon" : 139.70033100000001,
+        "name" : "旧朝倉家住宅"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 463,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70033100000001,
+          35.647911000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 463,
+        "lat" : 35.647911000000001,
+        "lon" : 139.70033100000001,
+        "name" : "旧朝倉家住宅"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 464,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74422400000003,
+          35.678385000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 464,
+        "lat" : 35.678384999999999,
+        "lon" : 139.744224,
+        "name" : "小野蘭山関係資料"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 465,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74422400000003,
+          35.678385000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 465,
+        "lat" : 35.678384999999999,
+        "lon" : 139.744224,
+        "name" : "弘安礼節"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 466,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74422400000003,
+          35.678385000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 466,
+        "lat" : 35.678384999999999,
+        "lon" : 139.744224,
+        "name" : "釈氏往来"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 467,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74415600000009,
+          35.678388990000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 467,
+        "lat" : 35.678388990000002,
+        "lon" : 139.744156,
+        "name" : "宋版姓解"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 468,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74415600000009,
+          35.678388990000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 468,
+        "lat" : 35.678388990000002,
+        "lon" : 139.744156,
+        "name" : "対馬宗家倭館関係資料"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 469,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74415600000009,
+          35.678388990000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 469,
+        "lat" : 35.678388990000002,
+        "lon" : 139.744156,
+        "name" : "天台山記"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 470,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74415600000009,
+          35.678388990000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 470,
+        "lat" : 35.678388990000002,
+        "lon" : 139.744156,
+        "name" : "満済准后日記〈自筆本／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 471,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74415600000009,
+          35.678388990000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 471,
+        "lat" : 35.678388990000002,
+        "lon" : 139.744156,
+        "name" : "銘尽〈（観智院本）／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 472,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74415600000009,
+          35.678388990000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 472,
+        "lat" : 35.678388990000002,
+        "lon" : 139.744156,
+        "name" : "師守記〈自筆本／〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 473,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73019650000003,
+          35.656490500000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 473,
+        "lat" : 35.656490499999997,
+        "lon" : 139.73019650000001,
+        "name" : "菊池氏茶室（\u25A0(石偏に間)居）庭園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 474,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72654850000004,
+          35.652126600000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 474,
+        "lat" : 35.652126600000003,
+        "lon" : 139.72654850000001,
+        "name" : "江戸城造営関係資料（甲良家伝来）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 475,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74317200000007,
+          35.648365900000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 475,
+        "lat" : 35.648365900000002,
+        "lon" : 139.74317199999999,
+        "name" : "解剖存真図（南小柿寧一筆）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 476,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75359850000007,
+          35.683722100000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 476,
+        "lat" : 35.683722099999997,
+        "lon" : 139.75359850000001,
+        "name" : "江戸城跡"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 477,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73526060000006,
+          35.634244200000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 477,
+        "lat" : 35.634244199999998,
+        "lon" : 139.7352606,
+        "name" : "東禅寺"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 478,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73950050000008,
+          35.661163800000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 478,
+        "lat" : 35.661163799999997,
+        "lon" : 139.73950049999999,
+        "name" : "日英修好通商条約"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 479,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73950050000008,
+          35.661163800000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 479,
+        "lat" : 35.661163799999997,
+        "lon" : 139.73950049999999,
+        "name" : "日仏修好通商条約"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 480,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73950050000008,
+          35.661163800000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 480,
+        "lat" : 35.661163799999997,
+        "lon" : 139.73950049999999,
+        "name" : "日米修好通商条約"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 481,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73950050000008,
+          35.661163800000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 481,
+        "lat" : 35.661163799999997,
+        "lon" : 139.73950049999999,
+        "name" : "日米条約調印書〈／安政四年五月二十六日〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 482,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73950050000008,
+          35.661163800000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 482,
+        "lat" : 35.661163799999997,
+        "lon" : 139.73950049999999,
+        "name" : "日米和親条約批准書交換証書〈／安政二年正月五日〉"
+      }
+    }
+  ]
+}

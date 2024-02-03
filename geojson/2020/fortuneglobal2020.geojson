@@ -1,0 +1,617 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.723793,
+          35.672091100000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "name" : "Honda Motor",
+        "lon" : 139.723793,
+        "lat" : 35.672091100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76130970000008,
+          35.663041600000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "name" : "SoftBank Group",
+        "lon" : 139.7613097,
+        "lat" : 35.6630416
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75944590000006,
+          35.663052100000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "name" : "Sony",
+        "lon" : 139.7594459,
+        "lat" : 35.663052100000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76079730000004,
+          35.66561930000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "name" : "Fujitsu",
+        "lon" : 139.76079730000001,
+        "lat" : 35.665619300000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7579750000001,
+          35.651638300000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "name" : "Toshiba",
+        "lon" : 139.75797499999999,
+        "lat" : 35.651638300000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74794020000002,
+          35.649427800000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "name" : "NEC",
+        "lon" : 139.74794019999999,
+        "lat" : 35.649427799999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70005460000004,
+          35.687322400000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "name" : "East Japan Railway",
+        "lon" : 139.70005459999999,
+        "lat" : 35.687322399999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7133927000001,
+          35.646787300000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "name" : "Subaru",
+        "lon" : 139.71339270000001,
+        "lat" : 35.6467873
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69611100000009,
+          35.69272200000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "name" : "Sompo Holdings",
+        "lon" : 139.696111,
+        "lat" : 35.692722000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7608173000001,
+          35.675837400000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "name" : "Dai-ichi Life Holdings",
+        "lon" : 139.76081730000001,
+        "lat" : 35.675837399999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75054140000009,
+          35.700322300000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "name" : "KDDI",
+        "lon" : 139.7505414,
+        "lat" : 35.700322300000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7584339,
+          35.670099600000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "name" : "Tokyo Electric Power",
+        "lon" : 139.7584339,
+        "lat" : 35.6700996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75758030000009,
+          35.672470300000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "name" : "JFE Holdings",
+        "lon" : 139.7575803,
+        "lat" : 35.672470300000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76809450000007,
+          35.687179000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "name" : "Sumitomo",
+        "lon" : 139.76809449999999,
+        "lat" : 35.687179
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76743720000002,
+          35.686858800000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "name" : "Japan Post Holdings",
+        "lon" : 139.76743719999999,
+        "lat" : 35.686858800000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76539750000006,
+          35.68551240000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "name" : "Mizuho Financial Group",
+        "lon" : 139.76539750000001,
+        "lat" : 35.6855124
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76374350000003,
+          35.685703500000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "name" : "Nippon Telegraph and Telephone",
+        "lon" : 139.7637435,
+        "lat" : 35.685703500000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76199330000009,
+          35.686064100000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "name" : "ENEOS Holdings",
+        "lon" : 139.7619933,
+        "lat" : 35.686064100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76173490000008,
+          35.677699300000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "name" : "Mitsubishi Heavy Industries",
+        "lon" : 139.76173489999999,
+        "lat" : 35.6776993
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7611088000001,
+          35.676760100000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "name" : "Idemitsu Kosan",
+        "lon" : 139.76110879999999,
+        "lat" : 35.676760100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76493570000002,
+          35.678606800000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "name" : "Mitsubishi Electric",
+        "lon" : 139.7649357,
+        "lat" : 35.678606799999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76432940000007,
+          35.678609100000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "name" : "Mitsubishi UFJ Financial Group",
+        "lon" : 139.76432940000001,
+        "lat" : 35.678609100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76253250000002,
+          35.678570300000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "name" : "Nippon Steel Corporation",
+        "lon" : 139.76253249999999,
+        "lat" : 35.678570299999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76256710000007,
+          35.681054800000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "name" : "Mitsubishi",
+        "lon" : 139.76256710000001,
+        "lat" : 35.681054799999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76207460000001,
+          35.679153700000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "name" : "Meiji Yasuda Life Insurance",
+        "lon" : 139.76207460000001,
+        "lat" : 35.679153700000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76580210000009,
+          35.683181000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "name" : "Hitachi",
+        "lon" : 139.7658021,
+        "lat" : 35.683180999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7632777,
+          35.683118200000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "name" : "Tokio Marine Holdings",
+        "lon" : 139.7632777,
+        "lat" : 35.683118200000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76224580000007,
+          35.684470600000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "name" : "Mitsui",
+        "lon" : 139.76224579999999,
+        "lat" : 35.684470599999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7623658,
+          35.684975400000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "name" : "Sumitomo Mitsui Financial Group",
+        "lon" : 139.7623658,
+        "lat" : 35.684975399999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76122110000006,
+          35.684500100000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "name" : "Mitsubishi Chemical Holdings",
+        "lon" : 139.7612211,
+        "lat" : 35.684500100000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7843206,
+          35.674250800000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "name" : "MS&AD Insurance Group Holdings",
+        "lon" : 139.7843206,
+        "lat" : 35.674250800000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76821540000003,
+          35.677203700000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "name" : "Medipal Holdings",
+        "lon" : 139.7682154,
+        "lat" : 35.6772037
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7742750000001,
+          35.681912900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "name" : "Marubeni",
+        "lon" : 139.77427499999999,
+        "lat" : 35.6819129
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7725567,
+          35.682705400000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "name" : "Takeda Pharmaceutical",
+        "lon" : 139.7725567,
+        "lat" : 35.682705400000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76153420000003,
+          35.668233500000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "name" : "Seven & I Holdings",
+        "lon" : 139.7615342,
+        "lat" : 35.668233499999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76838180000004,
+          35.676099900000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "name" : "Bridgestone",
+        "lon" : 139.76838179999999,
+        "lat" : 35.676099899999997
+      }
+    }
+  ]
+}

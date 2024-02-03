@@ -1,0 +1,905 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72375099999999,
+          35.672266000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "name" : "本田技研工業株式会社",
+        "lon" : 139.72375099999999,
+        "lat" : 35.672266,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7625670000001,
+          35.681055000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "name" : "三菱自動車工業株式会社",
+        "lon" : 139.76256699999999,
+        "lat" : 35.681055000000001,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76374400000009,
+          35.685704000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "name" : "ＮＴＴ（日本電信電話株式会社）",
+        "lon" : 139.763744,
+        "lat" : 35.685704000000001,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76743700000009,
+          35.686859000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "name" : "日本郵政株式会社",
+        "lon" : 139.767437,
+        "lat" : 35.686858999999998,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7436120000001,
+          35.631166000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "name" : "ソニー株式会社",
+        "lon" : 139.74361200000001,
+        "lat" : 35.631166,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7657660000001,
+          35.683186000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "name" : "株式会社日立製作所",
+        "lon" : 139.76576600000001,
+        "lat" : 35.683185999999999,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76226100000008,
+          35.687754000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "name" : "三井物産株式会社",
+        "lon" : 139.762261,
+        "lat" : 35.687753999999998,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76081700000009,
+          35.675837000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "name" : "第一生命保険株式会社",
+        "lon" : 139.760817,
+        "lat" : 35.675837000000001,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7742750000001,
+          35.681913000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "name" : "丸紅株式会社",
+        "lon" : 139.77427499999999,
+        "lat" : 35.681913000000002,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76199300000007,
+          35.686064000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "name" : "ＥＮＥＯＳホールディングス株式会社",
+        "lon" : 139.76199299999999,
+        "lat" : 35.686064000000002,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76432900000009,
+          35.678609000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "name" : "三菱ＵＦＪフィナンシャル・グループ",
+        "lon" : 139.764329,
+        "lat" : 35.678609000000002,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76067,
+          35.655214000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "name" : "ソフトバンク株式会社",
+        "lon" : 139.76067,
+        "lat" : 35.655214000000001,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75843100000009,
+          35.670106000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "name" : "東京電力ホールディングス株式会社",
+        "lon" : 139.758431,
+        "lat" : 35.670105999999997,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73404600000003,
+          35.685844000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "name" : "株式会社セブン＆アイ・ホールディングス",
+        "lon" : 139.73404600000001,
+        "lat" : 35.685844000000003,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76327800000001,
+          35.683118000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "name" : "東京海上ホールディングス株式会社",
+        "lon" : 139.76327800000001,
+        "lat" : 35.683118,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.750541,
+          35.700322000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "name" : "ＫＤＤＩ株式会社　",
+        "lon" : 139.750541,
+        "lat" : 35.700322,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78432100000009,
+          35.674251000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "name" : "ＭＳ＆ＡＤインシュアランスグループホールディングス株式会社",
+        "lon" : 139.78432100000001,
+        "lat" : 35.674250999999998,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76253200000008,
+          35.678570000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "name" : "日鉄物産株式会社",
+        "lon" : 139.76253199999999,
+        "lat" : 35.678570000000001,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76796000000002,
+          35.687146000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "name" : "株式会社三井住友銀行",
+        "lon" : 139.76795999999999,
+        "lat" : 35.687145999999998,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76493600000003,
+          35.678607000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "name" : "三菱電機株式会社",
+        "lon" : 139.76493600000001,
+        "lat" : 35.678607,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7620750000001,
+          35.67915400000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "name" : "明治安田生命保険相互会社",
+        "lon" : 139.76207500000001,
+        "lat" : 35.679153999999997,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76226100000008,
+          35.687754000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "name" : "出光興産株式会社",
+        "lon" : 139.762261,
+        "lat" : 35.687753999999998,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76236600000004,
+          35.684975000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "name" : "三井住友フィナンシャルグループ",
+        "lon" : 139.76236599999999,
+        "lat" : 35.684975000000001,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69652200000007,
+          35.69259100000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "name" : "ＳＯＭＰＯホールディングス株式会社",
+        "lon" : 139.69652199999999,
+        "lat" : 35.692591,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76173500000004,
+          35.677699000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "name" : "三菱重工業株式会社",
+        "lon" : 139.76173499999999,
+        "lat" : 35.677698999999997,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76106200000004,
+          35.665401000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "name" : "富士通株式会社",
+        "lon" : 139.76106200000001,
+        "lat" : 35.665401000000003,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76122100000009,
+          35.684500000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "name" : "三菱ケミカル株式会社",
+        "lon" : 139.76122100000001,
+        "lat" : 35.6845,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75431400000002,
+          35.670326000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "name" : "ＪＦＥ（ジェイエフイー）ホールディングス株式会社",
+        "lon" : 139.75431399999999,
+        "lat" : 35.670326000000003,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.765398,
+          35.685512000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "name" : "株式会社みずほフィナンシャルグループ　",
+        "lon" : 139.765398,
+        "lat" : 35.685512000000003,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76821500000005,
+          35.677204000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "name" : "株式会社メディパルホールディングス",
+        "lon" : 139.768215,
+        "lat" : 35.677204000000003,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77463299999999,
+          35.687672000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "name" : "武田薬品工業株式会社",
+        "lon" : 139.77463299999999,
+        "lat" : 35.687671999999999,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7579750000001,
+          35.651638000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "name" : "株式会社東芝",
+        "lon" : 139.75797499999999,
+        "lat" : 35.651637999999998,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74794000000009,
+          35.649428000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "name" : "日本電気株式会社",
+        "lon" : 139.74794,
+        "lat" : 35.649428,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76838200000009,
+          35.676100000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "name" : "株式会社ブリヂストン",
+        "lon" : 139.768382,
+        "lat" : 35.676099999999998,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.713393,
+          35.646787000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "name" : "株式会社ＳＵＢＡＲＵ",
+        "lon" : 139.713393,
+        "lat" : 35.646787000000003,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76273600000002,
+          35.685966000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "name" : "アルフレッサホールディングス株式会社",
+        "lon" : 139.76273599999999,
+        "lat" : 35.685966000000001,
+        "Field4" : null,
+        "Field5" : null,
+        "Field6" : null,
+        "Field7" : null,
+        "Field8" : null,
+        "Field9" : null,
+        "Field10" : null,
+        "Field11" : null
+      }
+    }
+  ]
+}

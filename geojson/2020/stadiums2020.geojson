@@ -1,0 +1,175 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74954300000002,
+          35.693748000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "name" : "日本武道館",
+        "lon" : 139.74954299999999,
+        "lat" : 35.693747999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71752550000008,
+          35.671743000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "name" : "秩父宮ラグビー場",
+        "lon" : 139.71752549999999,
+        "lat" : 35.671742999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71634200000005,
+          35.674245000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "name" : "明治神宮野球場",
+        "lon" : 139.716342,
+        "lat" : 35.674244999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.699746,
+          35.667279000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "name" : "東京ドーム",
+        "lon" : 139.699746,
+        "lat" : 35.667279000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.699746,
+          35.667279000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "name" : "両国国技館",
+        "lon" : 139.699746,
+        "lat" : 35.667279000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71256200000005,
+          35.679735000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "name" : "有明コロシアム",
+        "lon" : 139.71256199999999,
+        "lat" : 35.679735000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79428680000001,
+          35.629817900000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "name" : "東京ビッグサイト",
+        "lon" : 139.79428680000001,
+        "lat" : 35.629817899999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70016250000003,
+          35.667641400000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "name" : "国立代々木競技場〔第一体育館〕",
+        "lon" : 139.7001625,
+        "lat" : 35.667641400000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70016250000003,
+          35.667641400000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "name" : "国立代々木競技場〔第二体育館〕",
+        "lon" : 139.7001625,
+        "lat" : 35.667641400000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71249290000003,
+          35.679774800000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "name" : "東京体育館",
+        "lon" : 139.7124929,
+        "lat" : 35.679774799999997
+      }
+    }
+  ]
+}

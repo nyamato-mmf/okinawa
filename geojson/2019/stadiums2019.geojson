@@ -1,0 +1,107 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74954300000002,
+          35.693748000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.693747999999999,
+        "lon" : 139.74954299999999,
+        "name" : "日本武道館"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71752550000008,
+          35.671743000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.671742999999999,
+        "lon" : 139.71752549999999,
+        "name" : "秩父宮ラグビー場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71634200000005,
+          35.674245000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.674244999999999,
+        "lon" : 139.716342,
+        "name" : "明治神宮野球場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.699746,
+          35.667279000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.667279000000001,
+        "lon" : 139.699746,
+        "name" : "国立代々木競技場〔第一体育館〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.699746,
+          35.667279000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.667279000000001,
+        "lon" : 139.699746,
+        "name" : "国立代々木競技場〔第二体育館〕"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71256200000005,
+          35.679735000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.679735000000001,
+        "lon" : 139.71256199999999,
+        "name" : "東京体育館"
+      }
+    }
+  ]
+}

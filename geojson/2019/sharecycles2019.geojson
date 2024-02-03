@@ -1,0 +1,6720 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77934380000011,
+          35.672245100000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.672245099999998,
+        "lon" : 139.77934379999999,
+        "name" : "B2-01.鉄砲洲児童公園（西側） /\u00A0Teppozu Children’s Park(West Side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77136110000004,
+          35.652503400000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.652503400000001,
+        "lon" : 139.77136110000001,
+        "name" : "B4-16.トヨミ フィッシャリーズ テラス / TOYOMI FISHERIES TERRACE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76950170000009,
+          35.653439300000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.653439300000002,
+        "lon" : 139.76950170000001,
+        "name" : "B4-18.豊海センタービル / TOYOMI CENTER BUILDING"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77866850000009,
+          35.673926700000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.673926700000003,
+        "lon" : 139.77866850000001,
+        "name" : "B2-03.女性センター（ブーケ21） / \u00A0Women’s Center(Bouquet 21)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76832790000003,
+          35.676388800000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.676388799999998,
+        "lon" : 139.7683279,
+        "name" : "B2-02.柳通り（東京スクエアガーデン前） \u00A0Yanagi-dori St. (In front of TOKYO SQUARE GARDEN)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77189500000009,
+          35.683445000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.683444999999999,
+        "lon" : 139.771895,
+        "name" : "B1-22.新呉服橋ビル / New Gofukubashi building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7759903000001,
+          35.670670800000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.670670800000003,
+        "lon" : 139.77599029999999,
+        "name" : "B2-05.NTT東日本築地ビル /\u00A0NTT-East Tsukiji Build."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7760909000001,
+          35.686098700000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.686098700000002,
+        "lon" : 139.77609090000001,
+        "name" : "B1-09.スマイルホテル日本橋三越前 /\u00A0Smile Hotel Nihonbashi Mitsukoshimae"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7700526000001,
+          35.688391600000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.688391600000003,
+        "lon" : 139.77005260000001,
+        "name" : "【休止中】B1-03.常盤公園（北側） /\u00A0Tokiwa Park(North Side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.768958,
+          35.688301000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.688301000000003,
+        "lon" : 139.768958,
+        "name" : "B1-20.竜閑さくら橋際街角広場 / Ryuukan Sakura Bridge Street Corner Plaza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78205010000011,
+          35.687788700000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.687788699999999,
+        "lon" : 139.78205009999999,
+        "name" : "B1-12.ファミリーマート堀留町二丁目店 /\u00A0Familly Mart Horidomecho 2-chome Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77905140000007,
+          35.687414000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.687413999999997,
+        "lon" : 139.77905139999999,
+        "name" : "B1-05.日本橋保健センター /\u00A0 Nihonbashi Health Center"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78764590000003,
+          35.684168500000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.684168499999998,
+        "lon" : 139.7876459,
+        "name" : "B1-11.浜町川緑道 / Hamacho-gawa Ryokudo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78654280000001,
+          35.688044700000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.688044699999999,
+        "lon" : 139.78654280000001,
+        "name" : "B1-08.明治座 /\u00A0Meijiza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78434100000004,
+          35.679616000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.679616000000003,
+        "lon" : 139.78434100000001,
+        "name" : "B1-23.NANAEI日本橋 / NANAEI NIHONBASHI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78004300000009,
+          35.683695000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.683695,
+        "lon" : 139.78004300000001,
+        "name" : "B1-16.小網町児童遊園\n\u00A0/ Koamicho Children's Playground"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7814360000001,
+          35.681352000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.681351999999997,
+        "lon" : 139.78143600000001,
+        "name" : "B1-18.セブン-イレブン 日本橋小網町店 / Seven-Eleven Nihonbashi Koamicho store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77790880000009,
+          35.691060200000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.691060200000003,
+        "lon" : 139.77790880000001,
+        "name" : "B1-01.十思公園 /\u00A0Jisshi Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77895220000005,
+          35.686865000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.686864999999997,
+        "lon" : 139.77895219999999,
+        "name" : "B1-02.堀留児童公園（西側） /\u00A0Horidome Children’s Park(West Side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77713630000005,
+          35.687621000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.687621,
+        "lon" : 139.7771363,
+        "name" : "B1-06.伊場仙ビル / Ibasen Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77935520000005,
+          35.680858500000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.680858499999999,
+        "lon" : 139.7793552,
+        "name" : "B2-07.東京証券会館（北側） / Tokyo Shoken Kaikan(North Side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77850890000002,
+          35.680949500000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.680949499999997,
+        "lon" : 139.77850889999999,
+        "name" : "B2-08.共同ビル（茅場町交差点前） /\u00A0Kyodo Building (near Kayabacho Crossing)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77865710000003,
+          35.680203900000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.680203900000002,
+        "lon" : 139.7786571,
+        "name" : "B2-09.茅場町一丁目平和ビル /\u00A0Kayabacho 1-chome Heiwa Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78722000000005,
+          35.682332000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.682332000000002,
+        "lon" : 139.78721999999999,
+        "name" : "B1-15.ロイヤルパークホテル / ROYAL PARK HOTEL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78438760000006,
+          35.68087440000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.6808744,
+        "lon" : 139.7843876,
+        "name" : "B1-10.箱崎川第二公園 /\u00A0Hakozakigawa Dai-ni Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77449300000001,
+          35.68086100000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.680861,
+        "lon" : 139.77449300000001,
+        "name" : "B1-21.日本橋二丁目街角広場 / Nihonbashi 2-Chome　Street Corner Plaza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78705580000008,
+          35.694162200000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.694162200000001,
+        "lon" : 139.78705579999999,
+        "name" : "【休止中】B1-04.産業会館 /\u00A0Industrial Hall"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.785301,
+          35.669188000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.669187999999998,
+        "lon" : 139.785301,
+        "name" : "B4-15.リバーシティ イーストタワーズ / River City East Towers"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78478400000006,
+          35.668795000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.668795000000003,
+        "lon" : 139.784784,
+        "name" : "B4-10.リバーシティ/ River City"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77544,
+          35.664120000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.664119999999997,
+        "lon" : 139.77544,
+        "name" : "B3-05.興和住生築地ビル /\u00A0Kowa Sumisei Tsukiji Bldg."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77631300000007,
+          35.665230000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.665230000000001,
+        "lon" : 139.77631299999999,
+        "name" : "B3-09.築地永谷コーポラス / Tsukiji Nagatani corporate house"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76742610000008,
+          35.664268900000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.664268900000003,
+        "lon" : 139.76742609999999,
+        "name" : "B3-04.築地市場駅地下駐輪場 /\u00A0Tsukijishijo Station Basement"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76721610000004,
+          35.664460500000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.664460499999997,
+        "lon" : 139.76721610000001,
+        "name" : "B3-06.朝日新聞東京本社 /\u00A0Asahi Shimbun Tokyo Head Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76718800000003,
+          35.664871000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.664870999999998,
+        "lon" : 139.767188,
+        "name" : "B3-13.国立がん研究センター / National Cancer Center Hospital"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76930100000004,
+          35.665254000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.665253999999997,
+        "lon" : 139.76930100000001,
+        "name" : "B3-12.築地場外市場 / Tsukiji Outer Market"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77204410000002,
+          35.670846300000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.670846300000001,
+        "lon" : 139.77204409999999,
+        "name" : "B3-01.中央区役所 /\u00A0Chuo City Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77190600000006,
+          35.670338600000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.670338600000001,
+        "lon" : 139.771906,
+        "name" : "B3-02.京橋図書館 /\u00A0Kyobashi Library"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78154050000001,
+          35.654143200000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.6541432,
+        "lon" : 139.78154050000001,
+        "name" : "B4-05.ドコモ・バイクシェア晴海ポート /\u00A0DOCOMO BIKESHARE Harumi Bike Port"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78007060000004,
+          35.656056700000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.656056700000001,
+        "lon" : 139.78007059999999,
+        "name" : "B4-01.黎明橋公園（駐輪場） /\u00A0Reimeibashi Park(Parking Area)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77893470000004,
+          35.654745300000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.654745300000002,
+        "lon" : 139.77893470000001,
+        "name" : "B4-04.KDX晴海ビル / KDX Harumi Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78105200000005,
+          35.655606300000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.655606300000002,
+        "lon" : 139.78105199999999,
+        "name" : "B4-17.CLT PARK HARUMI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78254230000005,
+          35.658597300000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.658597299999997,
+        "lon" : 139.78254229999999,
+        "name" : "B4-03.桜の散歩道（晴海トリトンスクウエア前） /\u00A0Sakura no Sanpomichi (Harumi Triton Square)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77502000000004,
+          35.673211000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.673211000000002,
+        "lon" : 139.77502000000001,
+        "name" : "B3-10.DJホステル銀座 / B3-10. DJ Hostel Ginza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77554400000008,
+          35.673446000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.673445999999998,
+        "lon" : 139.775544,
+        "name" : "【休止中】B3-11.ヤマト第一ビル / YAMATO DAIICHI Bldg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78522900000007,
+          35.675702000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.675702000000001,
+        "lon" : 139.78522899999999,
+        "name" : "B2-10.東京ダイヤビルディング（北側）/North Side of Tokyo Dia Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78565600000002,
+          35.674835000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.674835000000002,
+        "lon" : 139.78565599999999,
+        "name" : "B2-12.東京ダイヤビルディング（東側）/East Side of Tokyo Dia Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77455600000008,
+          35.655497000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.655496999999997,
+        "lon" : 139.77455599999999,
+        "name" : "B4-12.THE TOKYO TOWERS"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77128640000001,
+          35.656447400000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.656447399999998,
+        "lon" : 139.77128640000001,
+        "name" : "B4-08.東京ミッドベイ勝どき（西仲通り） /\u00A0TOKYO MIDBAY KACHIDOKI（Nishinaka St.）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77612780000004,
+          35.658138000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.658138000000001,
+        "lon" : 139.77612780000001,
+        "name" : "B4-07.勝どき駅地下駐輪場 /\u00A0Kachidoki Station Basement"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77507300000002,
+          35.656565000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.656565000000001,
+        "lon" : 139.77507299999999,
+        "name" : "B4-11.ダンスキューブ勝どき / DANCE CUBE KACHIDOKI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77681800000005,
+          35.660526000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.660525999999997,
+        "lon" : 139.77681799999999,
+        "name" : "B4-14.Brillia ist Tower 勝どき / Brillia ist Tower Kachidoki"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78271660000007,
+          35.662190900000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.662190899999999,
+        "lon" : 139.78271659999999,
+        "name" : "B4-02.月島特別出張所 /\u00A0Tsukishima Special Branch Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78271660000007,
+          35.66300920000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.663009199999998,
+        "lon" : 139.78271659999999,
+        "name" : "B4-06.月島駅地下駐輪場 /\u00A0Tsukishima Station Basement"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76604800000007,
+          35.667496000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.667496,
+        "lon" : 139.76604800000001,
+        "name" : "B3-03.銀座６丁目－SQUARE(木挽町通り) /\u00A0Ginza 6-chome SQUARE (Kobikicho Dori)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77289300000007,
+          35.676136600000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.6761366,
+        "lon" : 139.77289300000001,
+        "name" : "B2-04.清水建設本社（都営地下鉄宝町A08出口） /\u00A0Shimizu Corporation Head Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76982200000009,
+          35.677560000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.67756,
+        "lon" : 139.769822,
+        "name" : "B2-11.京橋エドグラン / KYOBASHI EDOGRAND"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77189200000009,
+          35.677722000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.677722000000003,
+        "lon" : 139.77189200000001,
+        "name" : "B2-14.京橋1丁目 / Kyobashi Itchome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7591109,
+          35.674273790000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.674273790000001,
+        "lon" : 139.7591109,
+        "name" : "A4-12.東京ミッドタウン日比谷 / TOKYO MIDTOWN HIBIYA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74458370000002,
+          35.699152100000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.699152099999999,
+        "lon" : 139.74458369999999,
+        "name" : "A1-08.飯田橋サクラテラス（早稲田通り） / IIDABASHI SAKURA TERRACE (Waseda street)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74631970000007,
+          35.699224000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.699224000000001,
+        "lon" : 139.74631969999999,
+        "name" : "A1-05.富士見出張所 /\u00A0Chiyoda Ward Office,Fujimi Branch"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74562900000001,
+          35.697167000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.697167,
+        "lon" : 139.74562900000001,
+        "name" : "A1-15.富士見みらい館 / Fujimi Mirai-kan Hall"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74752340000009,
+          35.701048200000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.701048200000002,
+        "lon" : 139.74752340000001,
+        "name" : "A1-03.東京区政会館（メトロA5出口） /\u00A0Tokyo Kusei Kaikan building(Metro A5 Exit)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74694800000009,
+          35.701348800000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.701348799999998,
+        "lon" : 139.746948,
+        "name" : "A1-04.東京区政会館（西側駐輪場） /\u00A0Tokyo Kusei Kaikan building(Western parking lot)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74889800000005,
+          35.701110800000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.701110800000002,
+        "lon" : 139.748898,
+        "name" : "A1-07.ホテルメトロポリタン エドモント /\u00A0Hotel Metropolitan Edmont"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74986690000003,
+          35.697752600000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.697752600000001,
+        "lon" : 139.7498669,
+        "name" : "A1-11.ホテルグランドパレス /\u00A0Hotel Grand Palace"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73631840000007,
+          35.68595380000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.6859538,
+        "lon" : 139.73631839999999,
+        "name" : "A6-07.二番町センタービル /\u00A0Nibancho Center Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73454680000009,
+          35.68559440000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.685594399999999,
+        "lon" : 139.7345468,
+        "name" : "A6-08.二番町ガーデン /\u00A0Nibancho Garden"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77057200000002,
+          35.692862000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.692861999999998,
+        "lon" : 139.77057199999999,
+        "name" : "A3-25.神田駅北（神田警察通り）/ North Side of Kanda　Station（Kanda Police St.）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77010900000005,
+          35.692599000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.692599000000001,
+        "lon" : 139.77010899999999,
+        "name" : "A3-42.内神田3丁目 / Uchikanda 3Chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7678545,
+          35.689571300000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.689571299999997,
+        "lon" : 139.7678545,
+        "name" : "A3-02.カーサノーヴァショップ（楓ビル） /\u00A0CASA NUOVA SHOP(Kaede Build.)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76855120000005,
+          35.692548100000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.692548100000003,
+        "lon" : 139.76855119999999,
+        "name" : "A3-03.NTT東日本神田ビル /\u00A0NTT-East Kanda Build"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76409000000001,
+          35.689677500000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.689677500000002,
+        "lon" : 139.76409000000001,
+        "name" : "A2-05.神田橋公園 /\u00A0Kandabashi Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75387720000003,
+          35.671447110000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.671447110000003,
+        "lon" : 139.75387720000001,
+        "name" : "A5-04.日比谷パークフロント前（日比谷公園南面向い歩道上）/ In front of \"HIBIYA PARKFRONT\" Building（On the sidewalk of the southside of Hibiya Park）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75557000000003,
+          35.670452000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.670451999999997,
+        "lon" : 139.75557000000001,
+        "name" : "A5-07.富国生命ビル / FUKOKUSEIMEI BLDG."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75648490000003,
+          35.670587520000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.670587519999998,
+        "lon" : 139.7564849,
+        "name" : "A5-05.みずほ銀行内幸町本部ビル / Mizuho Bank Uchisaiwaicho Headquarters Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78162000000009,
+          35.695737000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.695737000000001,
+        "lon" : 139.78162,
+        "name" : "A3-37.THE PORTAL AKIHABARA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78271790000008,
+          35.694943440000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.694943440000003,
+        "lon" : 139.78271789999999,
+        "name" : "A3-36.クロックカフェ東神田 / Clock café Higashi-kanda"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78033300000004,
+          35.694834000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.694834,
+        "lon" : 139.78033300000001,
+        "name" : "A3-39.トーシン東神田ビル / Toshin Higashikanda Build"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77339900000004,
+          35.69068800000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.690688000000002,
+        "lon" : 139.77339900000001,
+        "name" : "A3-40.ICI HOTEL kanda"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76940550000006,
+          35.686600300000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.686600300000002,
+        "lon" : 139.7694055,
+        "name" : "A4-07.常盤橋自転車駐車場 / Tokiwabashi Bicycle Parking lot"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.766929,
+          35.685570000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.685569999999998,
+        "lon" : 139.766929,
+        "name" : "A4-13.アーバンネット大手町ビル / Urbannet Otemachi Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76515490000008,
+          35.686841600000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.686841600000001,
+        "lon" : 139.7651549,
+        "name" : "A4-02.東京サンケイビル / Tokyo Sankei Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76486920000002,
+          35.68595380000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.6859538,
+        "lon" : 139.76486919999999,
+        "name" : "A4-05.大手町タワー /\u00A0THE OTEMACHI TOWER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76446820000001,
+          35.686041000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.686041000000003,
+        "lon" : 139.76446820000001,
+        "name" : "A4-06.大手町ファーストスクエア /\u00A0OTEMACHI 1st SQUARE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75509690000001,
+          35.698577000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.698577,
+        "lon" : 139.75509690000001,
+        "name" : "A2-02.西神田公園（北側） /\u00A0Nishikanda Park(North side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75487930000008,
+          35.698341300000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.698341300000003,
+        "lon" : 139.7548793,
+        "name" : "A2-03.西神田公園（西側） /\u00A0Nishikanda Park(West side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75699760000009,
+          35.699221300000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.699221299999998,
+        "lon" : 139.75699760000001,
+        "name" : "A2-06.東光電気工事 別館（屋内駐輪場） /\u00A0TOKO CO., LTD Annex(Indoor Parking)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77424890000009,
+          35.700501500000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.700501500000001,
+        "lon" : 139.7742489,
+        "name" : "A3-13.富士ソフトビル（駐車場入口横） /\u00A0Fuji Soft Building(Side of Entrance to parking lot)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76728790000004,
+          35.696945000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.696944999999999,
+        "lon" : 139.76728790000001,
+        "name" : "A3-07.淡路公園 /\u00A0Awaji Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77271200000007,
+          35.694904000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.694904000000001,
+        "lon" : 139.77271200000001,
+        "name" : "A3-19.神田ふれあい通り第１ /\u00A0Kanda Fureai-dori St. 1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77274700000009,
+          35.695005000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.695005000000002,
+        "lon" : 139.77274700000001,
+        "name" : "A3-20.神田ふれあい通り第２ /\u00A0Kanda Fureai-dori St. 2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77283199999999,
+          35.69517600000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.695175999999996,
+        "lon" : 139.77283199999999,
+        "name" : "A3-21.神田ふれあい通り第３ /\u00A0Kanda Fureai-dori St. 3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76989500000002,
+          35.697193680000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.697193679999998,
+        "lon" : 139.76989499999999,
+        "name" : "A3-34.マーチエキュート神田万世橋 /\u00A0A3-34.mAAch ecute Kanda-Manseibashi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77015790000007,
+          35.697036840000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.697036840000003,
+        "lon" : 139.77015789999999,
+        "name" : "A3-35.ドコモ・バイクシェア サイクルステーション前 / docomo bike share cycle station"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76956600000005,
+          35.695163000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.695163000000001,
+        "lon" : 139.769566,
+        "name" : "A3-38.パークホームズ千代田淡路町 / Park HOMES chiyoda-awajicho"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75633310000001,
+          35.697119300000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "lat" : 35.697119299999997,
+        "lon" : 139.75633310000001,
+        "name" : "【2/28 10時まで】A2-13.神田神保町旧高齢者センター /\u00A0Kanda Jinbocyo Old Chiyoda Public Senior Center"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76068090000001,
+          35.69454230000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "lat" : 35.694542300000002,
+        "lon" : 139.76068090000001,
+        "name" : "A2-12.神保町三井ビルディング /\u00A0JINBOCHO MITSUI BUILDING"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76158220000002,
+          35.695756800000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "lat" : 35.695756799999998,
+        "lon" : 139.76158219999999,
+        "name" : "A2-01.神田駿河台下 /\u00A0Kanda Surugadai"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76014720000001,
+          35.700596800000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "lat" : 35.7005968,
+        "lon" : 139.76014720000001,
+        "name" : "A2-08.KDX御茶ノ水ビル /\u00A0KDX Ochanomizu Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7634690000001,
+          35.697255000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "lat" : 35.697254999999998,
+        "lon" : 139.76346899999999,
+        "name" : "A2-16.NTT駿河台ビル / NTT Surugadai Build"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76773250000008,
+          35.692989200000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "lat" : 35.6929892,
+        "lon" : 139.76773249999999,
+        "name" : "A3-01.神田児童公園（西側交番横） /\u00A0Kanda Children Park(West Side Next to the Police Box)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77888310000003,
+          35.698816700000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "lat" : 35.698816700000002,
+        "lon" : 139.7788831,
+        "name" : "A3-05.和泉公園（西側入口） / Izumi Park(Western Entrance)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77486040000008,
+          35.697642600000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "lat" : 35.697642600000002,
+        "lon" : 139.77486039999999,
+        "name" : "A3-04.秋葉原公園 /\u00A0Akihabara Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77991240000006,
+          35.697037600000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "lat" : 35.697037600000002,
+        "lon" : 139.7799124,
+        "name" : "A3-18.美倉橋北児童遊園 /\u00A0Mikurabashi North Children Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76222660000008,
+          35.691435400000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "lat" : 35.691435400000003,
+        "lon" : 139.76222659999999,
+        "name" : "A2-04.ちよだプラットフォームスクウェア /\u00A0Chiyoda Platform Square"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75994200000002,
+          35.69317760000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "lat" : 35.693177599999999,
+        "lon" : 139.759942,
+        "name" : "A2-09.テラススクエア /\u00A0TERRACE SQUARE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75931100000003,
+          35.692699810000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "lat" : 35.692699810000001,
+        "lon" : 139.759311,
+        "name" : "A2-14.興和一橋ビル / Kowa hitotsubashi Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76280900000006,
+          35.693408000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "lat" : 35.693407999999998,
+        "lon" : 139.762809,
+        "name" : "【2/18 OPEN】A2-20.神田スクエア / KANDA SQUARE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77445299999999,
+          35.699155000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "lat" : 35.699154999999998,
+        "lon" : 139.77445299999999,
+        "name" : "A3-27.秋葉原駅中央口（ヨドバシカメラ前）/ JR Akihabara Sta. Central Exit（beside Yodobashi-Akiba）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73580000000004,
+          35.688929000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "lat" : 35.688929000000002,
+        "lon" : 139.73580000000001,
+        "name" : "A6-15.東急番町ビル / Tokyu Bancho Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73971140000003,
+          35.69088540000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "lat" : 35.690885399999999,
+        "lon" : 139.7397114,
+        "name" : "A6-01.東郷元帥記念公園 /\u00A0General Togo memory park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.732078,
+          35.685578000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "lat" : 35.685578,
+        "lon" : 139.732078,
+        "name" : "A6-19.東急四谷ビル / TOKYU Yotsuya building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73704530000009,
+          35.682880900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "lat" : 35.682880900000001,
+        "lon" : 139.73704530000001,
+        "name" : "A6-09.紀尾井町ビル（北側） /\u00A0Kioicho Building(North side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73693600000001,
+          35.68369000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "lat" : 35.683689999999999,
+        "lon" : 139.73693599999999,
+        "name" : "A6-20.紀尾井町PREX / Kioicho PREX"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.733071,
+          35.689131000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "lat" : 35.689131000000003,
+        "lon" : 139.733071,
+        "name" : "A6-13.番町会館 / Banchokaikan"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73639300000002,
+          35.690861000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "lat" : 35.690860999999998,
+        "lon" : 139.73639299999999,
+        "name" : "A6-14.MG市ヶ谷ビルディング / MG Ichigaya Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73978099999999,
+          35.693363000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "lat" : 35.693362999999998,
+        "lon" : 139.73978099999999,
+        "name" : "A1-16.稲穂ビル九段北 / Inaho bldg. KudanKita"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75079160000007,
+          35.696450000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "lat" : 35.696449999999999,
+        "lon" : 139.75079160000001,
+        "name" : "A1-10.ヒューリック九段ビル /\u00A0Hulic Kudan Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75021300000003,
+          35.695515000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "lat" : 35.695515,
+        "lon" : 139.750213,
+        "name" : "A1-12.北の丸スクエア / KITANOMARU SQUARE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75239600000009,
+          35.695985500000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "lat" : 35.695985499999999,
+        "lon" : 139.752396,
+        "name" : "A1-14.千代田保健所前 / In front of Chiyoda Health Center"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74315710000008,
+          35.692556600000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "lat" : 35.692556600000003,
+        "lon" : 139.74315709999999,
+        "name" : "A1-13.ヌフエタージュ / 9 étage"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.746486,
+          35.694515700000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "lat" : 35.694515699999997,
+        "lon" : 139.746486,
+        "name" : "A1-06.靖国神社（石の大鳥居前） / Yasukuni Shrine"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75319360000003,
+          35.693807200000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "lat" : 35.693807200000002,
+        "lon" : 139.7531936,
+        "name" : "A1-01.千代田区役所 /\u00A0Chiyoda City Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75264500000003,
+          35.693819700000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "lat" : 35.693819699999999,
+        "lon" : 139.752645,
+        "name" : "A1-02.千代田会館ビル（千代田区観光協会前） / Chiyoda Kaikan Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73649810000006,
+          35.682513300000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "lat" : 35.682513299999997,
+        "lon" : 139.73649810000001,
+        "name" : "A6-10.紀尾井町ビル（西側） /\u00A0Kioicho Building(West side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7364,
+          35.679620000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "lat" : 35.67962,
+        "lon" : 139.7364,
+        "name" : "A6-11.東京ガーデンテラス紀尾井町 /\u00A0Tokyo Garden Terrace Kioicho"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.738203,
+          35.680431000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "lat" : 35.680430999999999,
+        "lon" : 139.738203,
+        "name" : "A6-17.東京ガーデンテラス紀尾井町(プリンス通り側)/ Tokyo Garden Terrace kioicho （Prince Street Side）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77774570000008,
+          35.69436740000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "lat" : 35.694367399999997,
+        "lon" : 139.7777457,
+        "name" : "A3-24.岩本町ほほえみプラザ / Iwamoto-cho Hohoemi Plaza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77537610000002,
+          35.691080400000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "lat" : 35.691080399999997,
+        "lon" : 139.77537609999999,
+        "name" : "A3-16.地蔵橋東児童遊園 /\u00A0Jizoubashi East Children Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77970200000004,
+          35.693234000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "lat" : 35.693233999999997,
+        "lon" : 139.77970199999999,
+        "name" : "A3-22.龍閑児童公園 /\u00A0Ryukan Children’s Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76333360000001,
+          35.675821800000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "lat" : 35.675821800000001,
+        "lon" : 139.76333360000001,
+        "name" : "A4-03.東京国際フォーラム（メトロD5出口） /\u00A0Tokyo International Forum (Metro D5 Exit)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76393280000002,
+          35.680553000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "lat" : 35.680553000000003,
+        "lon" : 139.76393279999999,
+        "name" : "A4-01.丸ビル（南側駐輪場） /\u00A0Marunouchi Build.(Southern Cycle Port)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7620687000001,
+          35.680753420000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "lat" : 35.680753420000002,
+        "lon" : 139.76206869999999,
+        "name" : "A4-11.二重橋前駅（メトロ4番出口）/ Nijubashimae Sta. （Metro 4 Exit）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76695800000005,
+          35.684349000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "lat" : 35.684348999999997,
+        "lon" : 139.76695799999999,
+        "name" : "A4-08.永代通り（大手町駅B2c出口前） / Eitai-dori（beside Otemachi Sta.B2c Exit）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77067690000001,
+          35.703734400000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "lat" : 35.703734400000002,
+        "lon" : 139.77067690000001,
+        "name" : "A3-11.練成公園 /\u00A0Rensei Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77292520000003,
+          35.701113500000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "lat" : 35.701113499999998,
+        "lon" : 139.7729252,
+        "name" : "A3-12.秋葉原UDX北側駐輪場前 /\u00A0Akihabara UDX(North Side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77262900000005,
+          35.699173000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "lat" : 35.699173000000002,
+        "lon" : 139.77262899999999,
+        "name" : "A3-28.秋葉原駅電気街口（西側交通広場）/ JR Akihabara Sta. Electric Town Exit（West Traffic Square）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76981590000003,
+          35.701965700000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "lat" : 35.701965700000002,
+        "lon" : 139.7698159,
+        "name" : "A3-10.芳林公園（北側）/\u00A0Hourin Park(North Side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76834300000007,
+          35.702311000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "lat" : 35.702311000000002,
+        "lon" : 139.76834299999999,
+        "name" : "A3-08.神田明神（神田神社）/ Kanda Myoujin (Kanda Shrine )"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77185600000007,
+          35.698917000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "lat" : 35.698917000000002,
+        "lon" : 139.77185600000001,
+        "name" : "A3-41.秋葉原ダイビル / Akihabara Daibiru Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75976200000002,
+          35.69865400000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "lat" : 35.698653999999998,
+        "lon" : 139.75976199999999,
+        "name" : "A2-18.猿楽町SSビル東 / Sarugakucho SS Bldg. east"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75930600000004,
+          35.698641000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "lat" : 35.698641000000002,
+        "lon" : 139.75930600000001,
+        "name" : "A2-19.猿楽町SSビル西 / Sarugakucho SS Bldg. west"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74129320000009,
+          35.673559000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "lat" : 35.673558999999997,
+        "lon" : 139.7412932,
+        "name" : "A5-02.山王パークタワー /\u00A0Sanno Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74132800000007,
+          35.674468000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "lat" : 35.674467999999997,
+        "lon" : 139.74132800000001,
+        "name" : "A5-06.APA HOTEL PRIDE〈国会議事堂前〉/ APA HOTEL PRIDE〈KOKKAIGIJIDOMAE〉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74270610000008,
+          35.677766400000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "lat" : 35.677766400000003,
+        "lon" : 139.74270609999999,
+        "name" : "A5-03.参議院第二別館（永田町駅2番出口） /\u00A0Second Annex of House of Councillors（Nagatacho station No.2 Exit)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73931040000002,
+          35.687043100000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "lat" : 35.687043099999997,
+        "lon" : 139.73931039999999,
+        "name" : "A6-02.いきいきプラザ一番町（西側駐輪場） /\u00A0Iki-iki Plaza Ichiban-cho(Western Cycle Port)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74432100000001,
+          35.688351000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "lat" : 35.688350999999997,
+        "lon" : 139.74432100000001,
+        "name" : "A6-16.一番町第二TGビル / Ichibancho-daini TG Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75639000000001,
+          35.692396000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "lat" : 35.692396000000002,
+        "lon" : 139.75639000000001,
+        "name" : "A2-17.竹橋ビル / Takebashi Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73078100000009,
+          35.701198000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "lat" : 35.701197999999998,
+        "lon" : 139.73078100000001,
+        "name" : "D2-08.旧市ヶ谷商業高校 / Former Ichigaya Commercial High Schoo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68862000000001,
+          35.702288000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "lat" : 35.702288000000003,
+        "lon" : 139.68861999999999,
+        "name" : "D5-03.北新宿公園 / Kita-Shinjuku Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6898000000001,
+          35.696050000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "lat" : 35.69605,
+        "lon" : 139.68979999999999,
+        "name" : "D6-07.新宿フロントタワー / Shinjuku Front Tower"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6964680000001,
+          35.699312000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "lat" : 35.699311999999999,
+        "lon" : 139.69646800000001,
+        "name" : "D5-11.NTTコミュニケーションズ新宿ビル / NTT Communications Shinjuku Build"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72436500000003,
+          35.691888000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "lat" : 35.691887999999999,
+        "lon" : 139.72436500000001,
+        "name" : "D1-10.曙橋駐輪場 / Akebonobashi Cycle Port"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7002040000001,
+          35.707388000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "lat" : 35.707388000000002,
+        "lon" : 139.70020400000001,
+        "name" : "D5-04.西戸山公園野球場 /\u00A0Nishi-Toyama Baseball Ground"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69756200000006,
+          35.70515400000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "lat" : 35.705154,
+        "lon" : 139.697562,
+        "name" : "D5-10.桜美林大学 新宿キャンパス /J. F. Oberlin University Shinjuku campus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70121400000005,
+          35.702277000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "lat" : 35.702277000000002,
+        "lon" : 139.70121399999999,
+        "name" : "D5-09.ハウジングステージ新宿 / HousingStage Shinjuku"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69761700000004,
+          35.699290000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "lat" : 35.699289999999998,
+        "lon" : 139.69761700000001,
+        "name" : "D5-07.セブン-イレブン 新宿大久保駅南口店 / Seven-Eleven Shinjuku Okubo Station South Exit store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73974110000006,
+          35.707096500000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "lat" : 35.707096499999999,
+        "lon" : 139.7397411,
+        "name" : "D2-07.ファミリーマート東五軒町店 / FamilyMart Higashigokencho shop"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69171200000005,
+          35.722202000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "lat" : 35.722202000000003,
+        "lon" : 139.691712,
+        "name" : "D7-02.セブン-イレブン 新宿中落合3丁目店 / Seven-Eleven Shinjuku Nakaochiai 3chome store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6874967,
+          35.715645000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "lat" : 35.715645000000002,
+        "lon" : 139.6874967,
+        "name" : "D7-03.中井駅北/ Nakai Station North"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71525600000007,
+          35.681754000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "lat" : 35.681753999999998,
+        "lon" : 139.71525600000001,
+        "name" : "D1-06.四谷第六小学校北 / Yotsuya Dairoku Elementary School North"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70841000000007,
+          35.70524400000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "lat" : 35.705244,
+        "lon" : 139.70840999999999,
+        "name" : "D5-01.新宿コズミックセンター / Shinjuku Cosmic Center"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.706863,
+          35.705044000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "lat" : 35.705044000000001,
+        "lon" : 139.706863,
+        "name" : "D5-05.中央図書館 / Chuo Library"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7083970000001,
+          35.704597000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "lat" : 35.704597,
+        "lon" : 139.70839699999999,
+        "name" : "D5-08. ウエリス新宿早稲田の森 / Wellith Shinjuku Waseda no Mori"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70445010000003,
+          35.701273300000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "lat" : 35.701273299999997,
+        "lon" : 139.7044501,
+        "name" : "D5-02.セブン-イレブン 新宿大久保通り店 / Seven-Eleven Shinjuku Okubotori store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7233940000001,
+          35.706182000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "lat" : 35.706181999999998,
+        "lon" : 139.72339400000001,
+        "name" : "D3-04.鶴巻南公園 / Tsurumaki-Minami Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.735815,
+          35.704201000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "lat" : 35.704200999999998,
+        "lon" : 139.735815,
+        "name" : "D2-14.ローソン神楽坂駅北店 /\u00A0LAWSON Kagurazaka Station North Shop"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67897600000003,
+          35.725818000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "lat" : 35.725817999999997,
+        "lon" : 139.67897600000001,
+        "name" : "D7-05.西落合図書館 /\u00A0 Nishi Ochiai Library"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67589700000008,
+          35.725171000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "lat" : 35.725171000000003,
+        "lon" : 139.67589699999999,
+        "name" : "D7-07. ローソン 新宿西落合三丁目店 / LAWSON Shinjuku Nishiochiai 3-Chome shop"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67712800000004,
+          35.721064000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "lat" : 35.721063999999998,
+        "lon" : 139.67712800000001,
+        "name" : "D7-06. エムアイセミナーハウス / MI SEMINAR HOUSE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67879200000004,
+          35.71966000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "lat" : 35.719659999999998,
+        "lon" : 139.67879199999999,
+        "name" : "D7-09.大栄パーク西落合 / Daiei Park Nishi-ochiai"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.715418,
+          35.712431000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "lat" : 35.712431000000002,
+        "lon" : 139.715418,
+        "name" : "D3-03.甘泉園公園 / Kansenen Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71331900000007,
+          35.712545000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "lat" : 35.712544999999999,
+        "lon" : 139.71331900000001,
+        "name" : "D3-09.西早稲田3丁目 / INishi-Waseda 3-Chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69591100000002,
+          35.694650000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "lat" : 35.694650000000003,
+        "lon" : 139.695911,
+        "name" : "D6-15.住友不動産西新宿ビル / Sumitomo Realty & Development Nishishinjuku Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69002,
+          35.691550000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "lat" : 35.691549999999999,
+        "lon" : 139.69002,
+        "name" : "【休止中】D6-03.新宿中央公園（ポケットパーク）/ Shinjuku Central Park (Pocket Park)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68796600000007,
+          35.69119900000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "lat" : 35.691198999999997,
+        "lon" : 139.68796599999999,
+        "name" : "D6-06.新宿中央公園（エコギャラリー下）/ Shinjuku Central Park (Eco Gallery)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68887800000005,
+          35.695532000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "lat" : 35.695532,
+        "lon" : 139.68887799999999,
+        "name" : "D6-22.セブン-イレブン 西新宿6丁目店 / Seven-Eleven Nishi-Shinjuku 6-chome store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.686508,
+          35.693373000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "lat" : 35.693373000000001,
+        "lon" : 139.686508,
+        "name" : "D6-19.西新宿五丁目中央 / Nishi-Shinjuku 5-chome center"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68580600000007,
+          35.693544000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "lat" : 35.693544000000003,
+        "lon" : 139.68580600000001,
+        "name" : "D6-20.淀橋けやきばし公園 / Yodobashi Keyakibashi Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68984,
+          35.686750000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "lat" : 35.686750000000004,
+        "lon" : 139.68984,
+        "name" : "D6-04.新宿中央公園（ちびっこ広場）/Shinjuku Central Park (Playground)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68925400000001,
+          35.687652000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "lat" : 35.687652,
+        "lon" : 139.68925400000001,
+        "name" : "D6-13.新宿中央公園（ジャブジャブ池下）/ Shinjuku Central Park (Water Play Pool)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69019730000002,
+          35.689905800000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "lat" : 35.689905799999998,
+        "lon" : 139.69019729999999,
+        "name" : "D6-05.新宿中央公園（水の広場）/ Shinjuku Central Park (Water Plaza)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69599500000004,
+          35.68952900000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "lat" : 35.689529,
+        "lon" : 139.69599500000001,
+        "name" : "D6-14.新宿ファーストウエスト / Shinjuku First West Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69823100000008,
+          35.689689000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "lat" : 35.689689000000001,
+        "lon" : 139.69823099999999,
+        "name" : "D6-18. ヨドバシカメラ 新宿西口本店前 / Yodobashi Camera Shinjuku West Main Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73592100000008,
+          35.707812000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "lat" : 35.707811999999997,
+        "lon" : 139.73592099999999,
+        "name" : "D2-03.セブン-イレブン 新宿水道町中央店 / Seven-Eleven Shinjuku Suidocho-chuo store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73900000000003,
+          35.702833000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "lat" : 35.702832999999998,
+        "lon" : 139.739,
+        "name" : "D2-11.神楽坂アインスタワー / KAGURAZAKA EINS TOWER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74109300000009,
+          35.702286000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "lat" : 35.702286000000001,
+        "lon" : 139.74109300000001,
+        "name" : "D2-01.あずさセンタービル（軽子坂通り）/ Azusa Center Building （Karukozaka Street）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74273500000004,
+          35.700563000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "lat" : 35.700563000000002,
+        "lon" : 139.74273500000001,
+        "name" : "D2-06.飯田濠 / Iidabori"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74336600000004,
+          35.705774000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "lat" : 35.705773999999998,
+        "lon" : 139.74336600000001,
+        "name" : "D2-12.ヴィアイン飯田橋後楽園 / VIA INN Iidabashi Korakuen"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71147200000007,
+          35.700732000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "lat" : 35.700732000000002,
+        "lon" : 139.71147199999999,
+        "name" : "D4-05.カスタリア新宿7丁目 / CASTALIA Shinjuku 7-chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70789000000002,
+          35.697150000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "lat" : 35.697150000000001,
+        "lon" : 139.70788999999999,
+        "name" : "D6-08.新宿イーストサイドスクエア / Shinjuku Eastside Square"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71056800000008,
+          35.69342000000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "lat" : 35.693420000000003,
+        "lon" : 139.71056799999999,
+        "name" : "D6-12.東京ビジネスホテル / Tokyo　Business Hotel"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70856700000002,
+          35.693519000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "lat" : 35.693519000000002,
+        "lon" : 139.70856699999999,
+        "name" : "D6-17.セブン-イレブン 新宿6丁目店 / Seven-Eleven Shinjuku 6-chome store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70576000000005,
+          35.693820000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "lat" : 35.693820000000002,
+        "lon" : 139.70576,
+        "name" : "D6-02.新宿区役所第二分庁舎 / Shinjuku City Office Annex 2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70894200000009,
+          35.692377000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "lat" : 35.692377,
+        "lon" : 139.70894200000001,
+        "name" : "D6-09.ホテルたてしな / Hotel Tateshina"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7070470000001,
+          35.694201000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "lat" : 35.694201,
+        "lon" : 139.70704699999999,
+        "name" : "D6-10.ホテルサンライト新宿 / Hotel　SunLite Shinjuku"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7113270000001,
+          35.693029000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "lat" : 35.693029000000003,
+        "lon" : 139.71132700000001,
+        "name" : "D6-11.ホテルリステル新宿 / HOTEL LISTEL SHINJUKU"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71123299999999,
+          35.691613000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "lat" : 35.691612999999997,
+        "lon" : 139.71123299999999,
+        "name" : "D6-21.新宿5丁目 / Shinjuku 5-Chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70367340000007,
+          35.688915100000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "lat" : 35.688915100000003,
+        "lon" : 139.70367340000001,
+        "name" : "D6-16.FORECAST 新宿 SOUTH / FORECAST Shinjuku SOUTH"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71163000000001,
+          35.690610000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "lat" : 35.69061,
+        "lon" : 139.71163000000001,
+        "name" : "D1-01.花園西公園 / Hanazono Nishi Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71415999999999,
+          35.687430000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "lat" : 35.687429999999999,
+        "lon" : 139.71415999999999,
+        "name" : "D1-02.四谷特別出張所 / Yotsuya Special District Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71009100000003,
+          35.689757000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "lat" : 35.689757,
+        "lon" : 139.71009100000001,
+        "name" : "D1-07.Belle ビル / Belle Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71207900000002,
+          35.691188000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "lat" : 35.691187999999997,
+        "lon" : 139.71207899999999,
+        "name" : "D1-09.NTT四谷ビル / NTT Yotsuya Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68229800000006,
+          35.711213000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "lat" : 35.711213000000001,
+        "lon" : 139.682298,
+        "name" : "D7-08.上落合3丁目 / Kamiochiai 3-Chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72843,
+          35.68345000000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "lat" : 35.683450000000001,
+        "lon" : 139.72843,
+        "name" : "D1-04.四谷見附公園 / Yotsuya Mitsuke Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71992320000004,
+          35.699841000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "lat" : 35.699840999999999,
+        "lon" : 139.71992320000001,
+        "name" : "D4-04.ジェノヴィア新宿早稲田グリーンヴェール / GENOVIA Shinjuku Waseda green veil"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72572200000002,
+          35.695646000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "lat" : 35.695646000000004,
+        "lon" : 139.72572199999999,
+        "name" : "D2-13.THE CENTER TOKYO"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73132800000008,
+          35.694927000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "lat" : 35.694927,
+        "lon" : 139.73132799999999,
+        "name" : "D4-02.JICA市ヶ谷ビル（地球ひろば/研究所）/ JICA Ichigaya Building（Global Plaza/Research Institute）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72334499999999,
+          35.695102000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "lat" : 35.695101999999999,
+        "lon" : 139.72334499999999,
+        "name" : "D4-01.市谷仲之町 / Ichigaya Nakanocho"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7357760000001,
+          35.696242000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "lat" : 35.696241999999998,
+        "lon" : 139.73577599999999,
+        "name" : "D2-10.市谷砂土原町3丁目/Ichigaya Sadohara 3-Chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72788200000002,
+          35.695636000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "lat" : 35.695636,
+        "lon" : 139.72788199999999,
+        "name" : "D4-03.市谷加賀町2丁目/ Ichigaya Kagacho 2-Chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71821,
+          35.687930000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "lat" : 35.687930000000001,
+        "lon" : 139.71821,
+        "name" : "D1-05.ホテルウィングインターナショナルプレミアム東京四谷 / Hotel Wing International Premium Tokyo-Yotsuya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71475500000008,
+          35.689017000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "lat" : 35.689017,
+        "lon" : 139.714755,
+        "name" : "D1-12.ジェノヴィア新宿御苑グリーンヴェール / GENOVIA Shinjuku Gyoen green veil"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73102200000005,
+          35.708377000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "lat" : 35.708376999999999,
+        "lon" : 139.731022,
+        "name" : "D3-10.日新ビル / NISSHIN BLDG."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72526100000005,
+          35.689984000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "lat" : 35.689984000000003,
+        "lon" : 139.72526099999999,
+        "name" : "【休止中】D1-08.新宿歴史博物館 / Shinjuku Historical Museum"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73353500000007,
+          35.698910000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "lat" : 35.698909999999998,
+        "lon" : 139.73353499999999,
+        "name" : "【2/25 OPEN】D2-15.ロードス神楽坂ホテル / RODES KAGURAZAKA HOTEL"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7205100000001,
+          35.684520000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "lat" : 35.684519999999999,
+        "lon" : 139.72050999999999,
+        "name" : "D1-03.新左門児童遊園 / Shin-samon Children's Playground"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70135600000003,
+          35.712952000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "lat" : 35.712952000000001,
+        "lon" : 139.701356,
+        "name" : "D3-08.ホテルリブマックス高田馬場駅前 / HOTEL LiVEMAX TAKADANOBABA-EKIMAE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69830100000001,
+          35.713872000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "lat" : 35.713872000000002,
+        "lon" : 139.69830099999999,
+        "name" : "D3-06.セブン-イレブン 高田馬場3丁目中央店 / Seven-Eleven Takadanobaba 3-Chome Chuo store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70507000000009,
+          35.714270000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "lat" : 35.714269999999999,
+        "lon" : 139.70507000000001,
+        "name" : "D3-07.戸塚特別出張所 / Totsuka Special District Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.703844,
+          35.709599000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "lat" : 35.709598999999997,
+        "lon" : 139.703844,
+        "name" : "D3-11. コルティーレ高田馬場 / CORTILE Takadanobaba"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70887300000004,
+          35.710868000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "lat" : 35.710867999999998,
+        "lon" : 139.70887300000001,
+        "name" : "D3-12.Bellus Vita"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72304500000007,
+          35.710108700000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "lat" : 35.710108699999999,
+        "lon" : 139.72304500000001,
+        "name" : "D3-01.リーガロイヤルホテル東京 / RIHGA Royal Hotel Tokyo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7363355,
+          35.70099300000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "lat" : 35.700992999999997,
+        "lon" : 139.7363355,
+        "name" : "D2-09.セブン-イレブン 新宿岩戸町店 / Seven-Eleven Shinjuku Iwato-cho store\u00A0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71593100000007,
+          35.679807000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "lat" : 35.679806999999997,
+        "lon" : 139.71593100000001,
+        "name" : "D1-11.三井ガーデンホテル神宮外苑の杜プレミア / Mitsui Garden Hotel Jingugaien Tokyo Premier"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70363300000008,
+          35.697535000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "lat" : 35.697535000000002,
+        "lon" : 139.703633,
+        "name" : "D6-23. アパホテル 東新宿 歌舞伎町西 / APA Hotel Higashi Shinjuku Kabukicho Nishi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70312000000001,
+          35.693830000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "lat" : 35.693829999999998,
+        "lon" : 139.70312000000001,
+        "name" : "D6-01.新宿区役所本庁舎 / Shinjuku City Office Main Bldg."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70198200000004,
+          35.722645000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "lat" : 35.722645,
+        "lon" : 139.70198199999999,
+        "name" : "D7-04.セブン-イレブン 新宿下落合3丁目店 / Seven-Eleven Shinjuku Shimoochiai 3chome store\u00A0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.698578,
+          35.715894000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "lat" : 35.715893999999999,
+        "lon" : 139.698578,
+        "name" : "D7-01.下落合図書館 / Shimo-Ochiai Library"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67768700000011,
+          35.682453000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "lat" : 35.682453000000002,
+        "lon" : 139.67768699999999,
+        "name" : "M6-08.Be Good 幡ヶ谷 / Be Good Hatagaya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.680702,
+          35.687126000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "lat" : 35.687125999999999,
+        "lon" : 139.680702,
+        "name" : "M6-04.本町東べんてん橋公園 / Honmachi-Higashi Benten Bridge Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68496500000003,
+          35.683756000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "lat" : 35.683756000000002,
+        "lon" : 139.68496500000001,
+        "name" : "M6-09.ファミリーマート渋谷本町店 / Family Mart Shibuya Honmachi Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68649100000005,
+          35.665961000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "lat" : 35.665961000000003,
+        "lon" : 139.68649099999999,
+        "name" : "M5-10.富ヶ谷2丁目 / Tomigaya 2 chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67434900000001,
+          35.678881000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "lat" : 35.678880999999997,
+        "lon" : 139.67434900000001,
+        "name" : "M6-05.七号通り公園 / 7 St. Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67338000000007,
+          35.683156000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "lat" : 35.683155999999997,
+        "lon" : 139.67338000000001,
+        "name" : "M6-12.LIVART SEASON 幡ヶ谷\n/ LIVART SEASON HATAGAYA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67676900000004,
+          35.677175000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "lat" : 35.677174999999998,
+        "lon" : 139.67676900000001,
+        "name" : "M6-01.幡ヶ谷駅高架下第一 / Hatagaya Sta. Underpass 1st"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67811700000004,
+          35.677200000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "lat" : 35.677199999999999,
+        "lon" : 139.67811699999999,
+        "name" : "M6-10.京王コインパーク幡ヶ谷 / KEIO Coinpark Hatagaya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6972032000001,
+          35.657665000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "lat" : 35.657665000000001,
+        "lon" : 139.69720319999999,
+        "name" : "M3-01.渋谷マークシティ / SHIBUYA MARK CITY"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69868700000006,
+          35.657180000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "lat" : 35.657179999999997,
+        "lon" : 139.69868700000001,
+        "name" : "M3-11.渋谷道玄坂東急ビル/ Shibuya Dogenzaka Tokyu Bldg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67530700000009,
+          35.671282000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "lat" : 35.671281999999998,
+        "lon" : 139.675307,
+        "name" : "M5-03.代々木大山公園 / Yoyogi Oyama Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67925100000002,
+          35.668650000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "lat" : 35.66865,
+        "lon" : 139.67925099999999,
+        "name" : "M5-09.代々木上原駅前 / Yoyogi-Uehara Station"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68959900000004,
+          35.677587000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "lat" : 35.677587000000003,
+        "lon" : 139.68959899999999,
+        "name" : "M5-07.カスタリア参宮橋 / CASTALIA Sangubashi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69226200000003,
+          35.684423000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "lat" : 35.684423000000002,
+        "lon" : 139.692262,
+        "name" : "M5-02.あいおいニッセイ同和損保新宿ビル / Aioi Nissay Dowa Insurance Shinjuku Bldg."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69897500000002,
+          35.688154000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "lat" : 35.688153999999997,
+        "lon" : 139.69897499999999,
+        "name" : "M5-11.あおい通り/ Aoi Street"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70277500000009,
+          35.687140000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "lat" : 35.687139999999999,
+        "lon" : 139.702775,
+        "name" : "M4-01.新宿タカシマヤ / TAKASHIMAYA Shinjuku Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70288400000004,
+          35.684451000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 246,
+        "lat" : 35.684451000000003,
+        "lon" : 139.70288400000001,
+        "name" : "M4-03.NTTドコモ代々木ビル / NTT Docomo Yoyogi Bldg."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71188000000006,
+          35.68082000000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 247,
+        "lat" : 35.680819999999997,
+        "lon" : 139.71188000000001,
+        "name" : "M4-07.千駄ヶ谷駅前 / Sendagaya Station"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68444,
+          35.675049000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 248,
+        "lat" : 35.675049000000001,
+        "lon" : 139.68444,
+        "name" : "M5-13.セブン-イレブン初台店 / Seven-Eleven Hatsudai Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69385110000007,
+          35.655092300000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 249,
+        "lat" : 35.6550923,
+        "lon" : 139.69385109999999,
+        "name" : "M3-07.渋谷ファーストプレイス /\u00A0Shibuya First Place"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70676300000002,
+          35.662553000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 250,
+        "lat" : 35.662553000000003,
+        "lon" : 139.706763,
+        "name" : "M4-05.TBSハウジング渋谷 /\u00A0TBS Housing Shibuya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70609000000002,
+          35.662689000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 251,
+        "lat" : 35.662689,
+        "lon" : 139.70608999999999,
+        "name" : "M4-08.TBSハウジング渋谷第二 / TBS-Housing Shibuya Second"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71184700000003,
+          35.668214000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 252,
+        "lat" : 35.668213999999999,
+        "lon" : 139.71184700000001,
+        "name" : "M3-17.セブン-イレブン神宮前店 / Seven-Eleven Jingumae Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70815800000003,
+          35.671823000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 253,
+        "lat" : 35.671823000000003,
+        "lon" : 139.708158,
+        "name" : "M4-06.THE SHARE 原宿 / THE SHARE Harajuku"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67855860000009,
+          35.665349900000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 254,
+        "lat" : 35.665349900000002,
+        "lon" : 139.6785586,
+        "name" : "M5-05.セブン-イレブン 渋谷上原3丁目店 /Seven-Eleven Shibuya-Uehara 3chome Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68024300000002,
+          35.668091000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 255,
+        "lat" : 35.668090999999997,
+        "lon" : 139.68024299999999,
+        "name" : "M5-08.古賀政男音楽博物館 / Koga Masao Music Museum"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69476400000008,
+          35.660021000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 256,
+        "lat" : 35.660021,
+        "lon" : 139.69476399999999,
+        "name" : "M3-14.WORK COURT 渋谷松濤 / WORK COURT Shibuya Shoto"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68593700000008,
+          35.680158500000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 257,
+        "lat" : 35.680158499999997,
+        "lon" : 139.685937,
+        "name" : "M5-01.初台駅南口 / Hatsudai Sta. South Exit"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70539000000008,
+          35.657589000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 258,
+        "lat" : 35.657589000000002,
+        "lon" : 139.70538999999999,
+        "name" : "M3-05.渋谷3丁目 / Shibuya 3chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70439320000003,
+          35.657510500000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 259,
+        "lat" : 35.657510500000001,
+        "lon" : 139.7043932,
+        "name" : "M3-06.渋谷第一生命ビル /\u00A0Shibuya Daiichi Seimei Bldg."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7062840000001,
+          35.656228000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 260,
+        "lat" : 35.656227999999999,
+        "lon" : 139.70628400000001,
+        "name" : "M3-12.渋谷南東急ビル / Shibuya South Tokyu Bldg."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.703307,
+          35.657682000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 261,
+        "lat" : 35.657682000000001,
+        "lon" : 139.703307,
+        "name" : "M3-13.渋谷駅東口地下駐輪場 / Shibuya Station East Bicycle Basement"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66358700000001,
+          35.67519800000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 262,
+        "lat" : 35.675198000000002,
+        "lon" : 139.66358700000001,
+        "name" : "M6-03.十三号通り公園 / 13 St. Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67059400000005,
+          35.675436000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 263,
+        "lat" : 35.675435999999998,
+        "lon" : 139.67059399999999,
+        "name" : "M6-07.笹塚東 / Sasazuka Higashi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66655300000002,
+          35.673444000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 264,
+        "lat" : 35.673444000000003,
+        "lon" : 139.66655299999999,
+        "name" : "M6-02.サイカパーク笹塚 / Saika Park Sasazuka"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66880100000003,
+          35.674337000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 265,
+        "lat" : 35.674337000000001,
+        "lon" : 139.668801,
+        "name" : "M6-11.京王サイクルパーク笹塚 / KEIO Cyclepark Sasazuka"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69965590000004,
+          35.655513100000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 266,
+        "lat" : 35.6555131,
+        "lon" : 139.69965590000001,
+        "name" : "M3-02.文化総合センター大和田 / Shibuya Cultural Center Owada"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72105900000008,
+          35.653382000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 267,
+        "lat" : 35.653382000000001,
+        "lon" : 139.721059,
+        "name" : "M2-04.広尾東公園 / Hiroo-Higashi Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71855900000003,
+          35.655190000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 268,
+        "lat" : 35.655189999999997,
+        "lon" : 139.718559,
+        "name" : "M2-05.日本赤十字医療センター / Japanese Red Cross Medical Center"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68645100000003,
+          35.669880000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 269,
+        "lat" : 35.669879999999999,
+        "lon" : 139.68645100000001,
+        "name" : "M5-12.元代々木町五番 / Motoyoyogicho Goban"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70396400000004,
+          35.647076000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 270,
+        "lat" : 35.647075999999998,
+        "lon" : 139.70396400000001,
+        "name" : "M3-15.co-ba ebisu"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71309900000006,
+          35.643606000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 271,
+        "lat" : 35.643605999999998,
+        "lon" : 139.713099,
+        "name" : "M2-02.アメリカ橋公園 / American Bridge Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71061300000008,
+          35.646581000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 272,
+        "lat" : 35.646580999999998,
+        "lon" : 139.710613,
+        "name" : "M2-03.サイカパーク恵比寿(2階) / Saika Park Ebisu (2nd\u00A0floor)\u00A0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71946000000003,
+          35.645240000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 273,
+        "lat" : 35.645240000000001,
+        "lon" : 139.71946,
+        "name" : "M2-01.恵比寿保健相談所（恵比寿社会教育館）/ Ebisu Public Health Consultation Center"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7180383000001,
+          35.647526600000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 274,
+        "lat" : 35.647526599999999,
+        "lon" : 139.71803829999999,
+        "name" : "M2-08.パークルール恵比寿 / PARK RULE EBISU"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71512000000007,
+          35.647237000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 275,
+        "lat" : 35.647236999999997,
+        "lon" : 139.71512000000001,
+        "name" : "M2-06.あいおいニッセイ同和損保恵比寿ビル / Aioi Nissay Dowa Insurance Ebisu Bldg."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71281800000008,
+          35.64710000000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 276,
+        "lat" : 35.647100000000002,
+        "lon" : 139.712818,
+        "name" : "【休止中】M2-07.ファミリーマート恵比寿駅東店 / FamilyMart Ebisu Station East Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71298100000001,
+          35.64775700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 277,
+        "lat" : 35.647756999999999,
+        "lon" : 139.71298100000001,
+        "name" : "M3-10.ウノサワ東急ビル / Unosawa Tokyu Bldg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70013900000004,
+          35.649823000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 278,
+        "lat" : 35.649822999999998,
+        "lon" : 139.70013900000001,
+        "name" : "M3-03.代官山T-SITE / DAIKANYAMA T-SITE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69807300000002,
+          35.663608000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 279,
+        "lat" : 35.663608000000004,
+        "lon" : 139.69807299999999,
+        "name" : "M1-01.渋谷区役所 / Shibuya City Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.699296,
+          35.661475000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 280,
+        "lat" : 35.661475000000003,
+        "lon" : 139.699296,
+        "name" : "M3-09.ティップ.クロス TOKYO 渋谷 / TIP.X TOKYO Shibuya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72781600000008,
+          35.665910000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 281,
+        "lat" : 35.665909999999997,
+        "lon" : 139.72781599999999,
+        "name" : "C2-17.goodoffice ROPPONGI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72853670000006,
+          35.661155800000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 282,
+        "lat" : 35.661155800000003,
+        "lon" : 139.72853670000001,
+        "name" : "C2-02.六本木ヒルズ /\u00A0Roppongi Hills"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73477100000002,
+          35.660614000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 283,
+        "lat" : 35.660614000000002,
+        "lon" : 139.73477099999999,
+        "name" : "C2-09.麻布地区総合支所 / Azabu Regional City Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73718500000007,
+          35.664367000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 284,
+        "lat" : 35.664366999999999,
+        "lon" : 139.73718500000001,
+        "name" : "C2-15.住友不動産六本木グランドタワー/ SUMITOMO FUDOSAN ROPPONGI GRAND TOWER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.735501,
+          35.662060000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 285,
+        "lat" : 35.662059999999997,
+        "lon" : 139.735501,
+        "name" : "C2-20.三井ガーデンホテル六本木プレミア /\u00A0 Mitsui Garden Hotel Roppongi Tokyo Premier"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73924940000006,
+          35.666353600000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 286,
+        "lat" : 35.666353600000001,
+        "lon" : 139.73924940000001,
+        "name" : "C2-03.アークヒルズサウスタワー /\u00A0Ark Hills South Tower"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73749100000009,
+          35.654726000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 287,
+        "lat" : 35.654725999999997,
+        "lon" : 139.73749100000001,
+        "name" : "C2-11.一の橋 / Ichinohashi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.755853,
+          35.655898000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 288,
+        "lat" : 35.655898000000001,
+        "lon" : 139.755853,
+        "name" : "C1-45.浜松町クレアタワー\u00A0 / NIPPON LIFE HAMAMATSUCHO CREA TOWER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75774330000002,
+          35.658943300000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 289,
+        "lat" : 35.658943299999997,
+        "lon" : 139.75774329999999,
+        "name" : "C1-22.神明いきいきプラザ /\u00A0Shimmei Iki-iki Plaza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75703600000008,
+          35.658709000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 290,
+        "lat" : 35.658709000000002,
+        "lon" : 139.757036,
+        "name" : "C1-41.港区立エコプラザ / Eco Plaza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72498100000007,
+          35.637560000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 291,
+        "lat" : 35.637560000000001,
+        "lon" : 139.72498100000001,
+        "name" : "C4-02.白金台いきいきプラザ / \u00A0Shirokanedai Iki-iki Plaza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72708299999999,
+          35.638927000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 292,
+        "lat" : 35.638927000000002,
+        "lon" : 139.72708299999999,
+        "name" : "C4-05.白金台駅自転車駐車場 / Shirokanedai Station bicycle parking"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.723432,
+          35.644134000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 293,
+        "lat" : 35.644134000000001,
+        "lon" : 139.723432,
+        "name" : "C4-06.白金プラチナレジデンス / SHIROKANE PLATINUM RESIDENCE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72774070000003,
+          35.651055500000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 294,
+        "lat" : 35.651055499999998,
+        "lon" : 139.7277407,
+        "name" : "C2-05.ありすいきいきプラザ / Arisu Iki-iki Plaza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72256000000004,
+          35.650732000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 295,
+        "lat" : 35.650731999999998,
+        "lon" : 139.72255999999999,
+        "name" : "C2-19.広尾駅 / Hiroo Station"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7281650000001,
+          35.651718000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 296,
+        "lat" : 35.651718000000002,
+        "lon" : 139.72816499999999,
+        "name" : "C2-13.麻布運動場 / Azabu Sports Field"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72563390000005,
+          35.672678800000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 297,
+        "lat" : 35.6726788,
+        "lon" : 139.72563389999999,
+        "name" : "C3-07.新青山ビル /\u00A0Shin-Aoyama Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72570100000007,
+          35.669916000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 298,
+        "lat" : 35.669916000000001,
+        "lon" : 139.72570099999999,
+        "name" : "C3-23.LIFORK 南青山 北エントランス / LIFORK MINAMI AOYAMA North entrance"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72467600000004,
+          35.668419000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 299,
+        "lat" : 35.668419,
+        "lon" : 139.72467599999999,
+        "name" : "C3-24.SHARE GREEN 南青山 西エントランス / SHARE GREEN MINAMI AOYAMA West entrance"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74072130000002,
+          35.656958400000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 300,
+        "lat" : 35.656958400000001,
+        "lon" : 139.74072129999999,
+        "name" : "C2-04.飯倉いきいきプラザ /\u00A0Iikura Iki-iki Plaza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 301,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74382100000003,
+          35.657264000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 301,
+        "lat" : 35.657263999999998,
+        "lon" : 139.743821,
+        "name" : "C2-16.ザ・ベルグレイヴィア麻布\u00A0/ THE BELGRAVIA AZABU"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 302,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74319000000003,
+          35.656775000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 302,
+        "lat" : 35.656775000000003,
+        "lon" : 139.74319,
+        "name" : "C2-18.ブランシェ東麻布 / Branche Higashiazabu"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 303,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76090700000009,
+          35.666213000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 303,
+        "lat" : 35.666212999999999,
+        "lon" : 139.760907,
+        "name" : "C1-49. 汐留シティセンター / Shiodome City Center"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 304,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77689600000008,
+          35.627891000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 304,
+        "lat" : 35.627890999999998,
+        "lon" : 139.77689599999999,
+        "name" : "C5-32.トレードピアお台場 / TRADEPIA ODAIBA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 305,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77245990000006,
+          35.626367600000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 305,
+        "lat" : 35.626367600000002,
+        "lon" : 139.7724599,
+        "name" : "H1-15.台場駅 /\u00A0Daiba Station"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 306,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7714380000001,
+          35.626267000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 306,
+        "lat" : 35.626266999999999,
+        "lon" : 139.77143799999999,
+        "name" : "C5-31.ヒルトン東京お台場 / Hilton Tokyo Odaiba"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 307,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77821590000008,
+          35.629815400000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 307,
+        "lat" : 35.629815399999998,
+        "lon" : 139.77821589999999,
+        "name" : "H1-09.お台場海浜公園駅 /\u00A0Odaiba Kaihin Park Station"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 308,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77390490000005,
+          35.628744500000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 308,
+        "lat" : 35.628744500000003,
+        "lon" : 139.77390489999999,
+        "name" : "【休止中】H1-24.お台場海浜公園乗船場 /\u00A0Odaiba Marine Park Water Bus Terminal"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 309,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7781099,
+          35.631023800000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 309,
+        "lat" : 35.631023800000001,
+        "lon" : 139.7781099,
+        "name" : "H1-25.お台場海浜公園東 /\u00A0Odaiba Marine Park East"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 310,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72817120000002,
+          35.670656700000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 310,
+        "lat" : 35.670656700000002,
+        "lon" : 139.72817119999999,
+        "name" : "C3-06.ホテルアジア会館 /\u00A0Hotel Asia Center of Japan"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 311,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73337500000002,
+          35.670110000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 311,
+        "lat" : 35.670110000000001,
+        "lon" : 139.733375,
+        "name" : "C3-26. ホテルリブマックス赤坂 / HOTEL LiVEMAX AKASAKA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 312,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73791300000005,
+          35.670323000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 312,
+        "lat" : 35.670323000000003,
+        "lon" : 139.73791299999999,
+        "name" : "C3-25.ICI Hotel Akasaka"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 313,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73368990000006,
+          35.671812600000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 313,
+        "lat" : 35.671812600000003,
+        "lon" : 139.7336899,
+        "name" : "C3-08.赤坂パークビルヂング /\u00A0Akasaka Park Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 314,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73672950000002,
+          35.672355200000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 314,
+        "lat" : 35.672355199999998,
+        "lon" : 139.7367295,
+        "name" : "C3-09.国際新赤坂ビル / Kokusai Shin Akasaka Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 315,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73141400000009,
+          35.674795500000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 315,
+        "lat" : 35.674795500000002,
+        "lon" : 139.731414,
+        "name" : "C3-02.赤坂地区総合支所 /\u00A0Akasaka Regional City Office"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 316,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73152500000003,
+          35.673800000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 316,
+        "lat" : 35.6738,
+        "lon" : 139.731525,
+        "name" : "C3-16.赤坂ガーデンシティ / Akasaka Garden City"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 317,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73605300000008,
+          35.674929000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 317,
+        "lat" : 35.674928999999999,
+        "lon" : 139.736053,
+        "name" : "C3-22.ビスタホテル赤坂ビル / VISTA HOTEL AKASAKA Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 318,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7370830000001,
+          35.676566000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 318,
+        "lat" : 35.676566000000001,
+        "lon" : 139.73708300000001,
+        "name" : "C3-11.赤坂見附南 / South side of Akasakamitsuke"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 319,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73957330000007,
+          35.66712780000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 319,
+        "lat" : 35.667127800000003,
+        "lon" : 139.73957329999999,
+        "name" : "C2-01.アークヒルズ（アーク森ビル） /\u00A0Ark Hills (Ark Mori Tower)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 320,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74468290000004,
+          35.670368500000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 320,
+        "lat" : 35.670368500000002,
+        "lon" : 139.74468289999999,
+        "name" : "C3-10.ファミリーマート特許庁前店 /\u00A0FamilyMart Tokkyocho Mae Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 321,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74324200000001,
+          35.670308000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 321,
+        "lat" : 35.670307999999999,
+        "lon" : 139.74324200000001,
+        "name" : "C3-17.セブン-イレブン 港区溜池山王店 / Seven-Eleven Minatoku Tameikesanno store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 322,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72112040000002,
+          35.661668400000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 322,
+        "lat" : 35.661668400000003,
+        "lon" : 139.72112039999999,
+        "name" : "C2-08.ファミリーマート西麻布霞町店 /\u00A0Familly Mart Nishi-Azabu Kasumicho Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 323,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75082700000007,
+          35.665218000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 323,
+        "lat" : 35.665218000000003,
+        "lon" : 139.75082699999999,
+        "name" : "C1-37.KDX西新橋ビル（北側）/ KDX Nishi-shimbashi Building(North Side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 324,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75045900000009,
+          35.66495000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 324,
+        "lat" : 35.664949999999997,
+        "lon" : 139.75045900000001,
+        "name" : "C1-38.KDX西新橋ビル（西側）/ KDX Nishi-shimbashi Building(West Side)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 325,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7526249,
+          35.665600200000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 325,
+        "lat" : 35.6656002,
+        "lon" : 139.7526249,
+        "name" : "C1-05.西新橋２丁目（新虎通り） /\u00A0Nishi-Shinbashi 2-Chome (Shintora St.)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 326,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75356370000009,
+          35.668805600000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 326,
+        "lat" : 35.668805599999999,
+        "lon" : 139.7535637,
+        "name" : "C1-02.西新橋1丁目（外堀通り） /\u00A0Nishi-Shinbashi 1Chome (Sotobori St.)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 327,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75395130000004,
+          35.662210500000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 327,
+        "lat" : 35.6622105,
+        "lon" : 139.75395130000001,
+        "name" : "C1-10.きらきらプラザ新橋 /\u00A0Kira-kira Plaza Shinbashi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 328,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75461200000007,
+          35.66114900000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 328,
+        "lat" : 35.661149000000002,
+        "lon" : 139.75461200000001,
+        "name" : "C1-53.ホテルリブマックス新橋 / HOTEL LiVEMAX SHIMBASHI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 329,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75608900000009,
+          35.664458900000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 329,
+        "lat" : 35.6644589,
+        "lon" : 139.756089,
+        "name" : "C1-14.新橋プラザビル / Shinbashi Plaza Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 330,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75407100000007,
+          35.665116500000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 330,
+        "lat" : 35.665116500000003,
+        "lon" : 139.75407100000001,
+        "name" : "C1-46.新虎通りCORE / SHINTORA-DORI CORE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 331,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75769700000001,
+          35.663843000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 331,
+        "lat" : 35.663843,
+        "lon" : 139.75769700000001,
+        "name" : "C1-51.環二新橋四丁目 / Kam-2 Shimbashi 4-chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 332,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75604280000005,
+          35.669256800000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 332,
+        "lat" : 35.669256799999999,
+        "lon" : 139.75604279999999,
+        "name" : "C1-55.アーバンネット内幸町ビル・THE BLOSSOM HIBIYA / Urbannet Uchisaiwaicho Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 333,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74487270000009,
+          35.65932360000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 333,
+        "lat" : 35.6593236,
+        "lon" : 139.7448727,
+        "name" : "【休止中】C1-15.東京タワー /\u00A0TOKYO TOWER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 334,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7455566000001,
+          35.659442900000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 334,
+        "lat" : 35.659442900000002,
+        "lon" : 139.74555659999999,
+        "name" : "C1-16.機械振興会館 /\u00A0Kikai Shinko Kaikan Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 335,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75106390000008,
+          35.657867800000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 335,
+        "lat" : 35.657867799999998,
+        "lon" : 139.75106389999999,
+        "name" : "C1-17.港区役所 /\u00A0Minato City Hall"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 336,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75250900000003,
+          35.658169000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 336,
+        "lat" : 35.658169000000001,
+        "lon" : 139.752509,
+        "name" : "C1-43.KDX浜松町プレイス / KDX HAMAMATSUCHO PLACE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 337,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7484541,
+          35.637383300000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 337,
+        "lat" : 35.637383300000003,
+        "lon" : 139.7484541,
+        "name" : "C5-08.AQUACITY芝浦 /\u00A0AQUACITY Shibaura"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 338,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74975400000005,
+          35.63824500000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 338,
+        "lat" : 35.638244999999998,
+        "lon" : 139.749754,
+        "name" : "C5-13.区立芝浦西運河沿緑地 / Green Zone along the Shibaura-nishi Canal"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 339,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74624530000006,
+          35.643212100000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 339,
+        "lat" : 35.6432121,
+        "lon" : 139.7462453,
+        "name" : "C5-09.グランパーク /\u00A0Granpark"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 340,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74699200000009,
+          35.642399000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 340,
+        "lat" : 35.642398999999997,
+        "lon" : 139.74699200000001,
+        "name" : "C5-21.セブン-イレブン 芝浦3丁目店 / Seven-Eleven Shibaura 3chome Store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 341,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75060000000008,
+          35.643683000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 341,
+        "lat" : 35.643683000000003,
+        "lon" : 139.75059999999999,
+        "name" : "C5-28.芝浦ルネサイトタワー / Shibaura Renasite Tower"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 342,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74876800000004,
+          35.645682000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 342,
+        "lat" : 35.645682000000001,
+        "lon" : 139.74876800000001,
+        "name" : "C5-33.msb Tamachi\uF8F0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 343,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75489900000002,
+          35.645537000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 343,
+        "lat" : 35.645536999999997,
+        "lon" : 139.75489899999999,
+        "name" : "C5-19.グランドメゾン田町 / GRANDE　MAISON TAMACHI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 344,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75476500000002,
+          35.645254000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 344,
+        "lat" : 35.645254000000001,
+        "lon" : 139.75476499999999,
+        "name" : "C5-20.ローソン芝浦二丁目店 / LAWSON Shibaura 2-chome shop"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 345,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75109070000008,
+          35.646786200000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 345,
+        "lat" : 35.646786200000001,
+        "lon" : 139.75109069999999,
+        "name" : "C5-04.みなとパーク芝浦 /\u00A0Minato Park Shibaura"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 346,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7568467000001,
+          35.650672900000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 346,
+        "lat" : 35.650672900000004,
+        "lon" : 139.75684670000001,
+        "name" : "C5-05.浜松町ビルディング / Hamamatsucho Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 347,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75606000000005,
+          35.649950000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 347,
+        "lat" : 35.649949999999997,
+        "lon" : 139.75605999999999,
+        "name" : "C5-10.シーバンス / SEAVANS"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 348,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75542810000002,
+          35.647736400000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 348,
+        "lat" : 35.647736399999999,
+        "lon" : 139.75542809999999,
+        "name" : "C5-24.GLOBAL FRONT TOWER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 349,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75391000000002,
+          35.647872000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 349,
+        "lat" : 35.647872,
+        "lon" : 139.75390999999999,
+        "name" : "C5-30.フェイム芝浦インターウェーブ / FAIME SHIBAURA INTERWAVE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 350,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74633540000002,
+          35.648283800000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 350,
+        "lat" : 35.648283800000002,
+        "lon" : 139.74633539999999,
+        "name" : "C1-42.ピーアーク三田 / P-ARKMITA"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 351,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74983540000005,
+          35.648652000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 351,
+        "lat" : 35.648651999999998,
+        "lon" : 139.74983539999999,
+        "name" : "C1-23.三田いきいきプラザ /\u00A0Mita Iki-iki Plaza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 352,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75014700000008,
+          35.649032000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 352,
+        "lat" : 35.649031999999998,
+        "lon" : 139.750147,
+        "name" : "C1-35.セブン-イレブン 三田駅北店 / Seven-Eleven Mitaekikita"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 353,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74778900000001,
+          35.652549000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 353,
+        "lat" : 35.652549,
+        "lon" : 139.74778900000001,
+        "name" : "C1-52.NTT三田ビル / NTT Mita Build."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 354,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75017800000001,
+          35.652227000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 354,
+        "lat" : 35.652227000000003,
+        "lon" : 139.75017800000001,
+        "name" : "C1-31.住友芝公園ビル / Sumitomo Shibakoen Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 355,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74147100000005,
+          35.641150000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 355,
+        "lat" : 35.641150000000003,
+        "lon" : 139.74147099999999,
+        "name" : "C1-44.三田Avanti / Mita Avanti"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 356,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74047200000007,
+          35.64168600000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 356,
+        "lat" : 35.641686,
+        "lon" : 139.74047200000001,
+        "name" : "C1-47.パークプレイス三田 / Park Place Mita"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 357,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74467890000005,
+          35.653169600000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 357,
+        "lat" : 35.653169599999998,
+        "lon" : 139.7446789,
+        "name" : "C1-24.三田国際ビル /\u00A0Mita Kokusai Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 358,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73927300000003,
+          35.653755000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 358,
+        "lat" : 35.653754999999997,
+        "lon" : 139.739273,
+        "name" : "C1-26.東京さぬき倶楽部 / Tokyo Sanuki Club"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 359,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73417100000006,
+          35.628266000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 359,
+        "lat" : 35.628266000000004,
+        "lon" : 139.734171,
+        "name" : "C4-07.品川プリンスホテル / Shinagawa Prince Hotel"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 360,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7321111,
+          35.632168900000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 360,
+        "lat" : 35.632168900000003,
+        "lon" : 139.7321111,
+        "name" : "C4-04.ショパン高輪 / Chopin Takanawa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 361,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73448270000006,
+          35.638167200000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 361,
+        "lat" : 35.638167199999998,
+        "lon" : 139.7344827,
+        "name" : "C4-03.東海大学 高輪キャンパス / TOKAI UNIVERCITY Takanawa Campus"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 362,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73451900000009,
+          35.641833000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 362,
+        "lat" : 35.641832999999998,
+        "lon" : 139.73451900000001,
+        "name" : "C4-01.高輪地区総合支所（5F） / Takanawa Regional City Office(5F)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 363,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75073600000007,
+          35.628979900000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 363,
+        "lat" : 35.628979899999997,
+        "lon" : 139.75073599999999,
+        "name" : "C5-02.港南緑水公園 /\u00A0Konan-Ryokusui Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 364,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7466677000001,
+          35.624964600000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 364,
+        "lat" : 35.624964599999998,
+        "lon" : 139.74666769999999,
+        "name" : "C5-03.港南公園C /\u00A0Konan Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 365,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74950000000001,
+          35.632842000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 365,
+        "lat" : 35.632841999999997,
+        "lon" : 139.74950000000001,
+        "name" : "C5-07.港区立港南図書館 /\u00A0Minato City Konan Library"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 366,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74976260000005,
+          35.631736000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 366,
+        "lat" : 35.631735999999997,
+        "lon" : 139.7497626,
+        "name" : "C5-11.フェイバリッチタワー品川 / Favorich Tower Shinagawa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 367,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74832200000003,
+          35.633747500000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 367,
+        "lat" : 35.633747499999998,
+        "lon" : 139.748322,
+        "name" : "C5-12.第２東運ビル / NO.2 TOUN BUILDING (WAREHOUSE Konan)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 368,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.748378,
+          35.634529000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 368,
+        "lat" : 35.634529000000001,
+        "lon" : 139.748378,
+        "name" : "C5-18.パークタワー品川ベイワード / Park Tower Shinagawa Bayward"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 369,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7424218000001,
+          35.632323600000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 369,
+        "lat" : 35.632323599999999,
+        "lon" : 139.74242179999999,
+        "name" : "C5-06.品川シーズンテラス /\u00A0SHINAGAWA SEASON TERRACE"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 370,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74217400000009,
+          35.626704000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 370,
+        "lat" : 35.626703999999997,
+        "lon" : 139.74217400000001,
+        "name" : "C5-16.品川インターシティ /\u00A0SHINAGAWA INTERCITY"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 371,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74216970000009,
+          35.629686800000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 371,
+        "lat" : 35.629686800000002,
+        "lon" : 139.74216970000001,
+        "name" : "C5-01.こうなん星の公園 /\u00A0Konan-Hoshino Park"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 372,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74139700000001,
+          35.662490000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 372,
+        "lat" : 35.662489999999998,
+        "lon" : 139.74139700000001,
+        "name" : "C2-12.六本木ファーストビル / Roppongi First Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 373,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74373100000003,
+          35.664479000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 373,
+        "lat" : 35.664479,
+        "lon" : 139.743731,
+        "name" : "C1-34.城山ガーデン/ SHIROYAMA GARDEN"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 374,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74816840000005,
+          35.662004600000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 374,
+        "lat" : 35.662004600000003,
+        "lon" : 139.7481684,
+        "name" : "C1-09.愛宕グリーンヒルズ /\u00A0Atago GREEN HILLS"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 375,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74666200000001,
+          35.664344000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 375,
+        "lat" : 35.664344,
+        "lon" : 139.74666199999999,
+        "name" : "C1-54. ニッセイ虎ノ門ビル / NIPPON LIFE TORANOMON BUILDING"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 376,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74715700000002,
+          35.668578500000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 376,
+        "lat" : 35.668578500000002,
+        "lon" : 139.74715699999999,
+        "name" : "C1-27.虎ノ門２丁目タワー / TORANOMON 2-CHOME TOWER"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 377,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74564300000009,
+          35.667259000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 377,
+        "lat" : 35.667259000000001,
+        "lon" : 139.745643,
+        "name" : "C1-57.虎ノ門ツインビルディング / Toranomon Twin Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 378,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75117990000001,
+          35.669573200000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 378,
+        "lat" : 35.669573200000002,
+        "lon" : 139.75117990000001,
+        "name" : "C1-01.虎ノ門1丁目暫定自転車置場（外堀通り） /\u00A0Toranomon 1Chome Provisional Cycle Port (Sotobori St.)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 379,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73041499999999,
+          35.655799000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 379,
+        "lat" : 35.655799000000002,
+        "lon" : 139.73041499999999,
+        "name" : "C2-10.元麻布三丁目\u00A0/ Motoazabu 3-Chome"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 380,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73138000000006,
+          35.653608000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 380,
+        "lat" : 35.653607999999998,
+        "lon" : 139.73138,
+        "name" : "C2-14.元麻布ヒルズ / MOTOAZABU HILLS"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 381,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.721317,
+          35.678183000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 381,
+        "lat" : 35.678182999999997,
+        "lon" : 139.721317,
+        "name" : "C3-18.明治記念館 / Meijikinenkan"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 382,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72080900000003,
+          35.678179000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 382,
+        "lat" : 35.678179,
+        "lon" : 139.720809,
+        "name" : "C3-19.明治記念館西 / Meijikinenkan West"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 383,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73390500000005,
+          35.676732000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 383,
+        "lat" : 35.676732000000001,
+        "lon" : 139.73390499999999,
+        "name" : "C3-12.赤坂センタービルディング前（青山通り）/ Akasaka Center Building Mae(Aoyama-dori)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 384,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75365900000008,
+          35.640481000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 384,
+        "lat" : 35.640481000000001,
+        "lon" : 139.753659,
+        "name" : "C5-14.セブン-イレブン 港区汐彩橋店 / Sevev-Eleven Minato Shiosaibashi store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 385,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75597100000005,
+          35.640215000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 385,
+        "lat" : 35.640214999999998,
+        "lon" : 139.75597099999999,
+        "name" : "C5-15.セブン-イレブン 港区芝浦ふ頭店 / Sevev-Eleven Minato\u00A0Shibautafuto store"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 386,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75555100000008,
+          35.639571000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 386,
+        "lat" : 35.639570999999997,
+        "lon" : 139.755551,
+        "name" : "C5-25.NEX-TEC芝浦 / NEX-TEC Shibaura"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 387,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75621599999999,
+          35.644155000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 387,
+        "lat" : 35.644154999999998,
+        "lon" : 139.75621599999999,
+        "name" : "C5-26.ピアシティ芝浦ビル / PIRE CITY SHIBAURA BUILDING"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 388,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75909200000001,
+          35.651103000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 388,
+        "lat" : 35.651102999999999,
+        "lon" : 139.75909200000001,
+        "name" : "C5-17.鈴与浜松町ビル / Suzuyo Hamamatsucho Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 389,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75789500000008,
+          35.648948000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 389,
+        "lat" : 35.648947999999997,
+        "lon" : 139.75789499999999,
+        "name" : "C5-27.プレミア海岸ビル / Premier Kaigan Bldg"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 390,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76054900000008,
+          35.651672000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 390,
+        "lat" : 35.651671999999998,
+        "lon" : 139.760549,
+        "name" : "C5-29.Hi-NODE（ハイノード）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 391,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7591903,
+          35.657367100000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 391,
+        "lat" : 35.657367100000002,
+        "lon" : 139.7591903,
+        "name" : "C1-21.汐留ビルディング /\u00A0Shiodome Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 392,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76281200000005,
+          35.655139000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 392,
+        "lat" : 35.655138999999998,
+        "lon" : 139.762812,
+        "name" : "C1-48.竹芝客船ターミナル / Takeshiba Passenger Ship Terminal"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 393,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76210300000002,
+          35.654873000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 393,
+        "lat" : 35.654873000000002,
+        "lon" : 139.762103,
+        "name" : "C1-56.鈴与竹芝ビル / Suzuyo Takeshiba Building"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 394,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74898580000001,
+          35.666488800000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 394,
+        "lat" : 35.666488800000003,
+        "lon" : 139.74898580000001,
+        "name" : "C1-04.虎ノ門ヒルズ /\u00A0TORANOMON HILLS"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 395,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7478910000001,
+          35.665991000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 395,
+        "lat" : 35.665990999999998,
+        "lon" : 139.74789100000001,
+        "name" : "C1-50.NTT虎ノ門ビル / NTT Toranomon Bldg."
+      }
+    }
+  ]
+}

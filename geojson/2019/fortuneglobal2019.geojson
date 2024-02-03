@@ -1,0 +1,600 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72369050000009,
+          35.672292000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.672291999999999,
+        "lon" : 139.7236905,
+        "name" : "本田技研工業株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76100000000008,
+          35.665344000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.665343999999997,
+        "lon" : 139.761,
+        "name" : "富士通株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76129250000008,
+          35.663013000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.663012999999999,
+        "lon" : 139.7612925,
+        "name" : "ソフトバンク株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7272365,
+          35.671428000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.671427999999999,
+        "lon" : 139.7272365,
+        "name" : "日鉄物産株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74385500000005,
+          35.631045000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.631045,
+        "lon" : 139.743855,
+        "name" : "ソニー株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74965100000009,
+          35.645265000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.645265000000002,
+        "lon" : 139.749651,
+        "name" : "三菱自動車工業株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7573460000001,
+          35.650926000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.650925999999998,
+        "lon" : 139.75734600000001,
+        "name" : "株式会社 東芝"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74791850000008,
+          35.649396000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.649396000000003,
+        "lon" : 139.7479185,
+        "name" : "日本電気株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71333600000003,
+          35.646804000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.646804000000003,
+        "lon" : 139.713336,
+        "name" : "株式会社SUBARU"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70003400000007,
+          35.687376000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.687376,
+        "lon" : 139.70003399999999,
+        "name" : "東日本旅客鉄道株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69602900000007,
+          35.69272200000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.692722000000003,
+        "lon" : 139.69602900000001,
+        "name" : "ＳＯＭＰＯホールディングス株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76214300000004,
+          35.678979000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.678978999999998,
+        "lon" : 139.76214300000001,
+        "name" : "明治安田生命保険相互会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76325450000002,
+          35.683128000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.683128000000004,
+        "lon" : 139.76325449999999,
+        "name" : "東京海上ホールディングス株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75431300000002,
+          35.670312000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.670312000000003,
+        "lon" : 139.754313,
+        "name" : "ＪＦＥ（ジェイ エフ イー）ホールディングス株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76379450000002,
+          35.685594000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.685594000000002,
+        "lon" : 139.76379449999999,
+        "name" : "日本電信電話株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76536950000002,
+          35.685441000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.685440999999997,
+        "lon" : 139.76536949999999,
+        "name" : "株式会社みずほフィナンシャルグループ "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76153550000004,
+          35.684667000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.684666999999997,
+        "lon" : 139.76153550000001,
+        "name" : "三菱ケミカル株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76491050000004,
+          35.678574000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.678573999999998,
+        "lon" : 139.76491050000001,
+        "name" : "三菱電機株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76132400000006,
+          35.676972000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.676971999999999,
+        "lon" : 139.761324,
+        "name" : "出光興産株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76190900000006,
+          35.677989000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.677988999999997,
+        "lon" : 139.761909,
+        "name" : "三菱重工業株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76098200000001,
+          35.67580200000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.675801999999997,
+        "lon" : 139.76098200000001,
+        "name" : "第一生命保険株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75865550000003,
+          35.670078000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.670077999999997,
+        "lon" : 139.7586555,
+        "name" : "東京電力ホールディングス株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76280450000002,
+          35.688663000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.688662999999998,
+        "lon" : 139.76280449999999,
+        "name" : "三井物産株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76693550000005,
+          35.686881000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.686881,
+        "lon" : 139.76693549999999,
+        "name" : "日本郵政"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73406750000004,
+          35.685756000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.685755999999998,
+        "lon" : 139.73406750000001,
+        "name" : "株式会社セブン＆アイ・ホールディングス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76574750000009,
+          35.683200000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.683199999999999,
+        "lon" : 139.7657475,
+        "name" : "株式会社 日立製作所"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76252550000004,
+          35.684982000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.684981999999998,
+        "lon" : 139.76252550000001,
+        "name" : "三井住友フィナンシャルグループ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76252550000004,
+          35.684982000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.684981999999998,
+        "lon" : 139.76252550000001,
+        "name" : "株式会社三井住友銀行"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76435250000009,
+          35.678646000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.678646000000001,
+        "lon" : 139.7643525,
+        "name" : "三菱UFJフィナンシャル・グループ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76209800000004,
+          35.686071000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.686070999999998,
+        "lon" : 139.76209800000001,
+        "name" : "ＪＸＴＧホールディングス株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75053300000002,
+          35.700363000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.700363000000003,
+        "lon" : 139.75053299999999,
+        "name" : "KDDI株式会社 "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7742750000001,
+          35.681913000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.681913000000002,
+        "lon" : 139.77427499999999,
+        "name" : "丸紅株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78431,
+          35.674245000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.674244999999999,
+        "lon" : 139.78431,
+        "name" : "MS&ADインシュアランス グループ ホールディングス株式会社"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76876250000009,
+          35.67607200000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.676071999999998,
+        "lon" : 139.76876250000001,
+        "name" : "\t株式会社ブリヂストン"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76820450000002,
+          35.677206000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.677205999999998,
+        "lon" : 139.7682045,
+        "name" : "株式会社メディパルホールディングス"
+      }
+    }
+  ]
+}

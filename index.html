@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./img/favicon.ico">
+    <title>Tokyo Facilities Map</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <!-- Custom.css -->
+    <link href="./css/custom.css" rel="stylesheet">
+
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Mapbox -->
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css' rel='stylesheet'>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js'></script>
+
+</head>
+
+<body>
+    <!-- ------------------------------------------------------------------
+        Mapbox 
+    ------------------------------------------------------------------- -->
+    <nav id="hideshow_01" class="d-none d-lg-block position-absolute"></nav>
+    <nav id="hideshow_02" class="d-none d-lg-block position-absolute"></nav>
+    <div id="map"></div>
+
+    <!-- ------------------------------------------------------------------
+        PC mode 
+    ------------------------------------------------------------------- -->
+    <div class="d-none d-lg-block">
+
+        <!-- サイドバー: icons -->
+        <div class="container bg-light position-fixed px-4" style="width: 75px; height:100vh; z-index:3">
+            <!-- オフキャンバス icon -->
+            <div class="mt-4">
+                <img src="./img/arrows_gray.svg" type="button" data-bs-toggle="offcanvas" data-bs-target="#off-canvas">
+            </div>
+            <!-- モーダル icon -->
+            <div class="mt-4">
+                <img src="./img/question_gray.svg" type="button" data-bs-toggle="modal" data-bs-target="#infoModal">
+            </div>
+            <!-- モーダル-->
+            <div class="modal" id="infoModal" tabindex="-1" role="dialog" data-bs-backdrop="false">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">ご利用に際して</h4>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal">
+                            </button>
+                        </div>
+                        <div class="modal-body text-start fs-4">
+                            <h4>マップの操作方法</h4>
+                                <p>拡大縮小：マウススクロール</p>
+                                <p>地図移動：左クリック&ドラッグ</p>
+                                <p>地図回転：右クリック&ドラッグ</p>
+                            <h4>データの活用方法</h4>
+                                <p>ダウンロードしたデータは、Google My MapsやGoogle Earth Proなどで描画することが可能です。
+                                    <br>なお、CSVを描画する際は、テーブル形式にしたり、コラム名を英語にするなどの調整が必要です。
+                                </p>
+                            <h4>注意事項</h4>
+                                <p>ダウンロードしたデータを社外に公開・共有する場合は、森記念財団都市戦略研究所にご一報ください。</p>                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- サイドバー: コントロールパネル -->
+        <div class="container bg-dark text-white p-4 position-absolute offcanvas offcanvas-start show" data-bs-backdrop="false" id="off-canvas" style="margin-left:75px ;width: 600px; height:100vh; z-index:2">
+            <h1 class="display-6">TOKYO CITY DATA</h1>
+            <!-- 下線 -->
+            <hr style="background-color: #ff0000;">
+
+            <!-- 年次選択リスト -->
+            <form id="target">
+                <div class="mb-3">
+                <label class="form-label" for="year"><h6>YEAR</h6></label>
+                    <select class="form-select" id="year" name="year">
+                    </select>
+                </div>
+                
+                <!-- 指標ラジオボタン -->
+                <div class="container p-0">
+                    <h6>INDICATOR</h6>
+                    <div id="list" class="row row-cols-2"></div>
+                </div>
+            </form>
+
+            <!-- 下線 -->
+            <hr style="background-color: #ffffff;">
+
+            <!-- CSVダウンロードボタン -->
+            <div class="container d-flex justify-content-center align-items-center">
+                <button type="button" class="btn btn-light btn-lg" style="width: 50%;"><a id="csv" href="./csv/2022/forbesglobal2022.csv" download="indicators2022.csv" style="text-decoration: none; color:black">Download CSV</a></button>
+            </div>
+
+            <!-- フッター -->
+            <div class="position-absolute top-100 start-50 translate-middle">
+                <footer class="text-center mb-5">
+                    <p>
+                        <small>&copy;2023 Mori Memorial Foundation</small>
+                    </p>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <!-- End of PC mode -->
+
+    <!-- ------------------------------------------------------------------
+        SP mode 
+    ------------------------------------------------------------------- -->
+    <div class="container-fluid d-lg-none bg-dark text-white pb-2">
+        <h1 class="display-6 text-center">TOKYO CITY DATA</h1>
+        <!-- 下線 -->
+        <hr style="background-color: #ffffff;">
+
+        <!-- ナビゲーションバー -->
+        <nav class="navbar navbar-dark bg-dark mb-2">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-contents">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse show" id="navbar-contents">
+                    <div class="row mt-4">
+
+                        <!-- 年次選択リスト -->
+                        <form id="target-sp">
+                            <div class="col-md-6 mb-2">
+                                <h5>YEAR</h5>
+                                <select class="form-select" id="year-sp" name="year">
+                                </select>
+                            </div>
+
+                        <!-- 指標選択リスト -->
+                            <div class="col-md-6 mb-2">
+                                <h5>INDICATOR</h5>
+                                <select class="form-select" id="list-sp">
+                                    <option>指標を選択してください</option>
+                                </select>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <!-- End of SP mode -->
+
+    <!-- Bootstrap JavaScript (Popper.js and Bootstrap.js) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom JavaScript-->
+    <script src="./js/script.js"></script>
+    
+</body>
+
+</html>

@@ -1,0 +1,4170 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73144300000001,
+          35.662836000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.662835999999999,
+        "lon" : 139.73144300000001,
+        "name" : "六本木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73156700000004,
+          35.663921000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.663921000000002,
+        "lon" : 139.73156700000001,
+        "name" : "六本木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73900000000003,
+          35.665595000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.665595000000003,
+        "lon" : 139.739,
+        "name" : "六本木一丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74366900000007,
+          35.701934000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.701934000000001,
+        "lon" : 139.74366900000001,
+        "name" : "飯田橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74366900000007,
+          35.701934000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.701934000000001,
+        "lon" : 139.74366900000001,
+        "name" : "飯田橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76380600000005,
+          35.675441000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.675440999999999,
+        "lon" : 139.76380599999999,
+        "name" : "有楽町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76380600000005,
+          35.675441000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.675440999999999,
+        "lon" : 139.76380599999999,
+        "name" : "有楽町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76326500000005,
+          35.675714000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.675713999999999,
+        "lon" : 139.76326499999999,
+        "name" : "有楽町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76017000000002,
+          35.67459000000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.674590000000002,
+        "lon" : 139.76016999999999,
+        "name" : "日比谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75873200000001,
+          35.674241000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.674241000000002,
+        "lon" : 139.75873200000001,
+        "name" : "日比谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.759998,
+          35.676036000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.676036000000003,
+        "lon" : 139.759998,
+        "name" : "日比谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73454600000002,
+          35.703790000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.703789999999998,
+        "lon" : 139.73454599999999,
+        "name" : "神楽坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73705100000006,
+          35.654682000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.654682000000001,
+        "lon" : 139.73705100000001,
+        "name" : "麻布十番"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73611600000004,
+          35.656503000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.656503000000001,
+        "lon" : 139.73611600000001,
+        "name" : "麻布十番"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68635400000005,
+          35.681230000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.681229999999999,
+        "lon" : 139.68635399999999,
+        "name" : "初台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71231400000011,
+          35.665247000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.665247000000001,
+        "lon" : 139.71231399999999,
+        "name" : "表参道"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71231400000011,
+          35.665247000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.665247000000001,
+        "lon" : 139.71231399999999,
+        "name" : "表参道"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71231400000011,
+          35.665247000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.665247000000001,
+        "lon" : 139.71231399999999,
+        "name" : "表参道"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7241590000001,
+          35.672765000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.672764999999998,
+        "lon" : 139.72415899999999,
+        "name" : "青山一丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7241590000001,
+          35.672765000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.672764999999998,
+        "lon" : 139.72415899999999,
+        "name" : "青山一丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72396000000003,
+          35.672929000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.672929000000003,
+        "lon" : 139.72396000000001,
+        "name" : "青山一丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68909900000006,
+          35.669187000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.669187000000001,
+        "lon" : 139.689099,
+        "name" : "代々木公園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75674700000002,
+          35.655666000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.655665999999997,
+        "lon" : 139.75674699999999,
+        "name" : "モノレール浜松町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70026100000007,
+          35.700875000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.700875000000003,
+        "lon" : 139.70026100000001,
+        "name" : "新大久保"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6973200000001,
+          35.700784000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.700783999999999,
+        "lon" : 139.69731999999999,
+        "name" : "大久保"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7451430000001,
+          35.701835000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.701835000000003,
+        "lon" : 139.74514300000001,
+        "name" : "飯田橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74598600000002,
+          35.701725000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.701725000000003,
+        "lon" : 139.74598599999999,
+        "name" : "飯田橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77698200000009,
+          35.674851000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.674850999999997,
+        "lon" : 139.776982,
+        "name" : "八丁堀"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77770500000008,
+          35.674617000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.674616999999998,
+        "lon" : 139.777705,
+        "name" : "八丁堀"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67618300000004,
+          35.677061000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.677061000000002,
+        "lon" : 139.67618300000001,
+        "name" : "幡ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.726133,
+          35.637917000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.637917000000002,
+        "lon" : 139.726133,
+        "name" : "白金台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.726133,
+          35.637917000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.637917000000002,
+        "lon" : 139.726133,
+        "name" : "白金台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73030500000004,
+          35.631679000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.631678999999998,
+        "lon" : 139.73030499999999,
+        "name" : "高輪台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78815400000008,
+          35.68851600000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.688516,
+        "lon" : 139.78815399999999,
+        "name" : "浜町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7823800000001,
+          35.693365000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.693365,
+        "lon" : 139.78237999999999,
+        "name" : "馬喰町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.782285,
+          35.686307000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.686306999999999,
+        "lon" : 139.782285,
+        "name" : "人形町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.782285,
+          35.686307000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.686306999999999,
+        "lon" : 139.782285,
+        "name" : "人形町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77843300000006,
+          35.69073700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.690736999999999,
+        "lon" : 139.77843300000001,
+        "name" : "小伝馬町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77323000000001,
+          35.688687000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.688687000000002,
+        "lon" : 139.77323000000001,
+        "name" : "新日本橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.773594,
+          35.687101000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.687100999999998,
+        "lon" : 139.773594,
+        "name" : "三越前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77314699999999,
+          35.684908000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.684908,
+        "lon" : 139.77314699999999,
+        "name" : "三越前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78000500000007,
+          35.679752000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.679752000000001,
+        "lon" : 139.78000499999999,
+        "name" : "茅場町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78000500000007,
+          35.679752000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.679752000000001,
+        "lon" : 139.78000499999999,
+        "name" : "茅場町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78537700000004,
+          35.682683000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.682682999999997,
+        "lon" : 139.78537700000001,
+        "name" : "水天宮前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78276800000003,
+          35.692120000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.692120000000003,
+        "lon" : 139.782768,
+        "name" : "馬喰横山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77351600000009,
+          35.682078000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.682077999999997,
+        "lon" : 139.773516,
+        "name" : "日本橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77351600000009,
+          35.682078000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.682077999999997,
+        "lon" : 139.773516,
+        "name" : "日本橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77572100000009,
+          35.681688000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.681688000000001,
+        "lon" : 139.775721,
+        "name" : "日本橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72220200000004,
+          35.652279000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.652279,
+        "lon" : 139.72220200000001,
+        "name" : "広尾"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71785700000009,
+          35.67052700000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.670527,
+        "lon" : 139.71785700000001,
+        "name" : "外苑前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72621500000002,
+          35.666572000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.666572000000002,
+        "lon" : 139.726215,
+        "name" : "乃木坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72072900000001,
+          35.680031000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.680031,
+        "lon" : 139.72072900000001,
+        "name" : "信濃町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75561000000005,
+          35.669750000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.669750000000001,
+        "lon" : 139.75560999999999,
+        "name" : "内幸町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70100000000002,
+          35.659066000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.659066000000003,
+        "lon" : 139.70099999999999,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70100000000002,
+          35.659066000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.659066000000003,
+        "lon" : 139.70099999999999,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.700872,
+          35.658700000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.658700000000003,
+        "lon" : 139.700872,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74364200000002,
+          35.655007000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.655006999999998,
+        "lon" : 139.74364199999999,
+        "name" : "赤羽橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78482100000008,
+          35.692126000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.692126000000002,
+        "lon" : 139.78482099999999,
+        "name" : "東日本橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75964400000009,
+          35.665503000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.665503000000001,
+        "lon" : 139.75964400000001,
+        "name" : "新橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75998500000003,
+          35.662871000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.662871000000003,
+        "lon" : 139.759985,
+        "name" : "汐留"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76064200000008,
+          35.663703000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.663702999999998,
+        "lon" : 139.76064199999999,
+        "name" : "汐留"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6869670000001,
+          35.715106000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.715105999999999,
+        "lon" : 139.68696700000001,
+        "name" : "中井"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76691500000004,
+          35.664895000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.664895000000001,
+        "lon" : 139.76691500000001,
+        "name" : "築地市場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.772603,
+          35.668115000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.668115,
+        "lon" : 139.772603,
+        "name" : "築地"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77371100000005,
+          35.670462000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.670462000000001,
+        "lon" : 139.77371099999999,
+        "name" : "新富町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77064100000007,
+          35.691173000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.691172999999999,
+        "lon" : 139.77064100000001,
+        "name" : "神田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77064100000007,
+          35.691173000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.691172999999999,
+        "lon" : 139.77064100000001,
+        "name" : "神田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77064100000007,
+          35.691173000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.691172999999999,
+        "lon" : 139.77064100000001,
+        "name" : "神田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73580200000004,
+          35.700851000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.700851,
+        "lon" : 139.73580200000001,
+        "name" : "牛込神楽坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76620000000003,
+          35.686564000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.686563999999997,
+        "lon" : 139.7662,
+        "name" : "大手町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76608600000009,
+          35.68480100000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.684801,
+        "lon" : 139.766086,
+        "name" : "大手町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76339900000005,
+          35.686154000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.686154000000002,
+        "lon" : 139.76339899999999,
+        "name" : "大手町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76410700000008,
+          35.686860000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.686860000000003,
+        "lon" : 139.764107,
+        "name" : "大手町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70910100000003,
+          35.708242000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.708241999999998,
+        "lon" : 139.709101,
+        "name" : "西早稲田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77860700000008,
+          35.62981300000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.629812999999999,
+        "lon" : 139.77860699999999,
+        "name" : "お台場海浜公園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.771435,
+          35.625908000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.625908000000003,
+        "lon" : 139.771435,
+        "name" : "台場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68891300000007,
+          35.669715000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.669714999999997,
+        "lon" : 139.68891300000001,
+        "name" : "代々木八幡"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69356800000003,
+          35.678586000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.678586000000003,
+        "lon" : 139.693568,
+        "name" : "参宮橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70166600000005,
+          35.683218000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.683217999999997,
+        "lon" : 139.70166599999999,
+        "name" : "代々木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70204200000001,
+          35.683061000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.683061000000002,
+        "lon" : 139.70204200000001,
+        "name" : "代々木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70204200000001,
+          35.683061000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.683061000000002,
+        "lon" : 139.70204200000001,
+        "name" : "代々木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69866999999999,
+          35.683483000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.683483000000003,
+        "lon" : 139.69866999999999,
+        "name" : "南新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72131899999999,
+          35.705723000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.705722999999999,
+        "lon" : 139.72131899999999,
+        "name" : "早稲田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70545300000003,
+          35.678459000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.678458999999997,
+        "lon" : 139.70545300000001,
+        "name" : "北参道"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71164400000009,
+          35.681231000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.681230999999997,
+        "lon" : 139.71164400000001,
+        "name" : "千駄ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73704700000008,
+          35.677021000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.677021000000003,
+        "lon" : 139.73704699999999,
+        "name" : "赤坂見附"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73704700000008,
+          35.677021000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.677021000000003,
+        "lon" : 139.73704699999999,
+        "name" : "赤坂見附"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73834800000009,
+          35.673230000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.673229999999997,
+        "lon" : 139.738348,
+        "name" : "赤坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68330300000002,
+          35.72360800000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.723607999999999,
+        "lon" : 139.683303,
+        "name" : "落合南長崎"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71444400000007,
+          35.71298100000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.712980999999999,
+        "lon" : 139.71444399999999,
+        "name" : "面影橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71892800000001,
+          35.711848000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.711848000000003,
+        "lon" : 139.71892800000001,
+        "name" : "早稲田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69277800000009,
+          35.69429800000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.694298000000003,
+        "lon" : 139.692778,
+        "name" : "西新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.684304,
+          35.689798000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.689798000000003,
+        "lon" : 139.684304,
+        "name" : "西新宿五丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69257000000005,
+          35.690551000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.690550999999999,
+        "lon" : 139.69256999999999,
+        "name" : "都庁前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69918700000005,
+          35.690163000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.690162999999998,
+        "lon" : 139.69918699999999,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69881200000009,
+          35.688690000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "lat" : 35.688690000000001,
+        "lon" : 139.698812,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6995740000001,
+          35.69143500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "lat" : 35.691434999999998,
+        "lon" : 139.69957400000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69881200000009,
+          35.688690000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "lat" : 35.688690000000001,
+        "lon" : 139.698812,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69881200000009,
+          35.688690000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "lat" : 35.688690000000001,
+        "lon" : 139.698812,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69915500000002,
+          35.693315000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "lat" : 35.693314999999998,
+        "lon" : 139.69915499999999,
+        "name" : "新宿西口"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7515350000001,
+          35.661215000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "lat" : 35.661214999999999,
+        "lon" : 139.75153499999999,
+        "name" : "御成門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77545900000007,
+          35.698162000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "lat" : 35.698162000000004,
+        "lon" : 139.77545900000001,
+        "name" : "秋葉原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7708990000001,
+          35.693587000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "lat" : 35.693587000000001,
+        "lon" : 139.77089899999999,
+        "name" : "神田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76755100000003,
+          35.695487000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "lat" : 35.695487,
+        "lon" : 139.767551,
+        "name" : "小川町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76757500000008,
+          35.695434000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "lat" : 35.695433999999999,
+        "lon" : 139.76757499999999,
+        "name" : "淡路町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75760600000001,
+          35.695966000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "lat" : 35.695965999999999,
+        "lon" : 139.75760600000001,
+        "name" : "神保町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75812000000008,
+          35.695492000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "lat" : 35.695492000000002,
+        "lon" : 139.75811999999999,
+        "name" : "神保町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75760600000001,
+          35.695966000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "lat" : 35.695965999999999,
+        "lon" : 139.75760600000001,
+        "name" : "神保町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7649550000001,
+          35.699605000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "lat" : 35.699604999999998,
+        "lon" : 139.76495499999999,
+        "name" : "御茶ノ水"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7649550000001,
+          35.699605000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "lat" : 35.699604999999998,
+        "lon" : 139.76495499999999,
+        "name" : "御茶ノ水"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76601400000004,
+          35.698072000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "lat" : 35.698072000000003,
+        "lon" : 139.76601400000001,
+        "name" : "新御茶ノ水"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77427299999999,
+          35.698889000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "lat" : 35.698889000000001,
+        "lon" : 139.77427299999999,
+        "name" : "秋葉原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.693579,
+          35.657244000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "lat" : 35.657243999999999,
+        "lon" : 139.693579,
+        "name" : "神泉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70399500000008,
+          35.669071000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "lat" : 35.669071000000002,
+        "lon" : 139.70399499999999,
+        "name" : "明治神宮前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7025920000001,
+          35.670646000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "lat" : 35.670645999999998,
+        "lon" : 139.70259200000001,
+        "name" : "原宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70536700000002,
+          35.668497000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "lat" : 35.668497000000002,
+        "lon" : 139.705367,
+        "name" : "明治神宮前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70759300000009,
+          35.698915000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "lat" : 35.698915,
+        "lon" : 139.707593,
+        "name" : "東新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70754900000009,
+          35.697920000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "lat" : 35.697920000000003,
+        "lon" : 139.707549,
+        "name" : "東新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70071100000007,
+          35.69235000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "lat" : 35.692349999999998,
+        "lon" : 139.70071100000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70046400000001,
+          35.689729000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "lat" : 35.689729,
+        "lon" : 139.70046400000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70046400000001,
+          35.689729000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "lat" : 35.689729,
+        "lon" : 139.70046400000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70046400000001,
+          35.689729000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "lat" : 35.689729,
+        "lon" : 139.70046400000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70046400000001,
+          35.689729000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "lat" : 35.689729,
+        "lon" : 139.70046400000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70046400000001,
+          35.689729000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "lat" : 35.689729,
+        "lon" : 139.70046400000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70046400000001,
+          35.689729000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "lat" : 35.689729,
+        "lon" : 139.70046400000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70046400000001,
+          35.689729000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "lat" : 35.689729,
+        "lon" : 139.70046400000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70489500000008,
+          35.690847000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "lat" : 35.690846999999998,
+        "lon" : 139.70489499999999,
+        "name" : "新宿三丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70482800000002,
+          35.690853000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "lat" : 35.690852999999997,
+        "lon" : 139.70482799999999,
+        "name" : "新宿三丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70627100000002,
+          35.690616000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "lat" : 35.690615999999999,
+        "lon" : 139.70627099999999,
+        "name" : "新宿三丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71069,
+          35.688588000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "lat" : 35.688588000000003,
+        "lon" : 139.71069,
+        "name" : "新宿御苑前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75843200000008,
+          35.667434000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "lat" : 35.667434,
+        "lon" : 139.758432,
+        "name" : "新橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75945100000001,
+          35.665577000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "lat" : 35.665576999999999,
+        "lon" : 139.75945100000001,
+        "name" : "新橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75858700000003,
+          35.666195000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "lat" : 35.666195000000002,
+        "lon" : 139.75858700000001,
+        "name" : "新橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75858700000003,
+          35.666195000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "lat" : 35.666195000000002,
+        "lon" : 139.75858700000001,
+        "name" : "新橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75858700000003,
+          35.666195000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "lat" : 35.666195000000002,
+        "lon" : 139.75858700000001,
+        "name" : "新橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75858700000003,
+          35.666195000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "lat" : 35.666195000000002,
+        "lon" : 139.75858700000001,
+        "name" : "新橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68635600000005,
+          35.714035000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "lat" : 35.714035000000003,
+        "lon" : 139.68635599999999,
+        "name" : "中井"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68015300000002,
+          35.669159000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "lat" : 35.669159000000001,
+        "lon" : 139.68015299999999,
+        "name" : "代々木上原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68015300000002,
+          35.669159000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "lat" : 35.669159000000001,
+        "lon" : 139.68015299999999,
+        "name" : "代々木上原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77644200000009,
+          35.658507000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "lat" : 35.658507,
+        "lon" : 139.776442,
+        "name" : "勝どき"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70241700000008,
+          35.659545000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "lat" : 35.659545000000001,
+        "lon" : 139.702417,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70214800000008,
+          35.658020000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "lat" : 35.65802,
+        "lon" : 139.70214799999999,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70241700000008,
+          35.659545000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "lat" : 35.659545000000001,
+        "lon" : 139.702417,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7012380000001,
+          35.65887100000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "lat" : 35.658870999999998,
+        "lon" : 139.70123799999999,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7012380000001,
+          35.65887100000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "lat" : 35.658870999999998,
+        "lon" : 139.70123799999999,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7012380000001,
+          35.65887100000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "lat" : 35.658870999999998,
+        "lon" : 139.70123799999999,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7012380000001,
+          35.65887100000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "lat" : 35.658870999999998,
+        "lon" : 139.70123799999999,
+        "name" : "渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72288100000003,
+          35.692402000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "lat" : 35.692402000000001,
+        "lon" : 139.722881,
+        "name" : "曙橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75466000000006,
+          35.65678500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "lat" : 35.656784999999999,
+        "lon" : 139.75466,
+        "name" : "大門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75466000000006,
+          35.65678500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "lat" : 35.656784999999999,
+        "lon" : 139.75466,
+        "name" : "大門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7498240000001,
+          35.654074000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "lat" : 35.654074000000001,
+        "lon" : 139.74982399999999,
+        "name" : "芝公園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7475750000001,
+          35.645736000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "lat" : 35.645735999999999,
+        "lon" : 139.74757500000001,
+        "name" : "田町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7475750000001,
+          35.645736000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "lat" : 35.645735999999999,
+        "lon" : 139.74757500000001,
+        "name" : "田町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74877500000002,
+          35.648180000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "lat" : 35.648180000000004,
+        "lon" : 139.74877499999999,
+        "name" : "三田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74877500000002,
+          35.648180000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "lat" : 35.648180000000004,
+        "lon" : 139.74877499999999,
+        "name" : "三田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73638900000003,
+          35.692972000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "lat" : 35.692971999999997,
+        "lon" : 139.736389,
+        "name" : "市ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72010299999999,
+          35.687958000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "lat" : 35.687958000000002,
+        "lon" : 139.72010299999999,
+        "name" : "四谷三丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72994700000004,
+          35.684586000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "lat" : 35.684586000000003,
+        "lon" : 139.72994700000001,
+        "name" : "四ツ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72955000000002,
+          35.686032000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "lat" : 35.686031999999997,
+        "lon" : 139.72954999999999,
+        "name" : "四ツ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75431200000003,
+          35.70203900000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "lat" : 35.702038999999999,
+        "lon" : 139.754312,
+        "name" : "水道橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66725100000008,
+          35.673758000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "lat" : 35.673757999999999,
+        "lon" : 139.66725099999999,
+        "name" : "笹塚"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66725100000008,
+          35.673758000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "lat" : 35.673757999999999,
+        "lon" : 139.66725099999999,
+        "name" : "笹塚"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7306440000001,
+          35.686041000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "lat" : 35.686041000000003,
+        "lon" : 139.73064400000001,
+        "name" : "四ツ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7306440000001,
+          35.686041000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "lat" : 35.686041000000003,
+        "lon" : 139.73064400000001,
+        "name" : "四ツ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7306440000001,
+          35.686041000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "lat" : 35.686041000000003,
+        "lon" : 139.73064400000001,
+        "name" : "四ツ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73761300000001,
+          35.684006000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "lat" : 35.684005999999997,
+        "lon" : 139.73761300000001,
+        "name" : "麹町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7416300000001,
+          35.685703000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "lat" : 35.685702999999997,
+        "lon" : 139.74162999999999,
+        "name" : "半蔵門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73809000000006,
+          35.628284000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "lat" : 35.628284000000001,
+        "lon" : 139.73809,
+        "name" : "品川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74002000000007,
+          35.638692000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "lat" : 35.638691999999999,
+        "lon" : 139.74001999999999,
+        "name" : "泉岳寺"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74002000000007,
+          35.638692000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "lat" : 35.638691999999999,
+        "lon" : 139.74001999999999,
+        "name" : "泉岳寺"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.734104,
+          35.642903000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "lat" : 35.642902999999997,
+        "lon" : 139.734104,
+        "name" : "白金高輪"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.734104,
+          35.642903000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "lat" : 35.642902999999997,
+        "lon" : 139.734104,
+        "name" : "白金高輪"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.704745,
+          35.713338000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "lat" : 35.713338,
+        "lon" : 139.704745,
+        "name" : "高田馬場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7037150000001,
+          35.712677000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "lat" : 35.712676999999999,
+        "lon" : 139.70371499999999,
+        "name" : "高田馬場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7037150000001,
+          35.712677000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "lat" : 35.712676999999999,
+        "lon" : 139.70371499999999,
+        "name" : "高田馬場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73899900000004,
+          35.628760000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "lat" : 35.62876,
+        "lon" : 139.73899900000001,
+        "name" : "品川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73899900000004,
+          35.628760000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "lat" : 35.62876,
+        "lon" : 139.73899900000001,
+        "name" : "品川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73899900000004,
+          35.628760000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "lat" : 35.62876,
+        "lon" : 139.73899900000001,
+        "name" : "品川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73899900000004,
+          35.628760000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "lat" : 35.62876,
+        "lon" : 139.73899900000001,
+        "name" : "品川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73899900000004,
+          35.628760000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "lat" : 35.62876,
+        "lon" : 139.73899900000001,
+        "name" : "品川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74070000000006,
+          35.635500000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "lat" : 35.6355,
+        "lon" : 139.7407,
+        "name" : "高輪ゲートウェイ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74070000000006,
+          35.635500000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "lat" : 35.6355,
+        "lon" : 139.7407,
+        "name" : "高輪ゲートウェイ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73558300000002,
+          35.691000000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "lat" : 35.691000000000003,
+        "lon" : 139.73558299999999,
+        "name" : "市ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74506900000006,
+          35.662978000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "lat" : 35.662978000000003,
+        "lon" : 139.745069,
+        "name" : "神谷町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74983200000008,
+          35.670236000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "lat" : 35.670236000000003,
+        "lon" : 139.749832,
+        "name" : "虎ノ門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72502700000007,
+          35.699518000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "lat" : 35.699517999999998,
+        "lon" : 139.72502700000001,
+        "name" : "牛込柳町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78423300000009,
+          35.664871000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "lat" : 35.664870999999998,
+        "lon" : 139.784233,
+        "name" : "月島"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78423300000009,
+          35.664871000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "lat" : 35.664870999999998,
+        "lon" : 139.784233,
+        "name" : "月島"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70328400000005,
+          35.648193000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "lat" : 35.648192999999999,
+        "lon" : 139.703284,
+        "name" : "代官山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70898800000009,
+          35.647332000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "lat" : 35.647331999999999,
+        "lon" : 139.70898800000001,
+        "name" : "恵比寿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71007000000009,
+          35.646685000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "lat" : 35.646684999999998,
+        "lon" : 139.71007,
+        "name" : "恵比寿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71007000000009,
+          35.646685000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "lat" : 35.646684999999998,
+        "lon" : 139.71007,
+        "name" : "恵比寿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71007000000009,
+          35.646685000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "lat" : 35.646684999999998,
+        "lon" : 139.71007,
+        "name" : "恵比寿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73625000000004,
+          35.691389000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "lat" : 35.691389000000001,
+        "lon" : 139.73625000000001,
+        "name" : "市ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75194800000008,
+          35.695589000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "lat" : 35.695588999999998,
+        "lon" : 139.751948,
+        "name" : "九段下"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75194800000008,
+          35.695589000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "lat" : 35.695588999999998,
+        "lon" : 139.751948,
+        "name" : "九段下"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75194800000008,
+          35.695589000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "lat" : 35.695588999999998,
+        "lon" : 139.751948,
+        "name" : "九段下"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73763900000006,
+          35.691556000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "lat" : 35.691555999999999,
+        "lon" : 139.737639,
+        "name" : "市ヶ谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7639650000001,
+          35.671989000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "lat" : 35.671989000000004,
+        "lon" : 139.76396500000001,
+        "name" : "銀座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7639650000001,
+          35.671989000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "lat" : 35.671989000000004,
+        "lon" : 139.76396500000001,
+        "name" : "銀座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7639650000001,
+          35.671989000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "lat" : 35.671989000000004,
+        "lon" : 139.76396500000001,
+        "name" : "銀座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7672530000001,
+          35.669464000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "lat" : 35.669463999999998,
+        "lon" : 139.76725300000001,
+        "name" : "東銀座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7672530000001,
+          35.669464000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "lat" : 35.669463999999998,
+        "lon" : 139.76725300000001,
+        "name" : "東銀座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76704500000005,
+          35.674350000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "lat" : 35.674349999999997,
+        "lon" : 139.767045,
+        "name" : "銀座一丁目"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.770126,
+          35.676856000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "lat" : 35.676856000000001,
+        "lon" : 139.770126,
+        "name" : "京橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77176700000007,
+          35.675461000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "lat" : 35.675460999999999,
+        "lon" : 139.77176700000001,
+        "name" : "宝町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77586600000006,
+          35.695534000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "lat" : 35.695534000000002,
+        "lon" : 139.77586600000001,
+        "name" : "岩本町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76470800000004,
+          35.681753000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "lat" : 35.681753,
+        "lon" : 139.76470800000001,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76194800000007,
+          35.681071000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "lat" : 35.681071000000003,
+        "lon" : 139.76194799999999,
+        "name" : "二重橋前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76610300000004,
+          35.681391000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "lat" : 35.681390999999998,
+        "lon" : 139.76610299999999,
+        "name" : "東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76295900000002,
+          35.684856000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "lat" : 35.684856000000003,
+        "lon" : 139.762959,
+        "name" : "大手町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77171300000009,
+          35.702972000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "lat" : 35.702972000000003,
+        "lon" : 139.77171300000001,
+        "name" : "末広町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77328800000009,
+          35.698619000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "lat" : 35.698619000000001,
+        "lon" : 139.77328800000001,
+        "name" : "秋葉原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77328800000009,
+          35.698619000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "lat" : 35.698619000000001,
+        "lon" : 139.77328800000001,
+        "name" : "秋葉原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77328800000009,
+          35.698619000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "lat" : 35.698619000000001,
+        "lon" : 139.77328800000001,
+        "name" : "秋葉原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75785200000007,
+          35.641773000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "lat" : 35.641773000000001,
+        "lon" : 139.75785200000001,
+        "name" : "芝浦ふ頭"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75906000000009,
+          35.649136000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "lat" : 35.649135999999999,
+        "lon" : 139.75906000000001,
+        "name" : "日の出"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75713500000006,
+          35.655391000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "lat" : 35.655391000000002,
+        "lon" : 139.75713500000001,
+        "name" : "浜松町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75713500000006,
+          35.655391000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "lat" : 35.655391000000002,
+        "lon" : 139.75713500000001,
+        "name" : "浜松町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76203700000008,
+          35.654099000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "lat" : 35.654099000000002,
+        "lon" : 139.76203699999999,
+        "name" : "竹芝"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71493200000009,
+          35.679831000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "lat" : 35.679831,
+        "lon" : 139.714932,
+        "name" : "国立競技場"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7514900000001,
+          35.677405000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "lat" : 35.677405,
+        "lon" : 139.75148999999999,
+        "name" : "桜田門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.750899,
+          35.673838000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "lat" : 35.673838000000003,
+        "lon" : 139.750899,
+        "name" : "霞ヶ関"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.750899,
+          35.673838000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "lat" : 35.673838000000003,
+        "lon" : 139.750899,
+        "name" : "霞ヶ関"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.750899,
+          35.673838000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "lat" : 35.673838000000003,
+        "lon" : 139.750899,
+        "name" : "霞ヶ関"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71818400000006,
+          35.699218000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "lat" : 35.699218000000002,
+        "lon" : 139.71818400000001,
+        "name" : "若松河田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70000000000005,
+          35.696254000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "lat" : 35.696254000000003,
+        "lon" : 139.69999999999999,
+        "name" : "西武新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69539100000009,
+          35.715846000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "lat" : 35.715845999999999,
+        "lon" : 139.695391,
+        "name" : "下落合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74141900000006,
+          35.673621000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "lat" : 35.673620999999997,
+        "lon" : 139.74141900000001,
+        "name" : "溜池山王"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74141900000006,
+          35.673621000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "lat" : 35.673620999999997,
+        "lon" : 139.74141900000001,
+        "name" : "溜池山王"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74025800000004,
+          35.678757000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "lat" : 35.678756999999997,
+        "lon" : 139.74025800000001,
+        "name" : "永田町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74025800000004,
+          35.678757000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "lat" : 35.678756999999997,
+        "lon" : 139.74025800000001,
+        "name" : "永田町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74025800000004,
+          35.678757000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "lat" : 35.678756999999997,
+        "lon" : 139.74025800000001,
+        "name" : "永田町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74521900000002,
+          35.673930000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "lat" : 35.673929999999999,
+        "lon" : 139.74521899999999,
+        "name" : "国会議事堂前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74521900000002,
+          35.673930000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "lat" : 35.673929999999999,
+        "lon" : 139.74521899999999,
+        "name" : "国会議事堂前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75681700000007,
+          35.690662000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "lat" : 35.690662000000003,
+        "lon" : 139.75681700000001,
+        "name" : "竹橋"
+      }
+    }
+  ]
+}

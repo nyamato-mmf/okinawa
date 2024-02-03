@@ -1,0 +1,2793 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72708570000009,
+          35.664066700000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.664066699999999,
+        "lon" : 139.7270857,
+        "name" : "政府に対する科学助言に関する国際ネットワーク第3回会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72708570000009,
+          35.664066700000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.664066699999999,
+        "lon" : 139.7270857,
+        "name" : "東京-モスクワ 国際医学フォーラム2018"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72516810000002,
+          35.665375700000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.665375699999998,
+        "lon" : 139.72516809999999,
+        "name" : "第18回アジア学術会議（SCA）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72841730000005,
+          35.659805100000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.6598051,
+        "lon" : 139.72841729999999,
+        "name" : "第15回BIOアジア国際会議"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72841730000005,
+          35.659805100000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.6598051,
+        "lon" : 139.72841729999999,
+        "name" : "第3回閣僚級世界患者安全サミット"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74041440000008,
+          35.681894000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.681894,
+        "lon" : 139.74041439999999,
+        "name" : "「V4\uFF0B日本」BREXITセミナー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7388277,
+          35.681140800000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.681140800000001,
+        "lon" : 139.7388277,
+        "name" : "IAFORグローバル・イノベーション＆バリュー・サミット（GIVS）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74152220000008,
+          35.695766100000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.6957661,
+        "lon" : 139.74152219999999,
+        "name" : "江戸東京研究センター設立記念国際シンポジウム「新・江戸東京研究〜近代を相対化する都市の未来〜」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68454120000001,
+          35.664446400000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.664446400000003,
+        "lon" : 139.68454120000001,
+        "name" : "第8回Lux Pacifica(ルクスパシフィカ)\n（カンファレンス）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75667180000005,
+          35.656105800000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.656105799999999,
+        "lon" : 139.75667179999999,
+        "name" : "ビジネス＆テクノロジー インサイトフォーラム東京2018（9月開催）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75011970000003,
+          35.69723330000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.697233300000001,
+        "lon" : 139.7501197,
+        "name" : "第13回東アジア教員養成国際シンポジウム\n「次世代育成教育に向けて」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77874270000007,
+          35.682643200000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.682643200000001,
+        "lon" : 139.77874270000001,
+        "name" : "RIアジア・ジャパン2018（講演）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77874270000007,
+          35.682643200000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.682643200000001,
+        "lon" : 139.77874270000001,
+        "name" : "サステナビリティ・ボンド（講演）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78663240000003,
+          35.682319900000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.682319900000003,
+        "lon" : 139.7866324,
+        "name" : "第19回日本国際金融システムフォーラム 2018"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73604780000005,
+          35.685557300000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.685557299999999,
+        "lon" : 139.73604779999999,
+        "name" : "第19回法整備支援連絡会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75267010000005,
+          35.670921400000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.670921399999997,
+        "lon" : 139.75267009999999,
+        "name" : "質の高いインフラの推進に関するセミナー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75267010000005,
+          35.670921400000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.670921399999997,
+        "lon" : 139.75267009999999,
+        "name" : "第12回化粧品規制協力国際会議（ICCR- 12）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75284490000001,
+          35.670892900000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.670892899999998,
+        "lon" : 139.75284490000001,
+        "name" : "国際法模擬裁判「2018年アジア・カップ」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75758030000009,
+          35.672470300000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.672470300000001,
+        "lon" : 139.7575803,
+        "name" : "カンボジア投資フォーラム   「カンボジアの投資環境と投資機会」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75758030000009,
+          35.672470300000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.672470300000001,
+        "lon" : 139.7575803,
+        "name" : "ABAC （APECビジネス諮問委員会）第二回会議"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75758030000009,
+          35.672470300000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.672470300000001,
+        "lon" : 139.7575803,
+        "name" : "第1回 持続可能な生産性サミット"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76571200000001,
+          35.664004000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.664003999999998,
+        "lon" : 139.76571200000001,
+        "name" : "化粧品規制に関する国際シンポジウム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76778330000002,
+          35.665568900000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.665568899999997,
+        "lon" : 139.76778329999999,
+        "name" : "ICRP-量研-放影研ワークショップ「電離放射線の個体応答」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76479380000001,
+          35.688477400000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.688477399999996,
+        "lon" : 139.76479380000001,
+        "name" : "IAFORグローバル・イノベーション＆バリュー・サミット（GIVS）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76179569999999,
+          35.689620800000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.6896208,
+        "lon" : 139.76179569999999,
+        "name" : "5回非静力学モデルに関する国際ワークショップ (NHM2018)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77115290000006,
+          35.625124300000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.625124300000003,
+        "lon" : 139.7711529,
+        "name" : "第47回日本IVR学会総会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77080000000001,
+          35.626090000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.626089999999998,
+        "lon" : 139.77080000000001,
+        "name" : "サステナブル・ブランド 国際会議2018"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77080000000001,
+          35.626090000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.626089999999998,
+        "lon" : 139.77080000000001,
+        "name" : "国際捜索・救助諮問グループ（INSARAG)アジア太平洋地域会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69255380000004,
+          35.675625100000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.675625099999998,
+        "lon" : 139.69255380000001,
+        "name" : "トライボロジー会議   2018春東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69255380000004,
+          35.675625100000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.675625099999998,
+        "lon" : 139.69255380000001,
+        "name" : "第64回国際学生会議"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73999700000002,
+          35.66708600000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.667085999999998,
+        "lon" : 139.73999699999999,
+        "name" : "西バルカンビジネスセミナー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69136430000003,
+          35.692515700000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.692515700000001,
+        "lon" : 139.6913643,
+        "name" : "環太平洋パートナーシップ高級事務レベル会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69136430000003,
+          35.692515700000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.692515700000001,
+        "lon" : 139.6913643,
+        "name" : "IAAPAリーダーシップ会議2018"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69071250000002,
+          35.685600600000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.685600600000001,
+        "lon" : 139.69071249999999,
+        "name" : "紛争解決委員連盟第18回年次国際会議及びワークショップ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69436360000009,
+          35.690050900000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.690050900000003,
+        "lon" : 139.6943636,
+        "name" : "第1回、第2回Liquid Biopsy 研究会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69436360000009,
+          35.690050900000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.690050900000003,
+        "lon" : 139.6943636,
+        "name" : "第61回日本手外科学会学術集会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69436360000009,
+          35.690050900000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.690050900000003,
+        "lon" : 139.6943636,
+        "name" : "第3回日米爆傷フォーラム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69436360000009,
+          35.690050900000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.690050900000003,
+        "lon" : 139.6943636,
+        "name" : "国際生産工学アカデミー第68回総会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69436360000009,
+          35.690050900000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.690050900000003,
+        "lon" : 139.6943636,
+        "name" : "第24回国際喘息学会 (WCA2018)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6926145000001,
+          35.691294400000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.691294399999997,
+        "lon" : 139.69261449999999,
+        "name" : "ISO/TC 20/SC 16 （会議）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69568550000008,
+          35.690506200000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.690506200000002,
+        "lon" : 139.6956855,
+        "name" : "講演と討論会「温室効果ガスの削減貢献量」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77007200000003,
+          35.696827000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.696826999999999,
+        "lon" : 139.770072,
+        "name" : "第58回   IEC/TC9   総会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76642620000007,
+          35.698745400000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.6987454,
+        "lon" : 139.76642620000001,
+        "name" : "第33回 日本Shock学会総会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7615346,
+          35.697242200000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.697242199999998,
+        "lon" : 139.7615346,
+        "name" : "歴博国際シンポジウム「日本の古墳はなぜ巨大なのか？-古代モニュメントの比較考古学ー」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75888670000006,
+          35.693286900000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.693286899999997,
+        "lon" : 139.75888670000001,
+        "name" : "第13回東アジア教員養成国際シンポジウム\n「次世代育成教育に向けて」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "学び改善のための持続可能かつ包摂的教育システムモデル（シンポジウム）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "中国・韓国における化学物質管理政策最新動向セミナー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "協働ギャザリング2018\uFF5E環境×協働の未来を考える\uFF5E （ワークショップ）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「2018年の人道優先課題：取り残された人ーにまず支援の手を」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「環太平洋パートナーシップ協定（TPP）の復活」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "ミャンマー投資環境フォーラム 新会社法を中心に"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「慈善団体の世界：効果的、効率的、そして野心的？」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "UNEPフォーラム2018"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「中東紛争の根源：スンニ派とシーア派の分裂」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「インド再考：複雑と混沌が支配する魅力的な国」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「ISIL撤退後のイラク：慎重な楽観主義は妥当か」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「飢饉との闘い：飢餓、栄養不良、死を防ぐために」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「持続可能な開発は可能か」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「サウジアラビアの変革と中東の地政学」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "ASEFパブリックヘルスネットワーク10周年記念イベント「High-level Meeting – Universal Health Coverage as a tool to combat infectious diseases」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「WIN-WINの解決は可能か。モデル国際モビリティ条約の入門編」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「岐路に立つ人権：新たな課題への対応と過去の成果の持続」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「国境と紛争を超えて：アフリカの過激主義に立ち向かう市民たち」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国際サンゴ礁年2018記念セミナー「サンゴと共生する社会とは」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「必要不可欠なつながり：科学を活用した持続可能な解決策による緊急政策課題への取り組み」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "都市の脆弱性を考える： 気候変動とグローバル化の観点から（セミナー）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「ロンドンからジュバへ：南スーダンにおける和平と平和維持の見通し」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "第5回日中韓看護学会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "サステイナビリティ研究が拓く持続可能な未来（セミナー）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「適応の達人：アジア内外におけるインドの戦略地政学的な見通しと姿勢」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "セミナー：「2050 年の世界」イニシアティブの展望"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国際防災の日 シンポジウム : 持続可能な開発目標（SDGs）と防災"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「持続可能な開発目標（SDGs）の達成に向けて：インフラ、投資、実行」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「国連安全保障理事会の権限と影響力：非常任理事国の役割」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「開発の後退：アラブ世界の下方スパイラルは逆転できるか」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "アフリカの持続可能な開発のための人材育成：アフリカの大学との対談会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "JIRCAS国際シンポジウム2018"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "国連大学対談シリーズ「事実を伝えるために：ポスト真実時代における国連の情報発信」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70828010000002,
+          35.662312000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.662312,
+        "lon" : 139.7082801,
+        "name" : "SDGsシンポジウム   SDGs時代の持続可能な地域づくり\uFF5Eパートナーシップ推進に向けて\uFF5E"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7413686000001,
+          35.699452000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.699452000000001,
+        "lon" : 139.74136859999999,
+        "name" : "第41回日本基礎老化学会大会・日韓老化学会合同シンポジウム、第9回東京理科大学総合研究院トランスレーショナルリサーチセンターシンポジウム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7413686000001,
+          35.699452000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.699452000000001,
+        "lon" : 139.74136859999999,
+        "name" : "第61回光波センシング技術研究会講演会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75735310000005,
+          35.668736000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.668736000000003,
+        "lon" : 139.75735309999999,
+        "name" : "水素閣僚会議2018"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77520590000006,
+          35.660785000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.660784999999997,
+        "lon" : 139.7752059,
+        "name" : "第3回日米   LNGワークショップ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74703590000001,
+          35.655262700000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.655262700000002,
+        "lon" : 139.74703589999999,
+        "name" : "シンガポール国際仲裁・調停フォーラム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7481391,
+          35.658962000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.658962000000002,
+        "lon" : 139.7481391,
+        "name" : "第23回アジア・太平洋薬物取締会議（A- DEC23）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7481391,
+          35.658962000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.658962000000002,
+        "lon" : 139.7481391,
+        "name" : "ASEAN設\u2F7450周年記念事業シンポジウム ASEAN50年の挑戦と課題\uFF5EASEAN共同体と経済統合\uFF5E"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7481391,
+          35.658962000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.658962000000002,
+        "lon" : 139.7481391,
+        "name" : "OECD東南アジア地域プログラム\n（SEARP）閣僚会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74527780000005,
+          35.65972220000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.659722199999997,
+        "lon" : 139.7452778,
+        "name" : "ISO/ IEC/ JTC 1/ SC 6 （ミーティング）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7481391,
+          35.658962000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.658962000000002,
+        "lon" : 139.7481391,
+        "name" : "アフリカ開発会議(TICAD)閣僚会合サイドイベント「アフリカのきれいな街プラットフォーム」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7481391,
+          35.658962000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.658962000000002,
+        "lon" : 139.7481391,
+        "name" : "アフリカ開発会議   TICAD閣僚会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7481391,
+          35.658962000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.658962000000002,
+        "lon" : 139.7481391,
+        "name" : "アジア・アフリカ法律諮問委員会\n（AALCO）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74527780000005,
+          35.65972220000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.659722199999997,
+        "lon" : 139.7452778,
+        "name" : "ISO/TC130 総会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72873079999999,
+          35.692700000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.692700000000002,
+        "lon" : 139.72873079999999,
+        "name" : "平成29年度アジア太平洋安全保障ワークショップ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73822870000004,
+          35.688825400000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.688825399999999,
+        "lon" : 139.73822870000001,
+        "name" : "第4回革新的構造材料 先端計測拠点   国際会議/国内連携会議"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "森林減少ゼロに貢献するグローバル・サプライチェーンの推進に関する国際シンポジウム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "第23回アジア・太平洋薬物取締会議（A- DEC23）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "第16回「気候変動に対する更なる行動」に関する非公式会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "Tokyo Fiscal Forum 2018「アジアにおける財政運営手法の強化」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "第33回日・ASEANフォーラム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "第4回東アジア地域包括的経済連携\n（RCEP）中間貿易交渉委員会（TNC）会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "アジア・大洋州における気候変動と脆弱性に関する国際会議"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "国際シンポジウム：エネルギー転換とアジアのエネルギー安全保障"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "ASEM持続可能な連結性／質の高いインフラに関するセミナー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "第47回アジア・太平洋地域後\u2F45補給セミナー（PASOLS47）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73796290000007,
+          35.652103900000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "lat" : 35.6521039,
+        "lon" : 139.73796290000001,
+        "name" : "T20Japan2019キックオフ会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6990737000001,
+          35.656309600000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "lat" : 35.6563096,
+        "lon" : 139.69907370000001,
+        "name" : "第47回国際オーソモレキュラー医学会世界大会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73533440000006,
+          35.627844000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "lat" : 35.627844000000003,
+        "lon" : 139.7353344,
+        "name" : "NPFC（北太平洋漁業委員会）会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73533440000006,
+          35.627844000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "lat" : 35.627844000000003,
+        "lon" : 139.7353344,
+        "name" : "質の高いインフラ投資セミナー（9/12・ 13）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73533440000006,
+          35.627844000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "lat" : 35.627844000000003,
+        "lon" : 139.7353344,
+        "name" : "世界海上保安機関実務者会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7346139,
+          35.631684900000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "lat" : 35.631684900000003,
+        "lon" : 139.7346139,
+        "name" : "第49回国際PCO協会年次総会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7359838000001,
+          35.629861100000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "lat" : 35.629861099999999,
+        "lon" : 139.73598380000001,
+        "name" : "第25回アジア輸出管理セミナー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7359838000001,
+          35.629861100000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "lat" : 35.629861099999999,
+        "lon" : 139.73598380000001,
+        "name" : "第41回日本美容外科学会総会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7346139,
+          35.631684900000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "lat" : 35.631684900000003,
+        "lon" : 139.7346139,
+        "name" : "第21回日本低侵襲脊椎外科学会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74833380000007,
+          35.62700250000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "lat" : 35.627002500000003,
+        "lon" : 139.74833380000001,
+        "name" : "第4回   水産海洋イノベーションコンソーシアム・フォーラム(ICFM-IODP 2018)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.749503,
+          35.666878000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "lat" : 35.666877999999997,
+        "lon" : 139.749503,
+        "name" : "ALPS国際シンポジウム2018－長期大幅排出削減に向けて－"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71964850000006,
+          35.708733400000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "lat" : 35.7087334,
+        "lon" : 139.71964850000001,
+        "name" : "国際ワークショップ「熟練労働人材の移動：日本とその先」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71964850000006,
+          35.708733400000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "lat" : 35.7087334,
+        "lon" : 139.71964850000001,
+        "name" : "第22回国際電気化学会Topical Meeting"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71964850000006,
+          35.708733400000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "lat" : 35.7087334,
+        "lon" : 139.71964850000001,
+        "name" : "日本膜学会第40年会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71964850000006,
+          35.708733400000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "lat" : 35.7087334,
+        "lon" : 139.71964850000001,
+        "name" : "第10回日中学者中国古代史論壇"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71964850000006,
+          35.708733400000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "lat" : 35.7087334,
+        "lon" : 139.71964850000001,
+        "name" : "国境を越えた労働移動におけるスキルに関する課題（カンファレンス）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71599330000004,
+          35.702454200000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "lat" : 35.702454199999998,
+        "lon" : 139.71599330000001,
+        "name" : "第87回日本寄生虫学会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71754620000002,
+          35.704297400000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "lat" : 35.704297400000002,
+        "lon" : 139.71754619999999,
+        "name" : "第7回アジアマイコプラズマ学会(AOM)、第45回日本マイコプラズマ学会(JSM)合同学会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7287199000001,
+          35.680105600000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "lat" : 35.680105599999997,
+        "lon" : 139.72871989999999,
+        "name" : "日中韓サミット"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7287199000001,
+          35.680105600000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "lat" : 35.680105599999997,
+        "lon" : 139.72871989999999,
+        "name" : "第10回日本・メコン地域諸国首脳会議"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75446190000002,
+          35.693697800000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "lat" : 35.693697800000002,
+        "lon" : 139.7544619,
+        "name" : "刑事政策公開講演会   \u2460法遵守の文化とその促進のための諸方策   \u2461刑事司法におけるコングレスの役割とUNODCのエデュ ケーション・フォー・ジャスティスプロ ジェクト"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75446190000002,
+          35.693697800000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "lat" : 35.693697800000002,
+        "lon" : 139.7544619,
+        "name" : "刑事政策公開講演会 法尊守の文化とその促進のための諸方策他"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.767245,
+          35.668156000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "lat" : 35.668156000000003,
+        "lon" : 139.767245,
+        "name" : "シングルセルサイエンスシンポジウム 2018「シングルセル解析技術とヒトの健康」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73718170000006,
+          35.679526700000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "lat" : 35.679526699999997,
+        "lon" : 139.73718170000001,
+        "name" : "第46回日本小児神経外科学会、KSPN- JSPN Joint Conference"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7637532,
+          35.676742900000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "lat" : 35.676742900000001,
+        "lon" : 139.7637532,
+        "name" : "第62回日本リウマチ学会総会・学術集会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7637532,
+          35.676742900000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "lat" : 35.676742900000001,
+        "lon" : 139.7637532,
+        "name" : "第54回日本周産期・新生児医学会 学術集会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7637532,
+          35.676742900000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "lat" : 35.676742900000001,
+        "lon" : 139.7637532,
+        "name" : "NIMS WEEK 2018 NIMS学術シンポジウム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7637532,
+          35.676742900000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "lat" : 35.676742900000001,
+        "lon" : 139.7637532,
+        "name" : "WAARM総会   痛みとウェルエイジング"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7637704,
+          35.681182900000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "lat" : 35.681182900000003,
+        "lon" : 139.7637704,
+        "name" : "国際シンポジウム「フィンテック・サミット2018」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76428950000002,
+          35.679633300000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "lat" : 35.679633299999999,
+        "lon" : 139.76428949999999,
+        "name" : "2018年AI・クラウドコンピュティングデー（カンファレンス）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76257240000007,
+          35.684504700000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "lat" : 35.684504699999998,
+        "lon" : 139.76257240000001,
+        "name" : "ビジネス＆テクノロジー インサイトフォーラム東京2018（2月開催）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7686010000001,
+          35.683583000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "lat" : 35.683582999999999,
+        "lon" : 139.76860099999999,
+        "name" : "第2回日本CKD-MBD研究会 学術集会・総会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7686010000001,
+          35.683583000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "lat" : 35.683582999999999,
+        "lon" : 139.76860099999999,
+        "name" : "第4回CIES技術フォーラム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7686010000001,
+          35.683583000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "lat" : 35.683582999999999,
+        "lon" : 139.76860099999999,
+        "name" : "第44回日本熱傷学会総会・学術集会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76257240000007,
+          35.684504700000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "lat" : 35.684504699999998,
+        "lon" : 139.76257240000001,
+        "name" : "2018 ビジネスとヒューマンライツに関する国際会議 in 東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76134760000002,
+          35.684509000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "lat" : 35.684508999999998,
+        "lon" : 139.76134759999999,
+        "name" : "日・メコンビジネスフォーラム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7721216000001,
+          35.699194300000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "lat" : 35.699194300000002,
+        "lon" : 139.77212159999999,
+        "name" : "CRESTビッグデータ応用国際シンポジウム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76237490000005,
+          35.653006000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "lat" : 35.653005999999998,
+        "lon" : 139.7623749,
+        "name" : "2018年 ICN(国際競争ネットワーク)企業結合ワークショップ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74870250000004,
+          35.671637400000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "lat" : 35.671637400000002,
+        "lon" : 139.74870250000001,
+        "name" : "日本型教育の海外展開パネルディスカッション：タイを事例に"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74870250000004,
+          35.671637400000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "lat" : 35.671637400000002,
+        "lon" : 139.74870250000001,
+        "name" : "NISTEP創立30周年記念国際シンポジウム\n「科学技術イノベーション政策の形成と共に進化する政策研究を目指して」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74972290000005,
+          35.674276800000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "lat" : 35.674276800000001,
+        "lon" : 139.74972289999999,
+        "name" : "サイバーセキュリティに関するARF会期間会合のための第1回専門家会合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74972290000005,
+          35.674276800000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "lat" : 35.674276800000001,
+        "lon" : 139.74972289999999,
+        "name" : "海洋状況把握（MDA)の国際連携に関する ARFワークショップ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74972290000005,
+          35.674276800000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "lat" : 35.674276800000001,
+        "lon" : 139.74972289999999,
+        "name" : "「中央アジア\uFF0B日本」対話・第2回ビジネス対話"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74972290000005,
+          35.674276800000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "lat" : 35.674276800000001,
+        "lon" : 139.74972289999999,
+        "name" : "「中央アジア\uFF0B日本」対話・第11回東京対話"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74972290000005,
+          35.674276800000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "lat" : 35.674276800000001,
+        "lon" : 139.74972289999999,
+        "name" : "国際法模擬裁判「2018年アジア・カップ」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75298950000001,
+          35.67320170000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "lat" : 35.6732017,
+        "lon" : 139.75298950000001,
+        "name" : "日中韓人事行政ネットワーク,第11回三国共催シンポジウム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75298950000001,
+          35.67320170000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "lat" : 35.6732017,
+        "lon" : 139.75298950000001,
+        "name" : "人事院・日本行政学会共催国際講演会「幹部公務員の倫理感の維持・不正防止」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72040960000004,
+          35.697586200000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "lat" : 35.697586200000003,
+        "lon" : 139.72040960000001,
+        "name" : "第33回 日本Shock学会総会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74073290000001,
+          35.676743300000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "lat" : 35.676743299999998,
+        "lon" : 139.74073290000001,
+        "name" : "国際医薬経済・アウトカム研究学会\n（ISPOR）日本部会   2017年特別講演会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74293130000001,
+          35.674371300000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "lat" : 35.674371299999997,
+        "lon" : 139.74293130000001,
+        "name" : "医学生物学電子顕微鏡技術学会第34回学術講演会、第7回国際医学生物学電子顕微鏡シンポジウム"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74231880000002,
+          35.67655840000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "lat" : 35.676558399999998,
+        "lon" : 139.74231879999999,
+        "name" : "ユネスコCSA（文化サテライト勘定）技術諮問委員会運営委員会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74421970000003,
+          35.678466700000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "lat" : 35.678466700000001,
+        "lon" : 139.7442197,
+        "name" : "第12回APLAP会議"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75809660000004,
+          35.692443400000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "lat" : 35.692443400000002,
+        "lon" : 139.75809659999999,
+        "name" : "第23回国際知的インターフェイスコミュニティ国際会議 (ACM IUI 2018)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75809660000004,
+          35.692443400000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "lat" : 35.692443400000002,
+        "lon" : 139.75809659999999,
+        "name" : "量子情報科学の挑戦者に関する国際会議\n（CQIS2018）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7564642000001,
+          35.69443700000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "lat" : 35.694437000000001,
+        "lon" : 139.75646420000001,
+        "name" : "第63回国際東方学者会議"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7564642000001,
+          35.69443700000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "lat" : 35.694437000000001,
+        "lon" : 139.75646420000001,
+        "name" : "第10回日中学者中国古代史論壇"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75809660000004,
+          35.692443400000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "lat" : 35.692443400000002,
+        "lon" : 139.75809659999999,
+        "name" : "第36回日本肥満症治療学会学術集会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75809660000004,
+          35.692443400000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "lat" : 35.692443400000002,
+        "lon" : 139.75809659999999,
+        "name" : "第20回 OECD/Japanセミナー「OECDからみる日本の教育政策」"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75809660000004,
+          35.692443400000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "lat" : 35.692443400000002,
+        "lon" : 139.75809659999999,
+        "name" : "日本デジタル・ヒューマニティーズ学会年次大会"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75809660000004,
+          35.692443400000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "lat" : 35.692443400000002,
+        "lon" : 139.75809659999999,
+        "name" : "The 17th Annual Meeting of the TEI Consortium (TEI 2018)"
+      }
+    }
+  ]
+}

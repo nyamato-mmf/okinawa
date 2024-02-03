@@ -1,0 +1,271 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77401000000009,
+          35.700360000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "name" : "Crest International Symposium on Big Data Application",
+        "lon" : 139.77401,
+        "lat" : 35.700360000000003,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73476000000005,
+          35.630870000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "name" : "脱炭素社会の構築に向けた都市間連携セミナー",
+        "lon" : 139.73475999999999,
+        "lat" : 35.630870000000002,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72210000000007,
+          35.709350000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "name" : "NetSci-X2020東京   -international school and conference on network science-",
+        "lon" : 139.72210000000001,
+        "lat" : 35.709350000000001,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74914000000001,
+          35.669380000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "name" : "「気候変動に伴う移住とその脆弱性」に関する国際セミナー",
+        "lon" : 139.74914000000001,
+        "lat" : 35.669379999999997,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74081000000001,
+          35.668070000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "name" : "グローバル・アピール2020ラウンドテーブル\uFF5E「違う」を当たり前に\uFF5E",
+        "lon" : 139.74081000000001,
+        "lat" : 35.66807,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79487000000006,
+          35.627300000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "name" : "nano tech 2020、nano week 2020第18回ナノテクノロジー総合シンポジウム、第2回 1＆2Dマテリアル国際会議および展示会（1＆2DM）",
+        "lon" : 139.79487,
+        "lat" : 35.627299999999998,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75416000000007,
+          35.675030000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "name" : "刑事政策公開講演会   \u2460クロアチアの犯罪者処遇制度、\u2461元受刑者の受容に向けて－イエロー・リボン・プロジェクト－",
+        "lon" : 139.75416000000001,
+        "lat" : 35.67503,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73641000000009,
+          35.694150000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "name" : "BioMedical Linked Annotation Hackathon 6",
+        "lon" : 139.73641000000001,
+        "lat" : 35.69415,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6943500000001,
+          35.690090000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "name" : "27回アジア輸出管理セミナー",
+        "lon" : 139.69434999999999,
+        "lat" : 35.690089999999998,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72878000000003,
+          35.692690000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "name" : "令和元年度ASEANワークショップ「米中対立とASEAN」",
+        "lon" : 139.72878,
+        "lat" : 35.692689999999999,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73806999999999,
+          35.651870000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "name" : "第25回アジア・太平洋薬物取締会議",
+        "lon" : 139.73806999999999,
+        "lat" : 35.651870000000002,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75012000000004,
+          35.674200000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "name" : "第2回海洋状況把握（MDA)の国際連携に関するARFワークショップ",
+        "lon" : 139.75012000000001,
+        "lat" : 35.674199999999999,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76355000000001,
+          35.688660000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "name" : "公開シンポジウム 激変する中東情勢と日米協力の可能性",
+        "lon" : 139.76355000000001,
+        "lat" : 35.688659999999999,
+        "Field4" : null,
+        "Field5" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74840000000006,
+          35.671610000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "name" : "令和元年度   教育改革国際シンポジウム幼児教育・保育の国際比較－OECD国際幼児教育・保育従事者調査2018の結果から－",
+        "lon" : 139.7484,
+        "lat" : 35.671610000000001,
+        "Field4" : null,
+        "Field5" : null
+      }
+    }
+  ]
+}

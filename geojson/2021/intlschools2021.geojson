@@ -1,0 +1,1076 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73078100000009,
+          35.655439000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "name" : "ABCインターナショナルスクール",
+        "lon" : 139.73078100000001,
+        "lat" : 35.655439000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72659600000009,
+          35.658628000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "name" : "CHATEAU SCHOOL",
+        "lon" : 139.726596,
+        "lat" : 35.658628
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71464400000002,
+          35.659588000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "name" : "Four Leaves International School Tokyo",
+        "lon" : 139.71464399999999,
+        "lat" : 35.659587999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72917600000005,
+          35.648884000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "name" : "Ivy Prep インターナショナルスクール",
+        "lon" : 139.729176,
+        "lat" : 35.648884000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.730726,
+          35.654687000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "name" : "J's インターナショナルスクール",
+        "lon" : 139.730726,
+        "lat" : 35.654687000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72221100000002,
+          35.638805000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "name" : "Kスペース インターナショナル プリスクール アンド キンダーガーテン",
+        "lon" : 139.72221099999999,
+        "lat" : 35.638804999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.736672,
+          35.667730000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "name" : "Mitsui Gardens International Preschool",
+        "lon" : 139.736672,
+        "lat" : 35.667729999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75115700000003,
+          35.654582000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "name" : "Star Kids International Preschool",
+        "lon" : 139.75115700000001,
+        "lat" : 35.654581999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74480200000005,
+          35.655417000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "name" : "Tokyo International Kindercare （麻布）",
+        "lon" : 139.74480199999999,
+        "lat" : 35.655417
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7386590000001,
+          35.647846000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "name" : "アイインターナショナルスクール",
+        "lon" : 139.73865900000001,
+        "lat" : 35.647846000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72251100000005,
+          35.637702000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "name" : "アイラ・インターナショナルスクール",
+        "lon" : 139.722511,
+        "lat" : 35.637701999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73104499999999,
+          35.658156000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "name" : "アメリカンスクールインジャパン　アーリーラーニングセンター",
+        "lon" : 139.73104499999999,
+        "lat" : 35.658155999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73235,
+          35.667771000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "name" : "イートンハウス インターナショナルプリスクール東京",
+        "lon" : 139.73235,
+        "lat" : 35.667771000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72930700000006,
+          35.652415000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "name" : "ウィローブルック インターナショナルスクール",
+        "lon" : 139.72930700000001,
+        "lat" : 35.652414999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73115900000005,
+          35.656103000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "name" : "オハナインターナショナルスクール",
+        "lon" : 139.73115899999999,
+        "lat" : 35.656103000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71580500000005,
+          35.665879000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "name" : "クラレンスインターナショナルスクール",
+        "lon" : 139.71580499999999,
+        "lat" : 35.665878999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.744103,
+          35.651718000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "name" : "ゴーグローバルインターキッズ",
+        "lon" : 139.744103,
+        "lat" : 35.651718000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73079500000006,
+          35.654003000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "name" : "サマーヒルインターナショナルスクール",
+        "lon" : 139.730795,
+        "lat" : 35.654003000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73557300000004,
+          35.64845100000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "name" : "シャトー・デ・バンビーニ・モンテッソーリ・スクール",
+        "lon" : 139.73557299999999,
+        "lat" : 35.648451000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72880700000007,
+          35.657153000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "name" : "チルドレンズハウス　モンテソーリスクール",
+        "lon" : 139.72880699999999,
+        "lat" : 35.657153000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.725549,
+          35.656203000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "name" : "パル インターナショナルスクール",
+        "lon" : 139.725549,
+        "lat" : 35.656202999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73953300000005,
+          35.668796000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "name" : "ムーミン・インターナショナル幼稚園",
+        "lon" : 139.73953299999999,
+        "lat" : 35.668796
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73008200000004,
+          35.651317000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "name" : "モンテソーリスクールオブ東京",
+        "lon" : 139.73008200000001,
+        "lat" : 35.651316999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7275380000001,
+          35.635772000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "name" : "ローラス・インターナショナルスクール・オブ・サイエンス -  白金台",
+        "lon" : 139.72753800000001,
+        "lat" : 35.635772000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73587300000008,
+          35.632528000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "name" : "ローラス・インターナショナルスクール・オブ・サイエンス - 高輪",
+        "lon" : 139.735873,
+        "lat" : 35.632528000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74020600000006,
+          35.646513000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "name" : "ローラス・インターナショナルスクール・オブ・サイエンス  初等部",
+        "lon" : 139.740206,
+        "lat" : 35.646512999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71486600000003,
+          35.659264000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "name" : "ローラス・インターナショナルスクール・オブ・サイエンス - 青山",
+        "lon" : 139.714866,
+        "lat" : 35.659264
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72236600000008,
+          35.652595000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "name" : "広尾キッズワールド",
+        "lon" : 139.72236599999999,
+        "lat" : 35.652594999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74133600000005,
+          35.65943400000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "name" : "在日ロシア大使館付属学校",
+        "lon" : 139.74133599999999,
+        "lat" : 35.659433999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74382200000002,
+          35.659995000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "name" : "聖公会聖オルバン教会　保育園",
+        "lon" : 139.74382199999999,
+        "lat" : 35.659995000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.730593,
+          35.653762000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "name" : "西町インターナショナルスクール",
+        "lon" : 139.730593,
+        "lat" : 35.653762
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7347870000001,
+          35.647290000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "name" : "東京インターナショナルスクール",
+        "lon" : 139.73478700000001,
+        "lat" : 35.647289999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72341600000004,
+          35.637563000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "name" : "葉山インターナショナルスクール 白金校",
+        "lon" : 139.72341599999999,
+        "lat" : 35.637563
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69252900000004,
+          35.660516000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "name" : "Louis Academy.",
+        "lon" : 139.69252900000001,
+        "lat" : 35.660516000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70524,
+          35.648206000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "name" : "エリートオープンスクール",
+        "lon" : 139.70524,
+        "lat" : 35.648206000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71361300000001,
+          35.671790000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "name" : "ジンジャーツリー・インターナショナル・スクール",
+        "lon" : 139.71361300000001,
+        "lat" : 35.671790000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71361100000001,
+          35.64932900000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "name" : "セサミ・インターナショナル・プリスクール",
+        "lon" : 139.71361099999999,
+        "lat" : 35.649329000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71026700000004,
+          35.645621000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "name" : "プライムインターナショナルスクール",
+        "lon" : 139.71026699999999,
+        "lat" : 35.645620999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70328900000004,
+          35.663618000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "name" : "ブリティッシュスクール東京　（渋谷キャンパス）",
+        "lon" : 139.70328900000001,
+        "lat" : 35.663618
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7158720000001,
+          35.644060000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "name" : "ペガサスインターナショナルスクール",
+        "lon" : 139.71587199999999,
+        "lat" : 35.644060000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7146580000001,
+          35.642490000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "name" : "ポピンズアクティブラーニングインターナショナルスクール",
+        "lon" : 139.71465799999999,
+        "lat" : 35.642490000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71129100000007,
+          35.671379000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "name" : "マリアズ・ベビーズ・ソサエティー",
+        "lon" : 139.71129099999999,
+        "lat" : 35.671379000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67658000000006,
+          35.667742000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "name" : "ユーアイ インターナショナル イスラミック スクール",
+        "lon" : 139.67658,
+        "lat" : 35.667741999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68716000000006,
+          35.661768000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "name" : "ユナイテッドスクールオブ東京（UST）",
+        "lon" : 139.68716000000001,
+        "lat" : 35.661768000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70716700000003,
+          35.64885600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "name" : "聖マリアン保育園",
+        "lon" : 139.707167,
+        "lat" : 35.648856000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72000200000002,
+          35.65135900000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "name" : "聖心インターナショナルスクール",
+        "lon" : 139.72000199999999,
+        "lat" : 35.651358999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72000200000002,
+          35.65135900000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "name" : "聖心インターナショナルスクール　（幼稚園）",
+        "lon" : 139.72000199999999,
+        "lat" : 35.651358999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67635000000007,
+          35.670014000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "name" : "代沢インターナショナルスクール　大山キャンパス (メイプル - オーク)",
+        "lon" : 139.67635000000001,
+        "lat" : 35.670014000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73893500000008,
+          35.689327000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "name" : "Phoenix House International school",
+        "lon" : 139.738935,
+        "lat" : 35.689326999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7489700000001,
+          35.69867400000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "name" : "サクラの国　Au Pays des Sakuras",
+        "lon" : 139.74897000000001,
+        "lat" : 35.698673999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7164580000001,
+          35.637947000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "name" : "KAISインターナショナルスクール",
+        "lon" : 139.71645799999999,
+        "lat" : 35.637946999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.733205,
+          35.619666000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "name" : "カナディアン インターナショナル スクール",
+        "lon" : 139.733205,
+        "lat" : 35.619666000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72333600000002,
+          35.629900000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "name" : "東京チルドレンズガーデン",
+        "lon" : 139.72333599999999,
+        "lat" : 35.629899999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74580700000001,
+          35.609453000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "name" : "品川インターナショナルスクール (旧JIES)",
+        "lon" : 139.74580700000001,
+        "lat" : 35.609453000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78183799999999,
+          35.656121000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "name" : "アオバジャパン・バイリンガルプリスクール（晴海キャンパス）",
+        "lon" : 139.78183799999999,
+        "lat" : 35.656120999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.771747,
+          35.669903000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "name" : "サンシャインキッズアカデミー",
+        "lon" : 139.771747,
+        "lat" : 35.669902999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7830570000001,
+          35.689601000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "name" : "フューチャー児童園 日本橋",
+        "lon" : 139.78305700000001,
+        "lat" : 35.689601000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7059680000001,
+          35.709433000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "name" : "アオバジャパン・バイリンガルプリスクール（早稲田キャンパス）",
+        "lon" : 139.70596800000001,
+        "lat" : 35.709432999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74189200000001,
+          35.705484000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "name" : "テゾーロインターナショナルスクール",
+        "lon" : 139.74189200000001,
+        "lat" : 35.705483999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70434900000009,
+          35.704553000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "name" : "東京早稲田インターナショナルクリスチャンスクール",
+        "lon" : 139.70434900000001,
+        "lat" : 35.704552999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.80040500000007,
+          35.682935000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "name" : "K. インターナショナルスクール東京",
+        "lon" : 139.80040500000001,
+        "lat" : 35.682935000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.82373100000007,
+          35.694631000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "name" : "Tokyo Bay International School",
+        "lon" : 139.82373100000001,
+        "lat" : 35.694631000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.81603200000006,
+          35.665882000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "name" : "東京YMCAインターナショナルスクール",
+        "lon" : 139.81603200000001,
+        "lat" : 35.665882000000003
+      }
+    }
+  ]
+}

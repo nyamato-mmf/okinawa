@@ -1,0 +1,3456 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71903000000009,
+          35.621871000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "name" : "五反田TOC 催事会場",
+        "lon" : 139.71903,
+        "lat" : 35.621870999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73589000000004,
+          35.606223000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "name" : "品川区立総合区民会館 きゅりあん",
+        "lon" : 139.73589000000001,
+        "lat" : 35.606223
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75130000000001,
+          35.623452000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "name" : "ザ・クルーズクラブ東京",
+        "lon" : 139.75129999999999,
+        "lat" : 35.623452
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75127000000009,
+          35.624409000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "name" : "第一ホテル東京シーフォート",
+        "lon" : 139.75127000000001,
+        "lat" : 35.624409
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73716000000002,
+          35.621404000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "name" : "東京マリオットホテル",
+        "lon" : 139.73715999999999,
+        "lat" : 35.621403999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76983000000007,
+          35.67797900000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "name" : "トラストシティ カンファレンス・京橋",
+        "lon" : 139.76983000000001,
+        "lat" : 35.677979000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76953000000003,
+          35.677310000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "name" : "TKP Garden City Premium 京橋",
+        "lon" : 139.76953,
+        "lat" : 35.677309999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76838000000009,
+          35.676100000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "name" : "東京コンベンションホール",
+        "lon" : 139.76838000000001,
+        "lat" : 35.676099999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77119000000005,
+          35.671249000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "name" : "銀座ブロッサム 中央会館",
+        "lon" : 139.77118999999999,
+        "lat" : 35.671249000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76755000000003,
+          35.671243000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "name" : "銀座フェニックスプラザ",
+        "lon" : 139.76755,
+        "lat" : 35.671242999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76726000000008,
+          35.668104000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "name" : "時事通信ホール",
+        "lon" : 139.76725999999999,
+        "lat" : 35.668104
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76489000000004,
+          35.668517000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "name" : "コートヤード・マリオット銀座東武ホテル",
+        "lon" : 139.76489000000001,
+        "lat" : 35.668517000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76399000000004,
+          35.664221000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "name" : "ベルサール汐留",
+        "lon" : 139.76399000000001,
+        "lat" : 35.664220999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77958000000001,
+          35.654783000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "name" : "晴海グランドホテル",
+        "lon" : 139.77958000000001,
+        "lat" : 35.654783000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77911000000006,
+          35.652949000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "name" : "ホテルマリナーズコート東京",
+        "lon" : 139.77911,
+        "lat" : 35.652949
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77339000000006,
+          35.646855000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "name" : "晴海客船ターミナル",
+        "lon" : 139.77339000000001,
+        "lat" : 35.646855000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76661000000001,
+          35.664203000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "name" : "浜離宮朝日ホール",
+        "lon" : 139.76660999999999,
+        "lat" : 35.664203000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77328,
+          35.683042000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "name" : "コングレスクエア日本橋",
+        "lon" : 139.77328,
+        "lat" : 35.683042
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77212000000009,
+          35.681379000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "name" : "日本橋プラザ展示ホール・会議室",
+        "lon" : 139.77212,
+        "lat" : 35.681379
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77429000000006,
+          35.681871000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "name" : "ベルサール東京日本橋",
+        "lon" : 139.77429000000001,
+        "lat" : 35.681871000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7869300000001,
+          35.682318000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "name" : "ロイヤルパークホテル",
+        "lon" : 139.78693000000001,
+        "lat" : 35.682318000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77420000000006,
+          35.686706000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "name" : "日本橋三井ホール",
+        "lon" : 139.77420000000001,
+        "lat" : 35.686706000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77394000000004,
+          35.687305000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "name" : "野村コンファレンスプラザ日本橋",
+        "lon" : 139.77394000000001,
+        "lat" : 35.687305000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77298000000008,
+          35.686796000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "name" : "マンダリン オリエンタル 東京",
+        "lon" : 139.77297999999999,
+        "lat" : 35.686796000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77186000000006,
+          35.682848000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "name" : "ベルサール八重洲",
+        "lon" : 139.77186,
+        "lat" : 35.682848
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76852000000008,
+          35.678421000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "name" : "フクラシア　八重洲",
+        "lon" : 139.76852,
+        "lat" : 35.678421
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75614000000007,
+          35.694277000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "name" : "日本教育会館",
+        "lon" : 139.75613999999999,
+        "lat" : 35.694277
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75837000000001,
+          35.692030000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "name" : "如水会館",
+        "lon" : 139.75837000000001,
+        "lat" : 35.692030000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73167000000001,
+          35.685092000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "name" : "スクワール麹町",
+        "lon" : 139.73167000000001,
+        "lat" : 35.685091999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73452000000009,
+          35.683803000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "name" : "弘済会館",
+        "lon" : 139.73452,
+        "lat" : 35.683802999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73169000000007,
+          35.686035000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "name" : "主婦会館プラザエフ",
+        "lon" : 139.73168999999999,
+        "lat" : 35.686034999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76585,
+          35.697202000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "name" : "全電通労働会館",
+        "lon" : 139.76585,
+        "lat" : 35.697201999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77407000000005,
+          35.700306000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "name" : "富士ソフト アキバプラザ",
+        "lon" : 139.77406999999999,
+        "lat" : 35.700305999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75858000000005,
+          35.700048000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "name" : "YMCAアジア青少年センター",
+        "lon" : 139.75857999999999,
+        "lat" : 35.700048000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76686000000007,
+          35.698492000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "name" : "ソラシティカンファレンスセンター",
+        "lon" : 139.76686000000001,
+        "lat" : 35.698492000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76996000000008,
+          35.696884000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "name" : "ステーションコンファレンス万世橋",
+        "lon" : 139.76996,
+        "lat" : 35.696883999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76023000000009,
+          35.693429000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "name" : "TKP Garden City Premium神保町",
+        "lon" : 139.76023000000001,
+        "lat" : 35.693429000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74081000000001,
+          35.676716000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "name" : "星陵会館",
+        "lon" : 139.74081000000001,
+        "lat" : 35.676715999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74098000000004,
+          35.674072000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "name" : "ザ・キャピトルホテル 東急",
+        "lon" : 139.74098000000001,
+        "lat" : 35.674072000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74794000000009,
+          35.671795000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "name" : "霞山会館",
+        "lon" : 139.74794,
+        "lat" : 35.671795000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77021000000002,
+          35.69958100000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "name" : "TKP Garden City Premium秋葉原",
+        "lon" : 139.77020999999999,
+        "lat" : 35.699581000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77083000000005,
+          35.69996400000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "name" : "ベルサール秋葉原",
+        "lon" : 139.77082999999999,
+        "lat" : 35.699964000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77257000000009,
+          35.700325000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "name" : "UDXカンファレンス",
+        "lon" : 139.77257,
+        "lat" : 35.700324999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77257000000009,
+          35.700325000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "name" : "アキバ・スクエア",
+        "lon" : 139.77257,
+        "lat" : 35.700324999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7721600000001,
+          35.699226000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "name" : "秋葉原コンベンションホール",
+        "lon" : 139.77216000000001,
+        "lat" : 35.699226000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76122000000009,
+          35.684500000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "name" : "パレスホテル東京",
+        "lon" : 139.76122000000001,
+        "lat" : 35.6845
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76619000000005,
+          35.681730000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "name" : "東京ステーションホテル",
+        "lon" : 139.76618999999999,
+        "lat" : 35.681730000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76860000000011,
+          35.68373500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "name" : "ステーションコンファレンス東京",
+        "lon" : 139.76859999999999,
+        "lat" : 35.683734999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76972000000001,
+          35.683251000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "name" : "トラストシティ カンファレンス・丸の内",
+        "lon" : 139.76972000000001,
+        "lat" : 35.683250999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76927000000001,
+          35.682423000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "name" : "シャングリ・ラ ホテル 東京",
+        "lon" : 139.76927000000001,
+        "lat" : 35.682423
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7668900000001,
+          35.683957000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "name" : "フクラシア　丸の内オアゾ",
+        "lon" : 139.76688999999999,
+        "lat" : 35.683956999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76478000000009,
+          35.67974600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "name" : "JPタワー ホール&カンファレンス",
+        "lon" : 139.76478,
+        "lat" : 35.679746000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76378,
+          35.680976000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "name" : "丸ビルホール&コンファレンススクエア",
+        "lon" : 139.76378,
+        "lat" : 35.680976000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76361000000009,
+          35.679911000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "name" : "コンファレンススクエア エムプラス",
+        "lon" : 139.76361,
+        "lat" : 35.679910999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76353000000006,
+          35.676751000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "name" : "東京国際フォーラム",
+        "lon" : 139.76353,
+        "lat" : 35.676751000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76125000000002,
+          35.677626000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "name" : "東京會舘",
+        "lon" : 139.76124999999999,
+        "lat" : 35.677625999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73404000000005,
+          35.68091000000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "name" : "ホテルニューオータニ",
+        "lon" : 139.73403999999999,
+        "lat" : 35.680909999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73690000000011,
+          35.679621000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "name" : "東京ガーデンテラス紀尾井町　紀尾井カンファレンス",
+        "lon" : 139.73689999999999,
+        "lat" : 35.679620999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73764000000006,
+          35.691947000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "name" : "アルカディア市ヶ谷(私学会館)",
+        "lon" : 139.73764,
+        "lat" : 35.691946999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76355000000001,
+          35.688663000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "name" : "経団連会館カンファレンス",
+        "lon" : 139.76355000000001,
+        "lat" : 35.688662999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76544000000001,
+          35.687017000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "name" : "大手町サンケイプラザ",
+        "lon" : 139.76544000000001,
+        "lat" : 35.687016999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76052000000004,
+          35.690473000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "name" : "KKRホテル東京",
+        "lon" : 139.76052000000001,
+        "lat" : 35.690472999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76227000000006,
+          35.688767000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "name" : "日経ホール＆カンファレンスルーム",
+        "lon" : 139.76227,
+        "lat" : 35.688766999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76907000000006,
+          35.684409000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "name" : "大手町サンスカイルーム",
+        "lon" : 139.76907,
+        "lat" : 35.684409000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76907000000006,
+          35.684409000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "name" : "フクラシア　東京ステーション",
+        "lon" : 139.76907,
+        "lat" : 35.684409000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76814000000002,
+          35.687083000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "name" : "大手町プレイスカンファレンスセンター",
+        "lon" : 139.76813999999999,
+        "lat" : 35.687083000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75836000000004,
+          35.672274000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "name" : "帝国ホテル東京",
+        "lon" : 139.75836000000001,
+        "lat" : 35.672274000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75254000000007,
+          35.670872000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "name" : "イイノホール&カンファレンスセンター",
+        "lon" : 139.75254000000001,
+        "lat" : 35.670872000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75431000000003,
+          35.670326000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "name" : "日比谷国際ビル コンファレンス スクエア",
+        "lon" : 139.75431,
+        "lat" : 35.670326000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75551000000007,
+          35.671385000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "name" : "日比谷公会堂",
+        "lon" : 139.75550999999999,
+        "lat" : 35.671385000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75445000000002,
+          35.671850000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "name" : "千代田区立日比谷図書文化館 日比谷コンベンションホール",
+        "lon" : 139.75444999999999,
+        "lat" : 35.671849999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74349000000007,
+          35.682923000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "name" : "ホテルグランドアーク半蔵門",
+        "lon" : 139.74349000000001,
+        "lat" : 35.682923000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75013000000001,
+          35.697357000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "name" : "ホテルグランドパレス",
+        "lon" : 139.75013000000001,
+        "lat" : 35.697356999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74993000000006,
+          35.70023800000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "name" : "東京しごとセンター",
+        "lon" : 139.74993000000001,
+        "lat" : 35.700237999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74913000000004,
+          35.700845000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "name" : "ホテルメトロポリタン エドモント",
+        "lon" : 139.74913000000001,
+        "lat" : 35.700845000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73889000000008,
+          35.681145000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "name" : "都市センターホテル",
+        "lon" : 139.73889,
+        "lat" : 35.681145000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74040000000002,
+          35.679508000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "name" : "砂防会館別館(シェーンバッハ・サボー)",
+        "lon" : 139.74039999999999,
+        "lat" : 35.679507999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73963000000003,
+          35.679274000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "name" : "海運クラブ",
+        "lon" : 139.73963000000001,
+        "lat" : 35.679273999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73873000000003,
+          35.681769000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "name" : "ホテル ルポール麹町",
+        "lon" : 139.73873,
+        "lat" : 35.681769000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75310000000002,
+          35.691544000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "name" : "科学技術館",
+        "lon" : 139.75309999999999,
+        "lat" : 35.691544
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74985000000004,
+          35.693380000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "name" : "日本武道館",
+        "lon" : 139.74985000000001,
+        "lat" : 35.693379999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76290000000006,
+          35.675360000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "name" : "よみうりホール",
+        "lon" : 139.7629,
+        "lat" : 35.675359999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76073000000008,
+          35.67454900000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "name" : "ザ・ペニンシュラ東京",
+        "lon" : 139.76073,
+        "lat" : 35.674548999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75918000000001,
+          35.67357700000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "name" : "日比谷三井カンファレンス",
+        "lon" : 139.75917999999999,
+        "lat" : 35.673577000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76433000000009,
+          35.674890000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "name" : "東京交通会館",
+        "lon" : 139.76433,
+        "lat" : 35.674889999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76273000000003,
+          35.67361800000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "name" : "有楽町朝日ホール",
+        "lon" : 139.76273,
+        "lat" : 35.673617999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73641000000009,
+          35.694147000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "name" : "ルーテル市ケ谷センター",
+        "lon" : 139.73641000000001,
+        "lat" : 35.694147000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69082000000003,
+          35.685317000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "name" : "パークハイアット東京",
+        "lon" : 139.69082,
+        "lat" : 35.685316999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71809000000007,
+          35.674476000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "name" : "明治神宮野球場",
+        "lon" : 139.71808999999999,
+        "lat" : 35.674475999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71541999999999,
+          35.67418500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "name" : "日本青年館ホール",
+        "lon" : 139.71541999999999,
+        "lat" : 35.674185000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71541999999999,
+          35.67418500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "name" : "日本青年館ホテル",
+        "lon" : 139.71541999999999,
+        "lat" : 35.674185000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72259000000008,
+          35.710269000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "name" : "リーガロイヤルホテル東京",
+        "lon" : 139.72259,
+        "lat" : 35.710268999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73314000000005,
+          35.691950000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "name" : "ホテル グランドヒル市ヶ谷",
+        "lon" : 139.73313999999999,
+        "lat" : 35.691949999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70936000000006,
+          35.695374000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "name" : "新宿文化センター",
+        "lon" : 139.70936,
+        "lat" : 35.695374000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69742000000008,
+          35.692281000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "name" : "新宿エルタワーサンスカイルーム",
+        "lon" : 139.69741999999999,
+        "lat" : 35.692281000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69532000000004,
+          35.692968000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "name" : "野村コンファレンスプラザ新宿",
+        "lon" : 139.69532000000001,
+        "lat" : 35.692968
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6934500000001,
+          35.688089000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "name" : "新宿NSビル",
+        "lon" : 139.69345000000001,
+        "lat" : 35.688088999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69236000000001,
+          35.691213000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "name" : "新宿住友ホール・スカイルーム",
+        "lon" : 139.69236000000001,
+        "lat" : 35.691212999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6943500000001,
+          35.690087000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "name" : "京王プラザホテル",
+        "lon" : 139.69434999999999,
+        "lat" : 35.690086999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69126000000006,
+          35.69092100000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "name" : "ハイアットリージェンシー東京",
+        "lon" : 139.69126,
+        "lat" : 35.690921000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69084000000009,
+          35.685427000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "name" : "パークタワーホール",
+        "lon" : 139.69084000000001,
+        "lat" : 35.685426999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69305000000008,
+          35.686809000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "name" : "新宿ワシントンホテル",
+        "lon" : 139.69305,
+        "lat" : 35.686808999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69121000000007,
+          35.692724000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "name" : "ヒルトン東京",
+        "lon" : 139.69121000000001,
+        "lat" : 35.692723999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6888100000001,
+          35.692882000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "name" : "ベルサール新宿セントラルパーク",
+        "lon" : 139.68880999999999,
+        "lat" : 35.692881999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69104000000004,
+          35.696320000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "name" : "ベルサール新宿グランド",
+        "lon" : 139.69103999999999,
+        "lat" : 35.69632
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70315000000005,
+          35.707867000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "name" : "ベルサール高田馬場",
+        "lon" : 139.70314999999999,
+        "lat" : 35.707867
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70398,
+          35.664435000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "name" : "TRUNK(HOTEL)",
+        "lon" : 139.70398,
+        "lat" : 35.664434999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69851000000006,
+          35.664101000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "name" : "渋谷公会堂",
+        "lon" : 139.69851,
+        "lat" : 35.664101000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69933000000003,
+          35.656358000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "name" : "セルリアンタワー東急ホテル",
+        "lon" : 139.69933,
+        "lat" : 35.656357999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70344,
+          35.661332000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "name" : "TKP渋谷カンファレンスセンター",
+        "lon" : 139.70344,
+        "lat" : 35.661332000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70460000000003,
+          35.660186000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "name" : "渋谷サンスカイルーム",
+        "lon" : 139.7046,
+        "lat" : 35.660186000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70353,
+          35.65905500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "name" : "ヒカリエホール・カンファレンス",
+        "lon" : 139.70353,
+        "lat" : 35.659055000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7097500000001,
+          35.659029000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "name" : "アイビーホール(青学会館)",
+        "lon" : 139.70975000000001,
+        "lat" : 35.659028999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70839000000001,
+          35.662474000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "name" : "国連大学本部ビル",
+        "lon" : 139.70839000000001,
+        "lat" : 35.662474000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70776000000001,
+          35.663064000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "name" : "東京ウィメンズプラザ",
+        "lon" : 139.70776000000001,
+        "lat" : 35.663063999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7001600000001,
+          35.66764100000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "name" : "国立代々木競技場 第一体育館",
+        "lon" : 139.70016000000001,
+        "lat" : 35.667641000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7001600000001,
+          35.66764100000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "name" : "国立代々木競技場 第二体育館",
+        "lon" : 139.70016000000001,
+        "lat" : 35.667641000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71249,
+          35.679775000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "name" : "東京体育館",
+        "lon" : 139.71249,
+        "lat" : 35.679774999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70505000000003,
+          35.681062000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "name" : "SYDホール",
+        "lon" : 139.70505,
+        "lat" : 35.681061999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69734000000005,
+          35.687015000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "name" : "全労済ホール/スペース・ゼロ",
+        "lon" : 139.69734,
+        "lat" : 35.687015000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69887000000006,
+          35.687093000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "name" : "ホテルサンルートプラザ新宿",
+        "lon" : 139.69887,
+        "lat" : 35.687092999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69239000000005,
+          35.684657000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "name" : "あいおいニッセイ同和損保新宿ビル 新宿ホール・会議室",
+        "lon" : 139.69238999999999,
+        "lat" : 35.684657000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69964000000004,
+          35.65859800000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "name" : "渋谷エクセルホテル東急",
+        "lon" : 139.69963999999999,
+        "lat" : 35.658597999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69707000000005,
+          35.658190000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "name" : "フォーラム・エイト",
+        "lon" : 139.69707,
+        "lat" : 35.658189999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74171000000001,
+          35.625340000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "name" : "品川インターシティホール",
+        "lon" : 139.74171000000001,
+        "lat" : 35.625340000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73595,
+          35.629789000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "name" : "TKPガーデンシティ品川",
+        "lon" : 139.73595,
+        "lat" : 35.629789000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75560000000007,
+          35.656293000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "name" : "浜松町コンベンションホール",
+        "lon" : 139.75559999999999,
+        "lat" : 35.656292999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76382000000001,
+          35.655797000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "name" : "ニューピアホール",
+        "lon" : 139.76382000000001,
+        "lat" : 35.655797
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76241000000005,
+          35.653707000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "name" : "ニューピア竹芝 サウスタワー",
+        "lon" : 139.76240999999999,
+        "lat" : 35.653706999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76237000000003,
+          35.653100000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "name" : "ホテル インターコンチネンタル 東京ベイ",
+        "lon" : 139.76237,
+        "lat" : 35.653100000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76301000000001,
+          35.656297000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "name" : "シーサイドホテル芝弥生会館",
+        "lon" : 139.76301000000001,
+        "lat" : 35.656297000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76325000000008,
+          35.655276000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "name" : "ホテル アジュール竹芝",
+        "lon" : 139.76325,
+        "lat" : 35.655276000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7604,
+          35.650572000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "name" : "シンフォニークルーズ",
+        "lon" : 139.7604,
+        "lat" : 35.650571999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72216000000003,
+          35.678099000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "name" : "明治記念館",
+        "lon" : 139.72216,
+        "lat" : 35.678099000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74939000000006,
+          35.666883000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "name" : "アンダーズ 東京",
+        "lon" : 139.74939000000001,
+        "lat" : 35.666882999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74938000000009,
+          35.666888000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "name" : "虎ノ門ヒルズフォーラム",
+        "lon" : 139.74938,
+        "lat" : 35.666888
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74617000000001,
+          35.66802000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "name" : "ニッショーホール(日本消防会館)",
+        "lon" : 139.74617000000001,
+        "lat" : 35.668019999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74547000000007,
+          35.667050000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "name" : "ホテルオークラ東京",
+        "lon" : 139.74547000000001,
+        "lat" : 35.667050000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74125000000004,
+          35.630008000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "name" : "東京コンファレンスセンター・品川",
+        "lon" : 139.74125000000001,
+        "lat" : 35.630007999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74331000000006,
+          35.630190000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "name" : "コクヨホール",
+        "lon" : 139.74331000000001,
+        "lat" : 35.630189999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74561000000006,
+          35.631353000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "name" : "フクラシア　品川クリスタルスクエア",
+        "lon" : 139.74561,
+        "lat" : 35.631352999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74206000000004,
+          35.62615100000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "name" : "品川インターシティ 貸会議室",
+        "lon" : 139.74206000000001,
+        "lat" : 35.626151
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74056000000007,
+          35.626638000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "name" : "ザ・グランドホール",
+        "lon" : 139.74055999999999,
+        "lat" : 35.626638
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74075000000005,
+          35.627788000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "name" : "ストリングスホテル東京インターコンチネンタル",
+        "lon" : 139.74074999999999,
+        "lat" : 35.627788000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73353000000009,
+          35.629979000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "name" : "グランドプリンスホテル新高輪",
+        "lon" : 139.73353,
+        "lat" : 35.629978999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73353000000009,
+          35.629979000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "name" : "グランドプリンスホテル高輪",
+        "lon" : 139.73353,
+        "lat" : 35.629978999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73353000000009,
+          35.629979000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "name" : "ザ・プリンス さくらタワー東京",
+        "lon" : 139.73353,
+        "lat" : 35.629978999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7354600000001,
+          35.628047000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "name" : "エプソン アクアパーク品川",
+        "lon" : 139.73545999999999,
+        "lat" : 35.628047000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7354600000001,
+          35.628047000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "name" : "品川プリンスホテル",
+        "lon" : 139.73545999999999,
+        "lat" : 35.628047000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74285000000009,
+          35.642562000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "name" : "笹川記念館",
+        "lon" : 139.74285,
+        "lat" : 35.642561999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75110000000006,
+          35.652730000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "name" : "東京グランドホテル",
+        "lon" : 139.75110000000001,
+        "lat" : 35.652729999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74947000000009,
+          35.649051000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "name" : "三田NNホール",
+        "lon" : 139.74947,
+        "lat" : 35.649051
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74626000000001,
+          35.647528000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "name" : "建築会館ホール",
+        "lon" : 139.74626000000001,
+        "lat" : 35.647528000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74920000000009,
+          35.641793000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "name" : "ホテルJALシティ田町・東京",
+        "lon" : 139.7492,
+        "lat" : 35.641793
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75192000000004,
+          35.658772000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "name" : "芝パークホテル",
+        "lon" : 139.75192000000001,
+        "lat" : 35.658771999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75139000000001,
+          35.655246000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "name" : "メルパルク東京",
+        "lon" : 139.75138999999999,
+        "lat" : 35.655245999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74808000000007,
+          35.659005000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "name" : "東京プリンスホテル",
+        "lon" : 139.74807999999999,
+        "lat" : 35.659005000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7470800000001,
+          35.655344000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "name" : "ザ・プリンスパークタワー東京",
+        "lon" : 139.74708000000001,
+        "lat" : 35.655343999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75546000000008,
+          35.668908000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "name" : "航空会館",
+        "lon" : 139.75546,
+        "lat" : 35.668908000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75737000000004,
+          35.668704000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "name" : "第一ホテル東京",
+        "lon" : 139.75737000000001,
+        "lat" : 35.668703999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74081000000001,
+          35.668070000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "name" : "ANAインターコンチネンタルホテル東京",
+        "lon" : 139.74081000000001,
+        "lat" : 35.66807
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74261000000001,
+          35.669819000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "name" : "赤坂インターシティコンファレンス",
+        "lon" : 139.74261000000001,
+        "lat" : 35.669818999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73718000000008,
+          35.672218000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "name" : "TKP赤坂駅カンファレンスセンター",
+        "lon" : 139.73718,
+        "lat" : 35.672218000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72932000000003,
+          35.674092000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "name" : "草月ホール",
+        "lon" : 139.72932,
+        "lat" : 35.674092000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73128000000008,
+          35.66518700000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "name" : "東京ミッドタウン ホール& カンファレンス",
+        "lon" : 139.73128,
+        "lat" : 35.665187000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73129000000006,
+          35.666120000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "name" : "ザ・リッツ・カールトン東京",
+        "lon" : 139.73129,
+        "lat" : 35.666119999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77083000000005,
+          35.626314000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "name" : "ヒルトン東京お台場",
+        "lon" : 139.77082999999999,
+        "lat" : 35.626314000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77785000000006,
+          35.628644000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "name" : "台場フロンティアビル",
+        "lon" : 139.77785,
+        "lat" : 35.628644000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77156000000002,
+          35.625058000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "name" : "グランドニッコー東京 台場",
+        "lon" : 139.77155999999999,
+        "lat" : 35.625058000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76041000000009,
+          35.666056000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "name" : "ヤクルトホール",
+        "lon" : 139.76041000000001,
+        "lat" : 35.666055999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76131000000009,
+          35.663042000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "name" : "コンラッド東京",
+        "lon" : 139.76131000000001,
+        "lat" : 35.663041999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76062000000002,
+          35.664336000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "name" : "ロイヤルパークホテル　ザ　汐留",
+        "lon" : 139.76061999999999,
+        "lat" : 35.664335999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7296,
+          35.637079000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "name" : "八芳園",
+        "lon" : 139.7296,
+        "lat" : 35.637079
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73026000000004,
+          35.639319000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "name" : "シェラトン都ホテル東京",
+        "lon" : 139.73025999999999,
+        "lat" : 35.639319
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75626,
+          35.655229000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "name" : "WTC コンファレンスセンター",
+        "lon" : 139.75626,
+        "lat" : 35.655228999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71696000000009,
+          35.672995000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "name" : "TEPIA(TEPIA館)",
+        "lon" : 139.71696,
+        "lat" : 35.672995
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74088000000006,
+          35.664672000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "name" : "泉ガーデンギャラリー",
+        "lon" : 139.74088,
+        "lat" : 35.664672000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73952000000008,
+          35.664600000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "name" : "泉ガーデンコンファレンスセンター",
+        "lon" : 139.73952,
+        "lat" : 35.6646
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74096000000009,
+          35.66346400000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "name" : "ラフォーレミュージアム六本木",
+        "lon" : 139.74096,
+        "lat" : 35.663463999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7334800000001,
+          35.658590000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "name" : "国際文化会館",
+        "lon" : 139.73347999999999,
+        "lat" : 35.658589999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72923000000003,
+          35.660448000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "name" : "六本木アカデミーヒルズ",
+        "lon" : 139.72923,
+        "lat" : 35.660448000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72847000000002,
+          35.659743000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "name" : "グランド ハイアット 東京",
+        "lon" : 139.72846999999999,
+        "lat" : 35.659742999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72923000000003,
+          35.660448000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "name" : "東京シティビュー",
+        "lon" : 139.72923,
+        "lat" : 35.660448000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78502000000003,
+          35.629842000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "name" : "東京ファッションタウン(TFT)ビル",
+        "lon" : 139.78502,
+        "lat" : 35.629841999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79397000000006,
+          35.638019000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "name" : "東京ガーデンシアター",
+        "lon" : 139.79397,
+        "lat" : 35.638019
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.80810000000008,
+          35.679724000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "name" : "東京都現代美術館",
+        "lon" : 139.8081,
+        "lat" : 35.679724
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.81947000000002,
+          35.688456000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "name" : "ティアラこうとう(江東公会堂)",
+        "lon" : 139.81947,
+        "lat" : 35.688456000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.82653000000005,
+          35.644151000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "name" : "木材会館",
+        "lon" : 139.82652999999999,
+        "lat" : 35.644151000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79759000000001,
+          35.680989000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "name" : "清澄庭園",
+        "lon" : 139.79759000000001,
+        "lat" : 35.680988999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78225000000009,
+          35.625965000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "name" : "Zepp東京",
+        "lon" : 139.78225,
+        "lat" : 35.625965000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77672000000007,
+          35.619290000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "name" : "日本科学未来館",
+        "lon" : 139.77672000000001,
+        "lat" : 35.619289999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77610000000004,
+          35.620784000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "name" : "東京国際交流館 プラザ平成",
+        "lon" : 139.77610000000001,
+        "lat" : 35.620784
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77692999999999,
+          35.617582000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "name" : "タイム24ビル",
+        "lon" : 139.77692999999999,
+        "lat" : 35.617581999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77970000000005,
+          35.617087000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "name" : "テレコムセンタービル",
+        "lon" : 139.77969999999999,
+        "lat" : 35.617086999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77839000000006,
+          35.617648000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "name" : "青海フロンティアビル",
+        "lon" : 139.77839,
+        "lat" : 35.617648000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.81456000000003,
+          35.674523000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "name" : "ホテルイースト21東京",
+        "lon" : 139.81456,
+        "lat" : 35.674523000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78669000000002,
+          35.63551300000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "name" : "有明コロシアム",
+        "lon" : 139.78668999999999,
+        "lat" : 35.635513000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78669000000002,
+          35.63551300000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "name" : "有明コロシアム",
+        "lon" : 139.78668999999999,
+        "lat" : 35.635513000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79449,
+          35.629626000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "name" : "東京ビッグサイト(東京国際展示場)",
+        "lon" : 139.79449,
+        "lat" : 35.629626000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7884600000001,
+          35.63250000000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "name" : "TOC 有明 コンベンションホール",
+        "lon" : 139.78845999999999,
+        "lat" : 35.6325
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79367999999999,
+          35.632063000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "name" : "東京コンファレンスセンター・有明",
+        "lon" : 139.79367999999999,
+        "lat" : 35.632063000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79295999999999,
+          35.632645000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "name" : "東京ベイ有明ワシントンホテル",
+        "lon" : 139.79295999999999,
+        "lat" : 35.632644999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78950000000009,
+          35.632167000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "name" : "ホテルサンルート有明",
+        "lon" : 139.7895,
+        "lat" : 35.632167000000003
+      }
+    }
+  ]
+}

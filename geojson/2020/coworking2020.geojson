@@ -1,0 +1,5887 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73099430000002,
+          35.663842400000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "name" : "クロスオフィス六本木注目物件",
+        "lon" : 139.73099429999999,
+        "lat" : 35.6638424
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73107790000006,
+          35.663084800000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "name" : "SENQ 六本木",
+        "lon" : 139.7310779,
+        "lat" : 35.6630848
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73019650000003,
+          35.661798800000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "name" : "エグゼクティブセンター 六本木ヒルズノースタワー",
+        "lon" : 139.73019650000001,
+        "lat" : 35.6617988
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72898800000007,
+          35.660663600000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "name" : "PARK6 powered by bondolfi boncaffē 六本木",
+        "lon" : 139.72898799999999,
+        "lat" : 35.660663599999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72884670000008,
+          35.660486400000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "name" : "六本木ヒルズライブラリー",
+        "lon" : 139.72884669999999,
+        "lat" : 35.660486400000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73612350000008,
+          35.664840500000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "name" : "六本木ビジネスセンター",
+        "lon" : 139.73612349999999,
+        "lat" : 35.664840499999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7389574,
+          35.667448000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "name" : "Katana 六本木オフィス",
+        "lon" : 139.7389574,
+        "lat" : 35.667448
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7367289,
+          35.65475100000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "name" : "BIRTH 麻布十番",
+        "lon" : 139.7367289,
+        "lat" : 35.654750999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73368400000004,
+          35.656873000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "name" : "AZABU HILLSIDE",
+        "lon" : 139.73368400000001,
+        "lat" : 35.656872999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71385140000007,
+          35.667335800000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "name" : "PORTAL POINT AOYAMA",
+        "lon" : 139.71385140000001,
+        "lat" : 35.667335799999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71782570000005,
+          35.671034800000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "name" : "青山アラマンダワークコート",
+        "lon" : 139.71782569999999,
+        "lat" : 35.671034800000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75645840000004,
+          35.65435460000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "name" : "リブポート 浜松町",
+        "lon" : 139.75645840000001,
+        "lat" : 35.654354599999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75521030000004,
+          35.65766700000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "name" : "プレミアムオフィス浜松町",
+        "lon" : 139.75521029999999,
+        "lat" : 35.657666999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72072110000011,
+          35.635127700000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "name" : "クリエイターズパイプライン",
+        "lon" : 139.72072109999999,
+        "lat" : 35.635127699999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72484880000002,
+          35.649251200000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "name" : "GLAMOROUS H 麻布広尾",
+        "lon" : 139.72484879999999,
+        "lat" : 35.649251200000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72423030000004,
+          35.647155700000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "name" : "PLAZA M's 南麻布",
+        "lon" : 139.72423029999999,
+        "lat" : 35.647155699999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7116645000001,
+          35.662197000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "name" : "クリエイター向けコワーキングスペース「PROP」",
+        "lon" : 139.71166450000001,
+        "lat" : 35.662196999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71823280000001,
+          35.664177500000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "name" : "NAGAYA AOYAMA",
+        "lon" : 139.71823280000001,
+        "lat" : 35.664177500000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71579780000002,
+          35.667739800000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "name" : "CREATIVE BASE avex EYE",
+        "lon" : 139.71579779999999,
+        "lat" : 35.6677398
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71513240000002,
+          35.66742540000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "name" : "コワーキングスペース「THE HUB 南青山」",
+        "lon" : 139.71513239999999,
+        "lat" : 35.667425399999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71654599999999,
+          35.668492400000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "name" : "スタイル南青山",
+        "lon" : 139.71654599999999,
+        "lat" : 35.668492399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71332010000003,
+          35.665630500000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "name" : "みどり荘 表参道",
+        "lon" : 139.7133201,
+        "lat" : 35.665630499999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71597860000008,
+          35.666292200000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "name" : "女性のためのコワーキングスペース「SHEworks」",
+        "lon" : 139.7159786,
+        "lat" : 35.666292200000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72387810000009,
+          35.671346100000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "name" : "女性専用シェアオフィス 『ショコラ』",
+        "lon" : 139.72387810000001,
+        "lat" : 35.671346100000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7210778000001,
+          35.669812400000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "name" : "FARO青山",
+        "lon" : 139.72107779999999,
+        "lat" : 35.669812399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74359440000001,
+          35.657651200000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "name" : "01 Garage",
+        "lon" : 139.74359440000001,
+        "lat" : 35.657651199999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75681750000001,
+          35.661597900000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "name" : "BIZMARKS 新橋汐留",
+        "lon" : 139.75681750000001,
+        "lat" : 35.661597899999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7562236,
+          35.661189800000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "name" : "Katana 汐留オフィス",
+        "lon" : 139.7562236,
+        "lat" : 35.661189800000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73569440000006,
+          35.676033700000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "name" : "赤坂コークス",
+        "lon" : 139.7356944,
+        "lat" : 35.676033699999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73212169999999,
+          35.668048100000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "name" : "ninetytwo13",
+        "lon" : 139.73212169999999,
+        "lat" : 35.6680481
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7329304000001,
+          35.675609600000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "name" : "キッズルーム併設のコワーキングスペース「Hatch Cowork+KIDs」",
+        "lon" : 139.73293039999999,
+        "lat" : 35.675609600000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73728100000005,
+          35.67491670000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "name" : "セルオフィス赤坂",
+        "lon" : 139.737281,
+        "lat" : 35.674916699999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73566600000004,
+          35.676685200000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "name" : "匠ソホラ赤坂",
+        "lon" : 139.73566600000001,
+        "lat" : 35.676685200000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73652260000006,
+          35.677445600000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "name" : "コワーキングスペース『THE HUB 赤坂見附』",
+        "lon" : 139.7365226,
+        "lat" : 35.677445599999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73635860000002,
+          35.676045500000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "name" : "Root Office 赤坂",
+        "lon" : 139.73635859999999,
+        "lat" : 35.676045500000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74165330000005,
+          35.670835500000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "name" : "co-ba 赤坂",
+        "lon" : 139.7416533,
+        "lat" : 35.670835500000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73827890000007,
+          35.670977500000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "name" : "BIZMARKS 赤坂",
+        "lon" : 139.73827890000001,
+        "lat" : 35.670977499999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72725690000004,
+          35.658227500000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "name" : "KAKUREGA",
+        "lon" : 139.72725689999999,
+        "lat" : 35.658227500000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72563080000009,
+          35.660877000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "name" : "VXL 六本木",
+        "lon" : 139.7256308,
+        "lat" : 35.660876999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75249600000006,
+          35.667384000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "name" : "THE HUB 新橋west",
+        "lon" : 139.75249600000001,
+        "lat" : 35.667383999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75336700000003,
+          35.667805600000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "name" : "クロスオフィス内幸町注目物件",
+        "lon" : 139.753367,
+        "lat" : 35.667805600000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75386900000001,
+          35.667529000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "name" : "TeaTree Studio 新橋",
+        "lon" : 139.75386900000001,
+        "lat" : 35.667529000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75268100000005,
+          35.669564300000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "name" : "MY BASIC OFFICE 虎ノ門",
+        "lon" : 139.752681,
+        "lat" : 35.669564299999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7526901,
+          35.669548400000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "name" : "HAKADORU 虎ノ門店",
+        "lon" : 139.7526901,
+        "lat" : 35.669548399999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75185280000005,
+          35.66906460000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "name" : "BIRTH 虎ノ門",
+        "lon" : 139.75185279999999,
+        "lat" : 35.669064599999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75245060000009,
+          35.662026900000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "name" : "KIZASU@Office 新橋",
+        "lon" : 139.7524506,
+        "lat" : 35.662026900000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75738150000006,
+          35.666281800000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "name" : "ニュー新橋コワーキング",
+        "lon" : 139.75738150000001,
+        "lat" : 35.6662818
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75963750000005,
+          35.666737800000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "name" : "コワーキングスペース『BasisPoint 新橋』",
+        "lon" : 139.7596375,
+        "lat" : 35.6667378
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75953770000001,
+          35.666213500000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "name" : "ビステーション新橋",
+        "lon" : 139.75953770000001,
+        "lat" : 35.666213499999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75738150000006,
+          35.666281800000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "name" : "KEY STATION OFFICE 新橋",
+        "lon" : 139.75738150000001,
+        "lat" : 35.6662818
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75962340000001,
+          35.666300700000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "name" : "フィルポート",
+        "lon" : 139.75962340000001,
+        "lat" : 35.666300700000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75528530000008,
+          35.668687800000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "name" : "THE CODE 新橋",
+        "lon" : 139.7552853,
+        "lat" : 35.668687800000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75728170000002,
+          35.668089200000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "name" : "NewWork 新橋",
+        "lon" : 139.75728169999999,
+        "lat" : 35.668089199999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75416910000001,
+          35.657729600000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "name" : "いいオフィス浜松町 by wedo",
+        "lon" : 139.75416910000001,
+        "lat" : 35.657729600000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7482586000001,
+          35.642120700000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "name" : "勉強カフェ 田町スタジオ",
+        "lon" : 139.74825860000001,
+        "lat" : 35.6421207
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75324120000005,
+          35.646258700000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "name" : "co-ba Re-SOHKO 田町",
+        "lon" : 139.75324119999999,
+        "lat" : 35.646258699999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75298950000001,
+          35.646654500000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "name" : "コワーキングスペース MORINAGA Village【森永ヴィレッジ】",
+        "lon" : 139.75298950000001,
+        "lat" : 35.646654499999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75348860000008,
+          35.648128300000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "name" : "田町ビジネスセンター",
+        "lon" : 139.7534886,
+        "lat" : 35.648128300000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74467200000004,
+          35.646150800000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "name" : "クロスオフィス三田注目物件",
+        "lon" : 139.74467200000001,
+        "lat" : 35.646150800000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74689000000001,
+          35.646950000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "name" : "TSUTAYA田町駅前店",
+        "lon" : 139.74689000000001,
+        "lat" : 35.646949999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74569700000006,
+          35.648599200000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "name" : "BIZcomfort 田町",
+        "lon" : 139.74569700000001,
+        "lat" : 35.6485992
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74297330000002,
+          35.646447900000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "name" : "THE OFFICE 田町三田",
+        "lon" : 139.74297329999999,
+        "lat" : 35.646447899999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73702150000008,
+          35.630636100000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "name" : "ジュークシナガワ",
+        "lon" : 139.7370215,
+        "lat" : 35.630636099999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73825890000001,
+          35.635473800000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "name" : "品川ビジネスセンター",
+        "lon" : 139.73825890000001,
+        "lat" : 35.6354738
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7389075000001,
+          35.635599400000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "name" : "ivyCafe NEIGHBOR&WORK 高輪",
+        "lon" : 139.73890750000001,
+        "lat" : 35.635599399999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73933060000002,
+          35.640039800000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "name" : "STOCK 品川",
+        "lon" : 139.73933059999999,
+        "lat" : 35.640039799999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7327289000001,
+          35.637155900000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "name" : "つなぐラボ高輪",
+        "lon" : 139.73272890000001,
+        "lat" : 35.637155900000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74077360000001,
+          35.627763000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "name" : "NewWork 品川",
+        "lon" : 139.74077360000001,
+        "lat" : 35.627763000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74418330000003,
+          35.630377100000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "name" : "リブポート 品川",
+        "lon" : 139.7441833,
+        "lat" : 35.630377099999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74124190000009,
+          35.630036000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "name" : "EXPERT OFFICE 品川",
+        "lon" : 139.74124190000001,
+        "lat" : 35.630035999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74576350000007,
+          35.66338090000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "name" : "コンパスオフィス 虎ノ門40MTビル注目物件",
+        "lon" : 139.74576350000001,
+        "lat" : 35.6633809
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74474550000002,
+          35.66227310000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "name" : "シェアル虎ノ門",
+        "lon" : 139.74474549999999,
+        "lat" : 35.6622731
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74308890000009,
+          35.664639700000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "name" : "コワーキングスペース「docks」 虎ノ門",
+        "lon" : 139.7430889,
+        "lat" : 35.664639700000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75043400000004,
+          35.670297000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "name" : "新虎ノ門実業会館",
+        "lon" : 139.75043400000001,
+        "lat" : 35.670296999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72849500000007,
+          35.658196600000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "name" : "BLINK 六本木",
+        "lon" : 139.72849500000001,
+        "lat" : 35.658196599999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7325429,
+          35.688085000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "name" : "四ツ谷ビジネスラウンジ（六番町オフィス）",
+        "lon" : 139.7325429,
+        "lat" : 35.688085000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73370870000008,
+          35.686590100000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "name" : "シェアオフィス六番町",
+        "lon" : 139.73370869999999,
+        "lat" : 35.686590099999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7643442000001,
+          35.674945300000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "name" : "LEAGUE有楽町",
+        "lon" : 139.76434420000001,
+        "lat" : 35.674945299999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76433080000004,
+          35.67489020000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "name" : "goodoffice 東京有楽町",
+        "lon" : 139.76433080000001,
+        "lat" : 35.6748902
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76066450000008,
+          35.673903300000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "name" : "Vision Works 有楽町",
+        "lon" : 139.76066449999999,
+        "lat" : 35.673903299999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76209320000009,
+          35.675560400000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "name" : "PORTAL POINT YURAKUCHO",
+        "lon" : 139.76209320000001,
+        "lat" : 35.675560400000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7396050000001,
+          35.679827000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "name" : "みどり荘 永田町",
+        "lon" : 139.73960500000001,
+        "lat" : 35.679827000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73974610000005,
+          35.682862500000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "name" : "BIZMARKS 麹町",
+        "lon" : 139.73974609999999,
+        "lat" : 35.682862499999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74638230000005,
+          35.701123900000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "name" : "ジェネラボ 飯田橋",
+        "lon" : 139.74638229999999,
+        "lat" : 35.701123899999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.746624,
+          35.700366600000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "name" : "勉強カフェ 飯田橋スタジオ",
+        "lon" : 139.746624,
+        "lat" : 35.700366600000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74826840000003,
+          35.702719400000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "name" : "NewWork 飯田橋",
+        "lon" : 139.7482684,
+        "lat" : 35.702719399999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73672180000005,
+          35.685047800000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "name" : "コワーキングスペース「THE HUB 麹町」",
+        "lon" : 139.7367218,
+        "lat" : 35.6850478
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73812750000002,
+          35.686966400000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "name" : "社会起業家コワーキングスペース",
+        "lon" : 139.73812749999999,
+        "lat" : 35.686966400000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76713770000003,
+          35.689767400000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "name" : "SPACE BRiDD 大手町",
+        "lon" : 139.76713770000001,
+        "lat" : 35.689767400000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76562910000007,
+          35.692179300000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "name" : "the C",
+        "lon" : 139.76562910000001,
+        "lat" : 35.692179299999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75267010000005,
+          35.670921400000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "name" : "クロスオフィス日比谷注目物件",
+        "lon" : 139.75267009999999,
+        "lat" : 35.670921399999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75602400000002,
+          35.669827000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "name" : "EXPERT OFFICE GRAND新橋／内幸町",
+        "lon" : 139.756024,
+        "lat" : 35.669826999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7826970000001,
+          35.694989500000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "name" : "クロックカフェ",
+        "lon" : 139.78269700000001,
+        "lat" : 35.694989499999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77154050000001,
+          35.691342300000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "name" : "ビジョンオフィス神田",
+        "lon" : 139.77154049999999,
+        "lat" : 35.691342300000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77176530000008,
+          35.692274000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "name" : "ビジョンオフィス神田ＡＮＮＥＸ",
+        "lon" : 139.7717653,
+        "lat" : 35.692273999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77157,
+          35.692903200000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "name" : "KANDA LOUNGE",
+        "lon" : 139.77157,
+        "lat" : 35.692903200000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7689160000001,
+          35.694504000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "name" : "ソフトオフィス神田",
+        "lon" : 139.76891599999999,
+        "lat" : 35.694504000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76954670000009,
+          35.692978000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "name" : "Connect-Lounge神田",
+        "lon" : 139.76954670000001,
+        "lat" : 35.692977999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77181740000003,
+          35.696549800000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "name" : "コワーキングスペース 秋葉原 Weeyble",
+        "lon" : 139.7718174,
+        "lat" : 35.6965498
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77069710000001,
+          35.695207100000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "name" : "アクセア 神田店",
+        "lon" : 139.77069710000001,
+        "lat" : 35.695207099999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76773620000006,
+          35.695243000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "name" : "プレミアムオフィス神田",
+        "lon" : 139.7677362,
+        "lat" : 35.695242999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7544868,
+          35.695374800000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "name" : "BIZcomfort 神保町",
+        "lon" : 139.7544868,
+        "lat" : 35.695374800000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75755530000004,
+          35.695748500000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "name" : "LEAGUE神保町",
+        "lon" : 139.75755530000001,
+        "lat" : 35.695748500000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75689910000006,
+          35.696576400000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "name" : "EDITORY 神保町",
+        "lon" : 139.7568991,
+        "lat" : 35.696576399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7572421000001,
+          35.696249800000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "name" : "東京レンタル自習室 神保町",
+        "lon" : 139.75724210000001,
+        "lat" : 35.696249799999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75983710000003,
+          35.696193700000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "name" : "コワーキングスペース『BasisPoint 神保町』",
+        "lon" : 139.7598371,
+        "lat" : 35.696193700000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76500300000009,
+          35.693990700000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "name" : "シェアオフィスKOTO-BA",
+        "lon" : 139.76500300000001,
+        "lat" : 35.693990700000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76628120000009,
+          35.695202600000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "name" : "イノバゼスト 神田",
+        "lon" : 139.76628120000001,
+        "lat" : 35.695202600000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76573710000002,
+          35.695053800000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "name" : "THE OFFICE 神田",
+        "lon" : 139.7657371,
+        "lat" : 35.695053799999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7672788000001,
+          35.694190300000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "name" : "ワイムビジネスプラザ神田",
+        "lon" : 139.76727880000001,
+        "lat" : 35.694190300000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75300950000008,
+          35.699121200000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "name" : "シェアオフィスMIXER 神保町・水道橋",
+        "lon" : 139.75300949999999,
+        "lat" : 35.6991212
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75370200000009,
+          35.701010300000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "name" : "東京レンタル自習室 水道橋",
+        "lon" : 139.753702,
+        "lat" : 35.7010103
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75327430000004,
+          35.701386900000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "name" : "BIZcomfort 水道橋",
+        "lon" : 139.75327429999999,
+        "lat" : 35.701386900000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75598100000002,
+          35.700831400000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "name" : "Be Smart 水道橋",
+        "lon" : 139.75598099999999,
+        "lat" : 35.700831399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77437400000008,
+          35.697792000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "name" : "秋葉原コワーキングスペース「Rampart」",
+        "lon" : 139.77437399999999,
+        "lat" : 35.697792
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77804800000001,
+          35.697074400000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "name" : "アイラボ・シェアオフィス 秋葉原",
+        "lon" : 139.77804800000001,
+        "lat" : 35.697074399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76373510000008,
+          35.69381750000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "name" : "FUSION_N",
+        "lon" : 139.76373509999999,
+        "lat" : 35.693817500000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76383040000007,
+          35.691143100000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "name" : "BIRTH 神田",
+        "lon" : 139.76383039999999,
+        "lat" : 35.691143099999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7361830000001,
+          35.684626000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "name" : "未来ファクトリー",
+        "lon" : 139.73618300000001,
+        "lat" : 35.684626000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74044260000005,
+          35.685070300000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "name" : "EXPERT OFFICE 麹町",
+        "lon" : 139.74044259999999,
+        "lat" : 35.6850703
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74093920000007,
+          35.684511200000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "name" : "CーWORK 半蔵門",
+        "lon" : 139.74093920000001,
+        "lat" : 35.684511200000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74424860000011,
+          35.693398800000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "name" : "HIVE TOKYO",
+        "lon" : 139.74424859999999,
+        "lat" : 35.693398799999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7517610000001,
+          35.695082400000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "name" : "ナレッジソサエティ",
+        "lon" : 139.75176099999999,
+        "lat" : 35.695082399999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7379363,
+          35.679992600000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "name" : "オープンコラボレーションスペース「LODGE」永田町",
+        "lon" : 139.7379363,
+        "lat" : 35.679992599999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77710910000008,
+          35.696390500000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "name" : "BIZcomfort 秋葉原岩本町",
+        "lon" : 139.77710909999999,
+        "lat" : 35.6963905
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77801140000008,
+          35.696127600000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "name" : "GARAGE 秋葉原",
+        "lon" : 139.7780114,
+        "lat" : 35.696127599999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77635050000004,
+          35.69171330000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "name" : "シェアル岩本町",
+        "lon" : 139.77635050000001,
+        "lat" : 35.691713300000004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77519870000003,
+          35.691604400000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "name" : "神田ビジネスセンター",
+        "lon" : 139.7751987,
+        "lat" : 35.691604400000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76640600000007,
+          35.684176400000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "name" : "エグゼクティブセンター 新丸の内センタービル",
+        "lon" : 139.76640599999999,
+        "lat" : 35.684176399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77135850000002,
+          35.703263000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "name" : "勉強カフェ 秋葉原スタジオ",
+        "lon" : 139.77135849999999,
+        "lat" : 35.703263
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7724343000001,
+          35.702155300000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "name" : "1/3rd Life（ワンサードライフ）注目物件",
+        "lon" : 139.77243429999999,
+        "lat" : 35.702155300000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77037420000011,
+          35.697757100000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "name" : "パセラリゾーツAKIBAマルチエンターテインメント",
+        "lon" : 139.77037419999999,
+        "lat" : 35.697757099999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77267449999999,
+          35.69727830000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "name" : "プログラマー自習室&コワーキングスペース『ギークライブラリー』",
+        "lon" : 139.77267449999999,
+        "lat" : 35.697278300000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77162700000008,
+          35.698988700000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "name" : "カラオケパセラ 秋葉原電気街店",
+        "lon" : 139.771627,
+        "lat" : 35.698988700000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75059410000006,
+          35.670806300000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "name" : "SENQ 霞が関",
+        "lon" : 139.7505941,
+        "lat" : 35.670806300000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7387179000001,
+          35.674811900000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "name" : "NewWork 赤坂見附",
+        "lon" : 139.73871790000001,
+        "lat" : 35.674811900000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74069380000003,
+          35.67314790000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "name" : "エグゼクティブセンター 山王パークタワー",
+        "lon" : 139.7406938,
+        "lat" : 35.673147899999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74002100000007,
+          35.686839000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "name" : "パズル一番町",
+        "lon" : 139.74002100000001,
+        "lat" : 35.686838999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7418540000001,
+          35.687589100000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "name" : "一番町インキュベーションセンター",
+        "lon" : 139.74185399999999,
+        "lat" : 35.687589099999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77743030000011,
+          35.674334500000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "name" : "FROM ONE SPORTS BASE",
+        "lon" : 139.77743029999999,
+        "lat" : 35.674334500000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7770653,
+          35.677377700000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "name" : "アットビジネスセンター東京駅八重洲通り",
+        "lon" : 139.7770653,
+        "lat" : 35.677377700000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76848260000008,
+          35.678408600000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "name" : "NewWork 東京八重洲",
+        "lon" : 139.7684826,
+        "lat" : 35.678408599999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76930130000005,
+          35.678252400000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "name" : "ウィズスクエア八重洲店",
+        "lon" : 139.7693013,
+        "lat" : 35.678252399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76894190000007,
+          35.678144200000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "name" : "NewWork 東京八重洲2nd",
+        "lon" : 139.76894189999999,
+        "lat" : 35.678144199999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76796350000006,
+          35.676586200000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "name" : "DIAGONAL RUN TOKYO",
+        "lon" : 139.76796350000001,
+        "lat" : 35.676586200000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77133810000009,
+          35.681759100000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "name" : "HUB cafe",
+        "lon" : 139.77133810000001,
+        "lat" : 35.681759100000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77131940000004,
+          35.681776900000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "name" : "東京VIPラウンジ",
+        "lon" : 139.77131940000001,
+        "lat" : 35.681776900000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76983700000005,
+          35.680826000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "name" : "ビジネストランスファー 八重洲",
+        "lon" : 139.769837,
+        "lat" : 35.680826000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77119830000004,
+          35.682366700000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "name" : "#NAME?",
+        "lon" : 139.77119830000001,
+        "lat" : 35.682366700000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77708940000002,
+          35.673445000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "name" : "はぐみっく子連れコワーキングスペース",
+        "lon" : 139.77708939999999,
+        "lat" : 35.673445000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78306100000009,
+          35.688017100000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "name" : "BIZcomfort 日本橋人形町",
+        "lon" : 139.783061,
+        "lat" : 35.688017100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7840473,
+          35.679110500000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "name" : "箱崎インキュベーションセンター",
+        "lon" : 139.7840473,
+        "lat" : 35.6791105
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7805323,
+          35.690478300000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "name" : "コワーキングスペース「Community Dimension」",
+        "lon" : 139.7805323,
+        "lat" : 35.690478300000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78104380000002,
+          35.690921700000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "name" : "日本橋ビジネスセンター・ノースポイント",
+        "lon" : 139.78104379999999,
+        "lat" : 35.690921699999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7814793,
+          35.686900200000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "name" : "グリーンオフィス人形町",
+        "lon" : 139.7814793,
+        "lat" : 35.686900199999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78087440000002,
+          35.685136100000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "name" : "ShareOffice assets 日本橋",
+        "lon" : 139.78087439999999,
+        "lat" : 35.685136100000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78112370000008,
+          35.68259530000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "name" : "flat5",
+        "lon" : 139.78112369999999,
+        "lat" : 35.682595300000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78125470000009,
+          35.68276190000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "name" : "BIZcomfort 日本橋小網町",
+        "lon" : 139.78125470000001,
+        "lat" : 35.682761900000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78048850000005,
+          35.682105800000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "name" : "BIZMARKS 日本橋茅場町",
+        "lon" : 139.78048849999999,
+        "lat" : 35.682105800000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77444810000009,
+          35.685827900000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "name" : "Cross Transit 日本橋",
+        "lon" : 139.7744481,
+        "lat" : 35.6858279
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77934620000008,
+          35.680609600000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "name" : "CAFE SALVADOR BUSINESS SALON",
+        "lon" : 139.77934619999999,
+        "lat" : 35.680609599999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78060440000002,
+          35.678512700000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "name" : "勉強カフェ 日本橋茅場町スタジオ",
+        "lon" : 139.78060439999999,
+        "lat" : 35.678512699999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77569149999999,
+          35.678912000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "name" : "日本橋ビジネスセンター",
+        "lon" : 139.77569149999999,
+        "lat" : 35.678911999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78300110000009,
+          35.682845200000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "name" : "いいオフィス 日本橋 by FUKUMITOYA",
+        "lon" : 139.78300110000001,
+        "lat" : 35.682845200000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78405480000004,
+          35.68157460000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "name" : "ソーシャルビジネスラボ",
+        "lon" : 139.78405480000001,
+        "lat" : 35.681574599999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7820021,
+          35.683738100000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "name" : "日本橋第2ビジネスセンター",
+        "lon" : 139.7820021,
+        "lat" : 35.683738099999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7714509000001,
+          35.680422900000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "name" : "ウィズスクエア日本橋店",
+        "lon" : 139.77145089999999,
+        "lat" : 35.680422900000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77134190000004,
+          35.680419400000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "name" : "東京アントレサロン",
+        "lon" : 139.77134190000001,
+        "lat" : 35.680419399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77259620000007,
+          35.682604100000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "name" : "EXPERT OFFICE 東京",
+        "lon" : 139.77259620000001,
+        "lat" : 35.682604099999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77513340000007,
+          35.681438100000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "name" : "NewWork 日本橋",
+        "lon" : 139.77513339999999,
+        "lat" : 35.681438100000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77461560000006,
+          35.682524900000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "name" : "WASEDA NEO",
+        "lon" : 139.7746156,
+        "lat" : 35.682524899999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77537200000006,
+          35.682658300000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "name" : "シェアル",
+        "lon" : 139.775372,
+        "lat" : 35.6826583
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76864240000009,
+          35.667710300000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "name" : "銀座アントレサロン3号店 東劇ビル",
+        "lon" : 139.7686424,
+        "lat" : 35.667710300000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7699004000001,
+          35.666904900000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "name" : "銀座アントレサロン5号店 築地ファーストビル",
+        "lon" : 139.76990040000001,
+        "lat" : 35.666904899999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77363460000004,
+          35.66795280000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "name" : "DMZ WORK 築地",
+        "lon" : 139.77363460000001,
+        "lat" : 35.667952800000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77061920000006,
+          35.669525000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "name" : "TIMBER's DESK 銀座",
+        "lon" : 139.7706192,
+        "lat" : 35.669525
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78215790000002,
+          35.673447700000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "name" : "BIZcomfort 日本橋新川",
+        "lon" : 139.78215789999999,
+        "lat" : 35.673447699999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78204240000002,
+          35.678478900000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "name" : "女性専用の会員制コワーキングスペース「Bright One」",
+        "lon" : 139.78204239999999,
+        "lat" : 35.678478900000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78105230000006,
+          35.677173500000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "name" : "日本橋茅場町ビジネスセンター",
+        "lon" : 139.7810523,
+        "lat" : 35.677173500000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78208230000007,
+          35.678638400000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "name" : "コワーキングスペース 茅場町 Co-Edo®",
+        "lon" : 139.78208230000001,
+        "lat" : 35.678638399999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7841595000001,
+          35.676743800000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "name" : "Future Tech Hub",
+        "lon" : 139.78415949999999,
+        "lat" : 35.676743799999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76466890000006,
+          35.667965400000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "name" : "銀座アントレサロン1号店 NREG銀座ビル",
+        "lon" : 139.7646689,
+        "lat" : 35.6679654
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76454910000007,
+          35.667881500000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "name" : "銀座アントレサロン2号店 サガミビル",
+        "lon" : 139.76454910000001,
+        "lat" : 35.6678815
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7648908000001,
+          35.669292900000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "name" : "Addroom-Ginza-",
+        "lon" : 139.76489079999999,
+        "lat" : 35.669292900000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76144470000008,
+          35.671012900000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "name" : "コワーク大内",
+        "lon" : 139.7614447,
+        "lat" : 35.671012900000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7651962000001,
+          35.669275700000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "name" : "おしごとパセラ 銀座店",
+        "lon" : 139.76519619999999,
+        "lat" : 35.6692757
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.765266,
+          35.668438000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "name" : "THE OFFICE 銀座",
+        "lon" : 139.765266,
+        "lat" : 35.668438000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76426950000007,
+          35.668773900000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "name" : "銀座アントレサロン4号店 旭ビル",
+        "lon" : 139.76426950000001,
+        "lat" : 35.668773899999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76513420000003,
+          35.669055400000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "name" : "いいオフィス 銀座 by MeRISE",
+        "lon" : 139.76513420000001,
+        "lat" : 35.669055399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76564730000007,
+          35.667980800000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "name" : "ベンチャーデスク銀座",
+        "lon" : 139.76564730000001,
+        "lat" : 35.667980800000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76355080000008,
+          35.670889400000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "name" : "bizcube 銀座",
+        "lon" : 139.76355079999999,
+        "lat" : 35.6708894
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76700500000004,
+          35.670031800000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "name" : "リロワークス 東銀座",
+        "lon" : 139.76700500000001,
+        "lat" : 35.670031799999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76917900000001,
+          35.669922000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "name" : "銀座ビジネスセンター",
+        "lon" : 139.76917900000001,
+        "lat" : 35.669922
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76917160000005,
+          35.671195400000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "name" : "LEAGUE銀座",
+        "lon" : 139.76917159999999,
+        "lat" : 35.671195400000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76867500000003,
+          35.674336100000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "name" : "BINARYSTAR 銀座",
+        "lon" : 139.768675,
+        "lat" : 35.674336099999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76980900000001,
+          35.674116000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "name" : "ヒューリック銀座一丁目ビル",
+        "lon" : 139.76980900000001,
+        "lat" : 35.674115999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76810320000004,
+          35.675619900000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "name" : "コワーキングスペース『THE HUB 有楽町EAST』",
+        "lon" : 139.76810320000001,
+        "lat" : 35.675619900000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76949080000009,
+          35.677368600000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "name" : "SENQ 京橋",
+        "lon" : 139.7694908,
+        "lat" : 35.677368600000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73073530000011,
+          35.701978800000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "name" : "神楽坂クロススタジオ",
+        "lon" : 139.73073529999999,
+        "lat" : 35.701978799999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.99999999999994316,
+          -0.99999999999994316
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "name" : "Froh Coworking 四ツ谷",
+        "lon" : -1,
+        "lat" : -1
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73142380000002,
+          35.704809500000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "name" : "BIZcomfort 神楽坂天神",
+        "lon" : 139.73142379999999,
+        "lat" : 35.704809500000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7382427,
+          35.701263800000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "name" : "FARO神楽坂",
+        "lon" : 139.7382427,
+        "lat" : 35.7012638
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7224523000001,
+          35.708188600000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "name" : "GARAGE 早稲田",
+        "lon" : 139.72245229999999,
+        "lat" : 35.7081886
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72263400000008,
+          35.705501200000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "name" : "BIZcomfort 早稲田",
+        "lon" : 139.722634,
+        "lat" : 35.7055012
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69391600000006,
+          35.695158000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "name" : "西新宿ビジネスセンター",
+        "lon" : 139.693916,
+        "lat" : 35.695157999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69899280000004,
+          35.694720600000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "name" : "クロスオフィス新宿注目物件",
+        "lon" : 139.69899280000001,
+        "lat" : 35.694720599999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69687220000003,
+          35.695806400000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "name" : "勉強カフェ 新宿ベースポイントスタジオ",
+        "lon" : 139.6968722,
+        "lat" : 35.695806400000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69523100000004,
+          35.695027000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "name" : "BASE POINT",
+        "lon" : 139.69523100000001,
+        "lat" : 35.695027000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69871520000004,
+          35.695287300000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "name" : "知恵の場オフィス 本館",
+        "lon" : 139.69871520000001,
+        "lat" : 35.695287299999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6985962,
+          35.696005600000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "name" : "HAPON 西新宿",
+        "lon" : 139.6985962,
+        "lat" : 35.696005599999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6985363,
+          35.696142900000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "name" : "知恵の場オフィス 別館",
+        "lon" : 139.6985363,
+        "lat" : 35.696142899999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69314220000001,
+          35.693131600000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "name" : "モバフ新宿アイランド",
+        "lon" : 139.69314220000001,
+        "lat" : 35.693131600000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6933196,
+          35.686921100000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "name" : "コワーキングスペース『THE HUB 新宿ワシントン』",
+        "lon" : 139.6933196,
+        "lat" : 35.686921099999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69714020000004,
+          35.689990400000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "name" : "新宿VIPラウンジ",
+        "lon" : 139.69714020000001,
+        "lat" : 35.689990399999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69969710000009,
+          35.68857150000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "name" : "12 SHINJUKU",
+        "lon" : 139.69969710000001,
+        "lat" : 35.688571500000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6983967000001,
+          35.689294500000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "name" : "NewWork 新宿",
+        "lon" : 139.69839669999999,
+        "lat" : 35.689294500000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69859050000002,
+          35.688808800000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "name" : "ビジョンオフィス新宿",
+        "lon" : 139.69859049999999,
+        "lat" : 35.688808799999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6954187,
+          35.691750200000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "name" : "#NAME?",
+        "lon" : 139.6954187,
+        "lat" : 35.691750200000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73733090000007,
+          35.702896500000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "name" : "BOOK&OFFICE 文悠",
+        "lon" : 139.73733089999999,
+        "lat" : 35.702896500000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74154780000003,
+          35.701233100000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "name" : "TOKI CAFE",
+        "lon" : 139.74154780000001,
+        "lat" : 35.701233100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7073474,
+          35.693697200000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "name" : "INBOUND LEAGUE",
+        "lon" : 139.7073474,
+        "lat" : 35.693697200000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70362240000009,
+          35.688634200000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "name" : "コワーキングスペース「THE HUB 新宿」",
+        "lon" : 139.7036224,
+        "lat" : 35.688634200000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70234520000008,
+          35.69178560000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "name" : "TSUTAYA BOOK APARTMENT",
+        "lon" : 139.7023452,
+        "lat" : 35.691785600000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70537760000002,
+          35.690199700000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "name" : "HAKADORU 新宿三丁目店",
+        "lon" : 139.70537759999999,
+        "lat" : 35.690199700000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7073269,
+          35.690418700000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "name" : "CO-Work&...新宿",
+        "lon" : 139.7073269,
+        "lat" : 35.690418700000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70801110000002,
+          35.69062340000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "name" : "新宿アントレサロン",
+        "lon" : 139.70801109999999,
+        "lat" : 35.6906234
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71056700000008,
+          35.690833000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "name" : "新宿ビジネスセンター",
+        "lon" : 139.710567,
+        "lat" : 35.690832999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72034130000009,
+          35.689166000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "name" : "ワイムポート新宿舟町",
+        "lon" : 139.7203413,
+        "lat" : 35.689166
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7348892,
+          35.692329700000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "name" : "海外ビジネス特化型コワーキングスペース「Digima 〜出島〜BASE」市ヶ谷",
+        "lon" : 139.7348892,
+        "lat" : 35.692329700000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71924220000005,
+          35.68761290000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "name" : "ワイムビジネスプラザ四谷",
+        "lon" : 139.7192422,
+        "lat" : 35.687612899999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72802560000002,
+          35.684985700000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "name" : "lifework space KANPAI H・te",
+        "lon" : 139.7280256,
+        "lat" : 35.684985699999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7282639,
+          35.68601010000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "name" : "フレンドリンクメンバーズオフィス",
+        "lon" : 139.7282639,
+        "lat" : 35.686010099999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7055021000001,
+          35.712847000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "name" : "おとな自習室 高田馬場",
+        "lon" : 139.70550209999999,
+        "lat" : 35.712846999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7047189000001,
+          35.712099900000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "name" : "シェアオフィス＆コワーキングスペース「CASE Shinjuku」",
+        "lon" : 139.70471889999999,
+        "lat" : 35.712099899999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70374150000009,
+          35.710858300000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "name" : "新宿区立高田馬場創業支援センター",
+        "lon" : 139.70374150000001,
+        "lat" : 35.710858299999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70455980000008,
+          35.693079300000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "name" : "東信ビジネスセンター",
+        "lon" : 139.7045598,
+        "lat" : 35.693079300000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6895075000001,
+          35.669023100000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "name" : "MAKERS COFFEE",
+        "lon" : 139.68950749999999,
+        "lat" : 35.669023099999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69757980000009,
+          35.657862700000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "name" : "Coin Space 渋谷マークシティ店 by 渋谷区観光協会",
+        "lon" : 139.6975798,
+        "lat" : 35.657862700000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69757980000009,
+          35.657862700000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "name" : "Coin Space 渋谷マークシティ2号店",
+        "lon" : 139.6975798,
+        "lat" : 35.657862700000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69771860000003,
+          35.657294200000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "name" : "Printworks Studio Shibuya",
+        "lon" : 139.6977186,
+        "lat" : 35.657294200000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69837680000001,
+          35.655604400000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "name" : "「StartUp４４田寮」渋谷",
+        "lon" : 139.69837680000001,
+        "lat" : 35.655604400000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69937490000007,
+          35.656351000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "name" : "エグゼクティブセンター 渋谷セルリアンタワー",
+        "lon" : 139.69937490000001,
+        "lat" : 35.656351000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7014392000001,
+          35.654377400000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "name" : "ブロックチェーンに特化したコワーキングスペース『Neutrino』",
+        "lon" : 139.70143920000001,
+        "lat" : 35.654377400000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70404310000004,
+          35.647000300000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "name" : "co-ba 恵比寿",
+        "lon" : 139.70404310000001,
+        "lat" : 35.647000300000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70894820000001,
+          35.647764600000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "name" : "E-コワーキング",
+        "lon" : 139.70894820000001,
+        "lat" : 35.647764600000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72119300000008,
+          35.645076500000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 246,
+        "name" : "ベンチャーシティ恵比寿",
+        "lon" : 139.721193,
+        "lat" : 35.645076500000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69899510000005,
+          35.662540000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 247,
+        "name" : "la billage SHIBUYA注目物件",
+        "lon" : 139.69899509999999,
+        "lat" : 35.66254
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69747930000005,
+          35.661787700000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 248,
+        "name" : "Agora Tokyo コワーキング スペース",
+        "lon" : 139.6974793,
+        "lat" : 35.661787699999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69901710000011,
+          35.663131300000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 249,
+        "name" : "勉強カフェ 渋谷スタジオ",
+        "lon" : 139.69901709999999,
+        "lat" : 35.663131300000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69574420000004,
+          35.682260400000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 250,
+        "name" : "Creators Mall 代々木",
+        "lon" : 139.69574420000001,
+        "lat" : 35.682260399999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69574420000004,
+          35.682260400000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 251,
+        "name" : "Business Mall 代々木",
+        "lon" : 139.69574420000001,
+        "lat" : 35.682260399999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69574420000004,
+          35.682260400000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 252,
+        "name" : "Business Lounge 代々木",
+        "lon" : 139.69574420000001,
+        "lat" : 35.682260399999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69759800000008,
+          35.687146000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 253,
+        "name" : "おとな自習室 新宿",
+        "lon" : 139.697598,
+        "lat" : 35.687145999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69855030000008,
+          35.683702400000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 254,
+        "name" : "YCS 代々木",
+        "lon" : 139.69855029999999,
+        "lat" : 35.683702400000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69674140000006,
+          35.686855000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 255,
+        "name" : "勉強カフェ 新宿スタジオ",
+        "lon" : 139.69674140000001,
+        "lat" : 35.686855000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69912470000008,
+          35.682534400000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 256,
+        "name" : "BIZcomfort 代々木",
+        "lon" : 139.6991247,
+        "lat" : 35.682534400000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6998926,
+          35.682027400000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 257,
+        "name" : "コワーキングスペース「spAce4510」",
+        "lon" : 139.6998926,
+        "lat" : 35.682027400000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69526190000011,
+          35.656738700000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 258,
+        "name" : "渋谷アントレサロン",
+        "lon" : 139.69526189999999,
+        "lat" : 35.656738699999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71237260000009,
+          35.648896600000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 259,
+        "name" : "恵比寿ビジネスセンター",
+        "lon" : 139.71237260000001,
+        "lat" : 35.6488966
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70814790000009,
+          35.657528200000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 260,
+        "name" : "タマリバ",
+        "lon" : 139.7081479,
+        "lat" : 35.657528200000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68522440000004,
+          35.674498400000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 261,
+        "name" : "BathHaus",
+        "lon" : 139.68522440000001,
+        "lat" : 35.674498399999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69656540000005,
+          35.658662500000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 262,
+        "name" : "KOBUSHI BEER LOUNGE & BAR",
+        "lon" : 139.6965654,
+        "lat" : 35.658662499999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6954849,
+          35.656038300000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 263,
+        "name" : "FabCafe MTRL 渋谷",
+        "lon" : 139.6954849,
+        "lat" : 35.656038299999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70470190000003,
+          35.651694100000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 264,
+        "name" : "クリエイター専用シェアオフィス『co-lab 代官山』",
+        "lon" : 139.7047019,
+        "lat" : 35.6516941
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70205950000002,
+          35.648498300000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 265,
+        "name" : "TENOHA 代官山",
+        "lon" : 139.70205949999999,
+        "lat" : 35.6484983
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70437590000006,
+          35.650214800000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 266,
+        "name" : "いいオフィス 代官山 by N'sLounge",
+        "lon" : 139.7043759,
+        "lat" : 35.650214800000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70686260000002,
+          35.680935500000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 267,
+        "name" : "AURORA GARDEN",
+        "lon" : 139.70686259999999,
+        "lat" : 35.680935499999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7083897,
+          35.677661500000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 268,
+        "name" : "ジーエルベース・コワーキングスペース 千駄ヶ谷",
+        "lon" : 139.7083897,
+        "lat" : 35.677661499999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7069699000001,
+          35.676462900000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 269,
+        "name" : "マフィス北参道",
+        "lon" : 139.70696989999999,
+        "lat" : 35.676462899999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71190060000004,
+          35.677171400000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 270,
+        "name" : "THE FORUM 千駄ヶ谷",
+        "lon" : 139.71190060000001,
+        "lat" : 35.677171399999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70045100000004,
+          35.66317870000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 271,
+        "name" : "Creative House",
+        "lon" : 139.70045099999999,
+        "lat" : 35.663178700000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70047780000004,
+          35.661586700000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 272,
+        "name" : "Coin Space 渋谷モディ店",
+        "lon" : 139.70047779999999,
+        "lat" : 35.661586700000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7001166,
+          35.661911800000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 273,
+        "name" : "co-ba 神南",
+        "lon" : 139.7001166,
+        "lat" : 35.661911799999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69963390000009,
+          35.662215300000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 274,
+        "name" : ".andwork 渋谷",
+        "lon" : 139.69963390000001,
+        "lat" : 35.6622153
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69942790000005,
+          35.662499800000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 275,
+        "name" : "Coin Space 渋谷神南店",
+        "lon" : 139.69942789999999,
+        "lat" : 35.662499799999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7005408,
+          35.662578300000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 276,
+        "name" : "RESONANCE POINT 渋谷",
+        "lon" : 139.7005408,
+        "lat" : 35.6625783
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69404540000005,
+          35.655129100000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 277,
+        "name" : "basement cafe 神泉",
+        "lon" : 139.69404539999999,
+        "lat" : 35.655129100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70553720000009,
+          35.66810810000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 278,
+        "name" : "Biz Platto",
+        "lon" : 139.70553720000001,
+        "lat" : 35.668108099999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7041011,
+          35.66810490000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 279,
+        "name" : "ファッション系コワーキングスペース『coromoza』神宮前",
+        "lon" : 139.7041011,
+        "lat" : 35.668104900000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7041514,
+          35.668169900000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 280,
+        "name" : "TURN harajuku",
+        "lon" : 139.7041514,
+        "lat" : 35.668169900000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70241559999999,
+          35.663403100000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 281,
+        "name" : "ShareOffice BIGness 渋谷",
+        "lon" : 139.70241559999999,
+        "lat" : 35.663403099999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70330320000005,
+          35.665274600000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 282,
+        "name" : "モバフ原宿",
+        "lon" : 139.70330319999999,
+        "lat" : 35.665274599999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70487900000001,
+          35.667359600000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 283,
+        "name" : "サクラサク（女性専用）",
+        "lon" : 139.70487900000001,
+        "lat" : 35.667359599999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70787490000009,
+          35.669207300000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 284,
+        "name" : "ドロップイン原宿",
+        "lon" : 139.70787490000001,
+        "lat" : 35.669207299999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7084509,
+          35.67181510000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 285,
+        "name" : "THE SHARE 神宮前",
+        "lon" : 139.7084509,
+        "lat" : 35.671815100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70890310000004,
+          35.670086500000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 286,
+        "name" : "MARIA HOUSE",
+        "lon" : 139.70890309999999,
+        "lat" : 35.670086499999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70984070000009,
+          35.67285540000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 287,
+        "name" : "kurkku home 神宮前",
+        "lon" : 139.7098407,
+        "lat" : 35.672855400000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70669410000005,
+          35.670688200000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 288,
+        "name" : "エグゼクティブセンター 神宮前タワービル",
+        "lon" : 139.70669409999999,
+        "lat" : 35.670688200000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70484810000005,
+          35.671640100000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 289,
+        "name" : "W CAFE",
+        "lon" : 139.70484809999999,
+        "lat" : 35.671640099999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70878040000002,
+          35.658621200000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 290,
+        "name" : "COHSA SHIBUYA",
+        "lon" : 139.70878039999999,
+        "lat" : 35.658621199999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70502800000008,
+          35.657948500000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 291,
+        "name" : "コワーキングスぺース「THE HUB 渋谷」",
+        "lon" : 139.705028,
+        "lat" : 35.657948500000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70483910000007,
+          35.657913100000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 292,
+        "name" : "NewWork 渋谷イースト9F",
+        "lon" : 139.70483909999999,
+        "lat" : 35.657913100000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70483910000007,
+          35.657913100000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 293,
+        "name" : "NewWork 渋谷イースト3F",
+        "lon" : 139.70483909999999,
+        "lat" : 35.657913100000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70681380000008,
+          35.658006900000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 294,
+        "name" : "Katana 渋谷オフィス",
+        "lon" : 139.70681379999999,
+        "lat" : 35.658006899999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7042606,
+          35.656049200000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 295,
+        "name" : "STUDY LOUNGE",
+        "lon" : 139.7042606,
+        "lat" : 35.656049199999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70466900000008,
+          35.656071700000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 296,
+        "name" : "Lightning spot 渋谷",
+        "lon" : 139.704669,
+        "lat" : 35.656071699999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70558080000001,
+          35.654164600000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 297,
+        "name" : "co-ba 渋谷",
+        "lon" : 139.70558080000001,
+        "lat" : 35.654164600000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7083126,
+          35.660753200000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 298,
+        "name" : "トランスワークス青山",
+        "lon" : 139.7083126,
+        "lat" : 35.660753200000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70668940000007,
+          35.660325300000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 299,
+        "name" : "EXPERT OFFICE 渋谷",
+        "lon" : 139.70668939999999,
+        "lat" : 35.660325299999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70216860000005,
+          35.658428700000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 300,
+        "name" : "SHARE LOUNGE",
+        "lon" : 139.70216859999999,
+        "lat" : 35.658428700000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 301,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70350630000007,
+          35.658483300000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 301,
+        "name" : "アットビジネスセンター渋谷東口駅前",
+        "lon" : 139.70350629999999,
+        "lat" : 35.6584833
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 302,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70384180000008,
+          35.658480800000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 302,
+        "name" : "POINT EDGE ShibuyaBASE",
+        "lon" : 139.70384179999999,
+        "lat" : 35.6584808
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 303,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70374170000002,
+          35.659066000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 303,
+        "name" : "Creative Lounge MOV",
+        "lon" : 139.70374169999999,
+        "lat" : 35.659066000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 304,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7065530000001,
+          35.66082810000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 304,
+        "name" : "KEY STATION OFFICE 渋谷",
+        "lon" : 139.70655300000001,
+        "lat" : 35.660828100000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 305,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7019669,
+          35.660524700000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 305,
+        "name" : "konochikara 渋谷店",
+        "lon" : 139.7019669,
+        "lat" : 35.660524700000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 306,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70284920000006,
+          35.662597100000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 306,
+        "name" : "クリエイター専用シェアオフィス『co-lab 渋谷キャスト』",
+        "lon" : 139.7028492,
+        "lat" : 35.662597099999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 307,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70306390000007,
+          35.661449400000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 307,
+        "name" : "PORTAL 渋谷",
+        "lon" : 139.70306389999999,
+        "lat" : 35.661449400000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 308,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70303130000002,
+          35.661541200000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 308,
+        "name" : "シェアオフィス『HOLSTAR』渋谷",
+        "lon" : 139.70303129999999,
+        "lat" : 35.661541200000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 309,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70737250000002,
+          35.661453300000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 309,
+        "name" : "THE HUB 青山WEST",
+        "lon" : 139.70737249999999,
+        "lat" : 35.661453299999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 310,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70346280000001,
+          35.660247000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 310,
+        "name" : "クロスオフィス渋谷注目物件",
+        "lon" : 139.70346280000001,
+        "lat" : 35.660246999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 311,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70668240000009,
+          35.646058500000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 311,
+        "name" : "コンパスオフィス 恵比寿グリーングラス注目物件",
+        "lon" : 139.70668240000001,
+        "lat" : 35.646058500000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 312,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70378190000008,
+          35.646174300000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 312,
+        "name" : "Open Network Space 代官山",
+        "lon" : 139.7037819,
+        "lat" : 35.646174299999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 313,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70879860000002,
+          35.646009900000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 313,
+        "name" : "SHARE BA UNION 恵比寿",
+        "lon" : 139.70879859999999,
+        "lat" : 35.646009900000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 314,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71309290000011,
+          35.647949100000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 314,
+        "name" : "Flower-King FLOWER GARDEN 恵比寿コワーキングスペース",
+        "lon" : 139.71309289999999,
+        "lat" : 35.647949099999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 315,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68625150000003,
+          35.668052600000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 315,
+        "name" : "GOOD WORK 代々木八幡",
+        "lon" : 139.6862515,
+        "lat" : 35.668052600000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 316,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74209430000008,
+          35.611964600000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 316,
+        "name" : "BIZcomfort 品川大井町",
+        "lon" : 139.74209429999999,
+        "lat" : 35.6119646
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 317,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72177120000003,
+          35.628340500000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 317,
+        "name" : "オフィスサークルN五反田",
+        "lon" : 139.72177120000001,
+        "lat" : 35.6283405
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 318,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72644510000009,
+          35.625496900000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 318,
+        "name" : "KEY STATION OFFICE 五反田",
+        "lon" : 139.72644510000001,
+        "lat" : 35.625496900000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 319,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72534760000008,
+          35.624751700000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 319,
+        "name" : "コワーキングスペース Pao",
+        "lon" : 139.72534759999999,
+        "lat" : 35.624751699999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 320,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72460940000008,
+          35.62669800000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 320,
+        "name" : "Coin Space by Centro注目物件",
+        "lon" : 139.72460939999999,
+        "lat" : 35.626697999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 321,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7270271000001,
+          35.625843400000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 321,
+        "name" : "コワーキングスペース『BasisPoint 五反田』",
+        "lon" : 139.72702709999999,
+        "lat" : 35.625843400000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 322,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70081000000005,
+          35.604822700000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 322,
+        "name" : "サードプレイス旗の台",
+        "lon" : 139.70080999999999,
+        "lat" : 35.6048227
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 323,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73106800000005,
+          35.614938400000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 323,
+        "name" : "TUNNEL TOKYO",
+        "lon" : 139.73106799999999,
+        "lat" : 35.6149384
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 324,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72079840000004,
+          35.622926600000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 324,
+        "name" : "Office Plata 五反田",
+        "lon" : 139.72079840000001,
+        "lat" : 35.6229266
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 325,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71972100000005,
+          35.626440900000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 325,
+        "name" : "BIZcomfort 五反田",
+        "lon" : 139.71972099999999,
+        "lat" : 35.626440899999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 326,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72237470000005,
+          35.625514400000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 326,
+        "name" : "NewWork 五反田",
+        "lon" : 139.72237469999999,
+        "lat" : 35.6255144
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 327,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7241305,
+          35.623994300000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 327,
+        "name" : "コワーキングスペース「CONTENTZ」五反田",
+        "lon" : 139.7241305,
+        "lat" : 35.6239943
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 328,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72085830000003,
+          35.627130400000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 328,
+        "name" : "Space to win注目物件",
+        "lon" : 139.7208583,
+        "lat" : 35.627130399999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 329,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73095480000006,
+          35.622174800000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 329,
+        "name" : "品川区立品川産業支援交流施設 ＳＨＩＰ 注目物件",
+        "lon" : 139.73095480000001,
+        "lat" : 35.622174800000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 330,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70432049999999,
+          35.618537900000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 330,
+        "name" : "nagaya 8f",
+        "lon" : 139.70432049999999,
+        "lat" : 35.6185379
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 331,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70404120000001,
+          35.617780000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 331,
+        "name" : "STUDIO4",
+        "lon" : 139.70404120000001,
+        "lat" : 35.617780000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 332,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7227051000001,
+          35.622175700000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 332,
+        "name" : "VACANCY OFFICE GOTANDA",
+        "lon" : 139.72270510000001,
+        "lat" : 35.6221757
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 333,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72732310000004,
+          35.617237500000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 333,
+        "name" : "ロッカールーム大崎",
+        "lon" : 139.72732310000001,
+        "lat" : 35.617237500000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 334,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7165887000001,
+          35.633345500000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 334,
+        "name" : "AWS Loft Tokyo",
+        "lon" : 139.71658869999999,
+        "lat" : 35.633345499999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 335,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.80143880000003,
+          35.669974100000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 335,
+        "name" : "BIZcomfort 門前仲町",
+        "lon" : 139.8014388,
+        "lat" : 35.669974099999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 336,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79519990000006,
+          35.673374300000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 336,
+        "name" : "HYPERMIX「COFFICE 門前仲町」",
+        "lon" : 139.7951999,
+        "lat" : 35.673374299999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 337,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79390720000004,
+          35.673400000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 337,
+        "name" : "room EXPLACE 門前仲町",
+        "lon" : 139.79390720000001,
+        "lat" : 35.673400000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 338,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.8034090000001,
+          35.679489000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 338,
+        "name" : "NAGAYA 清澄白河",
+        "lon" : 139.80340899999999,
+        "lat" : 35.679488999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 339,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.81614520000005,
+          35.670691500000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 339,
+        "name" : "room EXPLACE 東陽町",
+        "lon" : 139.81614519999999,
+        "lat" : 35.670691499999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 340,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.83430630000009,
+          35.696072400000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 340,
+        "name" : "BIZcomfort 亀戸南",
+        "lon" : 139.83430630000001,
+        "lat" : 35.696072399999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 341,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.82765590000008,
+          35.698314500000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 341,
+        "name" : "BIZcomfort 亀戸",
+        "lon" : 139.8276559,
+        "lat" : 35.698314500000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 342,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.82110140000009,
+          35.696001100000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 342,
+        "name" : "ソフトオフィス錦糸町",
+        "lon" : 139.8211014,
+        "lat" : 35.696001099999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 343,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.8341934,
+          35.688516700000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 343,
+        "name" : "ivyCafe NEIGHBOR&WORK 大島",
+        "lon" : 139.8341934,
+        "lat" : 35.688516700000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 344,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77485210000009,
+          35.617993500000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 344,
+        "name" : "the SOHO",
+        "lon" : 139.7748521,
+        "lat" : 35.617993499999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 345,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7800651,
+          35.617088600000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 345,
+        "name" : "モノづくりコワーキングスペースMONO",
+        "lon" : 139.7800651,
+        "lat" : 35.617088600000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 346,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79345590000003,
+          35.632856300000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 346,
+        "name" : "コワーキングスペース『THE HUB東京ベイ有明ワシントン』",
+        "lon" : 139.7934559,
+        "lat" : 35.6328563
+      }
+    }
+  ]
+}

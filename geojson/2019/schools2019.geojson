@@ -1,0 +1,8471 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75767450000001,
+          35.693118000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "lat" : 35.693117999999998,
+        "lon" : 139.75767450000001,
+        "name" : "共立女子高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7563560000001,
+          35.693721000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "lat" : 35.693720999999996,
+        "lon" : 139.75635600000001,
+        "name" : "共立女子中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75677000000007,
+          35.694135000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "lat" : 35.694135000000003,
+        "lon" : 139.75676999999999,
+        "name" : "(神田一橋・通信制）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75677000000007,
+          35.694135000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "lat" : 35.694135000000003,
+        "lon" : 139.75676999999999,
+        "name" : "神田一橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73854500000004,
+          35.687970000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "lat" : 35.68797,
+        "lon" : 139.73854499999999,
+        "name" : "女子学院高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73854500000004,
+          35.687970000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "lat" : 35.68797,
+        "lon" : 139.73854499999999,
+        "name" : "女子学院中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69755450000002,
+          35.663094000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "lat" : 35.663094000000001,
+        "lon" : 139.6975545,
+        "name" : "神南"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73934600000007,
+          35.676045000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "lat" : 35.676045000000002,
+        "lon" : 139.73934600000001,
+        "name" : "日比谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69426050000004,
+          35.655732000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "lat" : 35.655732,
+        "lon" : 139.69426050000001,
+        "name" : "山手調理製菓専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70167650000008,
+          35.651070000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "lat" : 35.651069999999997,
+        "lon" : 139.70167649999999,
+        "name" : "猿楽"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70199150000008,
+          35.652150000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "lat" : 35.652149999999999,
+        "lon" : 139.70199149999999,
+        "name" : "鶯谷さくら幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7014875000001,
+          35.654067000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "lat" : 35.654066999999998,
+        "lon" : 139.70148750000001,
+        "name" : "青山製図専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70318400000008,
+          35.653302000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "lat" : 35.653301999999996,
+        "lon" : 139.70318399999999,
+        "name" : "鉢山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70377350000001,
+          35.715285000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "lat" : 35.715285000000002,
+        "lon" : 139.70377350000001,
+        "name" : "千駄ヶ谷日本語学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70424600000001,
+          35.71549200000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "lat" : 35.715491999999998,
+        "lon" : 139.70424600000001,
+        "name" : "東京アニメーションカレッジ専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70385450000003,
+          35.715663000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "lat" : 35.715662999999999,
+        "lon" : 139.70385450000001,
+        "name" : "東京美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70379150000008,
+          35.719218000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "lat" : 35.719217999999998,
+        "lon" : 139.70379149999999,
+        "name" : "目白ケ丘幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7002725000001,
+          35.718696000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "lat" : 35.718696000000001,
+        "lon" : 139.70027250000001,
+        "name" : "落合"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70325600000001,
+          35.716878000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "lat" : 35.716878000000001,
+        "lon" : 139.70325600000001,
+        "name" : "中央理美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70021400000007,
+          35.718318000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "lat" : 35.718317999999996,
+        "lon" : 139.70021399999999,
+        "name" : "落合第四"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70021400000007,
+          35.718318000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "lat" : 35.718317999999996,
+        "lon" : 139.70021399999999,
+        "name" : "落合第四"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6999575000001,
+          35.721531000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "lat" : 35.721530999999999,
+        "lon" : 139.69995750000001,
+        "name" : "日本聖書神学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70055150000007,
+          35.72213400000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "lat" : 35.722133999999997,
+        "lon" : 139.70055149999999,
+        "name" : "目白平和幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7040975000001,
+          35.721630000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "lat" : 35.721629999999998,
+        "lon" : 139.70409749999999,
+        "name" : "目白ファッション＆アートカレッジ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70344010000008,
+          35.693797560000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "lat" : 35.69379756,
+        "lon" : 139.70344009999999,
+        "name" : "新宿養護学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70108700000003,
+          35.697708000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "lat" : 35.697707999999999,
+        "lon" : 139.701087,
+        "name" : "真野美容専門学校    "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76053650000006,
+          35.65642500000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "lat" : 35.656424999999999,
+        "lon" : 139.7605365,
+        "name" : "芝商業"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7703600000001,
+          35.701056000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "lat" : 35.701056000000001,
+        "lon" : 139.77036000000001,
+        "name" : "神田寺幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76987400000007,
+          35.701281000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "lat" : 35.701281000000002,
+        "lon" : 139.76987399999999,
+        "name" : "昌平"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76987400000007,
+          35.701281000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "lat" : 35.701281000000002,
+        "lon" : 139.76987399999999,
+        "name" : "昌平"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76124750000008,
+          35.677629000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "lat" : 35.677629000000003,
+        "lon" : 139.7612475,
+        "name" : "東京会館クッキングスクール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72185000000002,
+          35.703486000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "lat" : 35.703485999999998,
+        "lon" : 139.72184999999999,
+        "name" : "牛込第二"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73202000000003,
+          35.683362000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "lat" : 35.683362000000002,
+        "lon" : 139.73202000000001,
+        "name" : "上智社会福祉専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76140500000008,
+          35.672364000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "lat" : 35.672364000000002,
+        "lon" : 139.761405,
+        "name" : "泰明"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76140500000008,
+          35.672364000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "lat" : 35.672364000000002,
+        "lon" : 139.761405,
+        "name" : "泰明"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76513550000004,
+          35.665740000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "lat" : 35.66574,
+        "lon" : 139.76513550000001,
+        "name" : "銀座"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75371140000004,
+          35.693930060000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "lat" : 35.69393006,
+        "lon" : 139.75371139999999,
+        "name" : "神田女学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75371140000004,
+          35.693930060000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "lat" : 35.69393006,
+        "lon" : 139.75371139999999,
+        "name" : "神田女学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74645150000003,
+          35.692434000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "lat" : 35.692433999999999,
+        "lon" : 139.74645150000001,
+        "name" : "二松學舎大学附属高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73715900000002,
+          35.690850000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "lat" : 35.690849999999998,
+        "lon" : 139.73715899999999,
+        "name" : "山脇美術専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74896250000006,
+          35.696637000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "lat" : 35.696637000000003,
+        "lon" : 139.7489625,
+        "name" : "和洋九段女子高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74896250000006,
+          35.696637000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "lat" : 35.696637000000003,
+        "lon" : 139.7489625,
+        "name" : "和洋九段女子中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74738750000006,
+          35.695719000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "lat" : 35.695718999999997,
+        "lon" : 139.7473875,
+        "name" : "九段"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74426900000003,
+          35.695701000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "lat" : 35.695701,
+        "lon" : 139.744269,
+        "name" : "白百合学園幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74426900000003,
+          35.695701000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "lat" : 35.695701,
+        "lon" : 139.744269,
+        "name" : "白百合学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74426900000003,
+          35.695701000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "lat" : 35.695701,
+        "lon" : 139.744269,
+        "name" : "白百合学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74426900000003,
+          35.695701000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "lat" : 35.695701,
+        "lon" : 139.744269,
+        "name" : "白百合学園小学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74122250000005,
+          35.694360000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "lat" : 35.694360000000003,
+        "lon" : 139.74122249999999,
+        "name" : "三輪田学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74122250000005,
+          35.694360000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "lat" : 35.694360000000003,
+        "lon" : 139.74122249999999,
+        "name" : "三輪田学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72149899999999,
+          35.645634000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "lat" : 35.645634000000001,
+        "lon" : 139.72149899999999,
+        "name" : "渋谷同胞幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7231865,
+          35.646732000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "lat" : 35.646732,
+        "lon" : 139.7231865,
+        "name" : "慶應義塾幼稚舎"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71288600000003,
+          35.643897000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "lat" : 35.643897000000003,
+        "lon" : 139.712886,
+        "name" : "専門学校エビスビューティカレッジ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71469050000007,
+          35.644446000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "lat" : 35.644446000000002,
+        "lon" : 139.71469049999999,
+        "name" : "加計塚"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70596950000004,
+          35.647191000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "lat" : 35.647190999999999,
+        "lon" : 139.70596950000001,
+        "name" : "長谷戸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70679300000006,
+          35.645643000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "lat" : 35.645643,
+        "lon" : 139.706793,
+        "name" : "専門学校東京声優アカデミー"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78272600000003,
+          35.664930000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "lat" : 35.664929999999998,
+        "lon" : 139.782726,
+        "name" : "月島"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78009800000007,
+          35.660646000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "lat" : 35.660646,
+        "lon" : 139.78009800000001,
+        "name" : "月島第一"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78009800000007,
+          35.660646000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "lat" : 35.660646,
+        "lon" : 139.78009800000001,
+        "name" : "月島第一"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68662400000005,
+          35.671167000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "lat" : 35.671166999999997,
+        "lon" : 139.68662399999999,
+        "name" : "シオン幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73341500000004,
+          35.653977000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "lat" : 35.653976999999998,
+        "lon" : 139.73341500000001,
+        "name" : "麻布山幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7303055000001,
+          35.652411000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "lat" : 35.652411000000001,
+        "lon" : 139.73030549999999,
+        "name" : "安藤記念教会附属幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7303055000001,
+          35.653563000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "lat" : 35.653562999999998,
+        "lon" : 139.73030549999999,
+        "name" : "西町インターナショナルスクール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72717800000009,
+          35.654481000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "lat" : 35.654480999999997,
+        "lon" : 139.72717800000001,
+        "name" : "麻布高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72717800000009,
+          35.654481000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "lat" : 35.654480999999997,
+        "lon" : 139.72717800000001,
+        "name" : "麻布中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73125500000003,
+          35.657163000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "lat" : 35.657162999999997,
+        "lon" : 139.731255,
+        "name" : "南山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73125500000003,
+          35.657163000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "lat" : 35.657162999999997,
+        "lon" : 139.731255,
+        "name" : "南山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72299750000002,
+          35.69861700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "lat" : 35.698616999999999,
+        "lon" : 139.72299749999999,
+        "name" : "牛込成城幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72299750000002,
+          35.69861700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "lat" : 35.698616999999999,
+        "lon" : 139.72299749999999,
+        "name" : "成城高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72299750000002,
+          35.69861700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "lat" : 35.698616999999999,
+        "lon" : 139.72299749999999,
+        "name" : "成城中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71121200000005,
+          35.702379000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "lat" : 35.702379000000001,
+        "lon" : 139.71121199999999,
+        "name" : "東戸山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71341700000005,
+          35.703306000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "lat" : 35.703305999999998,
+        "lon" : 139.71341699999999,
+        "name" : "戸山幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71034800000007,
+          35.706708000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "lat" : 35.706707999999999,
+        "lon" : 139.71034800000001,
+        "name" : "戸山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71106800000007,
+          35.707527000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "lat" : 35.707526999999999,
+        "lon" : 139.71106800000001,
+        "name" : "学習院女子高等科"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71106800000007,
+          35.707527000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "lat" : 35.707526999999999,
+        "lon" : 139.71106800000001,
+        "name" : "学習院女子中等科"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71000150000009,
+          35.708031000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "lat" : 35.708030999999998,
+        "lon" : 139.7100015,
+        "name" : "西早稲田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71994650000011,
+          35.70686100000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "lat" : 35.706861000000004,
+        "lon" : 139.71994649999999,
+        "name" : "早稲田高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71994650000011,
+          35.70686100000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "lat" : 35.706861000000004,
+        "lon" : 139.71994649999999,
+        "name" : "早稲田中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73267700000008,
+          35.688591000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "lat" : 35.688591000000002,
+        "lon" : 139.732677,
+        "name" : "東京中華学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71674250000001,
+          35.649324000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "lat" : 35.649324,
+        "lon" : 139.71674250000001,
+        "name" : "臨川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71674250000001,
+          35.649324000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "lat" : 35.649324,
+        "lon" : 139.71674250000001,
+        "name" : "臨川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71721950000006,
+          35.655804000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "lat" : 35.655804000000003,
+        "lon" : 139.7172195,
+        "name" : "東京女学館高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71721950000006,
+          35.655804000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "lat" : 35.655804000000003,
+        "lon" : 139.7172195,
+        "name" : "東京女学館中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71721950000006,
+          35.655804000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "lat" : 35.655804000000003,
+        "lon" : 139.7172195,
+        "name" : "東京女学館小学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71926250000001,
+          35.653383000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "lat" : 35.653382999999998,
+        "lon" : 139.71926250000001,
+        "name" : "日本赤十字社助産師学校　"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72045500000002,
+          35.651214000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "lat" : 35.651214000000003,
+        "lon" : 139.72045499999999,
+        "name" : "聖心インターナショナルスクール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75114500000007,
+          35.632503000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "lat" : 35.632503,
+        "lon" : 139.75114500000001,
+        "name" : "港特別支援学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74879150000004,
+          35.629371000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "lat" : 35.629370999999999,
+        "lon" : 139.74879150000001,
+        "name" : "港南"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74962850000009,
+          35.62934400000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "lat" : 35.629344000000003,
+        "lon" : 139.7496285,
+        "name" : "港南"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74906150000004,
+          35.631117000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "lat" : 35.631117000000003,
+        "lon" : 139.74906150000001,
+        "name" : "港南"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70621700000004,
+          35.708994000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "lat" : 35.708993999999997,
+        "lon" : 139.70621700000001,
+        "name" : "東京製菓学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70614950000004,
+          35.711325000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "lat" : 35.711325000000002,
+        "lon" : 139.70614950000001,
+        "name" : "日本医学柔整鍼灸専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7041200000001,
+          35.709624000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "lat" : 35.709623999999998,
+        "lon" : 139.70411999999999,
+        "name" : "日本美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70500650000008,
+          35.711001000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "lat" : 35.711001000000003,
+        "lon" : 139.7050065,
+        "name" : "早稲田外語専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7054025000001,
+          35.711280000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "lat" : 35.711280000000002,
+        "lon" : 139.70540249999999,
+        "name" : "専修学校早稲田ゼミナール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70571750000011,
+          35.71178400000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "lat" : 35.711784000000002,
+        "lon" : 139.70571749999999,
+        "name" : "日本フラワーデザイン専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70610900000008,
+          35.712153000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "lat" : 35.712153000000001,
+        "lon" : 139.706109,
+        "name" : "戸塚第二"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70610900000008,
+          35.712153000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "lat" : 35.712153000000001,
+        "lon" : 139.706109,
+        "name" : "戸塚第二"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7040075000001,
+          35.710470000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "lat" : 35.710470000000001,
+        "lon" : 139.70400749999999,
+        "name" : "一橋学院早慶外語"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70352600000001,
+          35.710353000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "lat" : 35.710352999999998,
+        "lon" : 139.70352600000001,
+        "name" : "日本児童教育専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70415600000001,
+          35.711847000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "lat" : 35.711846999999999,
+        "lon" : 139.70415600000001,
+        "name" : "東京家政専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70782800000006,
+          35.713665000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "lat" : 35.713664999999999,
+        "lon" : 139.70782800000001,
+        "name" : "東京デザインテクノロジーセンター専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70574450000004,
+          35.713692000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "lat" : 35.713692000000002,
+        "lon" : 139.70574450000001,
+        "name" : "日本福祉教育専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70934,
+          35.712558000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "lat" : 35.712558000000001,
+        "lon" : 139.70934,
+        "name" : "おおや幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70795850000002,
+          35.712513000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "lat" : 35.712513000000001,
+        "lon" : 139.70795849999999,
+        "name" : "新宿日本語学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69759050000005,
+          35.714880000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "lat" : 35.714880000000001,
+        "lon" : 139.69759049999999,
+        "name" : "戸塚第三"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69759050000005,
+          35.714880000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "lat" : 35.714880000000001,
+        "lon" : 139.69759049999999,
+        "name" : "戸塚第三"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70235150000008,
+          35.714025000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "lat" : 35.714024999999999,
+        "lon" : 139.70235149999999,
+        "name" : "専門学校ＥＳＰエンタテインメント東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70143800000005,
+          35.709912000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "lat" : 35.709912000000003,
+        "lon" : 139.701438,
+        "name" : "東京国際大学付属日本語学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70183400000008,
+          35.712648000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "lat" : 35.712648000000002,
+        "lon" : 139.70183399999999,
+        "name" : "専修学校早稲田予備学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70345400000008,
+          35.712963000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "lat" : 35.712963000000002,
+        "lon" : 139.70345399999999,
+        "name" : "専門学校ミュージシャンズ・インスティテュート東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73401800000011,
+          35.642043000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "lat" : 35.642043000000001,
+        "lon" : 139.73401799999999,
+        "name" : "高松"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73528250000004,
+          35.635383000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "lat" : 35.635382999999997,
+        "lon" : 139.73528250000001,
+        "name" : "高輪"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73667750000004,
+          35.638488000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "lat" : 35.638488000000002,
+        "lon" : 139.73667750000001,
+        "name" : "高輪高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73667750000004,
+          35.638488000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "lat" : 35.638488000000002,
+        "lon" : 139.73667750000001,
+        "name" : "高輪中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73525100000006,
+          35.638128000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "lat" : 35.638128000000002,
+        "lon" : 139.73525100000001,
+        "name" : "東海大学付属高輪台高等学校中等部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73525100000006,
+          35.638128000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "lat" : 35.638128000000002,
+        "lon" : 139.73525100000001,
+        "name" : "東海大学付属高輪台高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73438700000008,
+          35.636337000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "lat" : 35.636336999999997,
+        "lon" : 139.734387,
+        "name" : "高輪台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7397555,
+          35.685342000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "lat" : 35.685341999999999,
+        "lon" : 139.7397555,
+        "name" : "麹町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7397555,
+          35.685342000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "lat" : 35.685341999999999,
+        "lon" : 139.7397555,
+        "name" : "麹町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.739013,
+          35.684937000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "lat" : 35.684936999999998,
+        "lon" : 139.739013,
+        "name" : "麴町学園女子高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.739013,
+          35.684937000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "lat" : 35.684936999999998,
+        "lon" : 139.739013,
+        "name" : "麴町学園女子中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71981150000011,
+          35.68646700000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "lat" : 35.686467,
+        "lon" : 139.71981149999999,
+        "name" : "新宿医療専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7009025000001,
+          35.655237000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "lat" : 35.655237,
+        "lon" : 139.70090250000001,
+        "name" : "日本柔道整復専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7009025000001,
+          35.655237000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "lat" : 35.655237,
+        "lon" : 139.70090250000001,
+        "name" : "日本鍼灸理療専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69982700000003,
+          35.655867000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "lat" : 35.655867000000001,
+        "lon" : 139.699827,
+        "name" : "専門学校ビジョナリーアーツ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69991700000003,
+          35.655480000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "lat" : 35.655479999999997,
+        "lon" : 139.699917,
+        "name" : "渋谷区医師会附属看護高等専修学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70393100000001,
+          35.654562000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "lat" : 35.654561999999999,
+        "lon" : 139.70393100000001,
+        "name" : "専門学校日本デザイナー学院                           "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70393100000001,
+          35.654562000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "lat" : 35.654561999999999,
+        "lon" : 139.70393100000001,
+        "name" : "日本写真芸術専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66695450000009,
+          35.672913000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "lat" : 35.672913000000001,
+        "lon" : 139.6669545,
+        "name" : "笹塚幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66274700000008,
+          35.674137000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "lat" : 35.674137000000002,
+        "lon" : 139.662747,
+        "name" : "小鳩幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66908750000005,
+          35.676162000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "lat" : 35.676161999999998,
+        "lon" : 139.66908749999999,
+        "name" : "笹塚"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66850250000005,
+          35.677827000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "lat" : 35.677827000000001,
+        "lon" : 139.66850249999999,
+        "name" : "笹塚"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66688250000004,
+          35.676720000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "lat" : 35.676720000000003,
+        "lon" : 139.66688250000001,
+        "name" : "富士見丘高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.66688250000004,
+          35.676720000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "lat" : 35.676720000000003,
+        "lon" : 139.66688250000001,
+        "name" : "富士見丘中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7256728000001,
+          35.688951900000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "lat" : 35.688951899999999,
+        "lon" : 139.72567280000001,
+        "name" : "東京医療専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74305850000007,
+          35.652330000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "lat" : 35.652329999999999,
+        "lon" : 139.74305849999999,
+        "name" : "三田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74238350000007,
+          35.653203000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "lat" : 35.653202999999998,
+        "lon" : 139.74238349999999,
+        "name" : "赤羽"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74238350000007,
+          35.653203000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "lat" : 35.653202999999998,
+        "lon" : 139.74238349999999,
+        "name" : "赤羽"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.740453,
+          35.648955000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "lat" : 35.648955000000001,
+        "lon" : 139.740453,
+        "name" : "慶應義塾中等部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.739868,
+          35.648199000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "lat" : 35.648198999999998,
+        "lon" : 139.739868,
+        "name" : "慶應義塾女子高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74324300000001,
+          35.645823000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "lat" : 35.645823,
+        "lon" : 139.74324300000001,
+        "name" : "聖徳大学幼児教育専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74324300000001,
+          35.645823000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "lat" : 35.645823,
+        "lon" : 139.74324300000001,
+        "name" : "聖徳学園三田幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.737888,
+          35.643114000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "lat" : 35.643113999999997,
+        "lon" : 139.737888,
+        "name" : "御田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74086700000009,
+          35.645238000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "lat" : 35.645237999999999,
+        "lon" : 139.74086700000001,
+        "name" : "三田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74153750000005,
+          35.645859000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "lat" : 35.645859000000002,
+        "lon" : 139.74153749999999,
+        "name" : "普連土学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74153750000005,
+          35.645859000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "lat" : 35.645859000000002,
+        "lon" : 139.74153749999999,
+        "name" : "普連土学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73931900000002,
+          35.641053000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "lat" : 35.641052999999999,
+        "lon" : 139.73931899999999,
+        "name" : "枝光会附属幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74233850000007,
+          35.690940000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "lat" : 35.690939999999998,
+        "lon" : 139.74233849999999,
+        "name" : "大妻高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74233850000007,
+          35.690940000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "lat" : 35.690939999999998,
+        "lon" : 139.74233849999999,
+        "name" : "大妻中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74086250000005,
+          35.690355000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "lat" : 35.690354999999997,
+        "lon" : 139.74086249999999,
+        "name" : "九段"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74086250000005,
+          35.690355000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "lat" : 35.690354999999997,
+        "lon" : 139.74086249999999,
+        "name" : "九段"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74183900000003,
+          35.691273000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "lat" : 35.691273000000002,
+        "lon" : 139.741839,
+        "name" : "東京家政学院高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74183900000003,
+          35.691273000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "lat" : 35.691273000000002,
+        "lon" : 139.741839,
+        "name" : "東京家政学院中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72853700000007,
+          35.706834000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "lat" : 35.706834000000001,
+        "lon" : 139.72853699999999,
+        "name" : "新宿山吹"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72863600000005,
+          35.684019000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "lat" : 35.684018999999999,
+        "lon" : 139.72863599999999,
+        "name" : "四谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7277405000001,
+          35.684289000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "lat" : 35.684289,
+        "lon" : 139.72774050000001,
+        "name" : "四谷新生幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72502250000002,
+          35.686458000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "lat" : 35.686458000000002,
+        "lon" : 139.72502249999999,
+        "name" : "四谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73930100000007,
+          35.688780000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "lat" : 35.688780000000001,
+        "lon" : 139.73930100000001,
+        "name" : "千代田インターナショナルスクール東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73930100000007,
+          35.688780000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "lat" : 35.688780000000001,
+        "lon" : 139.73930100000001,
+        "name" : "専門学校東京ビジュアルアーツ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73930100000007,
+          35.688780000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "lat" : 35.688780000000001,
+        "lon" : 139.73930100000001,
+        "name" : "武蔵野大学附属千代田高等学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73930100000007,
+          35.688780000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "lat" : 35.688780000000001,
+        "lon" : 139.73930100000001,
+        "name" : "千代田女学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7316330000001,
+          35.697744000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "lat" : 35.697744,
+        "lon" : 139.73163299999999,
+        "name" : "牛込第三"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73518350000006,
+          35.693397000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "lat" : 35.693396999999997,
+        "lon" : 139.73518350000001,
+        "name" : "江上料理学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72869450000007,
+          35.699751000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "lat" : 35.699750999999999,
+        "lon" : 139.72869449999999,
+        "name" : "市谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72869450000007,
+          35.699751000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "lat" : 35.699750999999999,
+        "lon" : 139.72869449999999,
+        "name" : "市谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72358250000002,
+          35.695818000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "lat" : 35.695818000000003,
+        "lon" : 139.72358249999999,
+        "name" : "牛込仲之"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72358250000002,
+          35.695818000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "lat" : 35.695818000000003,
+        "lon" : 139.72358249999999,
+        "name" : "牛込仲之"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73797350000007,
+          35.696727000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "lat" : 35.696727000000003,
+        "lon" : 139.73797350000001,
+        "name" : "東京観光専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73175000000003,
+          35.690553000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "lat" : 35.690553000000001,
+        "lon" : 139.73175000000001,
+        "name" : "高山美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75007400000004,
+          35.650935000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "lat" : 35.650934999999997,
+        "lon" : 139.75007400000001,
+        "name" : "芝"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75133850000009,
+          35.65057500000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "lat" : 35.650575000000003,
+        "lon" : 139.7513385,
+        "name" : "みなと幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74940350000008,
+          35.64973800000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "lat" : 35.649737999999999,
+        "lon" : 139.7494035,
+        "name" : "東京女子学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74940350000008,
+          35.64973800000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "lat" : 35.649737999999999,
+        "lon" : 139.7494035,
+        "name" : "東京女子学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7466270000001,
+          35.647434000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "lat" : 35.647433999999997,
+        "lon" : 139.74662699999999,
+        "name" : "読売理工医療福祉専門学校  "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74624900000003,
+          35.638047000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "lat" : 35.638047,
+        "lon" : 139.74624900000001,
+        "name" : "芝浦"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74624900000003,
+          35.638047000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "lat" : 35.638047,
+        "lon" : 139.74624900000001,
+        "name" : "芝浦"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74786450000011,
+          35.661123000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "lat" : 35.661123000000003,
+        "lon" : 139.74786449999999,
+        "name" : "正則高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74973199999999,
+          35.661357000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "lat" : 35.661357000000002,
+        "lon" : 139.74973199999999,
+        "name" : "御成門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7471670000001,
+          35.661186000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "lat" : 35.661186000000001,
+        "lon" : 139.74716699999999,
+        "name" : "芝高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7471670000001,
+          35.661186000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "lat" : 35.661186000000001,
+        "lon" : 139.74716699999999,
+        "name" : "芝中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74668100000008,
+          35.656965000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "lat" : 35.656965,
+        "lon" : 139.746681,
+        "name" : "明徳幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71611700000005,
+          35.699346000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "lat" : 35.699345999999998,
+        "lon" : 139.716117,
+        "name" : "余丁町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71611700000005,
+          35.699346000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "lat" : 35.699345999999998,
+        "lon" : 139.716117,
+        "name" : "余丁町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7142315000001,
+          35.699139000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "lat" : 35.699139000000002,
+        "lon" : 139.71423150000001,
+        "name" : "合気道学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72100399999999,
+          35.697312000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "lat" : 35.697311999999997,
+        "lon" : 139.72100399999999,
+        "name" : "東京韓国学校初等部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72100399999999,
+          35.697312000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "lat" : 35.697311999999997,
+        "lon" : 139.72100399999999,
+        "name" : "東京韓国学校中・高等部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72738950000007,
+          35.68293900000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "lat" : 35.682938999999998,
+        "lon" : 139.72738949999999,
+        "name" : "学習院初等科"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70453400000008,
+          35.663130000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "lat" : 35.663130000000002,
+        "lon" : 139.704534,
+        "name" : "東京サイクルデザイン専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70361150000008,
+          35.663364000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "lat" : 35.663364000000001,
+        "lon" : 139.70361149999999,
+        "name" : "住田美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70309400000008,
+          35.663814000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "lat" : 35.663814000000002,
+        "lon" : 139.70309399999999,
+        "name" : "ブリティッシュ･スクール･イン東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70309400000008,
+          35.663814000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "lat" : 35.663814000000002,
+        "lon" : 139.70309399999999,
+        "name" : "渋谷幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70309400000008,
+          35.663814000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "lat" : 35.663814000000002,
+        "lon" : 139.70309399999999,
+        "name" : "渋谷教育学園渋谷高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70309400000008,
+          35.663814000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "lat" : 35.663814000000002,
+        "lon" : 139.70309399999999,
+        "name" : "渋谷教育学園渋谷中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70362050000006,
+          35.663661000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "lat" : 35.663660999999998,
+        "lon" : 139.7036205,
+        "name" : "渋谷ファッション＆アート専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70202300000005,
+          35.660718000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "lat" : 35.660718000000003,
+        "lon" : 139.702023,
+        "name" : "東京ダンス＆アクターズ専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70520900000008,
+          35.660943000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "lat" : 35.660943000000003,
+        "lon" : 139.705209,
+        "name" : "専門学校清水とき・きものアカデミア"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7047500000001,
+          35.659773000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "lat" : 35.659773000000001,
+        "lon" : 139.70474999999999,
+        "name" : "東京スクールオブミュージック専門学校渋谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70966850000002,
+          35.659107000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "lat" : 35.659106999999999,
+        "lon" : 139.70966849999999,
+        "name" : "青山学院幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70966850000002,
+          35.659107000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "lat" : 35.659106999999999,
+        "lon" : 139.70966849999999,
+        "name" : "青山学院高等部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70966850000002,
+          35.659107000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "lat" : 35.659106999999999,
+        "lon" : 139.70966849999999,
+        "name" : "青山学院中等部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70966850000002,
+          35.659107000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "lat" : 35.659106999999999,
+        "lon" : 139.70966849999999,
+        "name" : "青山学院初等部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68383850000009,
+          35.679177000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "lat" : 35.679177000000003,
+        "lon" : 139.68383850000001,
+        "name" : "幡代"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77598050000006,
+          35.660232000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "lat" : 35.660232000000001,
+        "lon" : 139.7759805,
+        "name" : "月島第二"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77598050000006,
+          35.660232000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "lat" : 35.660232000000001,
+        "lon" : 139.7759805,
+        "name" : "月島第二"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69086750000008,
+          35.661294000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 205,
+        "lat" : 35.661293999999998,
+        "lon" : 139.6908675,
+        "name" : "松濤"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69044450000001,
+          35.657991000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 206,
+        "lat" : 35.657991000000003,
+        "lon" : 139.69044450000001,
+        "name" : "ヤマザキ動物専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68677700000001,
+          35.669295000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 207,
+        "lat" : 35.669294999999998,
+        "lon" : 139.68677700000001,
+        "name" : "富谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67981100000009,
+          35.665407000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 208,
+        "lat" : 35.665407000000002,
+        "lon" : 139.679811,
+        "name" : "岸辺幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67917650000004,
+          35.666316000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 209,
+        "lat" : 35.666316000000002,
+        "lon" : 139.67917650000001,
+        "name" : "上原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6748745000001,
+          35.664606000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 210,
+        "lat" : 35.664605999999999,
+        "lon" : 139.67487449999999,
+        "name" : "ドルトンスクール東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67768250000006,
+          35.666928000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 211,
+        "lat" : 35.666927999999999,
+        "lon" : 139.6776825,
+        "name" : "上原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68880650000006,
+          35.712873000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 212,
+        "lat" : 35.712873000000002,
+        "lon" : 139.6888065,
+        "name" : "落合第二"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68880650000006,
+          35.712873000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 213,
+        "lat" : 35.712873000000002,
+        "lon" : 139.6888065,
+        "name" : "落合第二"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6871685000001,
+          35.711847000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 214,
+        "lat" : 35.711846999999999,
+        "lon" : 139.68716850000001,
+        "name" : "伸びる会幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.685607,
+          35.714637000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 215,
+        "lat" : 35.714637000000003,
+        "lon" : 139.685607,
+        "name" : "落合第五"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71337200000005,
+          35.688654000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 216,
+        "lat" : 35.688654,
+        "lon" : 139.71337199999999,
+        "name" : "東京外語日本語学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71317850000003,
+          35.688591000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 217,
+        "lat" : 35.688591000000002,
+        "lon" : 139.7131785,
+        "name" : "東京国際福祉専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.713615,
+          35.689590000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 218,
+        "lat" : 35.689590000000003,
+        "lon" : 139.713615,
+        "name" : "花園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.713615,
+          35.689590000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 219,
+        "lat" : 35.689590000000003,
+        "lon" : 139.713615,
+        "name" : "花園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71308850000003,
+          35.690580000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 220,
+        "lat" : 35.690579999999997,
+        "lon" : 139.7130885,
+        "name" : "ＫＣＰ地球市民日本語学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70964150000009,
+          35.690436000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 221,
+        "lat" : 35.690435999999998,
+        "lon" : 139.7096415,
+        "name" : "岩本和裁専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71000600000002,
+          35.695467000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 222,
+        "lat" : 35.695467000000001,
+        "lon" : 139.71000599999999,
+        "name" : "天神"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71085650000009,
+          35.695800000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 223,
+        "lat" : 35.695799999999998,
+        "lon" : 139.71085650000001,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78218600000002,
+          35.677332000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 224,
+        "lat" : 35.677332,
+        "lon" : 139.782186,
+        "name" : "専門学校東京医療学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78184400000009,
+          35.676090000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 225,
+        "lat" : 35.676090000000002,
+        "lon" : 139.78184400000001,
+        "name" : "明正"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78184400000009,
+          35.676090000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 226,
+        "lat" : 35.676090000000002,
+        "lon" : 139.78184400000001,
+        "name" : "明正"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70544300000006,
+          35.673399000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 227,
+        "lat" : 35.673399000000003,
+        "lon" : 139.705443,
+        "name" : "原宿外苑"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70654100000002,
+          35.671662000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 228,
+        "lat" : 35.671661999999998,
+        "lon" : 139.70654099999999,
+        "name" : "東郷幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7154015000001,
+          35.672841000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 229,
+        "lat" : 35.672840999999998,
+        "lon" : 139.71540150000001,
+        "name" : "青山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71478050000007,
+          35.673804000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 230,
+        "lat" : 35.673803999999997,
+        "lon" : 139.71478049999999,
+        "name" : "國學院高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71022200000004,
+          35.671338000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 231,
+        "lat" : 35.671337999999999,
+        "lon" : 139.71022199999999,
+        "name" : "たかの友梨美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70874150000009,
+          35.670951000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 232,
+        "lat" : 35.670951000000002,
+        "lon" : 139.7087415,
+        "name" : "べルエポック美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71397950000005,
+          35.67078900000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 233,
+        "lat" : 35.670788999999999,
+        "lon" : 139.71397949999999,
+        "name" : "原宿幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70811600000002,
+          35.667963000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 234,
+        "lat" : 35.667963,
+        "lon" : 139.70811599999999,
+        "name" : "神宮前"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7033550000001,
+          35.664426000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 235,
+        "lat" : 35.664425999999999,
+        "lon" : 139.70335499999999,
+        "name" : "専門学校ヒコ・みづのジュエリーカレッジ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68880650000006,
+          35.662158000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 236,
+        "lat" : 35.662157999999998,
+        "lon" : 139.6888065,
+        "name" : "松村幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69347750000009,
+          35.658036000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 237,
+        "lat" : 35.658036000000003,
+        "lon" : 139.6934775,
+        "name" : "国際文化理容美容専門学校渋谷校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76178750000008,
+          35.692578000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 238,
+        "lat" : 35.692577999999997,
+        "lon" : 139.7617875,
+        "name" : "錦城学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76178750000008,
+          35.692578000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 239,
+        "lat" : 35.692577999999997,
+        "lon" : 139.7617875,
+        "name" : "正則学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.768506,
+          35.693037000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 240,
+        "lat" : 35.693036999999997,
+        "lon" : 139.768506,
+        "name" : "千代田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.768506,
+          35.693037000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 241,
+        "lat" : 35.693036999999997,
+        "lon" : 139.768506,
+        "name" : "千代田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76118000000008,
+          35.699139000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 242,
+        "lat" : 35.699139000000002,
+        "lon" : 139.76118,
+        "name" : "駿台外語アンドビジネス専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76044200000001,
+          35.699265000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 243,
+        "lat" : 35.699264999999997,
+        "lon" : 139.76044200000001,
+        "name" : "駿台予備学校アカデミー校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76346150000006,
+          35.698311000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 244,
+        "lat" : 35.698310999999997,
+        "lon" : 139.76346150000001,
+        "name" : "日本大学歯学部附属歯科衛生専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76346150000006,
+          35.698311000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 245,
+        "lat" : 35.698310999999997,
+        "lon" : 139.76346150000001,
+        "name" : "日本大学歯学部附属歯科技工専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7586960000001,
+          35.700480000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 246,
+        "lat" : 35.700479999999999,
+        "lon" : 139.75869599999999,
+        "name" : "専門学校アテネ・フランセ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7586960000001,
+          35.700480000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 247,
+        "lat" : 35.700479999999999,
+        "lon" : 139.75869599999999,
+        "name" : "東京デザイナー学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76095950000001,
+          35.70103800000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 248,
+        "lat" : 35.701037999999997,
+        "lon" : 139.76095950000001,
+        "name" : "御茶の水美術学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76095950000001,
+          35.70103800000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 249,
+        "lat" : 35.701037999999997,
+        "lon" : 139.76095950000001,
+        "name" : "御茶の水美術専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76043750000008,
+          35.70029100000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 250,
+        "lat" : 35.700291,
+        "lon" : 139.76043749999999,
+        "name" : "駿台予備学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76250300000004,
+          35.696151000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 251,
+        "lat" : 35.696151,
+        "lon" : 139.76250300000001,
+        "name" : "東京テクノ･ホルティ園芸専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76316900000006,
+          35.695620000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 252,
+        "lat" : 35.695619999999998,
+        "lon" : 139.763169,
+        "name" : "駿台法律経済アンドビジネス専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76328150000006,
+          35.695314000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 253,
+        "lat" : 35.695314000000003,
+        "lon" : 139.76328150000001,
+        "name" : "専門学校お茶の水スクール･オブ･ビジネス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76317349999999,
+          35.695593000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 254,
+        "lat" : 35.695593000000002,
+        "lon" : 139.76317349999999,
+        "name" : "駿台電子情報アンドビジネス専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75828200000001,
+          35.698491000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 255,
+        "lat" : 35.698490999999997,
+        "lon" : 139.75828200000001,
+        "name" : "東京商科・法科学院専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75733700000001,
+          35.698077000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 256,
+        "lat" : 35.698076999999998,
+        "lon" : 139.75733700000001,
+        "name" : "日本ウェルネス保育専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7557845,
+          35.697015000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 257,
+        "lat" : 35.697015,
+        "lon" : 139.7557845,
+        "name" : "東京情報クリエイター工学院専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75590150000005,
+          35.697978000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 258,
+        "lat" : 35.697977999999999,
+        "lon" : 139.75590149999999,
+        "name" : "大原学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76874000000009,
+          35.694603000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 259,
+        "lat" : 35.694603000000001,
+        "lon" : 139.76874000000001,
+        "name" : "公益社団法人東京都歯科医師会附属歯科衛生士専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77653400000008,
+          35.699157000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 260,
+        "lat" : 35.699157,
+        "lon" : 139.776534,
+        "name" : "いずみこども園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77653400000008,
+          35.699157000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 261,
+        "lat" : 35.699157,
+        "lon" : 139.776534,
+        "name" : "和泉"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7000475000001,
+          35.665317000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 262,
+        "lat" : 35.665317000000002,
+        "lon" : 139.70004750000001,
+        "name" : "専門学校桑沢デザイン研究所"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72200300000009,
+          35.686782000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 263,
+        "lat" : 35.686782000000001,
+        "lon" : 139.722003,
+        "name" : "マリールイズ美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73648850000006,
+          35.707149000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 264,
+        "lat" : 35.707149000000001,
+        "lon" : 139.73648850000001,
+        "name" : "江戸川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73648850000006,
+          35.707149000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 265,
+        "lat" : 35.707149000000001,
+        "lon" : 139.73648850000001,
+        "name" : "江戸川"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7858265000001,
+          35.658900000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 266,
+        "lat" : 35.658900000000003,
+        "lon" : 139.78582650000001,
+        "name" : "晴海"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7858265000001,
+          35.658900000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 267,
+        "lat" : 35.658900000000003,
+        "lon" : 139.78582650000001,
+        "name" : "月島第三"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78487700000005,
+          35.659647000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 268,
+        "lat" : 35.659647,
+        "lon" : 139.78487699999999,
+        "name" : "晴海"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67969400000004,
+          35.675424000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 269,
+        "lat" : 35.675424,
+        "lon" : 139.67969400000001,
+        "name" : "福田幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67825850000008,
+          35.675559000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 270,
+        "lat" : 35.675559,
+        "lon" : 139.6782585,
+        "name" : "城西幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68327150000005,
+          35.674389000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 271,
+        "lat" : 35.674388999999998,
+        "lon" : 139.68327149999999,
+        "name" : "代々木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67900100000008,
+          35.674182000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 272,
+        "lat" : 35.674182000000002,
+        "lon" : 139.679001,
+        "name" : "西原"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75094250000006,
+          35.661384000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 273,
+        "lat" : 35.661383999999998,
+        "lon" : 139.75094250000001,
+        "name" : "音響芸術専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75042050000002,
+          35.661591000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 274,
+        "lat" : 35.661591000000001,
+        "lon" : 139.75042049999999,
+        "name" : "御成門"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.750227,
+          35.662122000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 275,
+        "lat" : 35.662121999999997,
+        "lon" : 139.750227,
+        "name" : "慈恵看護専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69602000000009,
+          35.688348000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 276,
+        "lat" : 35.688347999999998,
+        "lon" : 139.69602,
+        "name" : "キルビー学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69699200000002,
+          35.691597000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 277,
+        "lat" : 35.691597000000002,
+        "lon" : 139.69699199999999,
+        "name" : "首都医校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69699200000002,
+          35.691597000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 278,
+        "lat" : 35.691597000000002,
+        "lon" : 139.69699199999999,
+        "name" : "東京モード学園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69699200000002,
+          35.691597000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 279,
+        "lat" : 35.691597000000002,
+        "lon" : 139.69699199999999,
+        "name" : "ＨＡＬ東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6879110000001,
+          35.686161000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 280,
+        "lat" : 35.686160999999998,
+        "lon" : 139.68791100000001,
+        "name" : "西新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68377100000009,
+          35.689356000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 281,
+        "lat" : 35.689355999999997,
+        "lon" : 139.68377100000001,
+        "name" : "東放学園高等専修学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68476550000003,
+          35.690229000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 282,
+        "lat" : 35.690229000000002,
+        "lon" : 139.6847655,
+        "name" : "東放学園映画専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68981450000001,
+          35.695062000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 283,
+        "lat" : 35.695062,
+        "lon" : 139.68981450000001,
+        "name" : "東京栄養専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69424250000009,
+          35.693109000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 284,
+        "lat" : 35.693109,
+        "lon" : 139.6942425,
+        "name" : "新宿調理師専門学校 "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69768050000005,
+          35.694315000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 285,
+        "lat" : 35.694315000000003,
+        "lon" : 139.69768049999999,
+        "name" : "東京調理製菓専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69683000000009,
+          35.693550000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 286,
+        "lat" : 35.693550000000002,
+        "lon" : 139.69683000000001,
+        "name" : "専修学校河合塾新宿校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69674000000009,
+          35.696025000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 287,
+        "lat" : 35.696024999999999,
+        "lon" : 139.69674000000001,
+        "name" : "東京・iスマートビジネス専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69904400000007,
+          35.696160000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 288,
+        "lat" : 35.696159999999999,
+        "lon" : 139.69904399999999,
+        "name" : "東京外語専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6949985,
+          35.696079000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 289,
+        "lat" : 35.696078999999997,
+        "lon" : 139.6949985,
+        "name" : "西新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7560926000001,
+          35.699795380000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 290,
+        "lat" : 35.699795379999998,
+        "lon" : 139.75609259999999,
+        "name" : "東洋高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7568285000001,
+          35.699139000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 291,
+        "lat" : 35.699139000000002,
+        "lon" : 139.75682850000001,
+        "name" : "大原簿記学校     "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75730550000003,
+          35.698914000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 292,
+        "lat" : 35.698914000000002,
+        "lon" : 139.7573055,
+        "name" : "東京ホテル・トラベル学院専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75684650000005,
+          35.699346000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 293,
+        "lat" : 35.699345999999998,
+        "lon" : 139.75684649999999,
+        "name" : "東京アニメーター学院専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75660800000003,
+          35.69931900000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 294,
+        "lat" : 35.699319000000003,
+        "lon" : 139.756608,
+        "name" : "東京理容専修学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75482150000005,
+          35.697816000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 295,
+        "lat" : 35.697816000000003,
+        "lon" : 139.75482149999999,
+        "name" : "大原医療秘書福祉保育専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75417350000009,
+          35.698500000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 296,
+        "lat" : 35.698500000000003,
+        "lon" : 139.75417350000001,
+        "name" : "大原法律専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71660750000001,
+          35.707086000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 297,
+        "lat" : 35.707085999999997,
+        "lon" : 139.71660750000001,
+        "name" : "専門学校早稲田国際ビジネスカレッジ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71065400000009,
+          35.710542000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 298,
+        "lat" : 35.710541999999997,
+        "lon" : 139.71065400000001,
+        "name" : "東京YMCA国際ホテル専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70948850000002,
+          35.709021000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 299,
+        "lat" : 35.709021,
+        "lon" : 139.70948849999999,
+        "name" : "早稲田美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71628350000003,
+          35.708463000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 300,
+        "lat" : 35.708463000000002,
+        "lon" : 139.7162835,
+        "name" : "早稲田医学院歯科衛生士専門学校 "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 301,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71473100000003,
+          35.710956000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 301,
+        "lat" : 35.710956000000003,
+        "lon" : 139.714731,
+        "name" : "戸塚第一"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 302,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71473100000003,
+          35.710956000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 302,
+        "lat" : 35.710956000000003,
+        "lon" : 139.714731,
+        "name" : "戸塚第一"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 303,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72491000000002,
+          35.656461000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 303,
+        "lat" : 35.656461,
+        "lon" : 139.72490999999999,
+        "name" : "笄"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 304,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72527450000007,
+          35.659278000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 304,
+        "lat" : 35.659278,
+        "lon" : 139.72527450000001,
+        "name" : "麻布みこころ幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 305,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72229550000009,
+          35.657793000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 305,
+        "lat" : 35.657792999999998,
+        "lon" : 139.7222955,
+        "name" : "若葉会幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 306,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72025250000002,
+          35.656812000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 306,
+        "lat" : 35.656812000000002,
+        "lon" : 139.72025249999999,
+        "name" : "高陵"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 307,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68256050000002,
+          35.72082000000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 307,
+        "lat" : 35.720820000000003,
+        "lon" : 139.68256049999999,
+        "name" : "落合第三"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 308,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68256050000002,
+          35.72082000000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 308,
+        "lat" : 35.720820000000003,
+        "lon" : 139.68256049999999,
+        "name" : "落合第三"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 309,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68471600000009,
+          35.721450000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 309,
+        "lat" : 35.721449999999997,
+        "lon" : 139.68471600000001,
+        "name" : "落合第二"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 310,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67851949999999,
+          35.727363000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 310,
+        "lat" : 35.727362999999997,
+        "lon" : 139.67851949999999,
+        "name" : "落合第六"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 311,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67851949999999,
+          35.727363000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 311,
+        "lat" : 35.727362999999997,
+        "lon" : 139.67851949999999,
+        "name" : "落合第六"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 312,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67935199999999,
+          35.727939000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 312,
+        "lat" : 35.727938999999999,
+        "lon" : 139.67935199999999,
+        "name" : "豊多摩幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 313,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74200100000007,
+          35.667099000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 313,
+        "lat" : 35.667099,
+        "lon" : 139.74200099999999,
+        "name" : "霊南坂幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 314,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.738338,
+          35.669475000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 314,
+        "lat" : 35.669474999999998,
+        "lon" : 139.738338,
+        "name" : "一般財団法人霞山会　東亜学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 315,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73250600000006,
+          35.674263000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 315,
+        "lat" : 35.674263000000003,
+        "lon" : 139.732506,
+        "name" : "山脇学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 316,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73250600000006,
+          35.674263000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 316,
+        "lat" : 35.674263000000003,
+        "lon" : 139.732506,
+        "name" : "山脇学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 317,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73015250000003,
+          35.673831000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 317,
+        "lat" : 35.673831,
+        "lon" : 139.7301525,
+        "name" : "タカラ美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 318,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73092200000008,
+          35.669124000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 318,
+        "lat" : 35.669123999999996,
+        "lon" : 139.73092199999999,
+        "name" : "赤坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 319,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73124600000006,
+          35.666127000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 319,
+        "lat" : 35.666127000000003,
+        "lon" : 139.731246,
+        "name" : "中之町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 320,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70941200000004,
+          35.67761100000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 320,
+        "lat" : 35.677610999999999,
+        "lon" : 139.70941199999999,
+        "name" : "鳩の森八幡幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 321,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71109050000007,
+          35.678349000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 321,
+        "lat" : 35.678348999999997,
+        "lon" : 139.71109050000001,
+        "name" : "専門学校東京クールジャパン"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 322,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70753550000006,
+          35.675316000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 322,
+        "lat" : 35.675316000000002,
+        "lon" : 139.70753550000001,
+        "name" : "千駄谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 323,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70753550000006,
+          35.675316000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 323,
+        "lat" : 35.675316000000002,
+        "lon" : 139.70753550000001,
+        "name" : "千駄谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 324,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70458350000001,
+          35.678340000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 324,
+        "lat" : 35.678339999999999,
+        "lon" : 139.70458350000001,
+        "name" : "山野日本語学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 325,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70394900000008,
+          35.673147000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 325,
+        "lat" : 35.673147,
+        "lon" : 139.70394899999999,
+        "name" : "専修学校代々木ゼミナール造形学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 326,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70382300000006,
+          35.673543000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 326,
+        "lat" : 35.673543000000002,
+        "lon" : 139.703823,
+        "name" : "東京デザイン専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 327,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70383200000003,
+          35.682588000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 327,
+        "lat" : 35.682588000000003,
+        "lon" : 139.70383200000001,
+        "name" : "専門学校ミューズ音楽院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 328,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70343150000008,
+          35.684865000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 328,
+        "lat" : 35.684865000000002,
+        "lon" : 139.70343149999999,
+        "name" : "服部栄養専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 329,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7043000000001,
+          35.685684000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 329,
+        "lat" : 35.685684000000002,
+        "lon" : 139.70429999999999,
+        "name" : "東京工学院日本語学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 330,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70605050000006,
+          35.681661000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 330,
+        "lat" : 35.681660999999998,
+        "lon" : 139.7060505,
+        "name" : "日本デザイン福祉専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 331,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70578050000006,
+          35.682381000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 331,
+        "lat" : 35.682380999999999,
+        "lon" : 139.7057805,
+        "name" : "鳩森"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 332,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72485600000005,
+          35.708292000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 332,
+        "lat" : 35.708292,
+        "lon" : 139.72485599999999,
+        "name" : "鶴巻"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 333,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72485600000005,
+          35.708292000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 333,
+        "lat" : 35.708292,
+        "lon" : 139.72485599999999,
+        "name" : "鶴巻"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 334,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72354200000007,
+          35.703918000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 334,
+        "lat" : 35.703918000000002,
+        "lon" : 139.72354200000001,
+        "name" : "早稲田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 335,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72354200000007,
+          35.703918000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 335,
+        "lat" : 35.703918000000002,
+        "lon" : 139.72354200000001,
+        "name" : "早稲田"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 336,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7025225000001,
+          35.681922000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 336,
+        "lat" : 35.681922,
+        "lon" : 139.70252249999999,
+        "name" : "専門学校ミューズモード音楽院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 337,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69996200000003,
+          35.684217000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 337,
+        "lat" : 35.684216999999997,
+        "lon" : 139.699962,
+        "name" : "山野医療専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 338,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69996200000003,
+          35.684217000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 338,
+        "lat" : 35.684216999999997,
+        "lon" : 139.699962,
+        "name" : "山野美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 339,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7016225000001,
+          35.684415000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 339,
+        "lat" : 35.684415000000001,
+        "lon" : 139.70162250000001,
+        "name" : "専門学校東京スクール・オブ・ビジネス"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 340,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69865250000009,
+          35.685576000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 340,
+        "lat" : 35.685575999999998,
+        "lon" : 139.69865250000001,
+        "name" : "専修学校代々木ゼミナール本部校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 341,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69511550000004,
+          35.684910000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 341,
+        "lat" : 35.684910000000002,
+        "lon" : 139.69511550000001,
+        "name" : "文化外国語専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 342,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69511550000004,
+          35.684910000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 342,
+        "lat" : 35.684910000000002,
+        "lon" : 139.69511550000001,
+        "name" : "文化服装学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 343,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69278000000008,
+          35.683110000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 343,
+        "lat" : 35.683109999999999,
+        "lon" : 139.69278,
+        "name" : "山谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 344,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69483200000002,
+          35.681220000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 344,
+        "lat" : 35.681220000000003,
+        "lon" : 139.69483199999999,
+        "name" : "代々木山谷"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 345,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77715050000006,
+          35.633601000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 345,
+        "lat" : 35.633600999999999,
+        "lon" : 139.7771505,
+        "name" : "にじのはし"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 346,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77715050000006,
+          35.633601000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 346,
+        "lat" : 35.633600999999999,
+        "lon" : 139.7771505,
+        "name" : "港陽"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 347,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77715050000006,
+          35.633601000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 347,
+        "lat" : 35.633600999999999,
+        "lon" : 139.7771505,
+        "name" : "港陽"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 348,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70573100000001,
+          35.699652000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 348,
+        "lat" : 35.699652,
+        "lon" : 139.70573099999999,
+        "name" : "大久保"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 349,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70573100000001,
+          35.699652000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 349,
+        "lat" : 35.699652,
+        "lon" : 139.70573099999999,
+        "name" : "大久保"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 350,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70834550000006,
+          35.707842000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 350,
+        "lat" : 35.707841999999999,
+        "lon" : 139.70834550000001,
+        "name" : "へレン・ケラー学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 351,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70582100000001,
+          35.706060000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 351,
+        "lat" : 35.706060000000001,
+        "lon" : 139.70582099999999,
+        "name" : "早稲田大学芸術学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 352,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7020950000001,
+          35.70496200000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 352,
+        "lat" : 35.704962000000002,
+        "lon" : 139.70209500000001,
+        "name" : "海城高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 353,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7020950000001,
+          35.70496200000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 353,
+        "lat" : 35.704962000000002,
+        "lon" : 139.70209500000001,
+        "name" : "海城中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 354,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70327850000001,
+          35.706285000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 354,
+        "lat" : 35.706285000000001,
+        "lon" : 139.70327850000001,
+        "name" : "保善高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 355,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71607200000005,
+          35.681796000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 355,
+        "lat" : 35.681795999999999,
+        "lon" : 139.716072,
+        "name" : "四谷第六"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 356,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71607200000005,
+          35.681796000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 356,
+        "lat" : 35.681795999999999,
+        "lon" : 139.716072,
+        "name" : "四谷第六"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 357,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7719876000001,
+          35.670571580000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 357,
+        "lat" : 35.670571580000001,
+        "lon" : 139.77198759999999,
+        "name" : "東京ギャラクシー日本語学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 358,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77119700000003,
+          35.668008000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 358,
+        "lat" : 35.668008,
+        "lon" : 139.771197,
+        "name" : "京橋朝海"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 359,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77119700000003,
+          35.668008000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 359,
+        "lat" : 35.668008,
+        "lon" : 139.771197,
+        "name" : "京橋築地"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 360,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77216900000008,
+          35.666361000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 360,
+        "lat" : 35.666361000000002,
+        "lon" : 139.77216899999999,
+        "name" : "東京仏教学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 361,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69147050000004,
+          35.719533000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 361,
+        "lat" : 35.719532999999998,
+        "lon" : 139.69147050000001,
+        "name" : "落合第一"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 362,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68625500000007,
+          35.720514000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 362,
+        "lat" : 35.720514000000001,
+        "lon" : 139.68625499999999,
+        "name" : "下落合みどり幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 363,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68094050000002,
+          35.717679000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 363,
+        "lat" : 35.717678999999997,
+        "lon" : 139.68094049999999,
+        "name" : "目白研心高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 364,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68094050000002,
+          35.717679000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 364,
+        "lat" : 35.717678999999997,
+        "lon" : 139.68094049999999,
+        "name" : "目白研心中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 365,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74201000000005,
+          35.702730000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 365,
+        "lat" : 35.702730000000003,
+        "lon" : 139.74200999999999,
+        "name" : "津久戸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 366,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74201000000005,
+          35.702730000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 366,
+        "lat" : 35.702730000000003,
+        "lon" : 139.74200999999999,
+        "name" : "津久戸"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 367,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78475550000007,
+          35.668620000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 367,
+        "lat" : 35.668619999999997,
+        "lon" : 139.78475549999999,
+        "name" : "佃島"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 368,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78508850000003,
+          35.668071000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 368,
+        "lat" : 35.668070999999998,
+        "lon" : 139.7850885,
+        "name" : "佃"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 369,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71068100000002,
+          35.656641000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 369,
+        "lat" : 35.656641,
+        "lon" : 139.71068099999999,
+        "name" : "実践女子学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 370,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71068100000002,
+          35.656641000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 370,
+        "lat" : 35.656641,
+        "lon" : 139.71068099999999,
+        "name" : "実践女子学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 371,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71042900000009,
+          35.655777000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 371,
+        "lat" : 35.655777,
+        "lon" : 139.710429,
+        "name" : "常磐松"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 372,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71208050000007,
+          35.65179900000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 372,
+        "lat" : 35.651798999999997,
+        "lon" : 139.71208050000001,
+        "name" : "広尾"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 373,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71208050000007,
+          35.65179900000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 373,
+        "lat" : 35.651798999999997,
+        "lon" : 139.71208050000001,
+        "name" : "広尾"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 374,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71255300000007,
+          35.654229000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 374,
+        "lat" : 35.654229000000001,
+        "lon" : 139.71255300000001,
+        "name" : "広尾"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 375,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71263850000003,
+          35.653617000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 375,
+        "lat" : 35.653616999999997,
+        "lon" : 139.7126385,
+        "name" : "広尾"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 376,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78115100000002,
+          35.694657000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 376,
+        "lat" : 35.694656999999999,
+        "lon" : 139.78115099999999,
+        "name" : "一橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 377,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78687050000008,
+          35.69227200000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 377,
+        "lat" : 35.692272000000003,
+        "lon" : 139.78687049999999,
+        "name" : "日本橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 378,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76881650000007,
+          35.691354000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 378,
+        "lat" : 35.691353999999997,
+        "lon" : 139.76881650000001,
+        "name" : "専門学校神田外語学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 379,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70546550000006,
+          35.689230000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 379,
+        "lat" : 35.689230000000002,
+        "lon" : 139.7054655,
+        "name" : "新宿"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 380,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72516200000007,
+          35.667666000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 380,
+        "lat" : 35.667665999999997,
+        "lon" : 139.72516200000001,
+        "name" : "赤坂"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 381,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71890700000006,
+          35.669709000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 381,
+        "lat" : 35.669708999999997,
+        "lon" : 139.718907,
+        "name" : "青山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 382,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7223765,
+          35.669070000000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 382,
+        "lat" : 35.669069999999998,
+        "lon" : 139.7223765,
+        "name" : "青山特別支援学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 383,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71701700000006,
+          35.663544000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 383,
+        "lat" : 35.663544000000002,
+        "lon" : 139.717017,
+        "name" : "青南"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 384,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71610350000003,
+          35.663508000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 384,
+        "lat" : 35.663508,
+        "lon" : 139.7161035,
+        "name" : "青南"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 385,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69467000000009,
+          35.654481000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 385,
+        "lat" : 35.654480999999997,
+        "lon" : 139.69467,
+        "name" : "東京日本語学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 386,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73587200000009,
+          35.650917000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 386,
+        "lat" : 35.650917,
+        "lon" : 139.735872,
+        "name" : "東町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 387,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73530049999999,
+          35.647254000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 387,
+        "lat" : 35.647253999999997,
+        "lon" : 139.73530049999999,
+        "name" : "東京インターナショナルスクール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 388,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72993650000001,
+          35.649810000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 388,
+        "lat" : 35.649810000000002,
+        "lon" : 139.72993650000001,
+        "name" : "本村"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 389,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72993650000001,
+          35.649810000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 389,
+        "lat" : 35.649810000000002,
+        "lon" : 139.72993650000001,
+        "name" : "本村"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 390,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72476600000005,
+          35.651079000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 390,
+        "lat" : 35.651079000000003,
+        "lon" : 139.72476599999999,
+        "name" : "南部坂幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 391,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72248000000002,
+          35.654400000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 391,
+        "lat" : 35.654400000000003,
+        "lon" : 139.72247999999999,
+        "name" : "広尾学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 392,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72248000000002,
+          35.654400000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 392,
+        "lat" : 35.654400000000003,
+        "lon" : 139.72247999999999,
+        "name" : "広尾学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 393,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72664250000003,
+          35.653563000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 393,
+        "lat" : 35.653562999999998,
+        "lon" : 139.7266425,
+        "name" : "愛育幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 394,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72664250000003,
+          35.653563000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 394,
+        "lat" : 35.653562999999998,
+        "lon" : 139.7266425,
+        "name" : "愛育学園（特別支援学校）（幼・小）"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 395,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7741158,
+          35.681310560000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 395,
+        "lat" : 35.68131056,
+        "lon" : 139.7741158,
+        "name" : "アートマスターズスクール"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 396,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78800000000001,
+          35.683281000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 396,
+        "lat" : 35.683281000000001,
+        "lon" : 139.78800000000001,
+        "name" : "有馬"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 397,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78800000000001,
+          35.683281000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 397,
+        "lat" : 35.683281000000001,
+        "lon" : 139.78800000000001,
+        "name" : "有馬"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 398,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77648450000004,
+          35.679753000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 398,
+        "lat" : 35.679752999999998,
+        "lon" : 139.77648450000001,
+        "name" : "阪本"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 399,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77691200000004,
+          35.680041000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 399,
+        "lat" : 35.680041000000003,
+        "lon" : 139.77691200000001,
+        "name" : "城東"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 400,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77691200000004,
+          35.680041000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 400,
+        "lat" : 35.680041000000003,
+        "lon" : 139.77691200000001,
+        "name" : "阪本"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 401,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7843325,
+          35.689041000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 401,
+        "lat" : 35.689041000000003,
+        "lon" : 139.7843325,
+        "name" : "久松"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 402,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7843325,
+          35.689041000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 402,
+        "lat" : 35.689041000000003,
+        "lon" : 139.7843325,
+        "name" : "久松"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 403,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77891450000004,
+          35.692398000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 403,
+        "lat" : 35.692397999999997,
+        "lon" : 139.77891450000001,
+        "name" : "東京英語専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 404,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77964350000002,
+          35.684451000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 404,
+        "lat" : 35.684451000000003,
+        "lon" : 139.77964349999999,
+        "name" : "北九州予備校東京校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 405,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78161,
+          35.684685000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 405,
+        "lat" : 35.684685000000002,
+        "lon" : 139.78161,
+        "name" : "日本橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 406,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78161,
+          35.684685000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 406,
+        "lat" : 35.684685000000002,
+        "lon" : 139.78161,
+        "name" : "日本橋"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 407,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78458450000005,
+          35.695845000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 407,
+        "lat" : 35.695844999999998,
+        "lon" : 139.78458449999999,
+        "name" : "開智日本橋学園高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 408,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78458450000005,
+          35.695845000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 408,
+        "lat" : 35.695844999999998,
+        "lon" : 139.78458449999999,
+        "name" : "開智日本橋学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 409,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77054900000007,
+          35.688465000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 409,
+        "lat" : 35.688465000000001,
+        "lon" : 139.77054899999999,
+        "name" : "常盤"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 410,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77054900000007,
+          35.688465000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 410,
+        "lat" : 35.688465000000001,
+        "lon" : 139.77054899999999,
+        "name" : "常盤"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 411,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72889250000003,
+          35.645004000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 411,
+        "lat" : 35.645004,
+        "lon" : 139.7288925,
+        "name" : "三光"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 412,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72605750000002,
+          35.642700000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 412,
+        "lat" : 35.642699999999998,
+        "lon" : 139.7260575,
+        "name" : "聖心女子学院高等科"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 413,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72605750000002,
+          35.642700000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 413,
+        "lat" : 35.642699999999998,
+        "lon" : 139.7260575,
+        "name" : "聖心女子学院中等科"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 414,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72605750000002,
+          35.642700000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 414,
+        "lat" : 35.642699999999998,
+        "lon" : 139.7260575,
+        "name" : "聖心女子学院初等科"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 415,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72689450000007,
+          35.643699000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 415,
+        "lat" : 35.643698999999998,
+        "lon" : 139.72689449999999,
+        "name" : "白金の丘"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 416,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72689450000007,
+          35.643699000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 416,
+        "lat" : 35.643698999999998,
+        "lon" : 139.72689449999999,
+        "name" : "白金の丘"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 417,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72763250000003,
+          35.64233100000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 417,
+        "lat" : 35.642330999999999,
+        "lon" : 139.7276325,
+        "name" : "サンタ・セシリア幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 418,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73098500000003,
+          35.638587000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 418,
+        "lat" : 35.638587000000001,
+        "lon" : 139.730985,
+        "name" : "明治学院高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 419,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7285505000001,
+          35.636787000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 419,
+        "lat" : 35.636786999999998,
+        "lon" : 139.72855050000001,
+        "name" : "白金"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 420,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72955850000005,
+          35.632134000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 420,
+        "lat" : 35.632134000000001,
+        "lon" : 139.7295585,
+        "name" : "頌栄女子学院高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 421,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72955850000005,
+          35.632134000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 421,
+        "lat" : 35.632134000000001,
+        "lon" : 139.7295585,
+        "name" : "頌栄女子学院中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 422,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72654800000009,
+          35.635590000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 422,
+        "lat" : 35.635590000000001,
+        "lon" : 139.72654800000001,
+        "name" : "白金台"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 423,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7179890000001,
+          35.635581000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 423,
+        "lat" : 35.635581000000002,
+        "lon" : 139.71798899999999,
+        "name" : "白金幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 424,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67331300000001,
+          35.680752000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 424,
+        "lat" : 35.680751999999998,
+        "lon" : 139.67331300000001,
+        "name" : "中幡"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 425,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.769181,
+          35.679294000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 425,
+        "lat" : 35.679293999999999,
+        "lon" : 139.769181,
+        "name" : "昭和"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 426,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77768600000002,
+          35.677323000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 426,
+        "lat" : 35.677323000000001,
+        "lon" : 139.77768599999999,
+        "name" : "東京医療福祉専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 427,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69873800000005,
+          35.650233000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 427,
+        "lat" : 35.650233,
+        "lon" : 139.69873799999999,
+        "name" : "第一商業"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 428,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69922400000007,
+          35.699391000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 428,
+        "lat" : 35.699390999999999,
+        "lon" : 139.69922399999999,
+        "name" : "東京マルチメディア専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 429,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69811250000009,
+          35.698284000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 429,
+        "lat" : 35.698284000000001,
+        "lon" : 139.69811250000001,
+        "name" : "日本電子専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 430,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70140650000008,
+          35.699985000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 430,
+        "lat" : 35.699984999999998,
+        "lon" : 139.70140649999999,
+        "name" : "東洋鍼灸専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 431,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70085300000005,
+          35.698518000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 431,
+        "lat" : 35.698518,
+        "lon" : 139.700853,
+        "name" : "専門学校東京経理綜合学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 432,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70085300000005,
+          35.698518000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 432,
+        "lat" : 35.698518,
+        "lon" : 139.700853,
+        "name" : "ファッションビジネスカレッジ東京"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 433,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70196450000003,
+          35.703918000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 433,
+        "lat" : 35.703918000000002,
+        "lon" : 139.7019645,
+        "name" : "戸山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 434,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70196450000003,
+          35.703918000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 434,
+        "lat" : 35.703918000000002,
+        "lon" : 139.7019645,
+        "name" : "戸山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 435,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69497150000007,
+          35.704242000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 435,
+        "lat" : 35.704242000000001,
+        "lon" : 139.69497150000001,
+        "name" : "東京眼鏡専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 436,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70031300000005,
+          35.703261000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 436,
+        "lat" : 35.703260999999998,
+        "lon" : 139.70031299999999,
+        "name" : "西武学園医学技術専門学校東京新宿校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 437,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7004525000001,
+          35.70408000000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 437,
+        "lat" : 35.704079999999998,
+        "lon" : 139.70045250000001,
+        "name" : "グレッグ外語専門学校新宿校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 438,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69824750000009,
+          35.70496200000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 438,
+        "lat" : 35.704962000000002,
+        "lon" : 139.69824750000001,
+        "name" : "独立行政法人地域医療機能推進機構\n東京山手メディカルセンター附属看護専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 439,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69935900000007,
+          35.707959000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 439,
+        "lat" : 35.707959000000002,
+        "lon" : 139.69935899999999,
+        "name" : "西戸山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 440,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70077650000007,
+          35.708562000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 440,
+        "lat" : 35.708562000000001,
+        "lon" : 139.70077649999999,
+        "name" : "新宿西戸山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 441,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69570950000002,
+          35.708886000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 441,
+        "lat" : 35.708886,
+        "lon" : 139.69570949999999,
+        "name" : "西戸山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 442,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6863585000001,
+          35.665245000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 442,
+        "lat" : 35.665244999999999,
+        "lon" : 139.68635850000001,
+        "name" : "東海大学付属望星高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 443,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71601800000008,
+          35.693568000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 443,
+        "lat" : 35.693567999999999,
+        "lon" : 139.71601799999999,
+        "name" : "総合芸術"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 444,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71800700000006,
+          35.692191000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 444,
+        "lat" : 35.692191000000001,
+        "lon" : 139.718007,
+        "name" : "東洋美術学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 445,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71627000000001,
+          35.692425000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 445,
+        "lat" : 35.692425,
+        "lon" : 139.71627000000001,
+        "name" : "富久"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 446,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71627000000001,
+          35.692425000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 446,
+        "lat" : 35.692425,
+        "lon" : 139.71627000000001,
+        "name" : "富久"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 447,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71670200000005,
+          35.691804000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 447,
+        "lat" : 35.691803999999998,
+        "lon" : 139.716702,
+        "name" : "成女高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 448,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71670200000005,
+          35.691804000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 448,
+        "lat" : 35.691803999999998,
+        "lon" : 139.716702,
+        "name" : "成女学園中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 449,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74643350000008,
+          35.697231000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 449,
+        "lat" : 35.697231000000002,
+        "lon" : 139.74643349999999,
+        "name" : "ふじみこども園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 450,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74643350000008,
+          35.697231000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 450,
+        "lat" : 35.697231000000002,
+        "lon" : 139.74643349999999,
+        "name" : "富士見"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 451,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74833250000006,
+          35.698437000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 451,
+        "lat" : 35.698436999999998,
+        "lon" : 139.7483325,
+        "name" : "暁星小学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 452,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74876900000004,
+          35.69764500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 452,
+        "lat" : 35.697645000000001,
+        "lon" : 139.74876900000001,
+        "name" : "お茶の水"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 453,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74876900000004,
+          35.69764500000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 453,
+        "lat" : 35.697645000000001,
+        "lon" : 139.74876900000001,
+        "name" : "お茶の水"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 454,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74820200000011,
+          35.697222000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 454,
+        "lat" : 35.697221999999996,
+        "lon" : 139.74820199999999,
+        "name" : "暁星幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 455,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74820200000011,
+          35.697222000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 455,
+        "lat" : 35.697221999999996,
+        "lon" : 139.74820199999999,
+        "name" : "暁星高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 456,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74820200000011,
+          35.697222000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 456,
+        "lat" : 35.697221999999996,
+        "lon" : 139.74820199999999,
+        "name" : "暁星中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 457,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7456370000001,
+          35.700633000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 457,
+        "lat" : 35.700633000000003,
+        "lon" : 139.74563699999999,
+        "name" : "専門学校ファッションカレッジ桜丘"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 458,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73913000000005,
+          35.680176000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 458,
+        "lat" : 35.680176000000003,
+        "lon" : 139.73912999999999,
+        "name" : "麹町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 459,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7712150000001,
+          35.653383000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 459,
+        "lat" : 35.653382999999998,
+        "lon" : 139.77121500000001,
+        "name" : "豊海"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 460,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7712150000001,
+          35.653383000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 460,
+        "lat" : 35.653382999999998,
+        "lon" : 139.77121500000001,
+        "name" : "豊海"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 461,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73040900000001,
+          35.700354000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 461,
+        "lat" : 35.700353999999997,
+        "lon" : 139.73040900000001,
+        "name" : "牛込第一"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 462,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68940050000003,
+          35.700507000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 462,
+        "lat" : 35.700507000000002,
+        "lon" : 139.6894005,
+        "name" : "柏木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 463,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69084950000001,
+          35.703936000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 463,
+        "lat" : 35.703935999999999,
+        "lon" : 139.69084950000001,
+        "name" : "淀橋第四"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 464,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69084950000001,
+          35.703936000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 464,
+        "lat" : 35.703935999999999,
+        "lon" : 139.69084950000001,
+        "name" : "淀橋第四"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 465,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68936900000006,
+          35.703531000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 465,
+        "lat" : 35.703530999999998,
+        "lon" : 139.689369,
+        "name" : "日本学生支援機構東京日本語教育センター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 466,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72205250000002,
+          35.674182000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 466,
+        "lat" : 35.674182000000002,
+        "lon" : 139.72205249999999,
+        "name" : "青山"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 467,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71223350000002,
+          35.666460000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 467,
+        "lat" : 35.666460000000001,
+        "lon" : 139.7122335,
+        "name" : "専門学校青山ファッションカレッジ"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 468,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73402700000008,
+          35.699760000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 468,
+        "lat" : 35.699759999999998,
+        "lon" : 139.734027,
+        "name" : "愛日"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 469,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68531900000005,
+          35.687043000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 469,
+        "lat" : 35.687043000000003,
+        "lon" : 139.68531899999999,
+        "name" : "関東国際高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 470,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67915850000009,
+          35.688141000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 470,
+        "lat" : 35.688141000000002,
+        "lon" : 139.6791585,
+        "name" : "東放学園音響専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 471,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68188550000002,
+          35.685981000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 471,
+        "lat" : 35.685980999999998,
+        "lon" : 139.68188549999999,
+        "name" : "渋谷本町学園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 472,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68188550000002,
+          35.685981000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 472,
+        "lat" : 35.685980999999998,
+        "lon" : 139.68188549999999,
+        "name" : "渋谷本町学園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 473,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67488800000001,
+          35.684271000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 473,
+        "lat" : 35.684271000000003,
+        "lon" : 139.67488800000001,
+        "name" : "本町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 474,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6798695,
+          35.681085000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 474,
+        "lat" : 35.681085000000003,
+        "lon" : 139.6798695,
+        "name" : "専門学校東洋公衆衛生学院"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 475,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.67823150000004,
+          35.680716000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 475,
+        "lat" : 35.680715999999997,
+        "lon" : 139.67823150000001,
+        "name" : "帝京めぐみ幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 476,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73853150000002,
+          35.661942000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 476,
+        "lat" : 35.661942000000003,
+        "lon" : 139.73853149999999,
+        "name" : "麻布"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 477,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73853150000002,
+          35.661942000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 477,
+        "lat" : 35.661942000000003,
+        "lon" : 139.73853149999999,
+        "name" : "麻布"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 478,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77886050000006,
+          35.672265000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 478,
+        "lat" : 35.672265000000003,
+        "lon" : 139.77886050000001,
+        "name" : "中央"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 479,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77886050000006,
+          35.672265000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 479,
+        "lat" : 35.672265000000003,
+        "lon" : 139.77886050000001,
+        "name" : "中央"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 480,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77655650000008,
+          35.668863000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 480,
+        "lat" : 35.668863000000002,
+        "lon" : 139.7765565,
+        "name" : "明石"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 481,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77655650000008,
+          35.668863000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 481,
+        "lat" : 35.668863000000002,
+        "lon" : 139.7765565,
+        "name" : "明石"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 482,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77735300000006,
+          35.669331000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 482,
+        "lat" : 35.669331,
+        "lon" : 139.77735300000001,
+        "name" : "東京ファッション専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 483,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74306750000005,
+          35.702118000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 483,
+        "lat" : 35.702117999999999,
+        "lon" : 139.7430675,
+        "name" : "独立行政法人地域医療機能推進機構\n東京新宿メディカルセンター附属看護専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 484,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73247450000008,
+          35.686710000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 484,
+        "lat" : 35.686709999999998,
+        "lon" : 139.7324745,
+        "name" : "雙葉小学校附属幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 485,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73524200000008,
+          35.687817000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 485,
+        "lat" : 35.687817000000003,
+        "lon" : 139.735242,
+        "name" : "専修学校河合塾麹町校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 486,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73168700000008,
+          35.68694400000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 486,
+        "lat" : 35.686943999999997,
+        "lon" : 139.73168699999999,
+        "name" : "雙葉高等学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 487,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73168700000008,
+          35.68694400000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 487,
+        "lat" : 35.686943999999997,
+        "lon" : 139.73168699999999,
+        "name" : "雙葉中学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 488,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73168700000008,
+          35.68694400000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 488,
+        "lat" : 35.686943999999997,
+        "lon" : 139.73168699999999,
+        "name" : "雙葉小学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 489,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73379750000004,
+          35.687979000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 489,
+        "lat" : 35.687978999999999,
+        "lon" : 139.73379750000001,
+        "name" : "番町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 490,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73379750000004,
+          35.687979000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 490,
+        "lat" : 35.687978999999999,
+        "lon" : 139.73379750000001,
+        "name" : "番町"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 491,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73493150000002,
+          35.659224000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 491,
+        "lat" : 35.659224000000002,
+        "lon" : 139.73493149999999,
+        "name" : "東洋英和女学院高等部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 492,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73493150000002,
+          35.659224000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 492,
+        "lat" : 35.659224000000002,
+        "lon" : 139.73493149999999,
+        "name" : "東洋英和女学院中学部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 493,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73369850000006,
+          35.661078000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 493,
+        "lat" : 35.661078000000003,
+        "lon" : 139.7336985,
+        "name" : "東洋英和幼稚園"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 494,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73369850000006,
+          35.661078000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 494,
+        "lat" : 35.661078000000003,
+        "lon" : 139.7336985,
+        "name" : "東洋英和女学院小学部"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 495,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73120100000006,
+          35.657865000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 495,
+        "lat" : 35.657865000000001,
+        "lon" : 139.731201,
+        "name" : "六本木"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 496,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7298555000001,
+          35.658207000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 496,
+        "lat" : 35.658206999999997,
+        "lon" : 139.72985550000001,
+        "name" : "アメリカン・スクール・イン・ジャパン・アーリーラーニングセンター"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 497,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73013450000008,
+          35.661339000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 497,
+        "lat" : 35.661338999999998,
+        "lon" : 139.73013449999999,
+        "name" : "ハリウッド美容専門学校"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 498,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73218650000001,
+          35.660835000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 498,
+        "lat" : 35.660834999999999,
+        "lon" : 139.73218650000001,
+        "name" : "六本木"
+      }
+    }
+  ]
+}

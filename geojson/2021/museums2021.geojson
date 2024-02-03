@@ -1,0 +1,3473 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74659800000006,
+          35.619205000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "name" : "ANOMALY",
+        "lon" : 139.74659800000001,
+        "lat" : 35.619205000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7171780000001,
+          35.631731000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "name" : "EMON PHOTO GALLERY",
+        "lon" : 139.71717799999999,
+        "lat" : 35.631731000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71922300000006,
+          35.609686000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "name" : "Hasu no hana",
+        "lon" : 139.719223,
+        "lat" : 35.609686000000004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74836700000003,
+          35.622799000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "name" : "IMA gallery",
+        "lon" : 139.748367,
+        "lat" : 35.622799000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74659800000006,
+          35.619205000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "name" : "KOSAKU KANECHIKA",
+        "lon" : 139.74659800000001,
+        "lat" : 35.619205000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72912400000007,
+          35.620938000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "name" : "O美術館",
+        "lon" : 139.72912400000001,
+        "lat" : 35.620938000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71725900000001,
+          35.623162000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "name" : "TOC五反田メッセ",
+        "lon" : 139.71725900000001,
+        "lat" : 35.623162000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74659800000006,
+          35.619205000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "name" : "YUKA TSURUNO GALLERY",
+        "lon" : 139.74659800000001,
+        "lat" : 35.619205000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71464200000003,
+          35.634602000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "name" : "久米美術館",
+        "lon" : 139.714642,
+        "lat" : 35.634602000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71585600000003,
+          35.63162200000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "name" : "杉野学園衣裳博物館",
+        "lon" : 139.715856,
+        "lat" : 35.631622
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77236500000004,
+          35.620345000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "name" : "船の科学館",
+        "lon" : 139.77236500000001,
+        "lat" : 35.620345
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73015300000009,
+          35.596660000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "name" : "品川区立品川歴史館",
+        "lon" : 139.730153,
+        "lat" : 35.59666
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73530500000004,
+          35.620421000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "name" : "翡翠原石館",
+        "lon" : 139.73530500000001,
+        "lat" : 35.620421
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77022700000009,
+          35.675310000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "name" : "art space kimura ASK?",
+        "lon" : 139.77022700000001,
+        "lat" : 35.675310000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77079400000002,
+          35.671977000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "name" : "GALLERY ART POINT",
+        "lon" : 139.770794,
+        "lat" : 35.671976999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76926600000002,
+          35.670536000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "name" : "IG Photo Gallery",
+        "lon" : 139.76926599999999,
+        "lat" : 35.670535999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7664390000001,
+          35.674946000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "name" : "Oギャラリー",
+        "lon" : 139.76643899999999,
+        "lat" : 35.674945999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78354300000001,
+          35.69532200000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "name" : "PARCEL",
+        "lon" : 139.78354300000001,
+        "lat" : 35.695321999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76476700000001,
+          35.671241000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "name" : "RICOH ART GALLERY",
+        "lon" : 139.76476700000001,
+        "lat" : 35.671241000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78230200000007,
+          35.665803000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "name" : "Temporary Contemporary",
+        "lon" : 139.78230199999999,
+        "lat" : 35.665802999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77194600000007,
+          35.680821000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "name" : "UNPEL GALLERY",
+        "lon" : 139.77194600000001,
+        "lat" : 35.680821000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.772066,
+          35.678766000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "name" : "アーティゾン美術館",
+        "lon" : 139.772066,
+        "lat" : 35.678766000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76088400000003,
+          35.670722000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "name" : "ガーディアン・ガーデン",
+        "lon" : 139.760884,
+        "lat" : 35.670721999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76946900000007,
+          35.673088000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "name" : "ギャラリーQ",
+        "lon" : 139.76946899999999,
+        "lat" : 35.673088
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7680610000001,
+          35.675457000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "name" : "ギャラリーなつか",
+        "lon" : 139.76806099999999,
+        "lat" : 35.675457000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76817200000005,
+          35.674644000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "name" : "ギャラリー小柳",
+        "lon" : 139.76817199999999,
+        "lat" : 35.674644000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76851600000009,
+          35.675569000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "name" : "ギャラリー川船",
+        "lon" : 139.76851600000001,
+        "lat" : 35.675569000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76156400000002,
+          35.670111000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "name" : "ギャルリーためなが",
+        "lon" : 139.76156399999999,
+        "lat" : 35.670110999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76987500000007,
+          35.675016000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "name" : "ギャルリー東京ユマニテ",
+        "lon" : 139.76987500000001,
+        "lat" : 35.675015999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75945100000001,
+          35.66856400000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "name" : "クリエイションギャラリーG8",
+        "lon" : 139.75945100000001,
+        "lat" : 35.668564000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7672080000001,
+          35.671402000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "name" : "コバヤシ画廊",
+        "lon" : 139.76720800000001,
+        "lat" : 35.671402
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76645800000006,
+          35.67303000000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "name" : "シャネル・ネクサス・ホール",
+        "lon" : 139.766458,
+        "lat" : 35.673029999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7630200000001,
+          35.668444000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "name" : "シロタ画廊",
+        "lon" : 139.76302000000001,
+        "lat" : 35.668444000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.767561,
+          35.671177000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "name" : "セントラルミュージアム銀座",
+        "lon" : 139.767561,
+        "lat" : 35.671177
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7625700000001,
+          35.670580000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "name" : "ヒロ画廊",
+        "lon" : 139.76257000000001,
+        "lat" : 35.670580000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76786900000002,
+          35.674330000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "name" : "ポーラ ミュージアム アネックス",
+        "lon" : 139.76786899999999,
+        "lat" : 35.674329999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78588200000002,
+          35.681652000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "name" : "ミュゼ浜口陽三・ヤマサコレクション",
+        "lon" : 139.78588199999999,
+        "lat" : 35.681652
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76016400000003,
+          35.669413000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "name" : "吉井画廊",
+        "lon" : 139.760164,
+        "lat" : 35.669412999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76532800000007,
+          35.671933000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "name" : "銀座美術館",
+        "lon" : 139.76532800000001,
+        "lat" : 35.671933000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76882499999999,
+          35.673710000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "name" : "巷房",
+        "lon" : 139.76882499999999,
+        "lat" : 35.67371
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77356900000007,
+          35.680707000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "name" : "高島屋史料館TOKYO",
+        "lon" : 139.77356900000001,
+        "lat" : 35.680706999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77066300000001,
+          35.675494000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "name" : "国立映画アーカイブ",
+        "lon" : 139.77066300000001,
+        "lat" : 35.675494
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.772921,
+          35.686393000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "name" : "三井記念美術館",
+        "lon" : 139.772921,
+        "lat" : 35.686393000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76185300000009,
+          35.668555000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "name" : "資生堂ギャラリー",
+        "lon" : 139.761853,
+        "lat" : 35.668554999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76668300000006,
+          35.672274000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "name" : "松屋銀座",
+        "lon" : 139.766683,
+        "lat" : 35.672274000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77472400000011,
+          35.680913000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "name" : "西村画廊",
+        "lon" : 139.77472399999999,
+        "lat" : 35.680912999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76601700000003,
+          35.672710000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "name" : "青木画廊",
+        "lon" : 139.76601700000001,
+        "lat" : 35.672710000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76088400000003,
+          35.670722000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "name" : "泰明画廊",
+        "lon" : 139.760884,
+        "lat" : 35.670721999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77514100000008,
+          35.684426000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "name" : "凧の博物館",
+        "lon" : 139.77514099999999,
+        "lat" : 35.684426000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77022700000009,
+          35.675310000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "name" : "南天子画廊",
+        "lon" : 139.77022700000001,
+        "lat" : 35.675310000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76293600000008,
+          35.671863000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "name" : "日動画廊",
+        "lon" : 139.762936,
+        "lat" : 35.671863000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77345200000002,
+          35.680210000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "name" : "不忍画廊",
+        "lon" : 139.77345199999999,
+        "lat" : 35.680210000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76333099999999,
+          35.671291000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "name" : "養清堂画廊",
+        "lon" : 139.76333099999999,
+        "lat" : 35.671290999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76740000000007,
+          35.675069000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "name" : "藍画廊",
+        "lon" : 139.76740000000001,
+        "lat" : 35.675069000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77083200000004,
+          35.704213000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "name" : "AI KOWADA GALLERY",
+        "lon" : 139.77083200000001,
+        "lat" : 35.704213000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78077100000007,
+          35.693445000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "name" : "gallery αM",
+        "lon" : 139.78077099999999,
+        "lat" : 35.693444999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76218300000005,
+          35.676616000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "name" : "GOOD DESIGN Marunouchi",
+        "lon" : 139.76218299999999,
+        "lat" : 35.676616000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.78023000000007,
+          35.69351400000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "name" : "Kanzan Gallery",
+        "lon" : 139.78022999999999,
+        "lat" : 35.693514
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77083200000004,
+          35.704213000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "name" : "nap gallery",
+        "lon" : 139.77083200000001,
+        "lat" : 35.704213000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77083200000004,
+          35.704213000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "name" : "アキバタマビ21",
+        "lon" : 139.77083200000001,
+        "lat" : 35.704213000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.752206,
+          35.69495500000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "name" : "しょうけい館（戦傷病者史料館）",
+        "lon" : 139.752206,
+        "lat" : 35.694955
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7530230000001,
+          35.691189000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "name" : "科学技術館",
+        "lon" : 139.75302300000001,
+        "lat" : 35.691189000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76016900000002,
+          35.690550000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "name" : "丸紅ギャラリー",
+        "lon" : 139.76016899999999,
+        "lat" : 35.690550000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75381400000003,
+          35.683823000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "name" : "宮内庁三の丸尚蔵館",
+        "lon" : 139.75381400000001,
+        "lat" : 35.683822999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77083200000004,
+          35.704213000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "name" : "京都工芸繊維大学 KYOTO Design Lab 東京ギャラリー",
+        "lon" : 139.77083200000001,
+        "lat" : 35.704213000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.753873,
+          35.690225000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "name" : "国立公文書館",
+        "lon" : 139.753873,
+        "lat" : 35.690224999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.744235,
+          35.678423000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "name" : "国立国会図書館東京本館",
+        "lon" : 139.744235,
+        "lat" : 35.678423000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77083200000004,
+          35.704213000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "name" : "佐賀町アーカイブ",
+        "lon" : 139.77083200000001,
+        "lat" : 35.704213000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76336900000001,
+          35.678499000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "name" : "三菱一号館美術館",
+        "lon" : 139.76336900000001,
+        "lat" : 35.678499000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7609030000001,
+          35.676685000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "name" : "出光美術館",
+        "lon" : 139.76090300000001,
+        "lat" : 35.676684999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75110000000006,
+          35.695205000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "name" : "昭和館",
+        "lon" : 139.75110000000001,
+        "lat" : 35.695205000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.747117,
+          35.694363000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "name" : "成山画廊",
+        "lon" : 139.747117,
+        "lat" : 35.694363000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76350300000001,
+          35.676946000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "name" : "相田みつを美術館",
+        "lon" : 139.76350299999999,
+        "lat" : 35.676946000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74236000000008,
+          35.690988000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "name" : "大妻女子大学博物館",
+        "lon" : 139.74235999999999,
+        "lat" : 35.690987999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76327200000003,
+          35.687856000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "name" : "大手町三井ホール",
+        "lon" : 139.763272,
+        "lat" : 35.687855999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76073100000008,
+          35.675899000000072
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "name" : "第一生命ギャラリー",
+        "lon" : 139.76073099999999,
+        "lat" : 35.675899000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.743379,
+          35.681545000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "name" : "伝統芸能情報館",
+        "lon" : 139.743379,
+        "lat" : 35.681545
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76875400000006,
+          35.681185000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "name" : "東京ステーションギャラリー",
+        "lon" : 139.768754,
+        "lat" : 35.681184999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76350300000001,
+          35.676946000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "name" : "東京国際フォーラム",
+        "lon" : 139.76350299999999,
+        "lat" : 35.676946000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7546420000001,
+          35.69054200000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "name" : "東京国立近代美術館",
+        "lon" : 139.75464199999999,
+        "lat" : 35.690542000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74257900000009,
+          35.686064000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "name" : "日本カメラ博物館",
+        "lon" : 139.74257900000001,
+        "lat" : 35.686064000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74257900000009,
+          35.686064000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "name" : "半蔵門ミュージアム",
+        "lon" : 139.74257900000001,
+        "lat" : 35.686064000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76090500000009,
+          35.695291000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "name" : "文房堂ギャラリー",
+        "lon" : 139.76090500000001,
+        "lat" : 35.695290999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76144700000009,
+          35.697530000000086
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "name" : "明治大学博物館",
+        "lon" : 139.761447,
+        "lat" : 35.69753
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74254800000006,
+          35.694038000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "name" : "靖國神社遊就館",
+        "lon" : 139.742548,
+        "lat" : 35.694037999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73692600000004,
+          35.698535000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "name" : "\u221AK Contemporary",
+        "lon" : 139.73692600000001,
+        "lat" : 35.698535
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70014600000002,
+          35.716751000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "name" : "Alt_Medium",
+        "lon" : 139.70014599999999,
+        "lat" : 35.716751000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73057700000004,
+          35.702998000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "name" : "eitoeiko",
+        "lon" : 139.73057700000001,
+        "lat" : 35.702998000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70637700000009,
+          35.689763000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "name" : "KEN NAKAHASHI",
+        "lon" : 139.706377,
+        "lat" : 35.689762999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73765100000003,
+          35.706328000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "name" : "Maki Fine Arts",
+        "lon" : 139.737651,
+        "lat" : 35.706327999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.712671,
+          35.687727000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "name" : "Place M",
+        "lon" : 139.712671,
+        "lat" : 35.687727000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69615300000009,
+          35.692684000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "name" : "SOMPO美術館",
+        "lon" : 139.69615300000001,
+        "lat" : 35.692684
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71626700000002,
+          35.690185000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "name" : "TOTEM POLE PHOTO GALLERY",
+        "lon" : 139.71626699999999,
+        "lat" : 35.690185
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71932800000002,
+          35.687599000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "name" : "TS4312",
+        "lon" : 139.71932799999999,
+        "lat" : 35.687598999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73467900000003,
+          35.703929000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "name" : "アユミギャラリー",
+        "lon" : 139.734679,
+        "lat" : 35.703929000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71497900000008,
+          35.681742000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "name" : "佐藤美術館",
+        "lon" : 139.714979,
+        "lat" : 35.681742
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70627400000001,
+          35.694640000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "name" : "新宿眼科画廊",
+        "lon" : 139.70627400000001,
+        "lat" : 35.69464
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72587500000009,
+          35.68994900000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "name" : "新宿区立新宿歴史博物館",
+        "lon" : 139.725875,
+        "lat" : 35.689948999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71766200000002,
+          35.678800000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "name" : "聖徳記念絵画館",
+        "lon" : 139.71766199999999,
+        "lat" : 35.678800000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71669500000007,
+          35.707478000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "name" : "早稲田スコットホールギャラリー",
+        "lon" : 139.71669499999999,
+        "lat" : 35.707478000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7190720000001,
+          35.709150000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "name" : "早稲田大学會津八一記念博物館",
+        "lon" : 139.71907200000001,
+        "lat" : 35.709150000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72646100000009,
+          35.703326000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "name" : "草間彌生美術館",
+        "lon" : 139.726461,
+        "lat" : 35.703325999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7021830000001,
+          35.691782000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "name" : "中村屋サロン美術館",
+        "lon" : 139.70218299999999,
+        "lat" : 35.691782000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.729108,
+          35.69092100000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "name" : "帝国データバンク史料館",
+        "lon" : 139.729108,
+        "lat" : 35.690921000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68685400000004,
+          35.682938000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "name" : "東京オペラシティ アートギャラリー",
+        "lon" : 139.68685400000001,
+        "lat" : 35.682938
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71786500000007,
+          35.689821000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "name" : "東京おもちゃ美術館",
+        "lon" : 139.71786499999999,
+        "lat" : 35.689821000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.741398,
+          35.699399000000085
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "name" : "東京理科大学近代科学資料館",
+        "lon" : 139.741398,
+        "lat" : 35.699399
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71514300000001,
+          35.674892000000057
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "name" : "日本オリンピックミュージアム",
+        "lon" : 139.71514300000001,
+        "lat" : 35.674892
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.718751,
+          35.688335000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "name" : "美術愛住館",
+        "lon" : 139.718751,
+        "lat" : 35.688335000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.6925950000001,
+          35.691420000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "name" : "平和祈念展示資料館",
+        "lon" : 139.69259500000001,
+        "lat" : 35.691420000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71929,
+          35.682619000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "name" : "民音音楽博物館",
+        "lon" : 139.71929,
+        "lat" : 35.682619000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70450000000005,
+          35.666551000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "name" : "BLOCK HOUSE",
+        "lon" : 139.7045,
+        "lat" : 35.666550999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70314400000007,
+          35.671101000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "name" : "BLUM & POE",
+        "lon" : 139.70314400000001,
+        "lat" : 35.671101
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69570500000009,
+          35.660739000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "name" : "Bunkamura Box Gallery",
+        "lon" : 139.695705,
+        "lat" : 35.660739
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69570500000009,
+          35.660739000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "name" : "Bunkamura ザ・ミュージアム",
+        "lon" : 139.695705,
+        "lat" : 35.660739
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68749300000002,
+          35.673375000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "name" : "CASE GALLERY",
+        "lon" : 139.68749299999999,
+        "lat" : 35.673375
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70262000000002,
+          35.662030000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "name" : "DIESEL ART GALLERY",
+        "lon" : 139.70262,
+        "lat" : 35.662030000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7048410000001,
+          35.677986000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "name" : "GA Gallery",
+        "lon" : 139.70484099999999,
+        "lat" : 35.677985999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70690500000001,
+          35.667379000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "name" : "GYRE GALLERY",
+        "lon" : 139.70690500000001,
+        "lat" : 35.667378999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70450000000005,
+          35.666551000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "name" : "HARUKAITO by island",
+        "lon" : 139.7045,
+        "lat" : 35.666550999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71899700000006,
+          35.64509600000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "name" : "MA2 Gallery",
+        "lon" : 139.718997,
+        "lat" : 35.645096000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71322100000009,
+          35.672751000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "name" : "MAHO KUBOTA GALLERY",
+        "lon" : 139.713221,
+        "lat" : 35.672750999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7097,
+          35.667090000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "name" : "MAKI",
+        "lon" : 139.7097,
+        "lat" : 35.667090000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71423900000002,
+          35.64761800000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "name" : "MEM",
+        "lon" : 139.71423899999999,
+        "lat" : 35.647618000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69893999999999,
+          35.662049000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "name" : "PARCO MUSEUM TOKYO",
+        "lon" : 139.69893999999999,
+        "lat" : 35.662049000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70179500000006,
+          35.66313800000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "name" : "SAI",
+        "lon" : 139.701795,
+        "lat" : 35.663137999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70647800000006,
+          35.666965000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "name" : "The Mass",
+        "lon" : 139.706478,
+        "lat" : 35.666964999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70121500000005,
+          35.647592000000088
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "name" : "アートフロントギャラリー",
+        "lon" : 139.70121499999999,
+        "lat" : 35.647592000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70514800000001,
+          35.656158000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "name" : "ギャラリー・ルデコ",
+        "lon" : 139.70514800000001,
+        "lat" : 35.656157999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70900500000005,
+          35.667143000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "name" : "ギャラリー同潤会",
+        "lon" : 139.70900499999999,
+        "lat" : 35.667143000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71380700000009,
+          35.670965000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "name" : "トキ・アートスペース",
+        "lon" : 139.713807,
+        "lat" : 35.670965000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70551900000009,
+          35.669104000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "name" : "ラフォーレミュージアム原宿",
+        "lon" : 139.70551900000001,
+        "lat" : 35.669103999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71337100000005,
+          35.670668000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "name" : "ワタリウム美術館",
+        "lon" : 139.713371,
+        "lat" : 35.670667999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.68003800000008,
+          35.667820000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "name" : "古賀政男音楽博物館",
+        "lon" : 139.680038,
+        "lat" : 35.667819999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70060599999999,
+          35.662382000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "name" : "古代エジプト美術館",
+        "lon" : 139.70060599999999,
+        "lat" : 35.662382000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69279300000005,
+          35.661429000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "name" : "戸栗美術館",
+        "lon" : 139.69279299999999,
+        "lat" : 35.661428999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71371500000009,
+          35.653238000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "name" : "山種美術館",
+        "lon" : 139.71371500000001,
+        "lat" : 35.653238000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69178800000009,
+          35.658680000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "name" : "渋谷区立松濤美術館",
+        "lon" : 139.691788,
+        "lat" : 35.658679999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71318000000008,
+          35.670451000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "name" : "青山ゼロセンター",
+        "lon" : 139.71317999999999,
+        "lat" : 35.670451
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.70496900000001,
+          35.66940100000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "name" : "太田記念美術館",
+        "lon" : 139.70496900000001,
+        "lat" : 35.669401000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69963700000005,
+          35.662555000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "name" : "東京都渋谷公園通りギャラリー",
+        "lon" : 139.699637,
+        "lat" : 35.662554999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71256100000005,
+          35.656392000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "name" : "白根記念渋谷区郷土博物館・文学館",
+        "lon" : 139.71256099999999,
+        "lat" : 35.656391999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71017700000004,
+          35.668749000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "name" : "表参道画廊",
+        "lon" : 139.71017699999999,
+        "lat" : 35.668748999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69491400000004,
+          35.686235000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "name" : "文化学園服飾博物館",
+        "lon" : 139.69491400000001,
+        "lat" : 35.686235000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.69989700000008,
+          35.675875000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "name" : "明治神宮ミュージアム",
+        "lon" : 139.69989699999999,
+        "lat" : 35.675874999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71165000000008,
+          35.655644000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "name" : "國學院大學博物館",
+        "lon" : 139.71164999999999,
+        "lat" : 35.655644000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7304640000001,
+          35.667527000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "name" : "21_21 DESIGN SIGHT",
+        "lon" : 139.73046400000001,
+        "lat" : 35.667527
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73668100000009,
+          35.661361000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "name" : "amanaTIGP",
+        "lon" : 139.736681,
+        "lat" : 35.661360999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72921700000006,
+          35.662158000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 149,
+        "name" : "CLEAR GALLERY TOKYO",
+        "lon" : 139.72921700000001,
+        "lat" : 35.662157999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.732981,
+          35.661725000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 150,
+        "name" : "hiromiyoshii roppongi",
+        "lon" : 139.732981,
+        "lat" : 35.661724999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.727262,
+          35.653948000000071
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 151,
+        "name" : "Kaikai Kiki Gallery",
+        "lon" : 139.727262,
+        "lat" : 35.653948
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72123500000009,
+          35.662180000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 152,
+        "name" : "KANA KAWANISHI PHOTOGRAPHY",
+        "lon" : 139.72123500000001,
+        "lat" : 35.662179999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7311370000001,
+          35.650057000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 153,
+        "name" : "MISA SHIN GALLERY",
+        "lon" : 139.73113699999999,
+        "lat" : 35.650056999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74829099999999,
+          35.663794000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 154,
+        "name" : "ＮＨＫ放送博物館",
+        "lon" : 139.74829099999999,
+        "lat" : 35.663794000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74286400000005,
+          35.657409000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 155,
+        "name" : "PGI",
+        "lon" : 139.742864,
+        "lat" : 35.657409000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72300400000006,
+          35.659952000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 156,
+        "name" : "SNOW Contemporary",
+        "lon" : 139.723004,
+        "lat" : 35.659951999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74017500000002,
+          35.65766700000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 157,
+        "name" : "Take Ninagawa",
+        "lon" : 139.74017499999999,
+        "lat" : 35.657666999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73139500000002,
+          35.661844000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 158,
+        "name" : "TARO NASU",
+        "lon" : 139.73139499999999,
+        "lat" : 35.661844000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73139500000002,
+          35.661844000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 159,
+        "name" : "Yutaka Kikutake Gallery",
+        "lon" : 139.73139499999999,
+        "lat" : 35.661844000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73139500000002,
+          35.661844000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 160,
+        "name" : "ZEN FOTO GALLERY",
+        "lon" : 139.73139499999999,
+        "lat" : 35.661844000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76241200000004,
+          35.664978000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 161,
+        "name" : "アドミュージアム東京",
+        "lon" : 139.76241200000001,
+        "lat" : 35.664977999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73930500000006,
+          35.662994000000083
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 162,
+        "name" : "ウナックサロン",
+        "lon" : 139.739305,
+        "lat" : 35.662993999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73139500000002,
+          35.661844000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 163,
+        "name" : "オオタファインアーツ",
+        "lon" : 139.73139499999999,
+        "lat" : 35.661844000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74014800000009,
+          35.625640000000089
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 164,
+        "name" : "キヤノンギャラリーS",
+        "lon" : 139.740148,
+        "lat" : 35.625639999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71517100000005,
+          35.671979000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 165,
+        "name" : "ギャラリーハウスMAYA",
+        "lon" : 139.715171,
+        "lat" : 35.671979
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73013000000003,
+          35.66607300000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 166,
+        "name" : "サントリー美術館",
+        "lon" : 139.73013,
+        "lat" : 35.666072999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71174900000005,
+          35.663582000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 167,
+        "name" : "スパイラル",
+        "lon" : 139.711749,
+        "lat" : 35.663581999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71717100000001,
+          35.666827000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 168,
+        "name" : "スペース・ユイ",
+        "lon" : 139.71717100000001,
+        "lat" : 35.666826999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73097000000007,
+          35.661622000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 169,
+        "name" : "タカ・イシイギャラリー",
+        "lon" : 139.73097000000001,
+        "lat" : 35.661622000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71129400000007,
+          35.662494000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 170,
+        "name" : "ノートンギャラリー",
+        "lon" : 139.71129400000001,
+        "lat" : 35.662494000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76186400000006,
+          35.665883000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 171,
+        "name" : "パナソニック汐留美術館",
+        "lon" : 139.761864,
+        "lat" : 35.665883000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73139500000002,
+          35.661844000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 172,
+        "name" : "ペロタン東京",
+        "lon" : 139.73139499999999,
+        "lat" : 35.661844000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73704300000009,
+          35.636164000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 173,
+        "name" : "ミヤケファインアート",
+        "lon" : 139.737043,
+        "lat" : 35.636164000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71398800000009,
+          35.65956900000009
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 174,
+        "name" : "ヨックモックミュージアム",
+        "lon" : 139.713988,
+        "lat" : 35.659568999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73139500000002,
+          35.661844000000087
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 175,
+        "name" : "ワコウ・ワークス・オブ・アート",
+        "lon" : 139.73139499999999,
+        "lat" : 35.661844000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71997600000009,
+          35.672101000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 176,
+        "name" : "伊藤忠青山アートスクエア",
+        "lon" : 139.719976,
+        "lat" : 35.672100999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76052300000003,
+          35.652863000000082
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 177,
+        "name" : "横田茂ギャラリー",
+        "lon" : 139.76052300000001,
+        "lat" : 35.652863000000004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71554400000002,
+          35.661308000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 178,
+        "name" : "岡本太郎記念館",
+        "lon" : 139.71554399999999,
+        "lat" : 35.661307999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73938600000008,
+          35.66129200000006
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 179,
+        "name" : "外務省外交史料館",
+        "lon" : 139.739386,
+        "lat" : 35.661292000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74443500000007,
+          35.666063000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 180,
+        "name" : "菊池寛実記念 智美術館",
+        "lon" : 139.74443500000001,
+        "lat" : 35.666063000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.76149800000007,
+          35.665997000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 181,
+        "name" : "旧新橋停車場　鉄道歴史展示室",
+        "lon" : 139.76149799999999,
+        "lat" : 35.665996999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74282200000005,
+          35.649254000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 182,
+        "name" : "慶應義塾ミュージアム・コモンズ",
+        "lon" : 139.74282199999999,
+        "lat" : 35.649253999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7263660000001,
+          35.639391000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 183,
+        "name" : "港区立郷土歴史館",
+        "lon" : 139.72636600000001,
+        "lat" : 35.639391000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71811300000002,
+          35.660144000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 184,
+        "name" : "紅ミュージアム",
+        "lon" : 139.71811299999999,
+        "lat" : 35.660144000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.72629300000006,
+          35.665094000000067
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 185,
+        "name" : "国立新美術館",
+        "lon" : 139.726293,
+        "lat" : 35.665094000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71754300000009,
+          35.662138000000084
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 186,
+        "name" : "根津美術館",
+        "lon" : 139.71754300000001,
+        "lat" : 35.662137999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7175850000001,
+          35.663402000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 187,
+        "name" : "秋山庄太郎写真芸術館",
+        "lon" : 139.71758500000001,
+        "lat" : 35.663401999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73097000000007,
+          35.661622000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 188,
+        "name" : "小山登美夫ギャラリー",
+        "lon" : 139.73097000000001,
+        "lat" : 35.661622000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7292480000001,
+          35.660416000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 189,
+        "name" : "森アーツセンターギャラリー",
+        "lon" : 139.72924800000001,
+        "lat" : 35.660415999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.7292480000001,
+          35.660416000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 190,
+        "name" : "森美術館",
+        "lon" : 139.72924800000001,
+        "lat" : 35.660415999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74821600000007,
+          35.657420000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 191,
+        "name" : "増上寺宝物展示室",
+        "lon" : 139.74821600000001,
+        "lat" : 35.657420000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74325500000009,
+          35.666991000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 192,
+        "name" : "大倉集古館",
+        "lon" : 139.743255,
+        "lat" : 35.666991000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.74544100000003,
+          35.658592000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 193,
+        "name" : "東京タワー",
+        "lon" : 139.745441,
+        "lat" : 35.658591999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73123400000009,
+          35.666201000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 194,
+        "name" : "東京ミッドタウン・デザインハブ",
+        "lon" : 139.731234,
+        "lat" : 35.666201000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.71938,
+          35.636858000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 195,
+        "name" : "東京都庭園美術館",
+        "lon" : 139.71938,
+        "lat" : 35.636857999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.75348500000007,
+          35.660775000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 196,
+        "name" : "東京美術倶楽部",
+        "lon" : 139.75348500000001,
+        "lat" : 35.660775000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.73228200000005,
+          35.629051000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 197,
+        "name" : "物流博物館",
+        "lon" : 139.732282,
+        "lat" : 35.629050999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.734512,
+          35.656517000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 198,
+        "name" : "麻布十番ギャラリー",
+        "lon" : 139.734512,
+        "lat" : 35.656517000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.734059,
+          35.659703000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 199,
+        "name" : "六本木ミュージアム",
+        "lon" : 139.734059,
+        "lat" : 35.659703
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.80900300000008,
+          35.683588000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 200,
+        "name" : "KANA KAWANISHI GALLERY",
+        "lon" : 139.80900299999999,
+        "lat" : 35.683588
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.79491200000007,
+          35.674095000000079
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 201,
+        "name" : "深川東京モダン館",
+        "lon" : 139.79491200000001,
+        "lat" : 35.674095000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.80799500000001,
+          35.679725000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 202,
+        "name" : "東京都現代美術館",
+        "lon" : 139.80799500000001,
+        "lat" : 35.679724999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.77655100000004,
+          35.619184000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 203,
+        "name" : "日本科学未来館",
+        "lon" : 139.77655100000001,
+        "lat" : 35.619183999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.831773,
+          35.64576500000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 204,
+        "name" : "木材・合板博物館",
+        "lon" : 139.831773,
+        "lat" : 35.645764999999997
+      }
+    }
+  ]
+}
