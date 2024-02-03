@@ -16,14 +16,33 @@ while (p < years.length) {
     p += 1;
 };
 
+
+/* ----------------------------------------------------------------------------
+　List of cities
+---------------------------------------------------------------------------- */
+let areas = [
+    "mainland",
+    "miyako",
+    "yaeyama",
+];
+
+
+let a = 0;
+while (a < areas.length) {
+    var ar = areas[a];
+    const area = `<option id="${ar}" value="${ar}">${ar}</option>`
+    document.getElementById("area").insertAdjacentHTML("beforeend", area);
+    document.getElementById("area-sp").insertAdjacentHTML("beforeend", area);
+    a += 1;
+};
+
+
 /* ----------------------------------------------------------------------------
 　PC & SP modes: List of indicators
 ---------------------------------------------------------------------------- */
 let items = [
     { value: "forbesglobal", text: "フォーブスグローバル" },
     { value: "fortuneglobal", text: "フォーチュングローバル" },
-    { value: "startups", text: "スタートアップ企業" },
-    { value: "coworking", text: "コワーキング施設" },
 ];
 
 let i = 0;
@@ -54,13 +73,9 @@ var sourcelayer = [
     /* 2022 */
     ['forbesglobal2022', './geojson/2022/forbesglobal2022.geojson'],
     ['fortuneglobal2022', './geojson/2022/fortuneglobal2022.geojson'],
-    ['startups2022', './geojson/2022/startups2022.geojson'],
-    ['coworking2022', './geojson/2022/coworking2022.geojson'],
     /* 2021 */
     ['forbesglobal2021', './geojson/2021/forbesglobal2021.geojson'],
     ['fortuneglobal2021', './geojson/2021/fortuneglobal2021.geojson'],
-    ['startups2021', './geojson/2021/startups2021.geojson'],
-    ['coworking2021', './geojson/2021/coworking2021.geojson'],
 ];
 
 /* ----------------------------------------------------------------------------
@@ -70,13 +85,9 @@ var layers = [
     /* 2022 */
     "forbesglobal2022",
     "fortuneglobal2022",
-    "startups2022",
-    "coworking2022",
     /* 2021 */
     "forbesglobal2021",
     "fortuneglobal2021",
-    "startups2021",
-    "coworking2021",
 ];
 
 
@@ -134,111 +145,15 @@ map.on('load', function () {
         }
     });
 
-    // Add a source for the city polygons.
-    map.addSource('minatoward', {
-        'type': 'geojson',
-        'data': './geojson/tokyo7/minato.geojson'
-    });
-
-    // Add a layer showing the city polygons.
-    map.addLayer({
-        'id': '港区',
-        'type': 'fill',
-        'source': 'minatoward',
-        'layout': {
-            'visibility': 'none'
-        },
-        'paint': {
-            'fill-color': 'rgba(0,128,0,.3)'
-        }
-    });
-
-    // Add a source for the city polygons.
-    map.addSource('shibuyaward', {
-        'type': 'geojson',
-        'data': './geojson/tokyo7/shibuya.geojson'
-    });
-
-    // Add a layer showing the city polygons.
-    map.addLayer({
-        'id': '渋谷区',
-        'type': 'fill',
-        'source': 'shibuyaward',
-        'layout': {
-            'visibility': 'none'
-        },
-        'paint': {
-            'fill-color': 'rgba(255,255,0,.3)'
-        }
-    });
-
-    // Add a source for the city polygons.
-    map.addSource('shinjukuward', {
-        'type': 'geojson',
-        'data': './geojson/tokyo7/shinjuku.geojson'
-    });
-
-    // Add a layer showing the city polygons.
-    map.addLayer({
-        'id': '新宿区',
-        'type': 'fill',
-        'source': 'shinjukuward',
-        'layout': {
-            'visibility': 'none'
-        },
-        'paint': {
-            'fill-color': 'rgba(128,0,128,.3)'
-        }
-    });
-
-    // Add a source for the city polygons.
-    map.addSource('shinagawaward', {
-        'type': 'geojson',
-        'data': './geojson/tokyo7/shinagawa.geojson'
-    });
-
-    // Add a layer showing the city polygons.
-    map.addLayer({
-        'id': '品川区',
-        'type': 'fill',
-        'source': 'shinagawaward',
-        'layout': {
-            'visibility': 'none'
-        },
-        'paint': {
-            'fill-color': 'rgba(255,140,0,.3)'
-        }
-    });
-
-    // Add a source for the city polygons.
-    map.addSource('kotoward', {
-        'type': 'geojson',
-        'data': './geojson/tokyo7/koto.geojson'
-    });
-
-    // Add a layer showing the city polygons.
-    map.addLayer({
-        'id': '江東区',
-        'type': 'fill',
-        'source': 'kotoward',
-        'layout': {
-            'visibility': 'none'
-        },
-        'paint': {
-            'fill-color': 'rgba(25,25,112,.3)'
-        }
-    });
-
-
     // After the last frame rendered before the map enters an "idle" state.
     map.on('idle', () => {
         // If these two layers were not added to the map, abort
-        if (!map.getLayer('千代田区') || !map.getLayer('中央区') || !map.getLayer('港区') || !map.getLayer('渋谷区') || !map.getLayer('新宿区') || !map.getLayer('品川区') || !map.getLayer('江東区')) {
+        if (!map.getLayer('千代田区') || !map.getLayer('中央区')) {
             return;
         }
 
         // Enumerate ids of the layers.
-        const toggleLayer_01 = ['千代田区', '中央区', '港区', '渋谷区', '新宿区', '品川区', '江東区'];
+        const toggleLayer_01 = ['千代田区', '中央区',];
 
         // Set up the corresponding toggle button for each layer.
         for (const id of toggleLayer_01) {
