@@ -53,7 +53,7 @@ map.on('load', function () {
             'visibility': 'visible'
         },
         'paint': {
-            'fill-outline-color': 'rgba(255,0,0,1)',
+            'fill-outline-color': 'rgba(0,0,0,1)',
             'fill-color': 'rgba(255,255,255,.5)'
         }
     });
@@ -205,12 +205,49 @@ map.on('load', function () {
         });
     }
 
-    // 自然公園区域
     add_shizen_koen_MapLayer(map, 'shizenkoen_01', 'shizenkoen_01', './geojson/city_planning/shizen_koen/shizenkoen_01.geojson', '#0000ff', '自然公園区域');
-    // 特別区域
     add_shizen_koen_MapLayer(map, 'shizenkoen_02', 'shizenkoen_02', './geojson/city_planning/shizen_koen/shizenkoen_02.geojson', '#ff0000', '特別区域');
-    // 特別区域
     add_shizen_koen_MapLayer(map, 'shizenkoen_03', 'shizenkoen_03', './geojson/city_planning/shizen_koen/shizenkoen_03.geojson', '#00ff00', '特別保護地区');
+
+    /* --------------------------------------------------------
+    　自然保全地域
+    -------------------------------------------------------- */
+
+    // Function to add a layer with source, styling, and event listeners
+    function add_shizen_hozen_MapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+        map.addLayer({
+            'id': layerId,
+            'type': 'fill',
+            'source': sourceId,
+            'paint': {
+                'fill-color': fillColor,
+                'fill-opacity': 0.3
+            }
+        });
+            // ポップアップ //
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(popupText)
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+    add_shizen_hozen_MapLayer(map, 'shizen_hozen_01', 'shizen_hozen_01', './geojson/city_planning/shizen_hozen/shizen_hozen_01.geojson', '#0000ff', '特別地区');
+    add_shizen_hozen_MapLayer(map, 'shizen_hozen_02', 'shizen_hozen_02', './geojson/city_planning/shizen_hozen/shizen_hozen_02.geojson', '#ff0000', '原生自然環境保全地域');
+    add_shizen_hozen_MapLayer(map, 'shizen_hozen_03', 'shizen_hozen_03', './geojson/city_planning/shizen_hozen/shizen_hozen_03.geojson', '#00ff00', '自然保全地域');
+    
 
     /* --------------------------------------------------------
     　鳥獣保護区
@@ -247,8 +284,7 @@ map.on('load', function () {
         });
     }
 
-    // 鳥獣保護区
-    add_chouju_hogo_MapLayer(map, 'chouju_hogo', 'chouju_hogo', './geojson/city_planning/chouju_hogo/chouju_hogo.geojson', '#ff0000', '鳥獣保護区');
+    add_chouju_hogo_MapLayer(map, 'chouju_hogo', 'chouju_hogo', './geojson/city_planning/chouju_hogo/chouju_hogo.geojson', '#00ff00', '鳥獣保護区');
     
 
     /* ----------------------------------------------------------------------------
@@ -286,6 +322,10 @@ map.on('load', function () {
     document.getElementById('shizen_koenCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['shizenkoen_01', 'shizenkoen_02', 'shizenkoen_03'], this.checked);
     });
+    // 自然保全地域 //
+    document.getElementById('shizen_hozenCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['shizen_hozen_01', 'shizen_hozen_02', 'shizen_hozen_03'], this.checked);
+    });
     // 鳥獣保護区 //
     document.getElementById('chouju_hogoCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['chouju_hogo'], this.checked);
@@ -298,6 +338,7 @@ map.on('load', function () {
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
     updateLayerVisibility('highways', document.getElementById('highwaysCheckbox').checked);
     updateLayerVisibility(['shizenkoen_01', 'shizenkoen_02', 'shizenkoen_03'], document.getElementById('shizen_koenCheckbox').checked);
+    updateLayerVisibility(['shizen_hozen_01', 'shizen_hozen_02', 'shizen_hozen_03'], document.getElementById('shizen_hozenCheckbox').checked);
     updateLayerVisibility(['chouju_hogo'], document.getElementById('chouju_hogoCheckbox').checked);
 
     // Set initial visibility for additional layers as needed
