@@ -430,7 +430,7 @@ map.on('load', function () {
     /* --------------------------------------------------------
     　世界文化遺産
     -------------------------------------------------------- */
-    function addCityLayer(map, sourceId, layerId, geojsonPath) {
+    function add_World_Cultural_Heritages_Layer(map, sourceId, layerId, geojsonPath) {
         // Add a source for the city polygons.
         map.addSource(sourceId, {
             'type': 'geojson',
@@ -468,7 +468,50 @@ map.on('load', function () {
         ];
 
         // Add city layers
-        world_cultural_heritages.forEach(world_cultural_heritage => addCityLayer(map, world_cultural_heritage.sourceId, world_cultural_heritage.layerId, world_cultural_heritage.geojsonPath));
+        world_cultural_heritages.forEach(world_cultural_heritage => add_World_Cultural_Heritages_Layer(map, world_cultural_heritage.sourceId, world_cultural_heritage.layerId, world_cultural_heritage.geojsonPath));
+
+    /* --------------------------------------------------------
+    　世界自然遺産
+    -------------------------------------------------------- */
+    function add_World_Natural_Heritages_Layer(map, sourceId, layerId, geojsonPath) {
+        // Add a source for the city polygons.
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+
+        // Add a layer showing the city polygons.
+        map.addLayer({
+            'id': layerId,
+            'type': 'fill',
+            'source': sourceId,
+            'paint': {
+                'fill-outline-color': 'rgba(0,255,0,1)',
+                'fill-color': 'rgba(0,255,0,.5)'
+            }
+        });
+        // ポップアップ
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(e.features[0].properties["A34a_003"])
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+        const world_natural_heritages = [
+            { sourceId: 'world_natural_heritages', layerId: 'world_natural_heritages', geojsonPath: './geojson/facilities/world_natural_heritages/world_natural_heritages.geojson' },
+        ];
+
+        // Add city layers
+        world_natural_heritages.forEach(world_natural_heritage => add_World_Natural_Heritages_Layer(map, world_natural_heritage.sourceId, world_natural_heritage.layerId, world_natural_heritage.geojsonPath));
 
 
     /* --------------------------------------------------------
@@ -559,9 +602,13 @@ map.on('load', function () {
     document.getElementById('youto_chiikiCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['A29-19_47205','A29-19_47208','A29-19_47209','A29-19_47210','A29-19_47211','A29-19_47212','A29-19_47213','A29-19_47214','A29-19_47215','A29-19_47324','A29-19_47325','A29-19_47326','A29-19_47327','A29-19_47328','A29-19_47329','A29-19_47348','A29-19_47350','A29-19_47362'], this.checked);
     });
-    // 世界遺産 //
+    // 世界文化遺産 //
     document.getElementById('world_cultural_heritagesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['A34a-230328'], this.checked);
+    });
+    // 世界自然遺産 //
+    document.getElementById('world_natural_heritagesCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['world_natural_heritages'], this.checked);
     });
     // ハイクラスホテル //
     document.getElementById('high_class_hotelsCheckbox').addEventListener('change', function () {
@@ -589,6 +636,8 @@ map.on('load', function () {
     updateLayerVisibility(['A29-19_47205','A29-19_47208','A29-19_47209','A29-19_47210','A29-19_47211','A29-19_47212','A29-19_47213','A29-19_47214','A29-19_47215','A29-19_47324','A29-19_47325','A29-19_47326','A29-19_47327','A29-19_47328','A29-19_47329','A29-19_47348','A29-19_47350','A29-19_47362'], document.getElementById('youto_chiikiCheckbox').checked);
     // 世界文化遺産 //
     updateLayerVisibility(['A34a-230328'], document.getElementById('world_cultural_heritagesCheckbox').checked);
+    // 世界自然遺産 //
+    updateLayerVisibility(['world_natural_heritages'], document.getElementById('world_natural_heritagesCheckbox').checked);
     // ハイクラスホテル //
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
 

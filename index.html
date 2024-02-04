@@ -46,26 +46,26 @@
         <!-- サイドバー: コントロールパネル -->
         <div class="container bg-dark text-white p-4 position-absolute offcanvas offcanvas-start show" data-bs-backdrop="false" id="off-canvas" style="margin-left:75px ;width: 300px; height:100vh; z-index:2">
             <h1 class="display-6">OKINAWA</h1>
-            <!-- 下線 -->
-            <hr style="background-color: #ffffff;">
-
+            
             <form id="fly">
-                <div class="row mb-3">
-                <!-- Select a city to fly to -->
-                <select id="area" name="select" class="form-select">
-                    <option value="">エリアを選択</option>
-                    <option value="fly-japan">日本</option>
-                    <option value="fly-okinawa">沖縄県</option>
-                    <option value="fly-mainland">沖縄本島</option>
-                    <option value="fly-miyako">宮古諸島</option>
-                    <option value="fly-yaeyama">八重山諸島</option>
-                    <option value="fly-world">世界</option>
-                    <option value="fly-hawaii">ハワイ諸島</option>
-                    <option value="fly-oahu">オアフ島</option>
-                </select>
+                <div class="row m-2">
+                    <!-- Select a city to fly to -->
+                    <select id="area" name="select" class="form-select">
+                        <option value="">エリアを選択</option>
+                        <option value="fly-japan">日本</option>
+                        <option value="fly-okinawa">沖縄県</option>
+                        <option value="fly-mainland">沖縄本島</option>
+                        <option value="fly-miyako">宮古諸島</option>
+                        <option value="fly-yaeyama">八重山諸島</option>
+                        <option value="fly-world">世界</option>
+                        <option value="fly-hawaii">ハワイ諸島</option>
+                        <option value="fly-oahu">オアフ島</option>
+                    </select>
                 </div>
             </form>
-
+            <!-- 下線 -->
+            <hr style="background-color: #ffffff;">
+            
             <div class="row mb-3">
                 <div id="layerSwitcher">
                     <div class="form-check">
@@ -110,6 +110,10 @@
                     <div class="form-check">
                         <input type="checkbox" id="world_cultural_heritagesCheckbox">
                         <label for="world_cultural_heritagesCheckbox">世界文化遺産</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="checkbox" id="world_natural_heritagesCheckbox">
+                        <label for="world_natural_heritagesCheckbox">世界自然遺産</label>
                     </div>
                     <div class="form-check">
                         <input type="checkbox" id="high_class_hotelsCheckbox">
@@ -198,6 +202,10 @@
                                 <div class="form-check">
                                     <input type="checkbox" id="world_cultural_heritagesCheckbox-sp">
                                     <label for="world_cultural_heritagesCheckbox-sp">世界文化遺産</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="world_natural_heritagesCheckbox-sp">
+                                    <label for="world_natural_heritagesCheckbox-sp">世界自然遺産</label>
                                 </div>
                                 <div class="form-check">
                                     <input type="checkbox" id="high_class_hotelsCheckbox-sp">
