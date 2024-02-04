@@ -170,7 +170,6 @@ map.on('load', function () {
         map.getCanvas().style.cursor = '';
     });
 
-
     /* --------------------------------------------------------
     　自然公園
     -------------------------------------------------------- */
@@ -211,8 +210,6 @@ map.on('load', function () {
     /* --------------------------------------------------------
     　自然保全地域
     -------------------------------------------------------- */
-
-    // Function to add a layer with source, styling, and event listeners
     function add_shizen_hozen_MapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
         map.addSource(sourceId, {
             'type': 'geojson',
@@ -247,11 +244,9 @@ map.on('load', function () {
     add_shizen_hozen_MapLayer(map, 'shizen_hozen_02', 'shizen_hozen_02', './geojson/city_planning/shizen_hozen/shizen_hozen_02.geojson', '#ff0000', '原生自然環境保全地域');
     add_shizen_hozen_MapLayer(map, 'shizen_hozen_03', 'shizen_hozen_03', './geojson/city_planning/shizen_hozen/shizen_hozen_03.geojson', '#00ff00', '自然保全地域');
     
-
     /* --------------------------------------------------------
     　鳥獣保護区
     -------------------------------------------------------- */
-    // Function to add a layer with source, styling, and event listeners
     function add_chouju_hogo_MapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
         map.addSource(sourceId, {
             'type': 'geojson',
@@ -288,7 +283,6 @@ map.on('load', function () {
     /* --------------------------------------------------------
     　市街化調整区域
     -------------------------------------------------------- */
-
     function add_chosei_kuikiLayer(map, cityCode, cityName) {
         // Add a source for the city polygons.
         map.addSource(cityCode, {
@@ -354,6 +348,85 @@ map.on('load', function () {
         add_chosei_kuikiLayer(map, city.code, city.name);
     });
 
+    /* --------------------------------------------------------
+    　用途地域
+    -------------------------------------------------------- */
+
+    // Function to add city layer and handle events
+    function addCityLayer(map, sourceId, layerId, geojsonPath) {
+        // Add a source for the city polygons.
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+
+        // Add a layer showing the city polygons.
+        map.addLayer({
+            'id': layerId,
+            'type': 'fill',
+            'source': sourceId,
+            'paint': {
+                'fill-color': [
+                    'case',
+                    ['==', ['get', "A29_005"], "第一種低層住居専用地域"], '#6ab547',
+                    ['==', ['get', "A29_005"], "第二種低層住居専用地域"], '#6ab547',
+                    ['==', ['get', "A29_005"], "第一種中高層住居専用地域"], '#6ab547',
+                    ['==', ['get', "A29_005"], "第二種中高層住居専用地域"], '#6ab547',
+                    ['==', ['get', "A29_005"], "第二種住居地域"], '#6ab547',
+                    ['==', ['get', "A29_005"], "田園住居地域"], '#6ab547',
+                    ['==', ['get', "A29_005"], "準住居地域"], '#6ab547',
+                    ['==', ['get', "A29_005"], "近隣商業地域"], '#da81b2',
+                    ['==', ['get', "A29_005"], "商業地域"], '#da81b2',
+                    ['==', ['get', "A29_005"], "準工業地域"], '#4c6cb3',
+                    ['==', ['get', "A29_005"], "工業地域"], '#4c6cb3',
+                    ['==', ['get', "A29_005"], "工業専用地域"], '#4c6cb3',
+                    "#000000"
+                ],
+                'fill-opacity': 0.7
+            }
+        });
+
+        // Popup when click
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(e.features[0].properties["A29_005"])
+                .addTo(map);
+        });
+
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+        const youto_chiiki_areas = [
+            { sourceId: 'A29-19_47205', layerId: 'A29-19_47205', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47205.geojson' },
+            { sourceId: 'A29-19_47208', layerId: 'A29-19_47208', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47208.geojson' },
+            { sourceId: 'A29-19_47209', layerId: 'A29-19_47209', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47209.geojson' },
+            { sourceId: 'A29-19_47210', layerId: 'A29-19_47210', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47210.geojson' },
+            { sourceId: 'A29-19_47211', layerId: 'A29-19_47211', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47211.geojson' },
+            { sourceId: 'A29-19_47212', layerId: 'A29-19_47212', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47212.geojson' },
+            { sourceId: 'A29-19_47213', layerId: 'A29-19_47213', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47213.geojson' },
+            { sourceId: 'A29-19_47214', layerId: 'A29-19_47214', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47214.geojson' },
+            { sourceId: 'A29-19_47215', layerId: 'A29-19_47215', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47215.geojson' },
+            { sourceId: 'A29-19_47324', layerId: 'A29-19_47324', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47324.geojson' },
+            { sourceId: 'A29-19_47325', layerId: 'A29-19_47325', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47325.geojson' },
+            { sourceId: 'A29-19_47326', layerId: 'A29-19_47326', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47326.geojson' },
+            { sourceId: 'A29-19_47327', layerId: 'A29-19_47327', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47327.geojson' },
+            { sourceId: 'A29-19_47328', layerId: 'A29-19_47328', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47328.geojson' },
+            { sourceId: 'A29-19_47329', layerId: 'A29-19_47329', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47329.geojson' },
+            { sourceId: 'A29-19_47348', layerId: 'A29-19_47348', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47348.geojson' },
+            { sourceId: 'A29-19_47350', layerId: 'A29-19_47350', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47350.geojson' },
+            { sourceId: 'A29-19_47362', layerId: 'A29-19_47362', geojsonPath: './geojson/city_planning/youto_chiiki/A29-19_47362.geojson' },
+        ];
+
+        // Add city layers
+        youto_chiiki_areas.forEach(city => addCityLayer(map, city.sourceId, city.layerId, city.geojsonPath));
 
 
     /* ----------------------------------------------------------------------------
@@ -403,6 +476,10 @@ map.on('load', function () {
     document.getElementById('chousei_kuikiCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['47201_那覇市','47205_宜野湾市','47207_石垣市','47208_浦添市','47209_名護市','47210_糸満市','47211_沖縄市','47212_豊見城市','47213_うるま市','47214_宮古島市','47215_南城市','47308_国頭郡本部町','47324_中頭郡読谷村','47325_中頭郡嘉手納町','47326_中頭郡北谷町','47327_中頭郡北中城村','47329_中頭郡西原町','47348_島尻郡与那原町','47350_島尻郡南風原町','47362_島尻郡八重瀬町'], this.checked);
     });
+    // 用途地域 //
+    document.getElementById('youto_chiikiCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['A29-19_47205','A29-19_47208','A29-19_47209','A29-19_47210','A29-19_47211','A29-19_47212','A29-19_47213','A29-19_47214','A29-19_47215','A29-19_47324','A29-19_47325','A29-19_47326','A29-19_47327','A29-19_47328','A29-19_47329','A29-19_47348','A29-19_47350','A29-19_47362'], this.checked);
+    });
     
     
     // ##### チェックボックスの状態に応じて表示/非表示
@@ -422,7 +499,9 @@ map.on('load', function () {
     updateLayerVisibility(['chouju_hogo'], document.getElementById('chouju_hogoCheckbox').checked);
     // 市街化調整区域 //
     updateLayerVisibility(['47201_那覇市','47205_宜野湾市','47207_石垣市','47208_浦添市','47209_名護市','47210_糸満市','47211_沖縄市','47212_豊見城市','47213_うるま市','47214_宮古島市','47215_南城市','47308_国頭郡本部町','47324_中頭郡読谷村','47325_中頭郡嘉手納町','47326_中頭郡北谷町','47327_中頭郡北中城村','47329_中頭郡西原町','47348_島尻郡与那原町','47350_島尻郡南風原町','47362_島尻郡八重瀬町'], document.getElementById('chousei_kuikiCheckbox').checked);
-
+    // 用途地域 //
+    updateLayerVisibility(['A29-19_47205','A29-19_47208','A29-19_47209','A29-19_47210','A29-19_47211','A29-19_47212','A29-19_47213','A29-19_47214','A29-19_47215','A29-19_47324','A29-19_47325','A29-19_47326','A29-19_47327','A29-19_47328','A29-19_47329','A29-19_47348','A29-19_47350','A29-19_47362'], document.getElementById('youto_chiikiCheckbox').checked);
+    
     // ##### 初期設定
     document.getElementById('boundariesCheckbox').checked = true;
 
