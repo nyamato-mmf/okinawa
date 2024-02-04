@@ -429,6 +429,43 @@ map.on('load', function () {
         youto_chiiki_areas.forEach(city => addCityLayer(map, city.sourceId, city.layerId, city.geojsonPath));
 
 
+    /* --------------------------------------------------------
+    　ハイクラスホテル
+    -------------------------------------------------------- */
+    map.addSource('high_class_hotels', {
+        'type': 'geojson',
+        'data': './geojson/facilities/high_class_hotels/high_class_hotels.geojson'
+    });
+    map.addLayer({
+        'id': "high_class_hotels",
+        'type': 'circle',
+        'source': 'high_class_hotels',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'circle-radius': 1.5,
+            'circle-stroke-width': 2,
+            'circle-color': 'red',
+            'circle-stroke-color': 'red'
+        }
+    });
+    // ポップアップ //
+    map.on('click', "high_class_hotels", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["名前"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "high_class_hotels", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "high_class_hotels", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+
+
     /* ----------------------------------------------------------------------------
     　レイヤー表示/非表示
     ---------------------------------------------------------------------------- */
@@ -480,7 +517,10 @@ map.on('load', function () {
     document.getElementById('youto_chiikiCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['A29-19_47205','A29-19_47208','A29-19_47209','A29-19_47210','A29-19_47211','A29-19_47212','A29-19_47213','A29-19_47214','A29-19_47215','A29-19_47324','A29-19_47325','A29-19_47326','A29-19_47327','A29-19_47328','A29-19_47329','A29-19_47348','A29-19_47350','A29-19_47362'], this.checked);
     });
-    
+    // ハイクラスホテル //
+    document.getElementById('high_class_hotelsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('high_class_hotels', this.checked);
+    });
     
     // ##### チェックボックスの状態に応じて表示/非表示
     // 行政区域 //
@@ -501,7 +541,9 @@ map.on('load', function () {
     updateLayerVisibility(['47201_那覇市','47205_宜野湾市','47207_石垣市','47208_浦添市','47209_名護市','47210_糸満市','47211_沖縄市','47212_豊見城市','47213_うるま市','47214_宮古島市','47215_南城市','47308_国頭郡本部町','47324_中頭郡読谷村','47325_中頭郡嘉手納町','47326_中頭郡北谷町','47327_中頭郡北中城村','47329_中頭郡西原町','47348_島尻郡与那原町','47350_島尻郡南風原町','47362_島尻郡八重瀬町'], document.getElementById('chousei_kuikiCheckbox').checked);
     // 用途地域 //
     updateLayerVisibility(['A29-19_47205','A29-19_47208','A29-19_47209','A29-19_47210','A29-19_47211','A29-19_47212','A29-19_47213','A29-19_47214','A29-19_47215','A29-19_47324','A29-19_47325','A29-19_47326','A29-19_47327','A29-19_47328','A29-19_47329','A29-19_47348','A29-19_47350','A29-19_47362'], document.getElementById('youto_chiikiCheckbox').checked);
-    
+    // ハイクラスホテル //
+    updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
+
     // ##### 初期設定
     document.getElementById('boundariesCheckbox').checked = true;
 
