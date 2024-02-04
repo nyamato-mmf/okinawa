@@ -10,7 +10,6 @@ const map = new mapboxgl.Map({
 map.setMaxZoom(13);
 map.setMaxPitch(60)
 
-// Tokyo facilities map
 map.on('load', function () {
 
     // Fly to functionality
@@ -286,11 +285,81 @@ map.on('load', function () {
 
     add_chouju_hogo_MapLayer(map, 'chouju_hogo', 'chouju_hogo', './geojson/city_planning/chouju_hogo/chouju_hogo.geojson', '#00ff00', '鳥獣保護区');
     
+    /* --------------------------------------------------------
+    　市街化調整区域
+    -------------------------------------------------------- */
+
+    function add_chosei_kuikiLayer(map, cityCode, cityName) {
+        // Add a source for the city polygons.
+        map.addSource(cityCode, {
+            'type': 'geojson',
+            'data': `./geojson/city_planning/chousei_kuiki/${cityCode}.geojson`
+        });
+
+        // Add a layer showing the city polygons.
+        map.addLayer({
+            'id': cityCode,
+            'type': 'fill',
+            'source': cityCode,
+            'paint': {
+                'fill-color': [
+                    'case',
+                    ['==', ['get', 'layer_no'], 2], '#ff00ff',
+                    'rgba(255,255,255,0)'
+                ],
+                'fill-opacity': 0.7
+            }
+        });
+        // ポップアップ
+        map.on('click', cityCode, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(cityName)
+                .addTo(map);
+        });
+        map.on('mouseenter', cityCode, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', cityCode, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+    const cities = [
+        { code: '47201_那覇市', name: '那覇市' },
+        { code: '47205_宜野湾市', name: '宜野湾市' },
+        { code: '47207_石垣市', name: '石垣市' },
+        { code: '47208_浦添市', name: '浦添市' },
+        { code: '47209_名護市', name: '名護市' },
+        { code: '47210_糸満市', name: '糸満市' },
+        { code: '47211_沖縄市', name: '沖縄市' },
+        { code: '47212_豊見城市', name: '豊見城市' },
+        { code: '47213_うるま市', name: 'うるま市' },
+        { code: '47214_宮古島市', name: '宮古島市' },
+        { code: '47215_南城市', name: '南城市' },
+        { code: '47308_国頭郡本部町', name: '国頭郡本部町' },
+        { code: '47324_中頭郡読谷村', name: '中頭郡読谷村' },
+        { code: '47325_中頭郡嘉手納町', name: '中頭郡嘉手納町' },
+        { code: '47326_中頭郡北谷町', name: '中頭郡北谷町' },
+        { code: '47327_中頭郡北中城村', name: '中頭郡北中城村' },
+        { code: '47329_中頭郡西原町', name: '中頭郡西原町' },
+        { code: '47348_島尻郡与那原町', name: '島尻郡与那原町' },
+        { code: '47350_島尻郡南風原町', name: '島尻郡南風原町' },
+        { code: '47362_島尻郡八重瀬町', name: '島尻郡八重瀬町' },
+    ];
+
+    // Iterate through cities and add layers
+    cities.forEach(city => {
+        add_chosei_kuikiLayer(map, city.code, city.name);
+    });
+
+
 
     /* ----------------------------------------------------------------------------
     　レイヤー表示/非表示
     ---------------------------------------------------------------------------- */
-    // Simplified visibility update function
+    // #####　表示/非表示の関数を定義
     function updateLayerVisibility(layerIds, visibility) {
         if (Array.isArray(layerIds)) {
             layerIds.forEach(layerId => {
@@ -301,7 +370,7 @@ map.on('load', function () {
         }
     }
 
-    // Event listeners for checkbox changes
+    // ##### イベント・リスナー（チェックボックス）
     // 行政区域 //
     document.getElementById('boundariesCheckbox').addEventListener('change', function () {
         updateLayerVisibility('boundaries', this.checked);
@@ -330,18 +399,31 @@ map.on('load', function () {
     document.getElementById('chouju_hogoCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['chouju_hogo'], this.checked);
     });
-
-
-    // You can also set the initial layer visibility based on the checkbox states
+    // 市街化調整区域 //
+    document.getElementById('chousei_kuikiCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['47201_那覇市','47205_宜野湾市','47207_石垣市','47208_浦添市','47209_名護市','47210_糸満市','47211_沖縄市','47212_豊見城市','47213_うるま市','47214_宮古島市','47215_南城市','47308_国頭郡本部町','47324_中頭郡読谷村','47325_中頭郡嘉手納町','47326_中頭郡北谷町','47327_中頭郡北中城村','47329_中頭郡西原町','47348_島尻郡与那原町','47350_島尻郡南風原町','47362_島尻郡八重瀬町'], this.checked);
+    });
+    
+    
+    // ##### チェックボックスの状態に応じて表示/非表示
+    // 行政区域 //
     updateLayerVisibility('boundaries', document.getElementById('boundariesCheckbox').checked);
+    // 空港 //
     updateLayerVisibility('airports', document.getElementById('airportsCheckbox').checked);
+    // 鉄道 //
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
+    // 高速道路 //
     updateLayerVisibility('highways', document.getElementById('highwaysCheckbox').checked);
+    // 自然公園 //
     updateLayerVisibility(['shizenkoen_01', 'shizenkoen_02', 'shizenkoen_03'], document.getElementById('shizen_koenCheckbox').checked);
+    // 自然保全地域 //
     updateLayerVisibility(['shizen_hozen_01', 'shizen_hozen_02', 'shizen_hozen_03'], document.getElementById('shizen_hozenCheckbox').checked);
+    // 鳥獣保護区 //
     updateLayerVisibility(['chouju_hogo'], document.getElementById('chouju_hogoCheckbox').checked);
+    // 市街化調整区域 //
+    updateLayerVisibility(['47201_那覇市','47205_宜野湾市','47207_石垣市','47208_浦添市','47209_名護市','47210_糸満市','47211_沖縄市','47212_豊見城市','47213_うるま市','47214_宮古島市','47215_南城市','47308_国頭郡本部町','47324_中頭郡読谷村','47325_中頭郡嘉手納町','47326_中頭郡北谷町','47327_中頭郡北中城村','47329_中頭郡西原町','47348_島尻郡与那原町','47350_島尻郡南風原町','47362_島尻郡八重瀬町'], document.getElementById('chousei_kuikiCheckbox').checked);
 
-    // Set initial visibility for additional layers as needed
+    // ##### 初期設定
     document.getElementById('boundariesCheckbox').checked = true;
 
 });
@@ -349,3 +431,4 @@ map.on('load', function () {
 
 map.addControl(new mapboxgl.NavigationControl());
         
+
