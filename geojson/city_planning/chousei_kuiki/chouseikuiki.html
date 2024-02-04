@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>市街化調整区域</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.1.0/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.1.0/mapbox-gl.js"></script>
+<!-- JQuery CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<style>
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+
+/* Legend */
+#legend {
+    background-color: #fff;
+    border-radius: 3px;
+    bottom: 30px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    font-family: "Yu Gothic";
+    font: 12px/20px;
+    padding: 10px;
+    position: absolute;
+    right: 10px;
+    z-index: 1;
+}
+#legend h4 {
+    margin: 0 0 10px;
+}       
+#legend div span {
+    border-radius: 50%;
+    display: inline-block;
+    height: 10px;
+    margin-right: 5px;
+    width: 10px;
+}
+
+</style>
+</head>
+
+<body>
+
+    <!-- Mapbox layout tag -->
+    <div id="map"></div>
+    <div id="legend">
+        <!--Japanese symbols-->
+        <h4>凡例</h4>
+        <div><span style="background-color: #f2f2f2"></span>市街化区域他</div>
+        <div><span style="background-color: #ff0000"></span>市街化調整区域</div>
+    </div>
+    
+    <!-- Mapbox code -->
+    <script type="text/javascript"> 
+
+        mapboxgl.accessToken = 'pk.eyJ1IjoibnlhbWF0byIsImEiOiJja2Y4dzNkOW8wY3MwMnFvM29iNnJzNzVzIn0.GHlHwu3r5YjKBU3qAKvccQ';
+        const map = new mapboxgl.Map({
+            container: 'map',
+            style: "mapbox://styles/mapbox/light-v11",
+            zoom: 10,
+            center: [127.64668937345704, 26.200790456342133],
+        });
+
+        map.setMaxZoom(13);
+        map.setMaxPitch(60)
+        
+
+        // Function to add city layer and handle events
+        function addCityLayer(map, cityCode, cityName) {
+            // Add a source for the city polygons.
+            map.addSource(cityCode, {
+                'type': 'geojson',
+                'data': `./geojson/${cityCode}.geojson`
+            });
+
+            // Add a layer showing the city polygons.
+            map.addLayer({
+                'id': cityCode,
+                'type': 'fill',
+                'source': cityCode,
+                'paint': {
+                    'fill-color': [
+                        'case',
+                        ['==', ['get', 'layer_no'], 2], '#ff0000',
+                        '#f2f2f2'
+                    ],
+                    'fill-opacity': 0.7
+                }
+            });
+
+            // Popup when click
+            map.on('click', cityCode, function (e) {
+                console.log(e.features[0].properties);
+                new mapboxgl.Popup()
+                    .setLngLat(e.lngLat)
+                    .setHTML(cityName)
+                    .addTo(map);
+            });
+
+            map.on('mouseenter', cityCode, function () {
+                map.getCanvas().style.cursor = 'pointer';
+            });
+
+            map.on('mouseleave', cityCode, function () {
+                map.getCanvas().style.cursor = '';
+            });
+        }
+
+        // Tokyo facilities map
+        map.on('load', function () {
+            // List of cities with their codes and names
+            const cities = [
+                { code: '47201_那覇市', name: '那覇市' },
+                { code: '47205_宜野湾市', name: '宜野湾市' },
+                { code: '47207_石垣市', name: '石垣市' },
+                { code: '47208_浦添市', name: '浦添市' },
+                { code: '47209_名護市', name: '名護市' },
+                { code: '47210_糸満市', name: '糸満市' },
+                { code: '47211_沖縄市', name: '沖縄市' },
+                { code: '47212_豊見城市', name: '豊見城市' },
+                { code: '47213_うるま市', name: 'うるま市' },
+                { code: '47214_宮古島市', name: '宮古島市' },
+                { code: '47215_南城市', name: '南城市' },
+                { code: '47308_国頭郡本部町', name: '国頭郡本部町' },
+                { code: '47324_中頭郡読谷村', name: '中頭郡読谷村' },
+                { code: '47325_中頭郡嘉手納町', name: '中頭郡嘉手納町' },
+                { code: '47326_中頭郡北谷町', name: '中頭郡北谷町' },
+                { code: '47327_中頭郡北中城村', name: '中頭郡北中城村' },
+                { code: '47329_中頭郡西原町', name: '中頭郡西原町' },
+                { code: '47348_島尻郡与那原町', name: '島尻郡与那原町' },
+                { code: '47350_島尻郡南風原町', name: '島尻郡南風原町' },
+                { code: '47362_島尻郡八重瀬町', name: '島尻郡八重瀬町' },
+            ];
+
+            // Iterate through cities and add layers
+            cities.forEach(city => {
+                addCityLayer(map, city.code, city.name);
+            });
+        });
+            
+    </script>
+
+</body>
+</html>

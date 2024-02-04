@@ -170,16 +170,59 @@ map.on('load', function () {
     map.on('mouseleave', "highways", function () {
         map.getCanvas().style.cursor = '';
     });
+    
+    /* --------------------------------------------------------
+    　自然公園
+    -------------------------------------------------------- */
+    function addMapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+        map.addLayer({
+            'id': layerId,
+            'type': 'fill',
+            'source': sourceId,
+            'paint': {
+                'fill-color': fillColor,
+                'fill-opacity': 0.3
+            }
+        });
+        // ポップアップ //
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(popupText)
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+    // 自然公園区域
+    addMapLayer(map, 'shizenkoen_01', 'shizenkoen_01', './geojson/city_planning/shizen_koen/shizenkoen_01.geojson', '#0000ff', '自然公園区域');
+    // 特別区域
+    addMapLayer(map, 'shizenkoen_02', 'shizenkoen_02', './geojson/city_planning/shizen_koen/shizenkoen_02.geojson', '#ff0000', '特別区域');
+    // 特別区域
+    addMapLayer(map, 'shizenkoen_03', 'shizenkoen_03', './geojson/city_planning/shizen_koen/shizenkoen_03.geojson', '#00ff00', '特別保護地区');
 
 
     /* ----------------------------------------------------------------------------
     　レイヤー表示/非表示
     ---------------------------------------------------------------------------- */
-    function updateLayerVisibility(layerId, visibility) {
-        if (visibility) {
-            map.setLayoutProperty(layerId, 'visibility', 'visible');
+    // Simplified visibility update function
+    function updateLayerVisibility(layerIds, visibility) {
+        if (Array.isArray(layerIds)) {
+            layerIds.forEach(layerId => {
+                map.setLayoutProperty(layerId, 'visibility', visibility ? 'visible' : 'none');
+            });
         } else {
-            map.setLayoutProperty(layerId, 'visibility', 'none');
+            map.setLayoutProperty(layerIds, 'visibility', visibility ? 'visible' : 'none');
         }
     }
 
@@ -200,18 +243,21 @@ map.on('load', function () {
     document.getElementById('highwaysCheckbox').addEventListener('change', function () {
         updateLayerVisibility('highways', this.checked);
     });
+    // 自然公園 //
+    document.getElementById('shizen_koenCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['shizenkoen_01', 'shizenkoen_02', 'shizenkoen_03'], this.checked);
+    });
+
 
     // You can also set the initial layer visibility based on the checkbox states
     updateLayerVisibility('boundaries', document.getElementById('boundariesCheckbox').checked);
     updateLayerVisibility('airports', document.getElementById('airportsCheckbox').checked);
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
     updateLayerVisibility('highways', document.getElementById('highwaysCheckbox').checked);
-    
+    updateLayerVisibility(['shizenkoen_01', 'shizenkoen_02', 'shizenkoen_03'], document.getElementById('shizen_koenCheckbox').checked);
+
     // Set initial visibility for additional layers as needed
     document.getElementById('boundariesCheckbox').checked = true;
-
-
-
 
 });
 
