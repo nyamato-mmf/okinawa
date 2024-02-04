@@ -170,11 +170,12 @@ map.on('load', function () {
     map.on('mouseleave', "highways", function () {
         map.getCanvas().style.cursor = '';
     });
-    
+
+
     /* --------------------------------------------------------
     　自然公園
     -------------------------------------------------------- */
-    function addMapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
+    function add_shizen_koen_MapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
         map.addSource(sourceId, {
             'type': 'geojson',
             'data': geojsonPath
@@ -205,12 +206,50 @@ map.on('load', function () {
     }
 
     // 自然公園区域
-    addMapLayer(map, 'shizenkoen_01', 'shizenkoen_01', './geojson/city_planning/shizen_koen/shizenkoen_01.geojson', '#0000ff', '自然公園区域');
+    add_shizen_koen_MapLayer(map, 'shizenkoen_01', 'shizenkoen_01', './geojson/city_planning/shizen_koen/shizenkoen_01.geojson', '#0000ff', '自然公園区域');
     // 特別区域
-    addMapLayer(map, 'shizenkoen_02', 'shizenkoen_02', './geojson/city_planning/shizen_koen/shizenkoen_02.geojson', '#ff0000', '特別区域');
+    add_shizen_koen_MapLayer(map, 'shizenkoen_02', 'shizenkoen_02', './geojson/city_planning/shizen_koen/shizenkoen_02.geojson', '#ff0000', '特別区域');
     // 特別区域
-    addMapLayer(map, 'shizenkoen_03', 'shizenkoen_03', './geojson/city_planning/shizen_koen/shizenkoen_03.geojson', '#00ff00', '特別保護地区');
+    add_shizen_koen_MapLayer(map, 'shizenkoen_03', 'shizenkoen_03', './geojson/city_planning/shizen_koen/shizenkoen_03.geojson', '#00ff00', '特別保護地区');
 
+    /* --------------------------------------------------------
+    　鳥獣保護区
+    -------------------------------------------------------- */
+    // Function to add a layer with source, styling, and event listeners
+    function add_chouju_hogo_MapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+
+        map.addLayer({
+            'id': layerId,
+            'type': 'fill',
+            'source': sourceId,
+            'paint': {
+                'fill-color': fillColor,
+                'fill-opacity': 0.3
+            }
+        });
+        // ポップアップ //
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(popupText)
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+    // 鳥獣保護区
+    add_chouju_hogo_MapLayer(map, 'chouju_hogo', 'chouju_hogo', './geojson/city_planning/chouju_hogo/chouju_hogo.geojson', '#ff0000', '鳥獣保護区');
+    
 
     /* ----------------------------------------------------------------------------
     　レイヤー表示/非表示
@@ -247,6 +286,10 @@ map.on('load', function () {
     document.getElementById('shizen_koenCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['shizenkoen_01', 'shizenkoen_02', 'shizenkoen_03'], this.checked);
     });
+    // 鳥獣保護区 //
+    document.getElementById('chouju_hogoCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['chouju_hogo'], this.checked);
+    });
 
 
     // You can also set the initial layer visibility based on the checkbox states
@@ -255,6 +298,7 @@ map.on('load', function () {
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
     updateLayerVisibility('highways', document.getElementById('highwaysCheckbox').checked);
     updateLayerVisibility(['shizenkoen_01', 'shizenkoen_02', 'shizenkoen_03'], document.getElementById('shizen_koenCheckbox').checked);
+    updateLayerVisibility(['chouju_hogo'], document.getElementById('chouju_hogoCheckbox').checked);
 
     // Set initial visibility for additional layers as needed
     document.getElementById('boundariesCheckbox').checked = true;
