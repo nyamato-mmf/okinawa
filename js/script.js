@@ -1,12 +1,10 @@
 
-
-
 mapboxgl.accessToken = 'pk.eyJ1IjoibnlhbWF0byIsImEiOiJja2Y4dzNkOW8wY3MwMnFvM29iNnJzNzVzIn0.GHlHwu3r5YjKBU3qAKvccQ';
 const map = new mapboxgl.Map({
     container: 'map',
     style: "mapbox://styles/mapbox/light-v11",
-    zoom: 4,
-    center: [136.33549197330444, 38.49148243962729],
+    zoom: 9,
+    center: [127.93383619628926, 26.504074468870304],
 });
 
 map.setMaxZoom(13);
@@ -40,15 +38,13 @@ map.on('load', function () {
         }
     };
 
-
-    //##### 市域 #####//
-    // Add a source for the city polygons.
+    /* --------------------------------------------------------
+    　行政区域
+    -------------------------------------------------------- */
     map.addSource('boundaries', {
         'type': 'geojson',
         'data': './geojson/boundaries/boundaries.geojson'
     });
-
-    // Add a layer showing the city polygons.
     map.addLayer({
         'id': "boundaries",
         'type': 'fill',
@@ -61,35 +57,61 @@ map.on('load', function () {
             'fill-color': 'rgba(255,255,255,.5)'
         }
     });
-
-    //##### 市域（都市名のポップアップ） #####//
-    // Popup when click
+    // ポップアップ //
     map.on('click', "boundaries", function (e) {
         new mapboxgl.Popup()
             .setLngLat(e.lngLat)
             .setHTML(e.features[0].properties["N03_004"])
             .addTo(map);
     });
-
-    // Change the cursor to a pointer when the mouse is over the cities layer.
     map.on('mouseenter', "boundaries", function () {
         map.getCanvas().style.cursor = 'pointer';
     });
-
-    // Change it back to a pointer when it leaves.
     map.on('mouseleave', "boundaries", function () {
         map.getCanvas().style.cursor = '';
     });
 
-
-    //##### 鉄道 / Railways #####//
-    // Add a source for the city polygons.
-    map.addSource('railways', {
+    /* --------------------------------------------------------
+    　空港
+    -------------------------------------------------------- */
+    map.addSource('airports', {
         'type': 'geojson',
-        'data': './geojson/railways/railways.geojson'
+        'data': './geojson/infrastructure/airports/airports.geojson'
+    });
+    map.addLayer({
+        'id': "airports",
+        'type': 'fill',
+        'source': 'airports',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'fill-outline-color': 'rgba(255,0,0,1)',
+            'fill-color': 'rgba(255,0,0,.5)'
+        }
+    });
+    // ポップアップ //
+    map.on('click', "airports", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["C28_005"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "airports", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "airports", function () {
+        map.getCanvas().style.cursor = '';
     });
 
-    // Add a layer showing the city polygons.
+
+    /* --------------------------------------------------------
+    　鉄道
+    -------------------------------------------------------- */
+    map.addSource('railways', {
+        'type': 'geojson',
+        'data': './geojson/infrastructure/railways/railways.geojson'
+    });
     map.addLayer({
         'id': 'railways',
         'type': 'line',
@@ -102,10 +124,57 @@ map.on('load', function () {
             'line-width': 2,
         }
     });
+    // ポップアップ //
+    map.on('click', "railways", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["N02_004"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "railways", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "railways", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
+    　高速道路
+    -------------------------------------------------------- */
+    map.addSource('highways', {
+        'type': 'geojson',
+        'data': './geojson/infrastructure/highways/highways.geojson'
+    });
+    map.addLayer({
+        'id': 'highways',
+        'type': 'line',
+        'source': 'highways',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'line-color': 'rgba(255,0,0,1)',
+            'line-width': 2,
+        }
+    });
+    // ポップアップ //
+    map.on('click', "highways", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["N06_007"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "highways", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "highways", function () {
+        map.getCanvas().style.cursor = '';
+    });
 
 
-
-    // Function to update layer visibility based on checkbox state
+    /* ----------------------------------------------------------------------------
+    　レイヤー表示/非表示
+    ---------------------------------------------------------------------------- */
     function updateLayerVisibility(layerId, visibility) {
         if (visibility) {
             map.setLayoutProperty(layerId, 'visibility', 'visible');
@@ -115,18 +184,28 @@ map.on('load', function () {
     }
 
     // Event listeners for checkbox changes
+    // 行政区域 //
     document.getElementById('boundariesCheckbox').addEventListener('change', function () {
         updateLayerVisibility('boundaries', this.checked);
     });
-
+    // 空港 //
+    document.getElementById('airportsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('airports', this.checked);
+    });
+    // 鉄道 //
     document.getElementById('railwaysCheckbox').addEventListener('change', function () {
         updateLayerVisibility('railways', this.checked);
     });
-
+    // 高速道路 //
+    document.getElementById('highwaysCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('highways', this.checked);
+    });
 
     // You can also set the initial layer visibility based on the checkbox states
     updateLayerVisibility('boundaries', document.getElementById('boundariesCheckbox').checked);
+    updateLayerVisibility('airports', document.getElementById('airportsCheckbox').checked);
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
+    updateLayerVisibility('highways', document.getElementById('highwaysCheckbox').checked);
     
     // Set initial visibility for additional layers as needed
     document.getElementById('boundariesCheckbox').checked = true;
