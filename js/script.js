@@ -351,8 +351,6 @@ map.on('load', function () {
     /* --------------------------------------------------------
     　用途地域
     -------------------------------------------------------- */
-
-    // Function to add city layer and handle events
     function addCityLayer(map, sourceId, layerId, geojsonPath) {
         // Add a source for the city polygons.
         map.addSource(sourceId, {
@@ -427,6 +425,50 @@ map.on('load', function () {
 
         // Add city layers
         youto_chiiki_areas.forEach(city => addCityLayer(map, city.sourceId, city.layerId, city.geojsonPath));
+
+
+    /* --------------------------------------------------------
+    　世界文化遺産
+    -------------------------------------------------------- */
+    function addCityLayer(map, sourceId, layerId, geojsonPath) {
+        // Add a source for the city polygons.
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+
+        // Add a layer showing the city polygons.
+        map.addLayer({
+            'id': layerId,
+            'type': 'fill',
+            'source': sourceId,
+            'paint': {
+                'fill-outline-color': 'rgba(255,0,0,1)',
+                'fill-color': 'rgba(255,0,0,.5)'
+            }
+        });
+        // ポップアップ
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(e.features[0].properties["A34a_003"])
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+        const world_cultural_heritages = [
+            { sourceId: 'A34a-230328', layerId: 'A34a-230328', geojsonPath: './geojson/facilities/world_cultural_heritages/A34a-230328.geojson' },
+        ];
+
+        // Add city layers
+        world_cultural_heritages.forEach(world_cultural_heritage => addCityLayer(map, world_cultural_heritage.sourceId, world_cultural_heritage.layerId, world_cultural_heritage.geojsonPath));
 
 
     /* --------------------------------------------------------
@@ -517,6 +559,10 @@ map.on('load', function () {
     document.getElementById('youto_chiikiCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['A29-19_47205','A29-19_47208','A29-19_47209','A29-19_47210','A29-19_47211','A29-19_47212','A29-19_47213','A29-19_47214','A29-19_47215','A29-19_47324','A29-19_47325','A29-19_47326','A29-19_47327','A29-19_47328','A29-19_47329','A29-19_47348','A29-19_47350','A29-19_47362'], this.checked);
     });
+    // 世界遺産 //
+    document.getElementById('world_cultural_heritagesCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['A34a-230328'], this.checked);
+    });
     // ハイクラスホテル //
     document.getElementById('high_class_hotelsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('high_class_hotels', this.checked);
@@ -541,6 +587,8 @@ map.on('load', function () {
     updateLayerVisibility(['47201_那覇市','47205_宜野湾市','47207_石垣市','47208_浦添市','47209_名護市','47210_糸満市','47211_沖縄市','47212_豊見城市','47213_うるま市','47214_宮古島市','47215_南城市','47308_国頭郡本部町','47324_中頭郡読谷村','47325_中頭郡嘉手納町','47326_中頭郡北谷町','47327_中頭郡北中城村','47329_中頭郡西原町','47348_島尻郡与那原町','47350_島尻郡南風原町','47362_島尻郡八重瀬町'], document.getElementById('chousei_kuikiCheckbox').checked);
     // 用途地域 //
     updateLayerVisibility(['A29-19_47205','A29-19_47208','A29-19_47209','A29-19_47210','A29-19_47211','A29-19_47212','A29-19_47213','A29-19_47214','A29-19_47215','A29-19_47324','A29-19_47325','A29-19_47326','A29-19_47327','A29-19_47328','A29-19_47329','A29-19_47348','A29-19_47350','A29-19_47362'], document.getElementById('youto_chiikiCheckbox').checked);
+    // 世界文化遺産 //
+    updateLayerVisibility(['A34a-230328'], document.getElementById('world_cultural_heritagesCheckbox').checked);
     // ハイクラスホテル //
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
 
