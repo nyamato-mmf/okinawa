@@ -549,6 +549,55 @@ map.on('load', function () {
         map.getCanvas().style.cursor = '';
     });
 
+    /* --------------------------------------------------------
+    　エリア方針
+    -------------------------------------------------------- */
+    function add_area_policies_Layer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
+        // Add a source for the city polygons.
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+
+        // Add a layer showing the city polygons.
+        map.addLayer({
+            'id': layerId,
+            'type': 'fill',
+            'source': sourceId,
+            'paint': {
+                'fill-color': fillColor,
+                'fill-opacity': 0.7
+            }
+        });
+
+        // Popup when click
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(popupText)
+                .addTo(map);
+        });
+
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+    const area_policies = [
+        { sourceId: 'north', layerId: 'north', geojsonPath: './geojson/area_policies/north.geojson', fillColor: 'red', popupText: "test" },
+        { sourceId: 'middle', layerId: 'middle', geojsonPath: './geojson/area_policies/middle.geojson', fillColor: 'green', popupText: "test"},
+        { sourceId: 'south', layerId: 'south', geojsonPath: './geojson/area_policies/south.geojson', fillColor: 'blue', popupText: "test"},
+        { sourceId: 'miyako', layerId: 'miyako', geojsonPath: './geojson/area_policies/miyako.geojson', fillColor: 'yellow', popupText: "test"},
+        { sourceId: 'yaeyama', layerId: 'yaeyama', geojsonPath: './geojson/area_policies/yaeyama.geojson', fillColor: 'purple', popupText: "test"},
+    ];
+
+    // Add layers
+    area_policies.forEach(elem => add_area_policies_Layer(map, elem.sourceId, elem.layerId, elem.geojsonPath, elem.fillColor, elem.popupText));
 
 
     /* ----------------------------------------------------------------------------

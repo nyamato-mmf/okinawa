@@ -33,7 +33,7 @@
     <!-- ------------------------------------------------------------------
         PC mode 
     ------------------------------------------------------------------- -->
-    <div class="d-none d-lg-block">
+    <div class="">
 
         <!-- サイドバー: icons -->
         <div class="container bg-light position-fixed px-4" style="width: 75px; height:100vh; z-index:3">
@@ -119,6 +119,11 @@
                         <input type="checkbox" id="high_class_hotelsCheckbox">
                         <label for="high_class_hotelsCheckbox">ハイクラスホテル</label>
                     </div>
+                    <hr style="background-color: #ffffff;">
+                    <div class="form-check">
+                        <input type="checkbox" id="area_policiesCheckbox">
+                        <label for="area_policiesCheckbox">エリア方針</label>
+                    </div>
                 </div>
             </div>
 
@@ -126,101 +131,6 @@
     </div>
     <!-- End of PC mode -->
 
-    <!-- ------------------------------------------------------------------
-        SP mode 
-    ------------------------------------------------------------------- -->
-    <div class="container-fluid d-lg-none bg-dark text-white pb-2">
-        <h1 class="display-6 text-center">OKINAWA</h1>
-        <!-- 下線 -->
-        <hr style="background-color: #ffffff;">
-
-        <!-- ナビゲーションバー -->
-        <nav class="navbar navbar-dark bg-dark mb-2">
-            <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-contents">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse show" id="navbar-contents">
-                    <div class="row mt-4">
-
-                        <form id="fly-sp">
-                            <div class="mb-3">
-                            <select id="area-sp" name="select" class="form-select">
-                                <option value="fly-japan">日本</option>
-                                <option value="fly-okinawa">沖縄県</option>
-                                <option value="fly-mainland">沖縄本島</option>
-                                <option value="fly-miyako">宮古諸島</option>
-                                <option value="fly-yaeyama">八重山諸島</option>
-                                <option value="fly-world">世界</option>
-                                <option value="fly-hawaii">ハワイ</option>
-                                <option value="fly-oahu">オアフ島</option>
-                            </select>
-                            </div>
-                        </form>
-
-                        <div class="row mb-3">
-                            <div id="layerSwitcher-sp">
-                                <div class="form-check">
-                                    <input type="checkbox" id="boundariesCheckbox-sp" checked>
-                                    <label for="boundariesCheckbox-sp">行政区域</label>
-                                </div>
-                                <hr style="background-color: #ffffff;">
-                                <div class="form-check">
-                                    <input type="checkbox" id="airportsCheckbox-sp">
-                                    <label for="airportsCheckbox-sp">空港</label>
-                                </div>
-                                <div class="form-check">
-                                    <input type="checkbox" id="railwaysCheckbox-sp" checked>
-                                    <label for="railwaysCheckbox-sp">鉄道</label>
-                                </div>
-                                <div class="form-check">
-                                    <input type="checkbox" id="highwaysCheckbox-sp">
-                                    <label for="highwaysCheckbox-sp">高速道路</label>
-                                </div>
-                                <hr style="background-color: #ffffff;">
-                                <div class="form-check">
-                                    <input type="checkbox" id="shizen_koenCheckbox-sp">
-                                    <label for="shizen_koenCheckbox-sp">自然公園</label>
-                                </div>
-                                <div class="form-check">
-                                    <input type="checkbox" id="shizen_hozenCheckbox-sp">
-                                    <label for="shizen_hozenCheckbox-sp">自然保全地域</label>
-                                </div>
-                                <div class="form-check">
-                                    <input type="checkbox" id="chouju_hogoCheckbox-sp">
-                                    <label for="chouju_hogoCheckbox-sp">鳥獣保護区</label>
-                                </div>
-                                <div class="form-check">
-                                    <input type="checkbox" id="chousei_kuikiCheckbox-sp">
-                                    <label for="chousei_kuikiCheckbox-sp">市街化調整区域</label>
-                                </div>
-                                <div class="form-check">
-                                    <input type="checkbox" id="youto_chiikiCheckbox-sp">
-                                    <label for="youto_chiikiCheckbox-sp">用途地域</label>
-                                </div>
-                                <hr style="background-color: #ffffff;">
-                                <div class="form-check">
-                                    <input type="checkbox" id="world_cultural_heritagesCheckbox-sp">
-                                    <label for="world_cultural_heritagesCheckbox-sp">世界文化遺産</label>
-                                </div>
-                                <div class="form-check">
-                                    <input type="checkbox" id="world_natural_heritagesCheckbox-sp">
-                                    <label for="world_natural_heritagesCheckbox-sp">世界自然遺産</label>
-                                </div>
-                                <div class="form-check">
-                                    <input type="checkbox" id="high_class_hotelsCheckbox-sp">
-                                    <label for="high_class_hotelsCheckbox-sp">ハイクラスホテル</label>
-                                </div>
-                            </div>
-                        </div>
-            
-                        
-                    </div>
-                </div>
-            </div>
-        </nav>
-    </div>
-    <!-- End of SP mode -->
 
     <!-- Bootstrap JavaScript (Popper.js and Bootstrap.js) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
