@@ -152,6 +152,41 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　ハイクラスホテル
+    -------------------------------------------------------- */
+    map.addSource('ports', {
+        'type': 'geojson',
+        'data': './geojson/infrastructure/ports/ports.geojson'
+    });
+    map.addLayer({
+        'id': "ports",
+        'type': 'circle',
+        'source': 'ports',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'circle-radius': 2,
+            'circle-stroke-width': 2,
+            'circle-color': 'red',
+            'circle-stroke-color': 'blue'
+        }
+    });
+    // ポップアップ //
+    map.on('click', "ports", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["C02_005"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "ports", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "ports", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　鉄道
     -------------------------------------------------------- */
     map.addSource('railways', {
@@ -749,6 +784,10 @@ map.on('load', function () {
     document.getElementById('flight_networkCheckbox').addEventListener('change', function () {
         updateLayerVisibility('flight_network', this.checked);
     });
+    // 港湾 //
+    document.getElementById('portsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('ports', this.checked);
+    });
     // 鉄道 //
     document.getElementById('railwaysCheckbox').addEventListener('change', function () {
         updateLayerVisibility('railways', this.checked);
@@ -801,6 +840,8 @@ map.on('load', function () {
     updateLayerVisibility('airports', document.getElementById('airportsCheckbox').checked);
     // フライトネットワーク //
     updateLayerVisibility('flight_network', document.getElementById('flight_networkCheckbox').checked);
+    // 港湾 //
+    updateLayerVisibility('ports', document.getElementById('portsCheckbox').checked);
     // 鉄道 //
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
     // 高速道路 //
