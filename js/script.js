@@ -104,7 +104,7 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
-    　フライトネットワーク
+    　空港ネットワーク
     -------------------------------------------------------- */
     map.addSource('flight_network', {
         'type': 'geojson',
@@ -152,7 +152,7 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
-    　ハイクラスホテル
+    　港湾
     -------------------------------------------------------- */
     map.addSource('ports', {
         'type': 'geojson',
@@ -183,6 +183,46 @@ map.on('load', function () {
         map.getCanvas().style.cursor = 'pointer';
     });
     map.on('mouseleave', "ports", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
+    　港湾ネットワーク
+    -------------------------------------------------------- */
+    map.addSource('ports_network', {
+        'type': 'geojson',
+        'data': './geojson/infrastructure/ports_network/ports_network.geojson'
+    });
+    map.addLayer({
+        'id': "ports_network",
+        'type': 'line',
+        'source': 'ports_network',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'line-color': [
+                'case',
+                ['==', ['get', "N09_013"], "那覇"], '#ff0000',
+                ['==', ['get', "N09_013"], "泊"], '#ff0000',
+                ['==', ['get', "N09_013"], "那覇（泊）"], '#ff0000',
+                ['==', ['get', "N09_016"], "那覇"], '#ff0000',
+                "#0000ff"
+            ],
+            'line-width': 0.5,
+        }
+    });
+    // ポップアップ //
+    map.on('click', "ports_network", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["N09_006"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "ports_network", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "ports_network", function () {
         map.getCanvas().style.cursor = '';
     });
 
