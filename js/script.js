@@ -569,8 +569,7 @@ map.on('load', function () {
                 'fill-opacity': 0.7
             }
         });
-
-        // Popup when click
+        // ポップアップ
         map.on('click', layerId, function (e) {
             console.log(e.features[0].properties);
             new mapboxgl.Popup()
@@ -578,22 +577,98 @@ map.on('load', function () {
                 .setHTML(popupText)
                 .addTo(map);
         });
-
         map.on('mouseenter', layerId, function () {
             map.getCanvas().style.cursor = 'pointer';
         });
-
         map.on('mouseleave', layerId, function () {
             map.getCanvas().style.cursor = '';
         });
     }
 
     const area_policies = [
-        { sourceId: 'north', layerId: 'north', geojsonPath: './geojson/area_policies/north.geojson', fillColor: 'red', popupText: "test" },
-        { sourceId: 'middle', layerId: 'middle', geojsonPath: './geojson/area_policies/middle.geojson', fillColor: 'green', popupText: "test"},
-        { sourceId: 'south', layerId: 'south', geojsonPath: './geojson/area_policies/south.geojson', fillColor: 'blue', popupText: "test"},
-        { sourceId: 'miyako', layerId: 'miyako', geojsonPath: './geojson/area_policies/miyako.geojson', fillColor: 'yellow', popupText: "test"},
-        { sourceId: 'yaeyama', layerId: 'yaeyama', geojsonPath: './geojson/area_policies/yaeyama.geojson', fillColor: 'purple', popupText: "test"},
+        { sourceId: 'north', layerId: 'north', geojsonPath: './geojson/area_policies/north.geojson', fillColor: 'red', popupText: 
+        `<ul>
+            <li>ガイド制度の普及や観光客の入域管理</li>
+            <li>やんばるの森を活用した観光拠点の形成</li>
+            <li>星空ツーリズム、ダムツーリズム、グランピング、ワーケーションなど滞在型観光の推進</li>
+            <li>国営沖縄記念公園海洋博覧会地区の拠点機能の充実と、大規模テーマパーク事業計画を含む新たな周辺地域への周遊や特産品の販売促進</li>
+            <li>西海岸地域、カヌチャ地域等のリゾート施設と万国津梁館及びOISTをはじめ北部圏域に拠点を持つ県内学術機関の連携による MICE 誘致・受入</li>
+            <li>環金武湾地域における金武湾の特性や自然、文化を生かした健康保養をテーマとした滞在型観光等の取組の促進</li>
+            <li>自然・文化・体験等を軸としたエコツーリズム、アドベンチャーツーリズム、サイクルツーリズム、ヘルスツーリズム等の推進</li>
+            <li>ICTによる観光の質の向上により、リピーター等が持続的につながる観光展開を推進</li>
+            <li>プロスポーツチームや実業団チーム等がキャンプやトレーニングを行う受入地域としての知名度や各種スポーツイベント等を活用したスポーツツーリズムを推進</li>
+            <li>スポーツ指導者等の人材育成も含めた環境整備を促進</li>
+            <li>観光地形成促進地域制度を活用し、魅力ある民間施設の整備を促進し、国内外からの観光客の増大や観光の高付加価値化等による滞在日数の延長、観光消費額の向上</li>
+        </ul>` },
+        { sourceId: 'middle', layerId: 'middle', geojsonPath: './geojson/area_policies/middle.geojson', fillColor: 'green', popupText: 
+        `<ul>
+            <li>体験・滞在型観光など地域資源を活用した本圏域特有の観光スタイルを創出</li>
+            <li>良好な景観の形成、環境保全活動と経済活動が共存するルールづくり、魅力ある風景づくり等を推進し、豊かで美しい観光・都市空間の創出</li>
+            <li>北谷町を観光二次交通結節点として位置づけ、二次交通の利用促進と分散化</li>
+            <li>沖縄全島エイサーまつり等の音楽・芸能を活用した観光・レクリエーション拠点の形成</li>
+            <li>広域的な児童・青少年の健全育成拠点及び観光拠点として「沖縄こどもの国」を活用</li>
+            <li>新港地区においてクルーズ船の受入拠点の形成</li>
+            <li>泡瀬地区において東部海浜開発事業を推進</li>
+            <li>観光地形成促進地域制度を活用し、魅力ある民間施設の整備を促進し、国内外からの観光客の増大や観光の高付加価値化等による滞在日数の延長、観光消費額の向上</li>
+            <li>プロスポーツキャンプ等の受入やおきなわマラソンなど各種スポーツイベント開催をはじめとするスポーツツーリズムを推進</li>
+            <li>FIBAバスケットボールワールドカップ2023等の国際大会の開催など、沖縄アリーナを核とした「スポーツアイランド沖縄」の形成に向けた取組を推進</li>
+            <li>東部海浜開発地区「潮乃森」など、新たなスポーツコンベンション拠点を有するビーチフロント観光地の形成</li>
+            <li>CIQの常設化及び迅速化、充実した船舶補給施設の整備などによりスーパーヨット受入の環境整備を推進</li>
+            <li>沖縄県総合運動公園、吉の浦公園等の総合スポーツ施設等を生かし、プロスポーツチームの合宿や、学生及び社会人におけるクラブ活動の誘致</li>
+            <li>首里城を起点として中城城跡、勝連城跡、座喜味城跡を周遊しやすくするための取組を推進</li>
+        </ul>` },
+        { sourceId: 'south', layerId: 'south', geojsonPath: './geojson/area_policies/south.geojson', fillColor: 'blue', popupText:         
+        `<ul>
+            <li>沖縄戦跡国定公園を中心とした戦跡の保存・活用など平和発信地域を形成</li>
+            <li>当該国定公園の特別地域の範囲の見直しを図るなど、平和の発信と歴史的風景の保全を両立する地域を形成</li>
+            <li>首里城を中心とした歴史・文化の復興に向けて、首里城正殿の早期復元や復元過程の公開、首里城公園の魅力向上や施設管理体制の強化、</li>
+            <li>戦災により焼失した中城御殿や円覚寺等の文化財の保存・復元整備、第32軍司令部壕の保存・公開に向けた取組を推進</li>
+            <li>斎場御嶽など琉球王国のグスク及び関連遺産群の保全や周辺整備を促進し、琉球歴史回廊の形成を図るとともに、各地域に残る文化財の保全や周辺整備を促進</li>
+            <li>沖縄空手会館を拠点に世界大会の開催や空手愛好家の受入体制強化を進め、「空手発祥の地・沖縄」の強力な発信に取り組む</li>
+            <li>沖縄県立博物館・美術館、浦添市における国立劇場おきなわなど文化機能の充実を図る</li>
+            <li>おきなわ工芸の杜を活用した商品開発、マーケティング、ブランド力向上等の推進に取り組み、地域の伝統工芸の魅力や価値の向上と伝統工芸の技術・技法の継承</li>
+            <li>良好な景観の形成、環境保全活動と経済活動が共存するルールづくり、魅力ある風景づくり等を推進し、豊かで美しい観光・都市空間の創出を</li>
+            <li>西海岸地域では、アジアをはじめとする諸外国や県内外との交流拠点の形成を目指し、施設の充実及び受入体制の強化を促進</li>
+            <li>那覇港では、国際クルーズ拠点の形成に向け、フライ・アンド・クルーズ等の高付加価値を促す多様なクルーズの誘致等に取り組む</li>
+            <li>那覇港の歴史・文化、自然環境や周辺離島との連携等を活かしたウォーターフロント空間の創出等を図る</li>
+            <li>マリンタウンMICEエリアでは、大型MICE 施設の整備に向けた取組を推進し、宿泊施設や商業施設の立地促進や施設利用者の交通利便性の確保、オープンスペースの賑わいやスマートシティの形成など、MICE を中心とした魅力あるまちづくりに取り組む</li>
+            <li>中城湾港では、西原与那原地区においてスーパーヨットの受入拠点や大型MICE施設と連動したウォーターフロント空間の形成を図る</li>
+            <li>観光地域づくり法人(DMO)等との連携による東海岸地域の観光周遊の広域化、自然環境やソフトパワーを活用したワーケーションの展開</li>
+            <li>NAHA マラソンなど南部各地で開催されるスポーツ大会、大綱ひき、ハーリー等の各種イベントの充実</li>
+            <li>奥武山公園に、Ｊ１規格スタジアムを整備し、地域・観光交流拠点となるスポーツ施設の充実</li>
+            <li>東海岸地域の歴史文化資源や観光資源といった地域の魅力をつなげるサイクルツーリズムの推進など、スポーツによる地域活性化</li>
+            <li>観光地形成促進地域制度を活用し、魅力ある民間施設の整備を促進し、国内外からの観光客の増大や観光の高付加価値化等による滞在日数の延長、観光消費額の向上</li>
+            <li>慶良間諸島でのエコツーリズム(ダイビングやホエールウォッチングなど)、久米島の海洋深層水を活用した保養・療養型観光など、特有の自然・景観、伝統・文化等の魅力を生かした交流人口及び関係人口の拡大並びに農林水産業等の地場産業との連携など、離島ならではの体験・滞在型観光を促進</li>
+            <li>本圏域では、慢性的な交通渋滞が発生しているため、玄関口の主要拠点と拠点都市間の移動の円滑化、利便性の向上を図り、交通料金と観光施設入場券がセットとなったお得な周遊券を促進することで、国内外からの観光客の満足度、観光消費額向上につなげる</li>
+            <li>た都市型MICEの開催に向けて、中城湾港西原与那原地区における大型MICE施設の整備や、大型国際見本市・展示会を始めとする各種MICEの地元自治体と連携した誘致体制を強化し、地元事業者等によるMICE関連ビジネスの振興</li>
+        </ul>` },
+        { sourceId: 'miyako', layerId: 'miyako', geojsonPath: './geojson/area_policies/miyako.geojson', fillColor: 'yellow', popupText:         
+        `<ul>
+            <li>自然資源の利用ルールの策定や周知の徹底、環境に配慮した良質な観光メニューの普及等により、持続可能な観光地づくりを推進</li>
+            <li>世界規模の全日本トライアスロン宮古島大会等のスポーツイベントなど島々の特性に応じた各種イベントの充実を図り、「スポーツアイランド沖縄」の形成に向けた取組を促進</li>
+            <li>エコツーリズム、アドベンチャーツーリズム、サイクルツーリズムなど体験・滞在型観光を推進</li>
+            <li>砂山ビーチ等の美しい砂浜や通り池など有数のダイビングスポット、地下ダムや自然エネルギー施設など産業観光施設、地域内の歴史・文化資源、マンゴーに代表される熱帯果樹等の農林水産物、地域のホスピタリティなど、様々な資源を活用した独自の観光スタイルの創出を促進</li>
+            <li>多良間島では、海洋レジャー、自然観察など豊かな観光資源を活用した多様な取組を促進</li>
+            <li>伊良部島では、ワンランク上のリゾートライフをコンセプトとして、国際線やプライベートジェットも受入可能な下地島空港旅客ターミナル施設の開業や伊良部大橋の架橋を生かし、ラグジュアリーな宿泊施設の立地促進など、富裕層をターゲットとした観光地の形成を推進</li>
+            <li>新規航空会社の誘致や定期航空路線開設に向けた働きかけによる航空路の充実</li>
+            <li>クルーズ船やスーパーヨットの誘致など近隣諸国等からの観光誘客活動を地域との連携</li>
+            <li>自然、文化など多様な魅力ある離島を含む広域周遊ルートの形成や受入環境の整備に関係機関と連携して取り組む</li>
+            <li>観光地形成促進地域制度を活用し、魅力ある民間施設の整備を促進し、国内外からの観光客の増大や観光の高付加価値化等による滞在日数の延長、観光消費額の向上</li>
+        </ul>` },
+        { sourceId: 'yaeyama', layerId: 'yaeyama', geojsonPath: './geojson/area_policies/yaeyama.geojson', fillColor: 'purple', popupText:         
+        `<ul>
+            <li>自然資源の利用ルールの策定や周知の徹底、環境に配慮した良質な観光メニューの普及等により、持続可能な観光地づくりを推進</li>
+            <li>、世界自然遺産に登録された西表島では、ガイド制度の普及や観光客の入域管理など、持続可能な観光受入体制の構築に取り組む。</li>
+            <li>石西礁湖をはじめ世界有数といわれるサンゴ礁域や西表島の広大な原生林・マングローブ林など、多様性に富んだ自然環境を生かしたエコツーリズムやグリーン・ツーリズム等の体験・滞在型観光を推進</li>
+            <li>アストロツーリズム（星空ツーリズム）の推進、スポーツキャンプの誘致活動を実施するとともに、受入環境の充実を図り、サイクルツーリズムの推進、大規模スポーツイベントの実施によりスポーツによる地域活性化</li>
+            <li>石垣市のトゥバラーマ大会等の民俗芸能イベントや石垣島トライアスロンなど島々の特性に応じた各種イベントの充実</li>
+            <li>竹富町における昔ながらの美しい集落景観など、島々の特性や豊かな自然、伝統文化等を生かした周遊ルートの多様化を促進</li>
+            <li>与那国町等では、交流人口の拡大による自立的発展に向けた地域の活性化を推進するため、豊かな自然や歴史文化資源を活用し、釣りやダイビング、歴史探訪等の多様な取組を促進</li>
+            <li>新規航空会社の誘致や定期航空路線開設に向けた働きかけによる航空路の充実</li>
+            <li>クルーズ船やスーパーヨットの誘致など近隣諸国等からの観光誘客活動を地域との連携</li>
+            <li>自然、文化など多様な魅力ある離島を含む広域周遊ルートの形成や受入環境の整備に関係機関と連携して取り組む</li>
+            <li>観光地形成促進地域制度を活用し、魅力ある民間施設の整備を促進し、国内外からの観光客の増大や観光の高付加価値化等による滞在日数の延長、観光消費額の向上</li>
+        </ul>` },
     ];
 
     // Add layers
@@ -603,7 +678,7 @@ map.on('load', function () {
     /* ----------------------------------------------------------------------------
     　レイヤー表示/非表示
     ---------------------------------------------------------------------------- */
-    // #####　表示/非表示の関数を定義
+    // 表示/非表示の関数を定義
     function updateLayerVisibility(layerIds, visibility) {
         if (Array.isArray(layerIds)) {
             layerIds.forEach(layerId => {
@@ -614,7 +689,7 @@ map.on('load', function () {
         }
     }
 
-    // ##### イベント・リスナー（チェックボックス）
+    // イベント・リスナー（チェックボックス）
     // 行政区域 //
     document.getElementById('boundariesCheckbox').addEventListener('change', function () {
         updateLayerVisibility('boundaries', this.checked);
@@ -662,9 +737,13 @@ map.on('load', function () {
     // ハイクラスホテル //
     document.getElementById('high_class_hotelsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('high_class_hotels', this.checked);
+    });  
+    // エリア方針 //
+    document.getElementById('area_policiesCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['north','middle','south','miyako','yaeyama'], this.checked);
     });
     
-    // ##### チェックボックスの状態に応じて表示/非表示
+    // チェックボックスの状態に応じて表示/非表示
     // 行政区域 //
     updateLayerVisibility('boundaries', document.getElementById('boundariesCheckbox').checked);
     // 空港 //
@@ -689,8 +768,11 @@ map.on('load', function () {
     updateLayerVisibility(['world_natural_heritages'], document.getElementById('world_natural_heritagesCheckbox').checked);
     // ハイクラスホテル //
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
+    // エリア方針 //
+    updateLayerVisibility(['north','middle','south','miyako','yaeyama'], document.getElementById('area_policiesCheckbox').checked);
 
-    // ##### 初期設定
+
+    // 初期設定
     document.getElementById('boundariesCheckbox').checked = true;
 
 });
