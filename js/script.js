@@ -103,6 +103,53 @@ map.on('load', function () {
         map.getCanvas().style.cursor = '';
     });
 
+    /* --------------------------------------------------------
+    　フライトネットワーク
+    -------------------------------------------------------- */
+    map.addSource('flight_network', {
+        'type': 'geojson',
+        'data': './geojson/infrastructure/flight_network/flight_network.geojson'
+    });
+    map.addLayer({
+        'id': "flight_network",
+        'type': 'line',
+        'source': 'flight_network',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'line-color': [
+                'case',
+                ['==', ['get', "S10b_004"], "那覇"], '#ff0000',
+                ['==', ['get', "S10b_004"], "久米島"], '#00ff00',
+                ['==', ['get', "S10b_004"], "石垣"], '#0000ff',
+                ['==', ['get', "S10b_004"], "宮古"], '#f00000',
+                ['==', ['get', "S10b_004"], "多良間"], '#0f0000',
+                ['==', ['get', "S10b_004"], "与那国"], '#0000ff',
+                ['==', ['get', "S10b_004"], "下地島"], '#0000ff',
+                ['==', ['get', "S10b_004"], "北大東"], '#0000ff',
+                ['==', ['get', "S10b_004"], "慶良間"], '#0000ff',
+                ['==', ['get', "S10b_004"], "粟国"], '#0000ff',
+                ['==', ['get', "S10b_004"], "南大東"], '#0000ff',
+                ['==', ['get', "S10b_004"], "波照間"], '#0000ff',
+                "#ffff00"
+            ],
+            'line-width': 0.5,
+        }
+    });
+    // ポップアップ //
+    map.on('click', "flight_network", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["C28_005"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "flight_network", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "flight_network", function () {
+        map.getCanvas().style.cursor = '';
+    });
 
     /* --------------------------------------------------------
     　鉄道
@@ -591,8 +638,8 @@ map.on('load', function () {
             <li>ガイド制度の普及や観光客の入域管理</li>
             <li>やんばるの森を活用した観光拠点の形成</li>
             <li>星空ツーリズム、ダムツーリズム、グランピング、ワーケーションなど滞在型観光の推進</li>
-            <li>国営沖縄記念公園海洋博覧会地区の拠点機能の充実と、大規模テーマパーク事業計画を含む新たな周辺地域への周遊や特産品の販売促進</li>
-            <li>西海岸地域、カヌチャ地域等のリゾート施設と万国津梁館及びOISTをはじめ北部圏域に拠点を持つ県内学術機関の連携による MICE 誘致・受入</li>
+            <li>沖縄海洋博覧会地区の拠点機能の充実と、大規模テーマパーク事業計画を含む新たな周辺地域への周遊や特産品の販売促進</li>
+            <li>リゾート施設(西海岸地域、カヌチャ地域等)と万国津梁館及びOISTをはじめ、北部圏域に拠点を持つ県内学術機関の連携によるMICE誘致・受入</li>
             <li>環金武湾地域における金武湾の特性や自然、文化を生かした健康保養をテーマとした滞在型観光等の取組の促進</li>
             <li>自然・文化・体験等を軸としたエコツーリズム、アドベンチャーツーリズム、サイクルツーリズム、ヘルスツーリズム等の推進</li>
             <li>ICTによる観光の質の向上により、リピーター等が持続的につながる観光展開を推進</li>
@@ -698,6 +745,10 @@ map.on('load', function () {
     document.getElementById('airportsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('airports', this.checked);
     });
+    // フライトネットワーク //
+    document.getElementById('flight_networkCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('flight_network', this.checked);
+    });
     // 鉄道 //
     document.getElementById('railwaysCheckbox').addEventListener('change', function () {
         updateLayerVisibility('railways', this.checked);
@@ -748,6 +799,8 @@ map.on('load', function () {
     updateLayerVisibility('boundaries', document.getElementById('boundariesCheckbox').checked);
     // 空港 //
     updateLayerVisibility('airports', document.getElementById('airportsCheckbox').checked);
+    // フライトネットワーク //
+    updateLayerVisibility('flight_network', document.getElementById('flight_networkCheckbox').checked);
     // 鉄道 //
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
     // 高速道路 //
