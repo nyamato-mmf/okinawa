@@ -808,7 +808,7 @@ map.on('load', function () {
             map.addImage('myicon', image);
 
             // Add a data source containing several points' features.
-            map.addSource('mypoints', {
+            map.addSource('videos', {
                 'type': 'geojson',
                 'data': {
                     'type': 'FeatureCollection',
@@ -855,16 +855,17 @@ map.on('load', function () {
 
             // Add a layer to use the image to represent the data.
             map.addLayer({
-                'id': 'myvideos',
+                'id': 'videos',
                 'type': 'symbol',
-                'source': 'mypoints', // reference the data source
+                'source': 'videos', // reference the data source
                 'layout': {
                     'icon-image': 'myicon', // reference the image
-                    'icon-size': 1.5
-                }
+                    'icon-size': 1.5,
+                    'visibility': 'none'
+                },
             });
             // On click, get coordinates and a description.
-            map.on('click', 'myvideos', (e) => {
+            map.on('click', 'videos', (e) => {
                 const coordinates = e.features[0].geometry.coordinates.slice();
                 const description = e.features[0].properties.description;
 
@@ -879,10 +880,10 @@ map.on('load', function () {
                     .addTo(map);
 
             });
-            map.on('mouseenter', 'myvideos', () => {
+            map.on('mouseenter', 'videos', () => {
                 map.getCanvas().style.cursor = 'pointer';
             });
-            map.on('mouseleave', 'myvideos', () => {
+            map.on('mouseleave', 'videos', () => {
                 map.getCanvas().style.cursor = '';
             });
 
@@ -972,7 +973,7 @@ map.on('load', function () {
     });
     // 映像 //
     document.getElementById('videosCheckbox').addEventListener('change', function () {
-        updateLayerVisibility(['myvideos'], this.checked);
+        updateLayerVisibility(['videos'], this.checked);
     });
     
     
@@ -1010,7 +1011,7 @@ map.on('load', function () {
     // エリア方針 //
     updateLayerVisibility(['north','middle','south','miyako','yaeyama'], document.getElementById('area_policiesCheckbox').checked);
     // 映像 //
-    updateLayerVisibility(['myvideos'], document.getElementById('videosCheckbox').checked);
+    updateLayerVisibility(['videos'], document.getElementById('videosCheckbox').checked);
 
 
     // 初期設定
