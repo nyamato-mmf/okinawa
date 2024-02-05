@@ -820,13 +820,17 @@ map.on('load', function () {
     document.getElementById('airportsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('airports', this.checked);
     });
-    // フライトネットワーク //
+    // 空港ネットワーク //
     document.getElementById('flight_networkCheckbox').addEventListener('change', function () {
         updateLayerVisibility('flight_network', this.checked);
     });
     // 港湾 //
     document.getElementById('portsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('ports', this.checked);
+    });
+    // 港湾ネットワーク //
+    document.getElementById('ports_networkCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('ports_network', this.checked);
     });
     // 鉄道 //
     document.getElementById('railwaysCheckbox').addEventListener('change', function () {
@@ -878,10 +882,12 @@ map.on('load', function () {
     updateLayerVisibility('boundaries', document.getElementById('boundariesCheckbox').checked);
     // 空港 //
     updateLayerVisibility('airports', document.getElementById('airportsCheckbox').checked);
-    // フライトネットワーク //
+    // 空港ネットワーク //
     updateLayerVisibility('flight_network', document.getElementById('flight_networkCheckbox').checked);
     // 港湾 //
     updateLayerVisibility('ports', document.getElementById('portsCheckbox').checked);
+    // 港湾ネットワーク //
+    updateLayerVisibility('ports_network', document.getElementById('ports_networkCheckbox').checked);
     // 鉄道 //
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
     // 高速道路 //
