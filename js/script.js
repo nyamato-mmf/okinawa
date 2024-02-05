@@ -572,7 +572,7 @@ map.on('load', function () {
         // ポップアップ
         map.on('click', layerId, function (e) {
             console.log(e.features[0].properties);
-            new mapboxgl.Popup()
+            new mapboxgl.Popup({className: 'popupCustom'})
                 .setLngLat(e.lngLat)
                 .setHTML(popupText)
                 .addTo(map);
