@@ -796,6 +796,100 @@ map.on('load', function () {
     // Add layers
     area_policies.forEach(elem => add_area_policies_Layer(map, elem.sourceId, elem.layerId, elem.geojsonPath, elem.fillColor, elem.popupText));
 
+    /* --------------------------------------------------------
+    　映像
+    -------------------------------------------------------- */
+    map.loadImage(
+        '././img/marker-blue.png',
+        (error, image) => {
+            if (error) throw error;
+
+            // Add the image to the map style.
+            map.addImage('myicon', image);
+
+            // Add a data source containing several points' features.
+            map.addSource('mypoints', {
+                'type': 'geojson',
+                'data': {
+                    'type': 'FeatureCollection',
+                    'features': [
+                        {
+                            'type': 'Feature',
+                            'properties': {
+                                "name": "伊江島空港",
+                                'description':
+                                    '<strong>伊江島空港</strong><p><iframe width="200" src="././video/iejima.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>',
+                            },
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [127.78535213862155, 26.724520684040552]
+                            }
+                        },
+                        {
+                            'type': 'Feature',
+                            'properties': {
+                                "name": "慶良間空港",
+                                'description':
+                                    '<strong>慶良間空港</strong><p><iframe width="200" src="././video/kerama.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>',
+                            },
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [127.29368255441145, 26.169305833296576]
+                            }
+                        },
+                        {
+                            'type': 'Feature',
+                            'properties': {
+                                "name": "下地島空港",
+                                'description':
+                                    '<strong>下地島空港</strong><p><iframe width="200" src="././video/shimojishima.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>',
+                            },
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [125.14706025938706, 24.82727017832808]
+                            }
+                        },
+                    ]
+                }
+            });
+
+            // Add a layer to use the image to represent the data.
+            map.addLayer({
+                'id': 'myvideos',
+                'type': 'symbol',
+                'source': 'mypoints', // reference the data source
+                'layout': {
+                    'icon-image': 'myicon', // reference the image
+                    'icon-size': 1.5
+                }
+            });
+            // On click, get coordinates and a description.
+            map.on('click', 'myvideos', (e) => {
+                const coordinates = e.features[0].geometry.coordinates.slice();
+                const description = e.features[0].properties.description;
+
+                while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                    coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+                }
+
+                // Create a popup object
+                new mapboxgl.Popup()
+                    .setLngLat(coordinates)
+                    .setHTML(description)
+                    .addTo(map);
+
+            });
+            map.on('mouseenter', 'myvideos', () => {
+                map.getCanvas().style.cursor = 'pointer';
+            });
+            map.on('mouseleave', 'myvideos', () => {
+                map.getCanvas().style.cursor = '';
+            });
+
+
+        }
+    );
+
 
     /* ----------------------------------------------------------------------------
     　レイヤー表示/非表示
@@ -876,6 +970,11 @@ map.on('load', function () {
     document.getElementById('area_policiesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['north','middle','south','miyako','yaeyama'], this.checked);
     });
+    // 映像 //
+    document.getElementById('videosCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['myvideos'], this.checked);
+    });
+    
     
     // チェックボックスの状態に応じて表示/非表示
     // 行政区域 //
@@ -910,6 +1009,8 @@ map.on('load', function () {
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
     // エリア方針 //
     updateLayerVisibility(['north','middle','south','miyako','yaeyama'], document.getElementById('area_policiesCheckbox').checked);
+    // 映像 //
+    updateLayerVisibility(['myvideos'], document.getElementById('videosCheckbox').checked);
 
 
     // 初期設定
