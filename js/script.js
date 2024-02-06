@@ -876,7 +876,7 @@ map.on('load', function () {
                 'source': 'videos', // reference the data source
                 'layout': {
                     'icon-image': 'myicon', // reference the image
-                    'icon-size': 1.5,
+                    'icon-size': 1,
                     'visibility': 'none'
                 },
             });
@@ -1032,6 +1032,21 @@ map.on('load', function () {
 
     // 初期設定
     document.getElementById('boundariesCheckbox').checked = true;
+
+
+                //##### Lodding spinner #####//
+                stopSpinner = (e) => {
+                    document.getElementById("loading").style.visibility = "hidden";
+                    map.off('idle', stopSpinner)
+                }
+
+                map.on('sourcedataloading', (e) => {
+                    if (!e.isSourceLoaded) {
+                        document.getElementById("loading").style.visibility = "visible";
+                        map.on('idle', stopSpinner);
+                    }
+                })
+
 
 });
 

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Graphs with Chart.js</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+  <!-- Include Chart.js from CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<div class="container mt-5">
+
+  
+    <ul class="nav nav-tabs" id="myTabs">
+        <li class="nav-item">
+            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile">Profile</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact">Contact</a>
+        </li>
+    </ul>
+
+    <div class="tab-content mt-2">
+        <div class="tab-pane fade show active" id="home">
+            <h3>Home Content</h3>
+            <p>This is the content of the Home tab.</p>
+        </div>
+        <div class="tab-pane fade" id="profile">
+
+          <h1>Dynamic Graphs</h1>
+
+          <!-- Radio buttons to select graph type -->
+          <form>
+            <input type="radio" name="graphType" value="bar" checked> Bar Chart
+            <input type="radio" name="graphType" value="line"> Line Chart
+          </form>
+        
+          <!-- Canvas to render the chart -->
+          <canvas id="myChart" width="400" height="400"></canvas>
+        
+          <!-- JavaScript code to handle dynamic graph rendering -->
+          <script>
+            // Sample data for different graph types
+            const data = {
+              bar: {
+                labels: ['Label 1', 'Label 2', 'Label 3'],
+                datasets: [{
+                  label: 'Bar Chart Data',
+                  data: [5, 10, 15],
+                  backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                  borderColor: 'rgba(75, 192, 192, 1)',
+                  borderWidth: 1
+                }]
+              },
+              line: {
+                labels: ['Label 1', 'Label 2', 'Label 3'],
+                datasets: [{
+                  label: 'Line Chart Data',
+                  data: [5, 10, 15],
+                  borderColor: 'rgba(75, 192, 192, 1)',
+                  borderWidth: 2,
+                  fill: false
+                }]
+              }
+            };
+        
+            // Get the radio buttons and canvas
+            const radioButtons = document.querySelectorAll('input[name="graphType"]');
+            const canvas = document.getElementById('myChart');
+            const ctx = canvas.getContext('2d');
+        
+            // Initial chart render
+            const initialGraphType = document.querySelector('input[name="graphType"]:checked').value;
+            renderChart(initialGraphType);
+        
+            // Add event listener to radio buttons
+            radioButtons.forEach(radioButton => {
+              radioButton.addEventListener('change', (event) => {
+                const selectedGraphType = event.target.value;
+                // Destroy the previous chart
+                if (window.myChart) {
+                  window.myChart.destroy();
+                }
+                renderChart(selectedGraphType);
+              });
+            });
+        
+            // Function to render the chart based on the selected graph type
+            function renderChart(graphType) {
+              window.myChart = new Chart(ctx, {
+                type: graphType,
+                data: data[graphType],
+              });
+            }
+          </script>
+
+        </div>
+        <div class="tab-pane fade" id="contact">
+            <h3>Contact Content</h3>
+            <p>This is the content of the Contact tab.</p>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap JS and Popper.js (required for Bootstrap functionality) -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>

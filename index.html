@@ -30,12 +30,20 @@
         .blue-marker {
             background: linear-gradient(transparent 70%, #00ffff 80%);
         }
+        #loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            display: block;
+        }
     </style>
 </head>
 
 <body>
 
     <div id="map"></div>
+    <div id="loading" class="spinner-border text-primary" role="status"><span
+        class="visually-hidden">Loading...</span></div>
 
     <!-- ------------------------------------------------------------------
         PC mode 
