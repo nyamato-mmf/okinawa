@@ -260,35 +260,49 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
-    　高速道路
+    　道路
     -------------------------------------------------------- */
-    map.addSource('highways', {
+    map.addSource('roads', {
         'type': 'geojson',
-        'data': './geojson/infrastructure/highways/highways.geojson'
+        'data': './geojson/infrastructure/roads/roads.geojson'
     });
     map.addLayer({
-        'id': 'highways',
+        'id': "roads",
         'type': 'line',
-        'source': 'highways',
+        'source': 'roads',
         'layout': {
             'visibility': 'visible'
         },
         'paint': {
-            'line-color': 'rgba(255,0,0,1)',
-            'line-width': 2,
+            'line-color': [
+                'case',
+                ['==', ['get', "N12_003"], 1], '#ff0000',
+                ['==', ['get', "N12_003"], 2], '#00ffff',
+                ['==', ['get', "N12_003"], 3], '#0000ff',
+                ['==', ['get', "N12_003"], 4], '#00ff00',
+                "#000000"
+            ],
+            'line-width': [
+                'case',
+                ['==', ['get', "N12_003"], 1], 2.5,
+                ['==', ['get', "N12_003"], 2], 2.5,
+                ['==', ['get', "N12_003"], 3], 1.5,
+                ['==', ['get', "N12_003"], 4], 1,
+                0.5
+            ],
         }
     });
     // ポップアップ //
-    map.on('click', "highways", function (e) {
+    map.on('click', "roads", function (e) {
         new mapboxgl.Popup()
             .setLngLat(e.lngLat)
-            .setHTML(e.features[0].properties["N06_007"])
+            .setHTML(e.features[0].properties["N12_004"])
             .addTo(map);
     });
-    map.on('mouseenter', "highways", function () {
+    map.on('mouseenter', "roads", function () {
         map.getCanvas().style.cursor = 'pointer';
     });
-    map.on('mouseleave', "highways", function () {
+    map.on('mouseleave', "roads", function () {
         map.getCanvas().style.cursor = '';
     });
 
@@ -933,9 +947,9 @@ map.on('load', function () {
     document.getElementById('railwaysCheckbox').addEventListener('change', function () {
         updateLayerVisibility('railways', this.checked);
     });
-    // 高速道路 //
-    document.getElementById('highwaysCheckbox').addEventListener('change', function () {
-        updateLayerVisibility('highways', this.checked);
+    // 道路 //
+    document.getElementById('roadsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('roads', this.checked);
     });
     // 自然公園 //
     document.getElementById('shizen_koenCheckbox').addEventListener('change', function () {
@@ -992,8 +1006,8 @@ map.on('load', function () {
     updateLayerVisibility('ports_network', document.getElementById('ports_networkCheckbox').checked);
     // 鉄道 //
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
-    // 高速道路 //
-    updateLayerVisibility('highways', document.getElementById('highwaysCheckbox').checked);
+    // 道路 //
+    updateLayerVisibility('roads', document.getElementById('roadsCheckbox').checked);
     // 自然公園 //
     updateLayerVisibility(['shizenkoen_01', 'shizenkoen_02', 'shizenkoen_03'], document.getElementById('shizen_koenCheckbox').checked);
     // 自然保全地域 //
