@@ -423,6 +423,42 @@ map.on('load', function () {
     add_chouju_hogo_MapLayer(map, 'chouju_hogo', 'chouju_hogo', './geojson/city_planning/chouju_hogo/chouju_hogo.geojson', '#00ff00', '鳥獣保護区');
     
     /* --------------------------------------------------------
+    　農業地域
+    -------------------------------------------------------- */
+    function add_nougyou_chiiki_MapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+        map.addLayer({
+            'id': layerId,
+            'type': 'fill',
+            'source': sourceId,
+            'paint': {
+                'fill-color': fillColor,
+                'fill-opacity': 0.3
+            }
+        });
+            // ポップアップ //
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(popupText)
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+    add_nougyou_chiiki_MapLayer(map, 'nougyou_chiiki', 'nougyou_chiiki', './geojson/city_planning/nougyou_chiiki/nougyou_chiiki.geojson', '#0000ff', '農業地域');
+    add_nougyou_chiiki_MapLayer(map, 'nouyouchi', 'nouyouchi', './geojson/city_planning/nougyou_chiiki/nouyouchi.geojson', '#ff0000', '農用地');
+    
+    /* --------------------------------------------------------
     　市街化調整区域
     -------------------------------------------------------- */
     function add_chosei_kuikiLayer(map, cityCode, cityName) {
@@ -1005,6 +1041,10 @@ map.on('load', function () {
     document.getElementById('chouju_hogoCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['chouju_hogo'], this.checked);
     });
+    // 農業地域 //
+    document.getElementById('nougyou_chiikiCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['nougyou_chiiki', 'nouyouchi'], this.checked);
+    });
     // 市街化調整区域 //
     document.getElementById('chousei_kuikiCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['47201_那覇市','47205_宜野湾市','47207_石垣市','47208_浦添市','47209_名護市','47210_糸満市','47211_沖縄市','47212_豊見城市','47213_うるま市','47214_宮古島市','47215_南城市','47308_国頭郡本部町','47324_中頭郡読谷村','47325_中頭郡嘉手納町','47326_中頭郡北谷町','47327_中頭郡北中城村','47329_中頭郡西原町','47348_島尻郡与那原町','47350_島尻郡南風原町','47362_島尻郡八重瀬町'], this.checked);
@@ -1056,6 +1096,8 @@ map.on('load', function () {
     updateLayerVisibility(['shizen_hozen_01', 'shizen_hozen_02', 'shizen_hozen_03'], document.getElementById('shizen_hozenCheckbox').checked);
     // 鳥獣保護区 //
     updateLayerVisibility(['chouju_hogo'], document.getElementById('chouju_hogoCheckbox').checked);
+    // 農業地域 //
+    updateLayerVisibility(['nougyou_chiiki', 'nouyouchi'], document.getElementById('nougyou_chiikiCheckbox').checked);
     // 市街化調整区域 //
     updateLayerVisibility(['47201_那覇市','47205_宜野湾市','47207_石垣市','47208_浦添市','47209_名護市','47210_糸満市','47211_沖縄市','47212_豊見城市','47213_うるま市','47214_宮古島市','47215_南城市','47308_国頭郡本部町','47324_中頭郡読谷村','47325_中頭郡嘉手納町','47326_中頭郡北谷町','47327_中頭郡北中城村','47329_中頭郡西原町','47348_島尻郡与那原町','47350_島尻郡南風原町','47362_島尻郡八重瀬町'], document.getElementById('chousei_kuikiCheckbox').checked);
     // 用途地域 //
