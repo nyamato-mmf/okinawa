@@ -456,7 +456,7 @@ map.on('load', function () {
     }
 
     add_nougyou_chiiki_MapLayer(map, 'nougyou_chiiki', 'nougyou_chiiki', './geojson/city_planning/nougyou_chiiki/nougyou_chiiki.geojson', '#0000ff', '農業地域');
-    add_nougyou_chiiki_MapLayer(map, 'nouyouchi', 'nouyouchi', './geojson/city_planning/nougyou_chiiki/nouyouchi.geojson', '#ff0000', '農用地');
+    add_nougyou_chiiki_MapLayer(map, 'nouyouchi', 'nouyouchi', './geojson/city_planning/nougyou_chiiki/nouyouchi.geojson', '#ff0000', '農用地区域');
     
     /* --------------------------------------------------------
     　市街化調整区域
