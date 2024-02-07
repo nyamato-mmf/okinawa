@@ -11,44 +11,34 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <!-- Custom.css -->
     <link href="./css/custom.css" rel="stylesheet">
-
     <!-- jQuery CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
             integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
     <!-- Mapbox -->
     <link href="https://api.mapbox.com/mapbox-gl-js/v3.1.0/mapbox-gl.css" rel="stylesheet">
     <script src="https://api.mapbox.com/mapbox-gl-js/v3.1.0/mapbox-gl.js"></script>
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-    <style>
-        body { margin: 0; padding: 0; }
-        #map  { position: absolute; top: 0; bottom: 0; width: 100%; }
-        .popupCustom .mapboxgl-popup-content {
-            width: 600px;
-            font: 14px Arial, sans-serif;
-            }
-        .blue-marker {
-            background: linear-gradient(transparent 70%, #00ffff 80%);
-        }
-        #loading {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            display: block;
-        }
-    </style>
 </head>
 
 <body>
 
-    <div id="map"></div>
-    <div id="loading" class="spinner-border text-primary" role="status"><span
-        class="visually-hidden">Loading...</span></div>
-
-    <!-- ------------------------------------------------------------------
-        PC mode 
-    ------------------------------------------------------------------- -->
     <div class="">
+
+        <!-- ------------------------------------------------------------------
+            Mapboxキャンバス
+        ------------------------------------------------------------------- -->
+        <div id="map"></div>
+        <div id="loading" class="spinner-border text-primary" role="status"><span
+            class="visually-hidden">Loading...</span></div>
+            
+        <!-- ------------------------------------------------------------------
+            Chart.jsキャンバス
+        ------------------------------------------------------------------- -->
+        <div id="canvas-container">
+            <canvas id="myChart"></canvas>
+        </div>
 
         <!-- サイドバー: icons -->
         <div class="container bg-light position-fixed px-4" style="width: 75px; height:100vh; z-index:3">
@@ -59,117 +49,164 @@
         </div>
 
         <!-- サイドバー: コントロールパネル -->
-        <div class="container bg-dark text-white p-4 position-absolute offcanvas offcanvas-start show" data-bs-backdrop="false" id="off-canvas" style="margin-left:75px ;width: 300px; height:100vh; z-index:2">
+        <div class="container bg-dark text-white p-4 position-absolute offcanvas offcanvas-start show" data-bs-backdrop="false" id="off-canvas" style="margin-left:75px ;width: 350px; height:100vh; z-index:2">
             <h1 class="display-6">OKINAWA</h1>
+
+            <div class="container">
+                <!-- ------------------------------------------------------------------
+                    タブ 
+                ------------------------------------------------------------------- -->
+                <ul class="nav nav-tabs my-3" id="myTabs">
+                    <li class="nav-item">
+                        <a class="nav-link border border-white active" id="map-tab" data-toggle="tab" href="#mymap">マップ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link border border-white" id="graph-tab" data-toggle="tab" href="#mygraph">グラフ</a>
+                    </li>
+                </ul>
+                <!-- End of タブ -->
+
+                <div class="tab-content mt-2">
+                    <!-- ------------------------------------------------------------------
+                        マップタブ・コンテンツ 
+                    ------------------------------------------------------------------- -->
+                    <div class="tab-pane fade show active" id="mymap">
             
-            <form id="fly">
-                <div class="row m-2">
-                    <!-- Select a city to fly to -->
-                    <select id="area" name="select" class="form-select">
-                        <option value="">エリアを選択</option>
-                        <option value="fly-japan">日本</option>
-                        <option value="fly-okinawa">沖縄県</option>
-                        <option value="fly-mainland">沖縄本島</option>
-                        <option value="fly-miyako">宮古諸島</option>
-                        <option value="fly-yaeyama">八重山諸島</option>
-                        <option value="fly-world">世界</option>
-                        <option value="fly-hawaii">ハワイ諸島</option>
-                        <option value="fly-oahu">オアフ島</option>
-                    </select>
-                </div>
-            </form>
-            <!-- 下線 -->
-            <hr style="background-color: #ffffff;">
-            
-            <div class="row mb-3">
-                <div id="layerSwitcher">
-                    <div class="form-check">
-                        <input type="checkbox" id="boundariesCheckbox" checked>
-                        <label for="boundariesCheckbox">行政区域</label>
+                        <form id="fly">
+                            <div class="row m-2">
+                                <!-- Select a city to fly to -->
+                                <select id="area" name="select" class="form-select">
+                                    <option value="">エリアを選択</option>
+                                    <option value="fly-japan">日本</option>
+                                    <option value="fly-okinawa">沖縄県</option>
+                                    <option value="fly-mainland">沖縄本島</option>
+                                    <option value="fly-miyako">宮古諸島</option>
+                                    <option value="fly-yaeyama">八重山諸島</option>
+                                    <option value="fly-world">世界</option>
+                                    <option value="fly-hawaii">ハワイ諸島</option>
+                                    <option value="fly-oahu">オアフ島</option>
+                                </select>
+                            </div>
+                        </form>
+                        <hr style="background-color: #ffffff;">
+
+                        <div class="row mb-3">
+                            <div id="layerSwitcher">
+                                <div class="form-check">
+                                    <input type="checkbox" id="boundariesCheckbox">
+                                    <label for="boundariesCheckbox">行政区域</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="airportsCheckbox">
+                                    <label for="airportsCheckbox">空港</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="flight_networkCheckbox">
+                                    <label for="flight_networkCheckbox">空港ネットワーク</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="portsCheckbox">
+                                    <label for="portsCheckbox">港湾</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="ports_networkCheckbox">
+                                    <label for="ports_networkCheckbox">港湾ネットワーク</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="roadsCheckbox">
+                                    <label for="roadsCheckbox">道路</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="railwaysCheckbox">
+                                    <label for="railwaysCheckbox">鉄道</label>
+                                </div>
+                                <hr style="background-color: #ffffff;">
+                                <div class="form-check">
+                                    <input type="checkbox" id="shizen_koenCheckbox">
+                                    <label for="shizen_koenCheckbox">自然公園</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="shizen_hozenCheckbox">
+                                    <label for="shizen_hozenCheckbox">自然保全地域</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="chouju_hogoCheckbox">
+                                    <label for="chouju_hogoCheckbox">鳥獣保護区</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="chousei_kuikiCheckbox">
+                                    <label for="chousei_kuikiCheckbox">市街化調整区域</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="youto_chiikiCheckbox">
+                                    <label for="youto_chiikiCheckbox">用途地域</label>
+                                </div>
+                                <hr style="background-color: #ffffff;">
+                                <div class="form-check">
+                                    <input type="checkbox" id="world_cultural_heritagesCheckbox">
+                                    <label for="world_cultural_heritagesCheckbox">世界文化遺産</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="world_natural_heritagesCheckbox">
+                                    <label for="world_natural_heritagesCheckbox">世界自然遺産</label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" id="high_class_hotelsCheckbox">
+                                    <label for="high_class_hotelsCheckbox">ハイクラスホテル</label>
+                                </div>
+                                <hr style="background-color: #ffffff;">
+                                <div class="form-check">
+                                    <input type="checkbox" id="area_policiesCheckbox">
+                                    <label for="area_policiesCheckbox">エリア方針</label>
+                                </div>
+                                <hr style="background-color: #ffffff;">
+                                <div class="form-check">
+                                    <input type="checkbox" id="videosCheckbox">
+                                    <label for="videosCheckbox">映像</label>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <hr style="background-color: #ffffff;">
-                    <div class="form-check">
-                        <input type="checkbox" id="airportsCheckbox">
-                        <label for="airportsCheckbox">空港</label>
+                    <!-- End of マップタブ・コンテンツ -->
+
+                    <!-- ------------------------------------------------------------------
+                        グラフタブ・コンテンツ
+                    ------------------------------------------------------------------- -->
+                    <div class="tab-pane fade" id="mygraph">
+                        <!-- Radio buttons to select graph type -->
+                        <form>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="graphType" id="populationChartRadio" value="population" checked>
+                                <label class="form-check-label" for="populationChartRadio">人口</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="graphType" id="population_by_ageChartRadio" value="population_by_age">
+                                <label class="form-check-label" for="population_by_ageChartRadio">年代別人口</label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="graphType" id="visitorsChartRadio" value="visitors">
+                                <label class="form-check-label" for="visitorsChartRadio">観光客数</label>
+                            </div>
+                        </form>
                     </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="flight_networkCheckbox">
-                        <label for="flight_networkCheckbox">空港ネットワーク</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="portsCheckbox">
-                        <label for="portsCheckbox">港湾</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="ports_networkCheckbox">
-                        <label for="ports_networkCheckbox">港湾ネットワーク</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="roadsCheckbox">
-                        <label for="roadsCheckbox">道路</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="railwaysCheckbox">
-                        <label for="railwaysCheckbox">鉄道</label>
-                    </div>
-                    <hr style="background-color: #ffffff;">
-                    <div class="form-check">
-                        <input type="checkbox" id="shizen_koenCheckbox">
-                        <label for="shizen_koenCheckbox">自然公園</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="shizen_hozenCheckbox">
-                        <label for="shizen_hozenCheckbox">自然保全地域</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="chouju_hogoCheckbox">
-                        <label for="chouju_hogoCheckbox">鳥獣保護区</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="chousei_kuikiCheckbox">
-                        <label for="chousei_kuikiCheckbox">市街化調整区域</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="youto_chiikiCheckbox">
-                        <label for="youto_chiikiCheckbox">用途地域</label>
-                    </div>
-                    <hr style="background-color: #ffffff;">
-                    <div class="form-check">
-                        <input type="checkbox" id="world_cultural_heritagesCheckbox">
-                        <label for="world_cultural_heritagesCheckbox">世界文化遺産</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="world_natural_heritagesCheckbox">
-                        <label for="world_natural_heritagesCheckbox">世界自然遺産</label>
-                    </div>
-                    <div class="form-check">
-                        <input type="checkbox" id="high_class_hotelsCheckbox">
-                        <label for="high_class_hotelsCheckbox">ハイクラスホテル</label>
-                    </div>
-                    <hr style="background-color: #ffffff;">
-                    <div class="form-check">
-                        <input type="checkbox" id="area_policiesCheckbox">
-                        <label for="area_policiesCheckbox">エリア方針</label>
-                    </div>
-                    <hr style="background-color: #ffffff;">
-                    <div class="form-check">
-                        <input type="checkbox" id="videosCheckbox">
-                        <label for="videosCheckbox">映像</label>
-                    </div>
+                    <!-- End of グラフタブ・コンテンツ -->
+
                 </div>
             </div>
-
         </div>
     </div>
     <!-- End of PC mode -->
 
-
     <!-- Bootstrap JavaScript (Popper.js and Bootstrap.js) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
+    <!-- Bootstrap JS and Popper.js (required for Bootstrap functionality) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
     <!-- Custom JavaScript-->
     <script src="./js/script.js"></script>
-        
 
 </body>
 </html>

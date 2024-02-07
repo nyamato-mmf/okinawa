@@ -1,4 +1,8 @@
 
+
+/* ----------------------------------------------------------------------------
+　Mapboxマップ描画機能
+---------------------------------------------------------------------------- */
 mapboxgl.accessToken = 'pk.eyJ1IjoibnlhbWF0byIsImEiOiJja2Y4dzNkOW8wY3MwMnFvM29iNnJzNzVzIn0.GHlHwu3r5YjKBU3qAKvccQ';
 const map = new mapboxgl.Map({
     container: 'map',
@@ -11,6 +15,8 @@ map.setMaxZoom(13);
 map.setMaxPitch(60)
 
 map.on('load', function () {
+
+
 
     // Fly to functionality
     document.getElementById("fly").select.onchange = function() {
@@ -49,7 +55,7 @@ map.on('load', function () {
         'type': 'fill',
         'source': 'boundaries',
         'layout': {
-            'visibility': 'visible'
+            'visibility': 'none'
         },
         'paint': {
             'fill-outline-color': 'rgba(0,0,0,1)',
@@ -787,7 +793,7 @@ map.on('load', function () {
             <li>エコツーリズム、アドベンチャーツーリズム、サイクルツーリズムなど体験・滞在型観光を推進</li>
             <li><strong><mark>砂山ビーチ</strong></mark>等の有数のダイビングスポット、地下ダムや自然エネルギー施設など産業観光施設、歴史・文化資源、熱帯果樹等の農林水産物、地域のホスピタリティなど、様々な資源を活用した独自の観光スタイルの創出</li>
             <li><strong><mark>多良間島</strong></mark>では、海洋レジャー、自然観察など豊かな観光資源を活用した多様な取組を促進</li>
-            <li><strong><mark>伊良部島</strong></mark>では、国際線やプライベートジェットも受入可能な下地島空港旅客ターミナル施設の開業や伊良部大橋の架橋を生かし、ラグジュアリーな宿泊施設の立地促進など、富裕層をターゲットとした観光地の形成</li>
+            <li><strong><mark>伊良部島</strong></mark>では、国際線やプライベートジェットも受入可能な下地島空港旅客ターミナル施設の開業や伊良部大橋の架橋を生かし、<strong><mark class="blue-marker">ラグジュアリーな宿泊施設</mark></strong>の立地促進など、富裕層をターゲットとした観光地の形成</li>
             <li><strong><mark class="blue-marker">新規航空会社の誘致や定期航空路線開設</mark></strong>に向けた働きかけによる航空路の充実</li>
             <li><strong><mark class="blue-marker">クルーズ船やスーパーヨットの誘致</mark></strong>など近隣諸国等からの観光誘客活動</li>
             <li>自然、文化など多様な魅力ある離島を含む広域周遊ルートの形成や受入環境の整備に関係機関と連携して取り組む</li>
@@ -863,6 +869,18 @@ map.on('load', function () {
                             'geometry': {
                                 'type': 'Point',
                                 'coordinates': [125.14706025938706, 24.82727017832808]
+                            }
+                        },
+                        {
+                            'type': 'Feature',
+                            'properties': {
+                                "name": "宮古島",
+                                'description':
+                                    '<strong>宮古島</strong><p><iframe width="200" src="././video/miyako.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>',
+                            },
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [125.32694445110255, 24.767779213773867]
                             }
                         },
                     ]
@@ -1031,21 +1049,21 @@ map.on('load', function () {
 
 
     // 初期設定
-    document.getElementById('boundariesCheckbox').checked = true;
+    //document.getElementById('boundariesCheckbox').checked = true;
 
 
-                //##### Lodding spinner #####//
-                stopSpinner = (e) => {
-                    document.getElementById("loading").style.visibility = "hidden";
-                    map.off('idle', stopSpinner)
-                }
+    //##### ローディング・スピナー #####//
+    stopSpinner = (e) => {
+        document.getElementById("loading").style.visibility = "hidden";
+        map.off('idle', stopSpinner);
+    }
 
-                map.on('sourcedataloading', (e) => {
-                    if (!e.isSourceLoaded) {
-                        document.getElementById("loading").style.visibility = "visible";
-                        map.on('idle', stopSpinner);
-                    }
-                })
+    map.on('sourcedataloading', (e) => {
+        if (!e.isSourceLoaded) {
+            document.getElementById("loading").style.visibility = "visible";
+            map.on('idle', stopSpinner);
+        }
+    })
 
 
 });
@@ -1054,3 +1072,113 @@ map.on('load', function () {
 map.addControl(new mapboxgl.NavigationControl());
         
 
+
+/* ----------------------------------------------------------------------------
+　マップタブ/グラフタブ 切替機能
+---------------------------------------------------------------------------- */
+document.addEventListener('DOMContentLoaded', function() {
+    // Add event listener to the tab links
+    document.querySelectorAll('.nav-link').forEach(function(tab) {
+        tab.addEventListener('click', function(event) {
+            // Hide the map and show the chart when the "Graph" tab is clicked
+            if (event.target.getAttribute('href') === '#mygraph') {
+                document.getElementById('map').style.display = 'none';
+                document.getElementById('canvas-container').style.display = 'block';
+            } else {
+                // Show the map and hide the chart for other tabs
+                document.getElementById('map').style.display = 'block';
+                document.getElementById('canvas-container').style.display = 'none';
+            }
+        });
+    });
+});
+
+
+/* ----------------------------------------------------------------------------
+　Chart.js グラフ描画機能
+---------------------------------------------------------------------------- */
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Add event listener to the tab links
+    document.querySelectorAll('.nav-link').forEach(function(tab) {
+        tab.addEventListener('click', function(event) {
+            // Hide the map and show the chart when the "Graph" tab is clicked
+            if (event.target.getAttribute('href') === '#mygraph') {
+                document.getElementById('map').style.display = 'none';
+                document.getElementById('canvas-container').style.display = 'block';
+            } else {
+                // Show the map and hide the chart for other tabs
+                document.getElementById('map').style.display = 'block';
+                document.getElementById('canvas-container').style.display = 'none';
+            }
+        });
+    });
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+    // Sample data for different graph types
+    const data = {
+        population: {
+            type: 'bar', // Specify 'bar' as string
+            labels: ['Label 1', 'Label 2', 'Label 3'],
+            datasets: [{
+                label: '人口（ダミー）',
+                data: [5, 10, 15],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1
+            }]
+        },
+        population_by_age: {
+            type: 'pie', // Specify 'bar' as string
+            labels: ['Label 4', 'Label 5', 'Label 6'],
+            datasets: [{
+                label: '年代別人口（ダミー）',
+                data: [50, 10, 150],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1
+            }]
+        },
+        visitors: {
+            type: 'line', // Specify 'line' as string
+            labels: ['Label 1', 'Label 2', 'Label 3'],
+            datasets: [{
+                label: '人口推移（ダミー）',
+                data: [5, 10, 15],
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 2,
+                fill: false
+            }]
+        }
+    };
+
+    // Get the radio buttons and canvas
+    const radioButtons = document.querySelectorAll('input[name="graphType"]');
+    const canvas = document.getElementById('myChart');
+    const ctx = canvas.getContext('2d');
+
+    // Add event listener to radio buttons
+    radioButtons.forEach(radioButton => {
+        radioButton.addEventListener('change', (event) => {
+            const selectedGraphType = event.target.value;
+            // Destroy the previous chart
+            if (window.myChart) {
+                window.myChart.destroy();
+            }
+            renderChart(selectedGraphType);
+        });
+    });
+
+    // Function to render the chart based on the selected graph type
+    function renderChart(graphType) {
+        window.myChart = new Chart(ctx, {
+            type: data[graphType].type, // Use the specified chart type
+            data: data[graphType],
+        });
+    }
+
+    // Initial chart render
+    const initialGraphType = document.querySelector('input[name="graphType"]:checked').value;
+    renderChart(initialGraphType);
+});
