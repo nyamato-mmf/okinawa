@@ -693,6 +693,47 @@ map.on('load', function () {
 
 
     /* --------------------------------------------------------
+    　砂浜
+    -------------------------------------------------------- */
+    map.addSource('beaches', {
+        'type': 'geojson',
+        'data': './geojson/geographies/beaches_lines.geojson'
+    });
+    map.addLayer({
+        'id': 'beaches',
+        'type': 'line',
+        'source': 'beaches',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'line-color': [
+                'case',
+                ['==', ['get', "P23b_009"], "t"], '#0000ff',
+                'rgba(0,0,0,0)'
+            ],
+            'line-width': [
+                'case',
+                ['==', ['get', "P23b_009"], "t"], 5,
+                0.5
+            ],
+        }
+    });
+    // ポップアップ //
+    map.on('click', "beaches", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML("砂浜")
+            .addTo(map);
+    });
+    map.on('mouseenter', "beaches", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "beaches", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　ハイクラスホテル
     -------------------------------------------------------- */
     map.addSource('high_class_hotels', {
@@ -765,7 +806,7 @@ map.on('load', function () {
 
     const area_policies = [
         { sourceId: 'north', layerId: 'north', geojsonPath: './geojson/area_policies/north.geojson', fillColor: 'red', popupText: 
-        `<ul>
+        `<ol>
             <li>ガイド制度の普及、観光客の入域管理</li>
             <li><strong><mark>やんばるの森</mark></strong>を活用した観光拠点の形成</li>
             <li>滞在型観光（星空ツーリズム、ダムツーリズム、グランピング、ワーケーションなど）の推進</li>
@@ -778,9 +819,9 @@ map.on('load', function () {
             <li>スポーツ指導者等の人材育成も含めた環境整備</li>
             <li>観光地形成促進地域制度を活用し、魅力ある民間施設を整備</li>
             <li>国内外からの観光客の増大や観光の高付加価値化等による滞在日数の延長、観光消費額の向上</li>
-        </ul>` },
+        </ol>` },
         { sourceId: 'middle', layerId: 'middle', geojsonPath: './geojson/area_policies/middle.geojson', fillColor: 'green', popupText: 
-        `<ul>
+        `<ol>
             <li>地域資源を活用した観光スタイル（体験・滞在型観光など）の創出</li>
             <li>良好な景観の形成、環境保全活動と経済活動が共存するルールづくり、魅力ある風景づくりを推進し、豊かで美しい観光・都市空間の創出</li>
             <li><strong><mark>北谷町</mark></strong>を観光二次交通結節点として位置づけ、二次交通の利用促進と分散化</li>
@@ -796,9 +837,9 @@ map.on('load', function () {
             <li>観光地形成促進地域制度を活用し、魅力ある民間施設を整備</li>
             <li>国内外からの観光客の増大や観光の高付加価値化等による滞在日数の延長、観光消費額の向上</li>
             <li><strong><mark>首里城</strong></mark>を起点として<strong><mark>中城城跡、勝連城跡、座喜味城跡</strong></mark>を周遊しやすくする</li>
-        </ul>` },
+        </ol>` },
         { sourceId: 'south', layerId: 'south', geojsonPath: './geojson/area_policies/south.geojson', fillColor: 'blue', popupText:         
-        `<ul>
+        `<ol>
             <li><strong><mark>沖縄戦跡国定公園</strong></mark>を中心とした平和発信と歴史的風景の保全を両立する地域を形成</li>
             <li><strong><mark>首里城公園</strong></mark>の魅力向上や施設管理体制の強化</li>
             <li><strong><mark>中城御殿や円覚寺</strong></mark>等の保存・復元整備、<strong><mark>第32軍司令部壕</strong></mark>の保存・公開に向けた取組</li>
@@ -821,9 +862,9 @@ map.on('load', function () {
             <li><strong><mark>慶良間諸島</strong></mark>でのエコツーリズム(ダイビングやホエールウォッチングなど)、<strong><mark>久米島</strong></mark>の海洋深層水を活用した保養・療養型観光など、特有の自然・景観、伝統・文化等の魅力を生かした交流人口及び関係人口の拡大並びに農林水産業等の地場産業との連携など、離島ならではの体験・滞在型観光を促進</li>
             <li>慢性的な交通渋滞の対策として、玄関口の主要拠点と拠点都市間の移動の円滑化、利便性の向上を図り、交通料金と観光施設入場券のセット券を促進することで、満足度・消費額向上につなげる</li>
             <li>都市型MICEの開催に向けて、<strong><mark>中城湾港西原与那原地区</strong></mark>における<strong><mark class="blue-marker">大型MICE施設の整備</mark></strong>や、大型国際見本市・展示会などの誘致体制を強化し、地元事業者等によるMICE関連ビジネスの振興</li>
-        </ul>` },
+        </ol>` },
         { sourceId: 'miyako', layerId: 'miyako', geojsonPath: './geojson/area_policies/miyako.geojson', fillColor: 'yellow', popupText:         
-        `<ul>
+        `<ol>
             <li>自然資源の利用ルールの策定や周知の徹底、環境に配慮した良質な観光メニューの普及等により、持続可能な観光地づくりを推進</li>
             <li>世界規模の全日本トライアスロン宮古島大会等のスポーツイベントなど島々の特性に応じた各種イベントの充実を図り、「スポーツアイランド沖縄」の形成に向けた取組を促進</li>
             <li>エコツーリズム、アドベンチャーツーリズム、サイクルツーリズムなど体験・滞在型観光を推進</li>
@@ -834,9 +875,9 @@ map.on('load', function () {
             <li><strong><mark class="blue-marker">クルーズ船やスーパーヨットの誘致</mark></strong>など近隣諸国等からの観光誘客活動</li>
             <li>自然、文化など多様な魅力ある離島を含む広域周遊ルートの形成や受入環境の整備に関係機関と連携して取り組む</li>
             <li>観光地形成促進地域制度を活用し、魅力ある民間施設の整備を促進し、国内外からの観光客の増大や観光の高付加価値化等による滞在日数の延長、観光消費額の向上</li>
-        </ul>` },
+        </ol>` },
         { sourceId: 'yaeyama', layerId: 'yaeyama', geojsonPath: './geojson/area_policies/yaeyama.geojson', fillColor: 'purple', popupText:         
-        `<ul>
+        `<ol>
             <li>自然資源の利用ルールの策定や周知の徹底、環境に配慮した良質な観光メニューの普及等により、持続可能な観光地づくりを推進</li>
             <li>世界自然遺産に登録された<strong><mark>西表島</strong></mark>では、ガイド制度の普及や観光客の入域管理など、持続可能な観光受入体制の構築に取り組む。</li>
             <li><strong><mark>石西礁湖</strong></mark>をはじめ世界有数のサンゴ礁域や<strong><mark>西表島</strong></mark>の広大な原生林・マングローブ林などの自然環境を生かした体験・滞在型観光（エコツーリズムやグリーン・ツーリズム）を推進</li>
@@ -848,7 +889,7 @@ map.on('load', function () {
             <li><strong><mark class="blue-marker">クルーズ船やスーパーヨットの誘致</mark></strong>など近隣諸国等からの観光誘客活動</li>
             <li>自然、文化など多様な魅力ある離島を含む広域周遊ルートの形成や受入環境の整備に関係機関と連携して取り組む</li>
             <li>観光地形成促進地域制度を活用し、魅力ある民間施設の整備を促進し、国内外からの観光客の増大や観光の高付加価値化等による滞在日数の延長、観光消費額の向上</li>
-        </ul>` },
+        </ol>` },
     ];
 
     // Add layers
@@ -1061,6 +1102,10 @@ map.on('load', function () {
     document.getElementById('world_natural_heritagesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['world_natural_heritages'], this.checked);
     });
+    // 砂浜 //
+    document.getElementById('beachesCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['beaches'], this.checked);
+    });
     // ハイクラスホテル //
     document.getElementById('high_class_hotelsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('high_class_hotels', this.checked);
@@ -1106,6 +1151,8 @@ map.on('load', function () {
     updateLayerVisibility(['A34a-230328'], document.getElementById('world_cultural_heritagesCheckbox').checked);
     // 世界自然遺産 //
     updateLayerVisibility(['world_natural_heritages'], document.getElementById('world_natural_heritagesCheckbox').checked);
+    // 砂浜 //
+    updateLayerVisibility(['beaches'], document.getElementById('beachesCheckbox').checked);
     // ハイクラスホテル //
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
     // エリア方針 //
