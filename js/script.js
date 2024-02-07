@@ -883,6 +883,18 @@ map.on('load', function () {
                                 'coordinates': [125.32694445110255, 24.767779213773867]
                             }
                         },
+                        {
+                            'type': 'Feature',
+                            'properties': {
+                                "name": "海洋博公園",
+                                'description':
+                                    '<strong>海洋博公園</strong><p><iframe width="200" src="././video/expo.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>',
+                            },
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [127.87584131121169, 26.69408656958406]
+                            }
+                        },
                     ]
                 }
             });
