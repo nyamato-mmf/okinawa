@@ -895,6 +895,18 @@ map.on('load', function () {
                                 'coordinates': [127.87584131121169, 26.69408656958406]
                             }
                         },
+                        {
+                            'type': 'Feature',
+                            'properties': {
+                                "name": "万国津梁館",
+                                'description':
+                                    '<strong>万国津梁館</strong><p><iframe width="200" src="././video/shinryokan.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>',
+                            },
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [127.93439388431534, 26.543187618502326]
+                            }
+                        },
                     ]
                 }
             });
