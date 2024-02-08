@@ -2,13 +2,16 @@ body { margin: 0; padding: 0; }
 
 /* Mapbox */
 #map  { position: absolute; top: 0; bottom: 0; width: 100%; }
+/* カスタムポップアップ */
 .popupCustom .mapboxgl-popup-content {
     width: 600px;
     font: 14px Arial, sans-serif;
     }
-.blue-marker {
-    background: linear-gradient(transparent 70%, #00ffff 80%);
-}
+.popupLuxuryHotel .mapboxgl-popup-content {
+    width: 800px;
+    font: 14px Arial, sans-serif;
+    }
+/* ローディングアイコン */
 #loading {
     position: absolute;
     top: 50%;
@@ -32,8 +35,13 @@ body { margin: 0; padding: 0; }
 }
 #myChart { 
     width: 100%;
- }
+}
 
+
+/* カスタムCSS */
+.blue-marker {
+    background: linear-gradient(transparent 70%, #00ffff 80%);
+}
  /* タブの文字色 */
 .nav-tabs .nav-link { color: white; }       
 .nav-tabs .nav-link.active { color: black; }
