@@ -23,24 +23,24 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener("DOMContentLoaded", function() {
     // Sample data for different graph types
     const data = {
-        population: {
+        airport_passengers_domestic: {
             type: 'bar', // Specify 'bar' as string
-            labels: ['Label 1', 'Label 2', 'Label 3'],
+            labels: ['那覇','粟国','慶良間','久米島','南大東','北大東','伊江島','宮古','下地島','多良間','石垣','波照間','与那国',],
             datasets: [{
-                label: '人口（ダミー）',
-                data: [5, 10, 15],
-                backgroundColor: 'rgba(75, 192, 192, 0.2)',
-                borderColor: 'rgba(75, 192, 192, 1)',
+                label: '国内線旅客者数',
+                data: [11777046,646,67,151543,32011,17808,300,1233507,319228,29593,1808473,41,73614,],
+                backgroundColor: 'rgba(192, 75, 192, 0.8)',
+                borderColor: 'rgba(192, 75, 192, 1)',
                 borderWidth: 1
             }]
         },
-        population_by_age: {
-            type: 'pie', // Specify 'bar' as string
-            labels: ['Label 4', 'Label 5', 'Label 6'],
+        airport_passengers_international: {
+            type: 'bar', // Specify 'bar' as string
+            labels: ['那覇','粟国','慶良間','久米島','南大東','北大東','伊江島','宮古','下地島','多良間','石垣','波照間','与那国',],
             datasets: [{
-                label: '年代別人口（ダミー）',
-                data: [50, 10, 150],
-                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                label: '国際線旅客者数',
+                data: [1236470,0,0,0,0,0,0,0,0,0,502,0,0,],
+                backgroundColor: 'rgba(75, 192, 192, 0.8)',
                 borderColor: 'rgba(75, 192, 192, 1)',
                 borderWidth: 1
             }]

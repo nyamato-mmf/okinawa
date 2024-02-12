@@ -29,7 +29,7 @@ body { margin: 0; padding: 0; }
     left: 60%; /* Position the container at the horizontal center of the window */
     transform: translate(-50%, -50%); /* Move the container back by half of its own width and height */
     width: 80%; /* Set the width of the container */
-    max-width: 800px; /* Set a maximum width for the container */
+    max-width: 1000px; /* Set a maximum width for the container */
     height: 600px; /* Set the height of the container */
     overflow: hidden;
 }

@@ -717,6 +717,9 @@ map.on('load', function () {
             'id': layerId,
             'type': type,
             'source': sourceId,
+            'layout': {
+                'visibility': 'none'
+            },
             'paint': paint
         });
         map.on('click', layerId, function (e) {
