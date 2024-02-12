@@ -321,6 +321,9 @@ map.on('load', function () {
             'id': layerId,
             'type': 'fill',
             'source': sourceId,
+            'layout': {
+                'visibility': 'none'
+            },
             'paint': {
                 'fill-color': fillColor,
                 'fill-opacity': 0.3
@@ -358,6 +361,9 @@ map.on('load', function () {
             'id': layerId,
             'type': 'fill',
             'source': sourceId,
+            'layout': {
+                'visibility': 'none'
+            },
             'paint': {
                 'fill-color': fillColor,
                 'fill-opacity': 0.3
@@ -431,6 +437,9 @@ map.on('load', function () {
             'id': layerId,
             'type': 'fill',
             'source': sourceId,
+            'layout': {
+                'visibility': 'none'
+            },
             'paint': {
                 'fill-color': fillColor,
                 'fill-opacity': 0.3
@@ -617,6 +626,9 @@ map.on('load', function () {
             'id': layerId,
             'type': 'fill',
             'source': sourceId,
+            'layout': {
+                'visibility': 'none'
+            },
             'paint': {
                 'fill-outline-color': 'rgba(255,0,0,1)',
                 'fill-color': 'rgba(255,0,0,.5)'
@@ -660,6 +672,9 @@ map.on('load', function () {
             'id': layerId,
             'type': 'fill',
             'source': sourceId,
+            'layout': {
+                'visibility': 'none'
+            },
             'paint': {
                 'fill-outline-color': 'rgba(0,255,0,1)',
                 'fill-color': 'rgba(0,255,0,.5)'
@@ -687,6 +702,56 @@ map.on('load', function () {
 
         // Add city layers
         world_natural_heritages.forEach(world_natural_heritage => add_World_Natural_Heritages_Layer(map, world_natural_heritage.sourceId, world_natural_heritage.layerId, world_natural_heritage.geojsonPath));
+
+    /* --------------------------------------------------------
+    　観光資源
+    -------------------------------------------------------- */
+       
+    // Function to add a layer to the map
+    function addLayer(sourceId, layerId, type, paint) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': `./geojson/facilities/tourist_spots/${sourceId}.geojson`
+        });
+        map.addLayer({
+            'id': layerId,
+            'type': type,
+            'source': sourceId,
+            'paint': paint
+        });
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(e.features[0].properties["P12_002"])
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+    
+    // Add fill layer
+    addLayer('P12c-14_47', 'P12c-14_47', 'fill', {
+        'fill-color': '#00ff00',
+        'fill-opacity': 0.3
+    });
+    
+    // Add line layer
+    addLayer('P12b-14_47', 'P12b-14_47', 'line', {
+        'line-color': '#0000ff',
+    });
+    
+    // Add point layer
+    addLayer('P12a-14_47', 'P12a-14_47', 'circle', {
+        'circle-radius': 3,
+        'circle-stroke-width': 2,
+        'circle-color': 'red',
+        'circle-stroke-color': 'blue'
+    });
 
 
     /* --------------------------------------------------------
@@ -780,6 +845,9 @@ map.on('load', function () {
             'id': layerId,
             'type': 'fill',
             'source': sourceId,
+            'layout': {
+                'visibility': 'none'
+            },
             'paint': {
                 'fill-color': fillColor,
                 'fill-opacity': 0.7
@@ -991,6 +1059,9 @@ map.on('load', function () {
                 'type': 'symbol',
                 'source': 'videos', // reference the data source
                 'layout': {
+                    'visibility': 'none'
+                },
+                'layout': {
                     'icon-image': 'videoicon', // reference the image
                     'icon-size': 1,
                     'visibility': 'none'
@@ -1099,7 +1170,11 @@ map.on('load', function () {
     document.getElementById('world_natural_heritagesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['world_natural_heritages'], this.checked);
     });
-    // 砂浜 //
+    // 観光資源 //
+    document.getElementById('tourist_spotsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['P12a-14_47','P12b-14_47','P12c-14_47'], this.checked);
+    });
+    // ビーチ //
     document.getElementById('beachesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['beaches'], this.checked);
     });
@@ -1148,7 +1223,9 @@ map.on('load', function () {
     updateLayerVisibility(['A34a-230328'], document.getElementById('world_cultural_heritagesCheckbox').checked);
     // 世界自然遺産 //
     updateLayerVisibility(['world_natural_heritages'], document.getElementById('world_natural_heritagesCheckbox').checked);
-    // 砂浜 //
+    // 観光資源 //
+    updateLayerVisibility(['P12a-14_47','P12b-14_47','P12c-14_47'], document.getElementById('tourist_spotsCheckbox').checked);
+    // ビーチ //
     updateLayerVisibility(['beaches'], document.getElementById('beachesCheckbox').checked);
     // ハイクラスホテル //
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
