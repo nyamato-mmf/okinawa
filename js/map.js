@@ -230,6 +230,41 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　那覇クルーズターミナル
+    -------------------------------------------------------- */
+    map.addSource('cruise_naha', {
+        'type': 'geojson',
+        'data': './geojson/infrastructure/cruise_naha/cruise_naha.geojson'
+    });
+    map.addLayer({
+        'id': "cruise_naha",
+        'type': 'circle',
+        'source': 'ports',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 4,
+            'circle-stroke-width': 2,
+            'circle-color': 'yellow',
+            'circle-stroke-color': 'blue'
+        }
+    });
+    // ポップアップ //
+    map.on('click', "cruise_naha", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["Port"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "cruise_naha", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "cruise_naha", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　鉄道
     -------------------------------------------------------- */
     map.addSource('railways', {
@@ -1171,6 +1206,10 @@ map.on('load', function () {
     document.getElementById('ports_networkCheckbox').addEventListener('change', function () {
         updateLayerVisibility('ports_network', this.checked);
     });
+    // 那覇クルーズターミナル //
+    document.getElementById('cruise_nahaCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('cruise_naha', this.checked);
+    });
     // 鉄道 //
     document.getElementById('railwaysCheckbox').addEventListener('change', function () {
         updateLayerVisibility('railways', this.checked);
@@ -1248,6 +1287,8 @@ map.on('load', function () {
     updateLayerVisibility('ports', document.getElementById('portsCheckbox').checked);
     // 港湾ネットワーク //
     updateLayerVisibility('ports_network', document.getElementById('ports_networkCheckbox').checked);
+    // 那覇クルーズターミナル //
+    updateLayerVisibility('cruise_naha', document.getElementById('cruise_nahaCheckbox').checked);
     // 鉄道 //
     updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
     // 道路 //
