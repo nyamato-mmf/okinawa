@@ -96,7 +96,7 @@ map.on('load', function () {
     map.on('click', "airports", function (e) {
         new mapboxgl.Popup()
             .setLngLat(e.lngLat)
-            .setHTML(e.features[0].properties["C28_005"])
+            .setHTML(e.features[0].properties["C28_005"] + "<br>" + e.features[0].properties["C28_012"] + " m")
             .addTo(map);
     });
     map.on('mouseenter', "airports", function () {
