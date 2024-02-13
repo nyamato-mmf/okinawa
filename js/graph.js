@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
             type: 'bar', // Specify 'bar' as string
             labels: ['那覇','粟国','慶良間','久米島','南大東','北大東','伊江島','宮古','下地島','多良間','石垣','波照間','与那国',],
             datasets: [{
-                label: '国内線旅客者数',
+                label: '2023年 国内線旅客者数',
                 data: [11777046,646,67,151543,32011,17808,300,1233507,319228,29593,1808473,41,73614,],
                 backgroundColor: 'rgba(192, 75, 192, 0.8)',
                 borderColor: 'rgba(192, 75, 192, 1)',
@@ -38,23 +38,63 @@ document.addEventListener("DOMContentLoaded", function() {
             type: 'bar', // Specify 'bar' as string
             labels: ['那覇','粟国','慶良間','久米島','南大東','北大東','伊江島','宮古','下地島','多良間','石垣','波照間','与那国',],
             datasets: [{
-                label: '国際線旅客者数',
+                label: '2023年 国際線旅客者数',
                 data: [1236470,0,0,0,0,0,0,0,0,0,502,0,0,],
                 backgroundColor: 'rgba(75, 192, 192, 0.8)',
                 borderColor: 'rgba(75, 192, 192, 1)',
                 borderWidth: 1
             }]
         },
-        visitors: {
-            type: 'line', // Specify 'line' as string
-            labels: ['Label 1', 'Label 2', 'Label 3'],
+        air_sea: {
+            type: 'bar',
+              labels: ['2012','2013','2014','2015','2016','2017','2018','2019','2020','2021',],
+              datasets: [
+                {
+                  label: '海路',
+                  backgroundColor: 'rgba(255, 99, 132, 0.5)',
+                  data: [144000,191500,240400,506800,698300,992500,1197100,1063200,0,0,]
+                },
+                {
+                  label: '空路',
+                  backgroundColor: 'rgba(54, 162, 235, 0.5)',
+                  data: [238500,435700,745600,1163500,1430800,1699500,1803700,1427200,0,0,]
+                },
+              ],
+            options: {
+                plugins: {
+                    title: {
+                      display: true,
+                      text: '2018年 空路・海路入域状況（海外）'
+                    }
+                },
+                scales: {
+                    x: {
+                    stacked: true
+                    },
+                    y: {
+                    stacked: true
+                    }
+                }
+            }
+          },
+          nationalities: {
+            type: 'doughnut', // Specify 'line' as string
+            labels: ['台湾','韓国','中国本土','香港','アメリカ','その他',],
             datasets: [{
-                label: '人口推移（ダミー）',
-                data: [5, 10, 15],
-                borderColor: 'rgba(75, 192, 192, 1)',
+                data: [917700,553800,694800,233700,38000,562800,],
+                borderColor: 'rgba(0, 0, 0, 0.2)',
+                backgroundColor:['red', 'blue', 'green', 'orange', 'purple', 'yellow'],
                 borderWidth: 2,
                 fill: false
-            }]
+            }],
+            options: {
+                plugins: {
+                    title: {
+                      display: true,
+                      text: '2018年 国籍別入域状況（海外）'
+                    }
+                },
+            }
         }
     };
 
@@ -80,6 +120,7 @@ document.addEventListener("DOMContentLoaded", function() {
         window.myChart = new Chart(ctx, {
             type: data[graphType].type, // Use the specified chart type
             data: data[graphType],
+            options: data[graphType].options,
         });
     }
 
