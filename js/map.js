@@ -760,7 +760,7 @@ map.on('load', function () {
             console.log(e.features[0].properties);
             new mapboxgl.Popup()
                 .setLngLat(e.lngLat)
-                .setHTML(e.features[0].properties["A34a_003"])
+                .setHTML(e.features[0].properties["WHC"])
                 .addTo(map);
         });
         map.on('mouseenter', layerId, function () {
