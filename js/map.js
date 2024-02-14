@@ -239,7 +239,7 @@ map.on('load', function () {
     map.addLayer({
         'id': "cruise_naha",
         'type': 'circle',
-        'source': 'ports',
+        'source': 'cruise_naha',
         'layout': {
             'visibility': 'none'
         },
@@ -1136,9 +1136,6 @@ map.on('load', function () {
                 'id': 'videos',
                 'type': 'symbol',
                 'source': 'videos', // reference the data source
-                'layout': {
-                    'visibility': 'none'
-                },
                 'layout': {
                     'icon-image': 'videoicon', // reference the image
                     'icon-size': 1,
