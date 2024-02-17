@@ -40,6 +40,21 @@
             <canvas id="myChart"></canvas>
         </div>
 
+        <!-- ------------------------------------------------------------------
+            CPSキャンバス
+        ------------------------------------------------------------------- -->
+        <div id="cps-container">
+            <div class="chart-container">
+                <canvas id="recognition" class="myCPS"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="words_okinawa" class="myCPS" style="width: 650px; height: 600px;"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="visit" class="myCPS"></canvas>
+            </div>
+        </div>
+
         <!-- サイドバー: icons -->
         <div class="container bg-light position-fixed px-4" style="width: 75px; height:100vh; z-index:3">
             <!-- オフキャンバス icon -->
@@ -100,6 +115,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link border border-white" id="graph-tab" data-toggle="tab" href="#mygraph">グラフ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link border border-white" id="cps-tab" data-toggle="tab" href="#mycps">イメージ</a>
                     </li>
                 </ul>
                 <!-- End of タブ -->
@@ -248,8 +266,25 @@
                             </div>
                         </form>
                     </div>
-                    
                     <!-- End of グラフタブ・コンテンツ -->
+
+                    <!-- ------------------------------------------------------------------
+                        CPS・コンテンツ
+                    ------------------------------------------------------------------- -->
+                    <div class="tab-pane fade" id="mycps">
+                        <!-- Radio buttons to select graph type -->
+                        <form id="city" class="mb-3">
+                            <div class="row m-2">
+                            <select id="cityList" name="select" class="form-select">
+                                <option value="north_america">北アメリカ</option>
+                                <option value="united_kingdom">イギリス</option>
+                                <option value="australia">オーストラリア</option>
+                                <option value="singapore">シンガポール</option>
+                            </select>
+                            </div>
+                        </form>
+                    </div>
+                    <!-- End of CPS・コンテンツ -->
 
                 </div>
             </div>
@@ -268,6 +303,7 @@
     <!-- Custom JavaScript-->
     <script src="./js/map.js"></script>
     <script src="./js/graph.js"></script>
+    <script src="./js/cps.js"></script>
     <script src="./js/switchTab.js"></script>
 
 </body>

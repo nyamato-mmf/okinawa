@@ -37,6 +37,32 @@ body { margin: 0; padding: 0; }
     width: 100%;
 }
 
+/* CPS */
+#cps-container {
+    display: none;
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
+    position: absolute;
+    top: 55%; /* Position the container at the vertical center of the window */
+    left: 60%; /* Position the container at the horizontal center of the window */
+    transform: translate(-40%, -50%); /* Move the container back by half of its own width and height */
+    width: 100%; /* Set the width of the container */
+    height: 100%;
+    max-width: 1000px; /* Set a maximum width for the container */
+    overflow-y: scroll; /* Enable vertical scrolling if needed */
+}
+.chart-container {
+    height: calc(100vh - 300px); /* Calculate height to occupy 100% of viewport height minus 20px for margin/padding */
+    width: 650px;
+}
+
+#myCPS { 
+    width: 100%;
+}
+
+
+
+
 
 /* カスタムCSS */
 .blue-marker {
