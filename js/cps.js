@@ -233,3 +233,75 @@ document.getElementById('cityList').addEventListener('change', function() {
         });
 });
 
+
+/* ----------------------------------------------------------------------------
+　最近訪問したリゾート（visited_resorts）
+---------------------------------------------------------------------------- */
+const ChartCanvas_visited_resorts = document.getElementById('visited_resorts');
+const ctx_visited_resorts = ChartCanvas_visited_resorts.getContext('2d');
+
+// Initial data
+const keywords_visited_resorts = ["Mexico","Bahamas","Cuba","Disney","Florida","Hawaii","Jamaica","not","spring","world",];
+const percentages_visited_resorts = [3,2,2,2,2,2,2,2,2,2,];
+
+// Initialize pie chart with default data
+let Chart_visited_resorts = new Chart(ctx_visited_resorts, {
+    type: "bar",
+    data: {
+            labels: keywords_visited_resorts,
+            datasets: [{
+                data: percentages_visited_resorts,
+                backgroundColor: 'rgba(54, 162, 235, 0.8)',
+                borderColor: 'rgba(255, 99, 132, 0.8)'
+            }]
+        },
+    options: {
+            indexAxis: "y",
+            plugins: {
+                legend: {
+                    display: false
+                },
+                title: {
+                    display: true,
+                    text: 'Q. 最近訪れたリゾート地は？', // Title for the pie chart,
+                }
+            }
+        }
+});
+
+// Update pie chart based on selected city
+document.getElementById('cityList').addEventListener('change', function() {
+    const selectedCity = this.value;
+    // Assuming you have a function to fetch data for the selected city
+
+    fetch("./json/visited_resorts.json")
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            // Process the JSON data
+            //console.log(data);
+        
+            const keywords_visited_resorts = [];
+            const percentages_visited_resorts = [];
+        
+            for (const item of data) {
+                if (item["Country"] === selectedCity) {
+                    keywords_visited_resorts.push(item["Words"])
+                    percentages_visited_resorts.push(item["Percentage"])
+                }
+            }
+            console.log(keywords_visited_resorts)
+            Chart_visited_resorts.data.labels = keywords_visited_resorts; // Corrected variable name
+            Chart_visited_resorts.data.datasets[0].data = percentages_visited_resorts; // Corrected variable name
+            Chart_visited_resorts.update(); // Corrected variable name
+        })
+        
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+        });
+});
+
