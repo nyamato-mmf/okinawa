@@ -294,10 +294,80 @@ document.getElementById('cityList').addEventListener('change', function() {
                     percentages_visited_resorts.push(item["Percentage"])
                 }
             }
-            console.log(keywords_visited_resorts)
             Chart_visited_resorts.data.labels = keywords_visited_resorts; // Corrected variable name
             Chart_visited_resorts.data.datasets[0].data = percentages_visited_resorts; // Corrected variable name
             Chart_visited_resorts.update(); // Corrected variable name
+        })
+        
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+        });
+});
+
+
+/* ----------------------------------------------------------------------------
+　訪れてみたいリゾート（want2visit_resorts）
+---------------------------------------------------------------------------- */
+const ChartCanvas_want2visit_resorts = document.getElementById('want2visit_resorts');
+const ctx_want2visit_resorts = ChartCanvas_want2visit_resorts.getContext('2d');
+
+// Initial data
+const keywords_want2visit_resorts = ["Bahamas","Hawaii","Fiji","sandal","Aruba","Caribbean","Disney_land","Disney_world","Jamaica","Las_Vegas"];
+const percentages_want2visit_resorts = [8,5,3,3,2,2,2,2,2,2];
+
+// Initialize pie chart with default data
+let Chart_want2visit_resorts = new Chart(ctx_want2visit_resorts, {
+    type: "bar",
+    data: {
+            labels: keywords_want2visit_resorts,
+            datasets: [{
+                data: percentages_want2visit_resorts,
+                backgroundColor: 'rgba(54, 162, 235, 0.8)',
+                borderColor: 'rgba(255, 99, 132, 0.8)'
+            }]
+        },
+    options: {
+            indexAxis: "y",
+            plugins: {
+                legend: {
+                    display: false
+                },
+                title: {
+                    display: true,
+                    text: 'Q. 訪れてみたいリゾート地は？', // Title for the pie chart,
+                }
+            }
+        }
+});
+
+// Update pie chart based on selected city
+document.getElementById('cityList').addEventListener('change', function() {
+    const selectedCity = this.value;
+    // Assuming you have a function to fetch data for the selected city
+
+    fetch("./json/want2visit_resorts.json")
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            // Process the JSON data
+            //console.log(data);
+        
+            const keywords_want2visit_resorts = [];
+            const percentages_want2visit_resorts = [];
+        
+            for (const item of data) {
+                if (item["Country"] === selectedCity) {
+                    keywords_want2visit_resorts.push(item["Words"])
+                    percentages_want2visit_resorts.push(item["Percentage"])
+                }
+            }
+            Chart_want2visit_resorts.data.labels = keywords_want2visit_resorts; // Corrected variable name
+            Chart_want2visit_resorts.data.datasets[0].data = percentages_want2visit_resorts; // Corrected variable name
+            Chart_want2visit_resorts.update(); // Corrected variable name
         })
         
         .catch(error => {
