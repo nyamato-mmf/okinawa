@@ -50,6 +50,7 @@ body { margin: 0; padding: 0; }
     height: 100%;
     max-width: 1000px; /* Set a maximum width for the container */
     overflow-y: scroll; /* Enable vertical scrolling if needed */
+    padding-bottom: 50px
 }
 .chart-container {
     display: flex; /* Add flexbox */
