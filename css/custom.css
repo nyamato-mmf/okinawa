@@ -1,6 +1,9 @@
 body { margin: 0; padding: 0; }
 
-/* Mapbox */
+
+/* ---------------------------------------------------------------------------------  
+  Mapbox
+--------------------------------------------------------------------------------- */ 
 #map  { position: absolute; top: 0; bottom: 0; width: 100%; }
 /* カスタムポップアップ */
 .popupCustom .mapboxgl-popup-content {
@@ -19,7 +22,9 @@ body { margin: 0; padding: 0; }
     display: block;
 }
 
-/* Chart.js */
+/* ---------------------------------------------------------------------------------  
+  Chart.js
+--------------------------------------------------------------------------------- */ 
 #canvas-container {
     display: none;
     justify-content: center; /* Horizontally center the content */
@@ -37,7 +42,9 @@ body { margin: 0; padding: 0; }
     width: 100%;
 }
 
-/* CPS */
+/* ---------------------------------------------------------------------------------  
+  CPS
+--------------------------------------------------------------------------------- */ 
 #cps-container {
     display: none;
     justify-content: center; /* Horizontally center the content */
@@ -64,8 +71,9 @@ body { margin: 0; padding: 0; }
 }
 
 
-
-/* カスタムCSS */
+/* ---------------------------------------------------------------------------------  
+  カスタムCSS 
+--------------------------------------------------------------------------------- */ 
 .blue-marker {
     background: linear-gradient(transparent 70%, #00ffff 80%);
 }
