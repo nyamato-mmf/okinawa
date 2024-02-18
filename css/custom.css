@@ -52,15 +52,15 @@ body { margin: 0; padding: 0; }
     overflow-y: scroll; /* Enable vertical scrolling if needed */
 }
 .chart-container {
+    display: flex; /* Add flexbox */
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
     height: calc(100vh - 300px); /* Calculate height to occupy 100% of viewport height minus 20px for margin/padding */
     width: 650px;
 }
-
 #myCPS { 
     width: 100%;
 }
-
-
 
 
 

@@ -45,7 +45,7 @@ let pieChart_recognition = new Chart(ctx_recognition, {
             },
             title: {
                 display: true,
-                text: 'Q. 沖縄（日本）を知っている？', // Title for the pie chart,
+                text: 'Q. 沖縄（日本）を知っていますか？', // Title for the pie chart,
             }
         }
     }
@@ -125,7 +125,7 @@ let pieChart_visit = new Chart(ctx_visit, {
             },
             title: {
                 display: true,
-                text: 'Q. 沖縄を訪れたことがある？', // Title for the pie chart,
+                text: 'Q. 沖縄を訪れたことがありますか？', // Title for the pie chart,
             }
         }
     }
