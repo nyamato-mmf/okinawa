@@ -831,6 +831,49 @@ map.on('load', function () {
         'circle-stroke-color': 'blue'
     });
 
+    /* --------------------------------------------------------
+    　観光スポット（Attractions）
+    -------------------------------------------------------- */
+    map.addSource('attractions', {
+        'type': 'geojson',
+        'data': './geojson/facilities/attractions/attractions.geojson'
+    });
+    map.addLayer({
+        'id': "attractions",
+        'type': 'circle',
+        'source': 'attractions',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 4,
+            'circle-color': [
+                'interpolate',
+                ['linear'],
+                ['get', '星数'],
+                2.5, '#e6e6ff',
+                3.0, '#ccccff',
+                3.5, '#b3b3ff',
+                4.0, '#8080ff',
+                4.5, '#3333ff',
+                5.0, '#0000ff',
+            ],
+        }
+    });
+    // ポップアップ //
+    map.on('click', "attractions", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["施設名"] + "<br>" + "★" + e.features[0].properties["星数"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "attractions", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "attractions", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
 
     /* --------------------------------------------------------
     　砂浜
@@ -1251,9 +1294,13 @@ map.on('load', function () {
     document.getElementById('world_natural_heritagesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['world_natural_heritages'], this.checked);
     });
-    // 観光資源 //
+    // 観光資源（国交省） //
     document.getElementById('tourist_spotsCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['P12a-14_47','P12b-14_47','P12c-14_47'], this.checked);
+    });
+    // 観光スポット（Google） //
+    document.getElementById('attractionsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['attractions'], this.checked);
     });
     // ビーチ //
     document.getElementById('beachesCheckbox').addEventListener('change', function () {
@@ -1308,8 +1355,10 @@ map.on('load', function () {
     updateLayerVisibility(['A34a-230328'], document.getElementById('world_cultural_heritagesCheckbox').checked);
     // 世界自然遺産 //
     updateLayerVisibility(['world_natural_heritages'], document.getElementById('world_natural_heritagesCheckbox').checked);
-    // 観光資源 //
+    // 観光資源（国交省） //
     updateLayerVisibility(['P12a-14_47','P12b-14_47','P12c-14_47'], document.getElementById('tourist_spotsCheckbox').checked);
+    // 観光スポット（Google） //
+    updateLayerVisibility(['attractions'], document.getElementById('attractionsCheckbox').checked);
     // ビーチ //
     updateLayerVisibility(['beaches'], document.getElementById('beachesCheckbox').checked);
     // ハイクラスホテル //
