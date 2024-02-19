@@ -917,6 +917,51 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　宿泊施設（hotels）
+    -------------------------------------------------------- */
+    map.addSource('hotels', {
+        'type': 'geojson',
+        'data': './geojson/facilities/hotels/hotels.geojson'
+    });
+    map.addLayer({
+        'id': "hotels",
+        'type': 'circle',
+        'source': 'hotels',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 4,
+            'circle-color': [
+                'case',
+                ['==', ['get', "タイプ"], "民宿"], 'red',
+                ['==', ['get', "タイプ"], "ホテル"], 'green',
+                ['==', ['get', "タイプ"], "コンドミニアム"], 'blue',
+                ['==', ['get', "タイプ"], "ロッジ"], 'yellow',
+                ['==', ['get', "タイプ"], "旅館"], 'purple',
+                ['==', ['get', "タイプ"], "貸別荘"], 'cyan',
+                ['==', ['get', "タイプ"], "ペンション"], 'orange',
+                ['==', ['get', "タイプ"], "トレーラハウス"], 'pink',
+                ['==', ['get', "タイプ"], "ユースホステル"], 'brown',
+                "#000000"
+            ],
+        }
+    });
+    // ポップアップ //
+    map.on('click', "hotels", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["タイプ"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "hotels", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "hotels", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　ハイクラスホテル
     -------------------------------------------------------- */
     map.addSource('high_class_hotels', {
@@ -1306,6 +1351,10 @@ map.on('load', function () {
     document.getElementById('beachesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['beaches'], this.checked);
     });
+    // 宿泊施設 //
+    document.getElementById('hotelsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('hotels', this.checked);
+    });  
     // ハイクラスホテル //
     document.getElementById('high_class_hotelsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('high_class_hotels', this.checked);
@@ -1361,6 +1410,8 @@ map.on('load', function () {
     updateLayerVisibility(['attractions'], document.getElementById('attractionsCheckbox').checked);
     // ビーチ //
     updateLayerVisibility(['beaches'], document.getElementById('beachesCheckbox').checked);
+    // 宿泊施設 //
+    updateLayerVisibility('hotels', document.getElementById('hotelsCheckbox').checked);
     // ハイクラスホテル //
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
     // エリア方針 //
