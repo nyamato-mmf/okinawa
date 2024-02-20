@@ -1101,7 +1101,7 @@ map.on('load', function () {
             <li>エコツーリズム、アドベンチャーツーリズム、サイクルツーリズムなど体験・滞在型観光を推進</li>
             <li><strong><mark>砂山ビーチ</strong></mark>等の有数のダイビングスポット、地下ダムや自然エネルギー施設など産業観光施設、歴史・文化資源、熱帯果樹等の農林水産物、地域のホスピタリティなど、様々な資源を活用した独自の観光スタイルの創出</li>
             <li><strong><mark>多良間島</strong></mark>では、海洋レジャー、自然観察など豊かな観光資源を活用した多様な取組を促進</li>
-            <li><strong><mark>伊良部島</strong></mark>では、国際線やプライベートジェットも受入可能な下地島空港旅客ターミナル施設の開業や伊良部大橋の架橋を生かし、<strong><mark class="blue-marker">ラグジュアリーな宿泊施設</mark></strong>の立地促進など、富裕層をターゲットとした観光地の形成</li>
+            <li><strong><mark>伊良部島</strong></mark>では、<strong><mark class="blue-marker">国際線やプライベートジェット</mark></strong>も受入可能な下地島空港旅客ターミナル施設の開業や伊良部大橋の架橋を生かし、<strong><mark class="blue-marker">ラグジュアリーな宿泊施設</mark></strong>の立地促進など、富裕層をターゲットとした観光地の形成</li>
             <li><strong><mark class="blue-marker">新規航空会社の誘致や定期航空路線開設</mark></strong>に向けた働きかけによる航空路の充実</li>
             <li><strong><mark class="blue-marker">クルーズ船やスーパーヨットの誘致</mark></strong>など近隣諸国等からの観光誘客活動</li>
             <li>自然、文化など多様な魅力ある離島を含む広域周遊ルートの形成や受入環境の整備に関係機関と連携して取り組む</li>
