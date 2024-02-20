@@ -781,8 +781,6 @@ map.on('load', function () {
     /* --------------------------------------------------------
     　観光資源
     -------------------------------------------------------- */
-       
-    // Function to add a layer to the map
     function addLayer(sourceId, layerId, type, paint) {
         map.addSource(sourceId, {
             'type': 'geojson',
@@ -1029,6 +1027,71 @@ map.on('load', function () {
     });
     map.on('mouseleave', "restaurants", function () {
         map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
+    　人流（consttelation_current)
+    -------------------------------------------------------- */
+    function add_constellation_Layer(sourceId, layerId, type, paint) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': `./geojson/demographic/constellation/${sourceId}.geojson`
+        });
+        map.addLayer({
+            'id': layerId,
+            'type': type,
+            'source': sourceId,
+            'layout': {
+                'visibility': 'visible'
+            },
+            'paint': paint
+        });
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(e.features[0].properties["description"] + "等星")
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }    
+    // Add line layer
+    add_constellation_Layer('constellation_current_line', 'constellation_current_line', 'line', {
+        'line-color': '#0000ff',
+    });
+    
+    // Add point layer
+    add_constellation_Layer('constellation_current_point', 'constellation_current_point', 'circle', {
+        'circle-color': [
+            'case',
+            ['==', ['get', "name"], "国際通り"], '#007FFF',
+            ['==', ['get', "name"], "美浜タウンリゾート・アメリカンビレッジ"], '#B3C6FF',
+            ['==', ['get', "name"], "沖縄美ら海水族館（国営沖縄記念公園 海洋博公園）"], '#B3C6FF',
+            ['==', ['get', "name"], "ブセナ海中公園"], '#B3C6FF',
+            ['==', ['get', "name"], "平和祈念公園"], '#FFFF99',
+            ['==', ['get', "name"], "今帰仁城跡"], '#FF6666',
+            ['==', ['get', "name"], "万座毛"], '#C8FFB0',
+            ['==', ['get', "name"], "座喜味城跡"], '#FF6666',
+            ['==', ['get', "name"], "斎場御嶽（せーふぁうたき）"], '#FF6666',
+            ['==', ['get', "name"], "勝連城跡"], '#FF6666',
+            ['==', ['get', "name"], "中城城跡"], '#FF6666',
+            "#000000"
+        ],
+        'circle-radius': [
+            'case',
+            ['==', ['get', "description"], 1], 20,
+            ['==', ['get', "description"], 2], 16,
+            ['==', ['get', "description"], 3], 12,
+            ['==', ['get', "description"], 4], 8,
+            ['==', ['get', "description"], 5], 4,
+            ['==', ['get', "description"], 6], 1,
+            0
+        ],
     });
 
     /* --------------------------------------------------------
