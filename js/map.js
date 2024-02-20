@@ -1032,7 +1032,7 @@ map.on('load', function () {
     /* --------------------------------------------------------
     　人流（consttelation_current)
     -------------------------------------------------------- */
-    function add_constellation_Layer(sourceId, layerId, type, paint) {
+    function add_constellation_current_Layer(sourceId, layerId, type, paint) {
         map.addSource(sourceId, {
             'type': 'geojson',
             'data': `./geojson/demographic/constellation/${sourceId}.geojson`
@@ -1042,7 +1042,7 @@ map.on('load', function () {
             'type': type,
             'source': sourceId,
             'layout': {
-                'visibility': 'visible'
+                'visibility': 'none'
             },
             'paint': paint
         });
@@ -1061,12 +1061,12 @@ map.on('load', function () {
         });
     }    
     // Add line layer
-    add_constellation_Layer('constellation_current_line', 'constellation_current_line', 'line', {
+    add_constellation_current_Layer('constellation_current_line', 'constellation_current_line', 'line', {
         'line-color': '#0000ff',
     });
     
     // Add point layer
-    add_constellation_Layer('constellation_current_point', 'constellation_current_point', 'circle', {
+    add_constellation_current_Layer('constellation_current_point', 'constellation_current_point', 'circle', {
         'circle-color': [
             'case',
             ['==', ['get', "name"], "国際通り"], '#007FFF',
@@ -1460,7 +1460,11 @@ map.on('load', function () {
     // レストラン //
     document.getElementById('restaurantsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('restaurants', this.checked);
-    });  
+    });
+    // 人流（KDDI） //
+    document.getElementById('constellation_currentCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['constellation_current_line','constellation_current_point'], this.checked);
+    });
     // エリア方針 //
     document.getElementById('area_policiesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['north','middle','south','miyako','yaeyama'], this.checked);
@@ -1518,6 +1522,8 @@ map.on('load', function () {
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
     // レストラン //
     updateLayerVisibility('restaurants', document.getElementById('restaurantsCheckbox').checked);
+    // 人流（KDDI） //
+    updateLayerVisibility(['constellation_current_line','constellation_current_point'], document.getElementById('constellation_currentCheckbox').checked);
     // エリア方針 //
     updateLayerVisibility(['north','middle','south','miyako','yaeyama'], document.getElementById('area_policiesCheckbox').checked);
     // 映像 //
