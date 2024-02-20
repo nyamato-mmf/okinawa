@@ -997,6 +997,41 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　レストラン
+    -------------------------------------------------------- */
+    map.addSource('restaurants', {
+        'type': 'geojson',
+        'data': './geojson/facilities/restaurants/restaurants.geojson'
+    });
+    map.addLayer({
+        'id': "restaurants",
+        'type': 'circle',
+        'source': 'restaurants',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 1.5,
+            'circle-stroke-width': 1,
+            'circle-color': 'yellow',
+            'circle-stroke-color': 'blue'
+        }
+    });
+    // ポップアップ //
+    map.on('click', "restaurants", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["名前"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "restaurants", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "restaurants", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　エリア方針
     -------------------------------------------------------- */
     function add_area_policies_Layer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
@@ -1359,6 +1394,10 @@ map.on('load', function () {
     document.getElementById('high_class_hotelsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('high_class_hotels', this.checked);
     });  
+    // レストラン //
+    document.getElementById('restaurantsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('restaurants', this.checked);
+    });  
     // エリア方針 //
     document.getElementById('area_policiesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['north','middle','south','miyako','yaeyama'], this.checked);
@@ -1414,6 +1453,8 @@ map.on('load', function () {
     updateLayerVisibility('hotels', document.getElementById('hotelsCheckbox').checked);
     // ハイクラスホテル //
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
+    // レストラン //
+    updateLayerVisibility('restaurants', document.getElementById('restaurantsCheckbox').checked);
     // エリア方針 //
     updateLayerVisibility(['north','middle','south','miyako','yaeyama'], document.getElementById('area_policiesCheckbox').checked);
     // 映像 //
