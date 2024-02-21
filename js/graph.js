@@ -60,6 +60,17 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             }
           },
+          passengers_by_port: {
+            type: 'bar', // Specify 'bar' as string
+            labels: ['那覇','石垣','平良','中城','座間味','本部','辺士名(漁港)','伊江','仲里(久米島)','船浮(西表島)','南大東','祖納(与那国島)',],
+            datasets: [{
+                label: '2019年 クルーズ船寄港回数',
+                data: [260,148,147,21,0,0,1,1,1,1,0,1,],
+                backgroundColor: 'rgba(75, 192, 192, 0.8)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1
+            }]
+        },
           nationalities: {
             type: 'doughnut', // Specify 'line' as string
             labels: ['台湾','韓国','中国本土','香港','アメリカ','その他',],
