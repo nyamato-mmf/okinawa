@@ -384,13 +384,13 @@ map.on('load', function () {
     }    
     // Add line layer
     add_bus_Layer('bus_line', 'bus_line', 'line', {
-        'line-color': '#0000ff',
+        'line-color': '#000000',
     });
     
     // Add point layer
     add_bus_Layer('bus_circle', 'bus_circle', 'circle', {
         'circle-color': "red",
-        'circle-radius': 2,
+        'circle-radius': 3,
     });
 
     /* --------------------------------------------------------
