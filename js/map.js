@@ -1050,7 +1050,7 @@ map.on('load', function () {
             console.log(e.features[0].properties);
             new mapboxgl.Popup()
                 .setLngLat(e.lngLat)
-                .setHTML(e.features[0].properties["description"] + "等星")
+                .setHTML("人流：" + e.features[0].properties["description"] + "等星")
                 .addTo(map);
         });
         map.on('mouseenter', layerId, function () {
