@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     }
                 }
             }
-          },
+        },
           passengers_by_port: {
             type: 'bar', // Specify 'bar' as string
             labels: ['那覇','石垣','平良','中城','座間味','本部','辺士名(漁港)','伊江','仲里(久米島)','船浮(西表島)','南大東','祖納(与那国島)',],
@@ -89,7 +89,18 @@ document.addEventListener("DOMContentLoaded", function() {
                     }
                 },
             }
-        }
+        },
+        school_tourism: {
+            type: 'bar', // Specify 'bar' as string
+            labels: ['琉球大学','名桜大学','沖縄大学','沖縄キリスト教学院大学','沖縄職業能力開発大学校','宝塚医療大学','専修学校インターナショナルリゾートカレッジ','琉美インターナショナルビューティーカレッジ','専修学校パシフィックテクノカレッジ','専門学校沖縄ブライダルモード学園','沖縄ホテル観光専門学校','沖縄情報経理専門学校','大育ビジネス専門学校',],
+            datasets: [{
+                label: '観光関連学科設置教育機関',
+                data: [60,80,80,90,20,100,105,20,15,25,30,50,40,],
+                backgroundColor: 'rgba(75, 192, 192, 0.8)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1
+            }]
+        },
     };
 
     // Get the radio buttons and canvas
