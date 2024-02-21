@@ -265,39 +265,6 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
-    　鉄道
-    -------------------------------------------------------- */
-    map.addSource('railways', {
-        'type': 'geojson',
-        'data': './geojson/infrastructure/railways/railways.geojson'
-    });
-    map.addLayer({
-        'id': 'railways',
-        'type': 'line',
-        'source': 'railways',
-        'layout': {
-            'visibility': 'none'
-        },
-        'paint': {
-            'line-color': 'rgba(255,0,0,1)',
-            'line-width': 2,
-        }
-    });
-    // ポップアップ //
-    map.on('click', "railways", function (e) {
-        new mapboxgl.Popup()
-            .setLngLat(e.lngLat)
-            .setHTML(e.features[0].properties["N02_004"])
-            .addTo(map);
-    });
-    map.on('mouseenter', "railways", function () {
-        map.getCanvas().style.cursor = 'pointer';
-    });
-    map.on('mouseleave', "railways", function () {
-        map.getCanvas().style.cursor = '';
-    });
-
-    /* --------------------------------------------------------
     　道路
     -------------------------------------------------------- */
     map.addSource('roads', {
@@ -383,6 +350,81 @@ map.on('load', function () {
     add_shizen_koen_MapLayer(map, 'shizenkoen_01', 'shizenkoen_01', './geojson/city_planning/shizen_koen/shizenkoen_01.geojson', '#0000ff', '自然公園区域');
     add_shizen_koen_MapLayer(map, 'shizenkoen_02', 'shizenkoen_02', './geojson/city_planning/shizen_koen/shizenkoen_02.geojson', '#ff0000', '特別区域');
     add_shizen_koen_MapLayer(map, 'shizenkoen_03', 'shizenkoen_03', './geojson/city_planning/shizen_koen/shizenkoen_03.geojson', '#00ff00', '特別保護地区');
+
+    /* --------------------------------------------------------
+    　バス
+    -------------------------------------------------------- */
+    function add_bus_Layer(sourceId, layerId, type, paint) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': `./geojson/infrastructure/bus/${sourceId}.geojson`
+        });
+        map.addLayer({
+            'id': layerId,
+            'type': type,
+            'source': sourceId,
+            'layout': {
+                'visibility': 'none'
+            },
+            'paint': paint
+        });
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(e.features[0].properties["P11_001"])
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }    
+    // Add line layer
+    add_bus_Layer('bus_line', 'bus_line', 'line', {
+        'line-color': '#0000ff',
+    });
+    
+    // Add point layer
+    add_bus_Layer('bus_circle', 'bus_circle', 'circle', {
+        'circle-color': "red",
+        'circle-radius': 2,
+    });
+
+    /* --------------------------------------------------------
+    　鉄道
+    -------------------------------------------------------- */
+    map.addSource('railways', {
+        'type': 'geojson',
+        'data': './geojson/infrastructure/railways/railways.geojson'
+    });
+    map.addLayer({
+        'id': 'railways',
+        'type': 'line',
+        'source': 'railways',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'line-color': 'rgba(255,0,0,1)',
+            'line-width': 2,
+        }
+    });
+    // ポップアップ //
+    map.on('click', "railways", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["N02_004"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "railways", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "railways", function () {
+        map.getCanvas().style.cursor = '';
+    });
 
     /* --------------------------------------------------------
     　自然保全地域
@@ -1393,13 +1435,17 @@ map.on('load', function () {
     document.getElementById('cruise_nahaCheckbox').addEventListener('change', function () {
         updateLayerVisibility('cruise_naha', this.checked);
     });
-    // 鉄道 //
-    document.getElementById('railwaysCheckbox').addEventListener('change', function () {
-        updateLayerVisibility('railways', this.checked);
-    });
     // 道路 //
     document.getElementById('roadsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('roads', this.checked);
+    });
+    // バス //
+    document.getElementById('busCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['bus_line', 'bus_circle'], this.checked);
+    });
+    // 鉄道 //
+    document.getElementById('railwaysCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('railways', this.checked);
     });
     // 自然公園 //
     document.getElementById('shizen_koenCheckbox').addEventListener('change', function () {
@@ -1488,10 +1534,12 @@ map.on('load', function () {
     updateLayerVisibility('ports_network', document.getElementById('ports_networkCheckbox').checked);
     // 那覇クルーズターミナル //
     updateLayerVisibility('cruise_naha', document.getElementById('cruise_nahaCheckbox').checked);
-    // 鉄道 //
-    updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
     // 道路 //
     updateLayerVisibility('roads', document.getElementById('roadsCheckbox').checked);
+    // バス //
+    updateLayerVisibility(['bus_line', 'bus_circle'], document.getElementById('busCheckbox').checked);
+    // 鉄道 //
+    updateLayerVisibility('railways', document.getElementById('railwaysCheckbox').checked);
     // 自然公園 //
     updateLayerVisibility(['shizenkoen_01', 'shizenkoen_02', 'shizenkoen_03'], document.getElementById('shizen_koenCheckbox').checked);
     // 自然保全地域 //
