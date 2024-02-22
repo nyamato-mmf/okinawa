@@ -799,12 +799,31 @@ map.on('load', function () {
         });
         // ポップアップ
         map.on('click', layerId, function (e) {
-            console.log(e.features[0].properties);
+            var popupContent;
+            switch (e.features[0].properties["WHC"]) {
+                case "01":
+                    popupContent = "知床";
+                    break;
+                case "02":
+                    popupContent = "白神山地";
+                    break;
+                case "03":
+                    popupContent = "屋久島";
+                    break;
+                case "04":
+                    popupContent = "小笠原";
+                    break;
+                case "05":
+                    popupContent = "奄美大島、徳之島、沖縄県北部及び西表島";
+                    break;
+                default:
+                    popupContent = "";
+            }
             new mapboxgl.Popup()
                 .setLngLat(e.lngLat)
-                .setHTML(e.features[0].properties["WHC"])
+                .setHTML(popupContent)
                 .addTo(map);
-        });
+        });        
         map.on('mouseenter', layerId, function () {
             map.getCanvas().style.cursor = 'pointer';
         });
