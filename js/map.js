@@ -1072,6 +1072,41 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　病院・診療所・クリニック
+    -------------------------------------------------------- */
+    map.addSource('hospitals', {
+        'type': 'geojson',
+        'data': './geojson/facilities/hospitals/hospitals.geojson'
+    });
+    map.addLayer({
+        'id': "hospitals",
+        'type': 'circle',
+        'source': 'hospitals',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'circle-radius': 1.5,
+            'circle-stroke-width': 1,
+            'circle-color': 'yellow',
+            'circle-stroke-color': 'green'
+        }
+    });
+    // ポップアップ //
+    map.on('click', "hospitals", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["名前"] + "<br>" + "【診療科】" + e.features[0].properties["診療科"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "hospitals", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "hospitals", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　スタートアップ
     -------------------------------------------------------- */
     map.addSource('startups', {
@@ -1540,6 +1575,10 @@ map.on('load', function () {
     document.getElementById('restaurantsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('restaurants', this.checked);
     });
+    // 病院・診療所・クリニック //
+    document.getElementById('hospitalsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('hospitals', this.checked);
+    });
     // スタートアップ //
     document.getElementById('startupsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('startups', this.checked);
@@ -1607,6 +1646,8 @@ map.on('load', function () {
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
     // レストラン //
     updateLayerVisibility('restaurants', document.getElementById('restaurantsCheckbox').checked);
+    // 病院・診療所・クリニック //
+    updateLayerVisibility('hospitals', document.getElementById('hospitalsCheckbox').checked);
     // スタートアップ //
     updateLayerVisibility('startups', document.getElementById('startupsCheckbox').checked);
     // 人流（KDDI） //

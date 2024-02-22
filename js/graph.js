@@ -101,6 +101,17 @@ document.addEventListener("DOMContentLoaded", function() {
                 borderWidth: 1
             }]
         },
+        startups: {
+            type: 'bar', // Specify 'bar' as string
+            labels: ['東京都','愛知県','京都府','大阪府','広島県','福岡県','鹿児島県','沖縄県',],
+            datasets: [{
+                label: 'スタートアップ数',
+                data: [6679,191,233,601,52,229,20,63,],
+                backgroundColor: 'rgba(255, 99, 132, 0.5)',
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1
+            }]
+        },
     };
 
     // Get the radio buttons and canvas
