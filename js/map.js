@@ -1072,6 +1072,39 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　スタートアップ
+    -------------------------------------------------------- */
+    map.addSource('startups', {
+        'type': 'geojson',
+        'data': './geojson/facilities/startups/startups.geojson'
+    });
+    map.addLayer({
+        'id': "startups",
+        'type': 'circle',
+        'source': 'startups',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 4,
+            'circle-color': "red",
+        }
+    });
+    // ポップアップ //
+    map.on('click', "startups", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["企業名"] + "<br>" + "業種：" + e.features[0].properties["業種"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "startups", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "startups", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　人流（consttelation_current)
     -------------------------------------------------------- */
     function add_constellation_current_Layer(sourceId, layerId, type, paint) {
@@ -1507,6 +1540,10 @@ map.on('load', function () {
     document.getElementById('restaurantsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('restaurants', this.checked);
     });
+    // スタートアップ //
+    document.getElementById('startupsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('startups', this.checked);
+    });
     // 人流（KDDI） //
     document.getElementById('constellation_currentCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['constellation_current_line','constellation_current_point'], this.checked);
@@ -1570,6 +1607,8 @@ map.on('load', function () {
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
     // レストラン //
     updateLayerVisibility('restaurants', document.getElementById('restaurantsCheckbox').checked);
+    // スタートアップ //
+    updateLayerVisibility('startups', document.getElementById('startupsCheckbox').checked);
     // 人流（KDDI） //
     updateLayerVisibility(['constellation_current_line','constellation_current_point'], document.getElementById('constellation_currentCheckbox').checked);
     // エリア方針 //
