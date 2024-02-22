@@ -1072,6 +1072,41 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　コンビニエンスストア
+    -------------------------------------------------------- */
+    map.addSource('convenience_stores', {
+        'type': 'geojson',
+        'data': './geojson/facilities/convenience_stores/convenience_stores.geojson'
+    });
+    map.addLayer({
+        'id': "convenience_stores",
+        'type': 'circle',
+        'source': 'convenience_stores',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 1.5,
+            'circle-stroke-width': 1,
+            'circle-color': 'yellow',
+            'circle-stroke-color': 'red'
+        }
+    });
+    // ポップアップ //
+    map.on('click', "convenience_stores", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["名前"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "restaurants", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "restaurants", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　病院・診療所・クリニック
     -------------------------------------------------------- */
     map.addSource('hospitals', {
@@ -1575,6 +1610,10 @@ map.on('load', function () {
     document.getElementById('restaurantsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('restaurants', this.checked);
     });
+    // コンビニエンスストア //
+    document.getElementById('convenience_storesCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('convenience_stores', this.checked);
+    });
     // 病院・診療所・クリニック //
     document.getElementById('hospitalsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('hospitals', this.checked);
@@ -1646,6 +1685,8 @@ map.on('load', function () {
     updateLayerVisibility('high_class_hotels', document.getElementById('high_class_hotelsCheckbox').checked);
     // レストラン //
     updateLayerVisibility('restaurants', document.getElementById('restaurantsCheckbox').checked);
+    // コンビニエンスストア //
+    updateLayerVisibility('convenience_stores', document.getElementById('convenience_storesCheckbox').checked);
     // 病院・診療所・クリニック //
     updateLayerVisibility('hospitals', document.getElementById('hospitalsCheckbox').checked);
     // スタートアップ //
