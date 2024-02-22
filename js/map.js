@@ -1194,6 +1194,39 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　コワーキングスペース
+    -------------------------------------------------------- */
+    map.addSource('coworking', {
+        'type': 'geojson',
+        'data': './geojson/facilities/coworking/coworking.geojson'
+    });
+    map.addLayer({
+        'id': "coworking",
+        'type': 'circle',
+        'source': 'coworking',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 4,
+            'circle-color': "purple",
+        }
+    });
+    // ポップアップ //
+    map.on('click', "coworking", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["名前"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "coworking", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "coworking", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　人流（consttelation_current)
     -------------------------------------------------------- */
     function add_constellation_current_Layer(sourceId, layerId, type, paint) {
@@ -1641,6 +1674,10 @@ map.on('load', function () {
     document.getElementById('startupsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('startups', this.checked);
     });
+    // コワーキングスペース //
+    document.getElementById('coworkingCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('coworking', this.checked);
+    });
     // 人流（KDDI） //
     document.getElementById('constellation_currentCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['constellation_current_line','constellation_current_point'], this.checked);
@@ -1710,6 +1747,8 @@ map.on('load', function () {
     updateLayerVisibility('hospitals', document.getElementById('hospitalsCheckbox').checked);
     // スタートアップ //
     updateLayerVisibility('startups', document.getElementById('startupsCheckbox').checked);
+    // コワーキングスペース //
+    updateLayerVisibility('coworking', document.getElementById('coworkingCheckbox').checked);
     // 人流（KDDI） //
     updateLayerVisibility(['constellation_current_line','constellation_current_point'], document.getElementById('constellation_currentCheckbox').checked);
     // エリア方針 //
