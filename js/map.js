@@ -934,7 +934,7 @@ map.on('load', function () {
 
 
     /* --------------------------------------------------------
-    　観光ルート
+    　観光ルート(1泊+)
     -------------------------------------------------------- */
     function add_tourist_routes_LayerAndEvents(sourceId, linelayerId, circlelayerId, circleColor) {
         map.addSource(sourceId, {
@@ -946,7 +946,7 @@ map.on('load', function () {
             'type': 'line',
             'source': sourceId,
             'layout': {
-                'visibility': 'visible'
+                'visibility': 'none'
             },
             'paint': {
                 'line-color': circleColor,
@@ -958,7 +958,7 @@ map.on('load', function () {
             'type': 'circle',
             'source': sourceId,
             'layout': {
-                'visibility': 'visible'
+                'visibility': 'none'
             },
             'paint': {
                 'circle-radius': 5,
@@ -1721,6 +1721,14 @@ map.on('load', function () {
     document.getElementById('attractionsCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['attractions'], this.checked);
     });
+    // 観光ルート（1泊+） //
+    document.getElementById('tourist_routesCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['tourist_routes_01-line','tourist_routes_02-line','tourist_routes_03-line','tourist_routes_04-line','tourist_routes_05-line','tourist_routes_06-line','tourist_routes_07-line','tourist_routes_08-line','tourist_routes_09-line','tourist_routes_10-line','tourist_routes_11-line','tourist_routes_12-line','tourist_routes_13-line','tourist_routes_14-line','tourist_routes_15-line','tourist_routes_16-line','tourist_routes_17-line','tourist_routes_18-line','tourist_routes_19-line','tourist_routes_20-line','tourist_routes_21-line','tourist_routes_22-line','tourist_routes_23-line','tourist_routes_24-line','tourist_routes_25-line','tourist_routes_26-line','tourist_routes_27-line','tourist_routes_28-line'], this.checked);
+    });
+    // 観光ルート（1泊+） //
+    document.getElementById('tourist_routesCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['tourist_routes_01-circle','tourist_routes_02-circle','tourist_routes_03-circle','tourist_routes_04-circle','tourist_routes_05-circle','tourist_routes_06-circle','tourist_routes_07-circle','tourist_routes_08-circle','tourist_routes_09-circle','tourist_routes_10-circle','tourist_routes_11-circle','tourist_routes_12-circle','tourist_routes_13-circle','tourist_routes_14-circle','tourist_routes_15-circle','tourist_routes_16-circle','tourist_routes_17-circle','tourist_routes_18-circle','tourist_routes_19-circle','tourist_routes_20-circle','tourist_routes_21-circle','tourist_routes_22-circle','tourist_routes_23-circle','tourist_routes_24-circle','tourist_routes_25-circle','tourist_routes_26-circle','tourist_routes_27-circle','tourist_routes_28-circle'], this.checked);
+    });
     // ビーチ //
     document.getElementById('beachesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['middle_beach',"north_beach","south_beach","miyako_beach","kerama_beach","yaeyama_beach"], this.checked);
@@ -1808,6 +1816,10 @@ map.on('load', function () {
     updateLayerVisibility(['P12a-14_47','P12b-14_47','P12c-14_47'], document.getElementById('tourist_spotsCheckbox').checked);
     // 観光スポット（Google） //
     updateLayerVisibility(['attractions'], document.getElementById('attractionsCheckbox').checked);
+    // 観光ルート（1泊+） //
+    updateLayerVisibility(['tourist_routes_01-line','tourist_routes_02-line','tourist_routes_03-line','tourist_routes_04-line','tourist_routes_05-line','tourist_routes_06-line','tourist_routes_07-line','tourist_routes_08-line','tourist_routes_09-line','tourist_routes_10-line','tourist_routes_11-line','tourist_routes_12-line','tourist_routes_13-line','tourist_routes_14-line','tourist_routes_15-line','tourist_routes_16-line','tourist_routes_17-line','tourist_routes_18-line','tourist_routes_19-line','tourist_routes_20-line','tourist_routes_21-line','tourist_routes_22-line','tourist_routes_23-line','tourist_routes_24-line','tourist_routes_25-line','tourist_routes_26-line','tourist_routes_27-line','tourist_routes_28-line'], document.getElementById('tourist_routesCheckbox').checked);
+    // 観光ルート（1泊+） //
+    updateLayerVisibility(['tourist_routes_01-circle','tourist_routes_02-circle','tourist_routes_03-circle','tourist_routes_04-circle','tourist_routes_05-circle','tourist_routes_06-circle','tourist_routes_07-circle','tourist_routes_08-circle','tourist_routes_09-circle','tourist_routes_10-circle','tourist_routes_11-circle','tourist_routes_12-circle','tourist_routes_13-circle','tourist_routes_14-circle','tourist_routes_15-circle','tourist_routes_16-circle','tourist_routes_17-circle','tourist_routes_18-circle','tourist_routes_19-circle','tourist_routes_20-circle','tourist_routes_21-circle','tourist_routes_22-circle','tourist_routes_23-circle','tourist_routes_24-circle','tourist_routes_25-circle','tourist_routes_26-circle','tourist_routes_27-circle','tourist_routes_28-circle'], document.getElementById('tourist_routesCheckbox').checked);
     // ビーチ //
     updateLayerVisibility(['middle_beach',"north_beach","south_beach","miyako_beach","kerama_beach","yaeyama_beach"], document.getElementById('beachesCheckbox').checked);
     // 宿泊施設 //
