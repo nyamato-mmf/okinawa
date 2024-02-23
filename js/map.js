@@ -933,47 +933,51 @@ map.on('load', function () {
         map.getCanvas().style.cursor = '';
     });
 
-
     /* --------------------------------------------------------
-    　砂浜
+    　ビーチ
     -------------------------------------------------------- */
-    map.addSource('beaches', {
-        'type': 'geojson',
-        'data': './geojson/geographies/beaches_lines.geojson'
-    });
-    map.addLayer({
-        'id': 'beaches',
-        'type': 'line',
-        'source': 'beaches',
-        'layout': {
-            'visibility': 'none'
-        },
-        'paint': {
-            'line-color': [
-                'case',
-                ['==', ['get', "P23b_009"], "t"], '#0000ff',
-                'rgba(0,0,0,0)'
-            ],
-            'line-width': [
-                'case',
-                ['==', ['get', "P23b_009"], "t"], 5,
-                0.5
-            ],
-        }
-    });
-    // ポップアップ //
-    map.on('click', "beaches", function (e) {
-        new mapboxgl.Popup()
-            .setLngLat(e.lngLat)
-            .setHTML("砂浜")
-            .addTo(map);
-    });
-    map.on('mouseenter', "beaches", function () {
-        map.getCanvas().style.cursor = 'pointer';
-    });
-    map.on('mouseleave', "beaches", function () {
-        map.getCanvas().style.cursor = '';
-    });
+    function add_beach_Layer(map, sourceId, layerId, geojsonPath) {
+        // Add a source for the city polygons.
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+        map.addLayer({
+            'id': layerId,
+            'type': 'circle',
+            'source': sourceId,
+            'layout': {
+                'visibility': 'visible'
+            },
+            'paint': {
+                'circle-color': "blue",
+            }
+        });
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(e.features[0].properties["ビーチ"])
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+        const beaches = [
+            { sourceId: 'middle_beach', layerId: 'middle_beach', geojsonPath: './geojson/geographies/beaches/middle_beach.geojson' },
+            { sourceId: 'north_beach', layerId: 'north_beach', geojsonPath: './geojson/geographies/beaches/north_beach.geojson' },
+            { sourceId: 'south_beach', layerId: 'south_beach', geojsonPath: './geojson/geographies/beaches/south_beach.geojson' },
+            { sourceId: 'miyako_beach', layerId: 'miyako_beach', geojsonPath: './geojson/geographies/beaches/miyako_beach.geojson' },
+            { sourceId: 'kerama_beach', layerId: 'kerama_beach', geojsonPath: './geojson/geographies/beaches/kerama_beach.geojson' },
+            { sourceId: 'yaeyama_beach', layerId: 'yaeyama_beach', geojsonPath: './geojson/geographies/beaches/yaeyama_beach.geojson' },
+        ];
+
+        // Add city layers
+        beaches.forEach(elem => add_beach_Layer(map, elem.sourceId, elem.layerId, elem.geojsonPath));
 
     /* --------------------------------------------------------
     　宿泊施設（hotels）
@@ -1648,7 +1652,7 @@ map.on('load', function () {
     });
     // ビーチ //
     document.getElementById('beachesCheckbox').addEventListener('change', function () {
-        updateLayerVisibility(['beaches'], this.checked);
+        updateLayerVisibility(['middle_beach',"north_beach","south_beach","miyako_beach","kerama_beach","yaeyama_beach"], this.checked);
     });
     // 宿泊施設 //
     document.getElementById('hotelsCheckbox').addEventListener('change', function () {
@@ -1734,7 +1738,7 @@ map.on('load', function () {
     // 観光スポット（Google） //
     updateLayerVisibility(['attractions'], document.getElementById('attractionsCheckbox').checked);
     // ビーチ //
-    updateLayerVisibility(['beaches'], document.getElementById('beachesCheckbox').checked);
+    updateLayerVisibility(['middle_beach',"north_beach","south_beach","miyako_beach","kerama_beach","yaeyama_beach"], document.getElementById('beachesCheckbox').checked);
     // 宿泊施設 //
     updateLayerVisibility('hotels', document.getElementById('hotelsCheckbox').checked);
     // ハイクラスホテル //
