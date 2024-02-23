@@ -250,7 +250,6 @@ map.on('load', function () {
             'circle-stroke-color': 'blue'
         }
     });
-    // ポップアップ //
     map.on('click', "cruise_naha", function (e) {
         new mapboxgl.Popup()
             .setLngLat(e.lngLat)
@@ -932,6 +931,78 @@ map.on('load', function () {
     map.on('mouseleave', "attractions", function () {
         map.getCanvas().style.cursor = '';
     });
+
+
+    /* --------------------------------------------------------
+    　観光ルート
+    -------------------------------------------------------- */
+    function add_tourist_routes_LayerAndEvents(sourceId, linelayerId, circlelayerId, circleColor) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': `./geojson/facilities/tourist_routes/${sourceId}.geojson`
+        });
+        map.addLayer({
+            'id': linelayerId,
+            'type': 'line',
+            'source': sourceId,
+            'layout': {
+                'visibility': 'visible'
+            },
+            'paint': {
+                'line-color': circleColor,
+                'line-width': 2,
+            }
+        });
+        map.addLayer({
+            'id': circlelayerId,
+            'type': 'circle',
+            'source': sourceId,
+            'layout': {
+                'visibility': 'visible'
+            },
+            'paint': {
+                'circle-radius': 5,
+                'circle-stroke-width': 2,
+                'circle-color': 'rgba(0, 0, 0, 0)',
+                'circle-stroke-color': circleColor
+            }
+        });
+    }
+
+    // Define routes layers and colors
+    const tourist_routesLayers = [
+        { sourceId: 'tourist_routes_01', linelayerId: 'tourist_routes_01-line', circlelayerId: 'tourist_routes_01-circle', color: '#FF5733' },
+        { sourceId: 'tourist_routes_02', linelayerId: 'tourist_routes_02-line', circlelayerId: 'tourist_routes_02-circle', color: '#FFBD33' },
+        { sourceId: 'tourist_routes_03', linelayerId: 'tourist_routes_03-line', circlelayerId: 'tourist_routes_03-circle', color: '#FF3333' },
+        { sourceId: 'tourist_routes_04', linelayerId: 'tourist_routes_04-line', circlelayerId: 'tourist_routes_04-circle', color: '#33FF57' },
+        { sourceId: 'tourist_routes_05', linelayerId: 'tourist_routes_05-line', circlelayerId: 'tourist_routes_05-circle', color: '#33FFBD' },
+        { sourceId: 'tourist_routes_06', linelayerId: 'tourist_routes_06-line', circlelayerId: 'tourist_routes_06-circle', color: '#33BDFF' },
+        { sourceId: 'tourist_routes_07', linelayerId: 'tourist_routes_07-line', circlelayerId: 'tourist_routes_07-circle', color: '#5733FF' },
+        { sourceId: 'tourist_routes_08', linelayerId: 'tourist_routes_08-line', circlelayerId: 'tourist_routes_08-circle', color: '#BD33FF' },
+        { sourceId: 'tourist_routes_09', linelayerId: 'tourist_routes_09-line', circlelayerId: 'tourist_routes_09-circle', color: '#FF33BD' },
+        { sourceId: 'tourist_routes_10', linelayerId: 'tourist_routes_10-line', circlelayerId: 'tourist_routes_10-circle', color: '#FF33BD' },
+        { sourceId: 'tourist_routes_11', linelayerId: 'tourist_routes_11-line', circlelayerId: 'tourist_routes_11-circle', color: '#FF5733' },
+        { sourceId: 'tourist_routes_12', linelayerId: 'tourist_routes_12-line', circlelayerId: 'tourist_routes_12-circle', color: '#FFBD33' },
+        { sourceId: 'tourist_routes_13', linelayerId: 'tourist_routes_13-line', circlelayerId: 'tourist_routes_13-circle', color: '#FF3333' },
+        { sourceId: 'tourist_routes_14', linelayerId: 'tourist_routes_14-line', circlelayerId: 'tourist_routes_14-circle', color: '#33FF57' },
+        { sourceId: 'tourist_routes_15', linelayerId: 'tourist_routes_15-line', circlelayerId: 'tourist_routes_15-circle', color: '#33FFBD' },
+        { sourceId: 'tourist_routes_16', linelayerId: 'tourist_routes_16-line', circlelayerId: 'tourist_routes_16-circle', color: '#33BDFF' },
+        { sourceId: 'tourist_routes_17', linelayerId: 'tourist_routes_17-line', circlelayerId: 'tourist_routes_17-circle', color: '#5733FF' },
+        { sourceId: 'tourist_routes_18', linelayerId: 'tourist_routes_18-line', circlelayerId: 'tourist_routes_18-circle', color: '#BD33FF' },
+        { sourceId: 'tourist_routes_19', linelayerId: 'tourist_routes_19-line', circlelayerId: 'tourist_routes_19-circle', color: '#FF33BD' },
+        { sourceId: 'tourist_routes_20', linelayerId: 'tourist_routes_20-line', circlelayerId: 'tourist_routes_20-circle', color: '#FF33BD' },
+        { sourceId: 'tourist_routes_21', linelayerId: 'tourist_routes_21-line', circlelayerId: 'tourist_routes_21-circle', color: '#FF5733' },
+        { sourceId: 'tourist_routes_22', linelayerId: 'tourist_routes_22-line', circlelayerId: 'tourist_routes_22-circle', color: '#FFBD33' },
+        { sourceId: 'tourist_routes_23', linelayerId: 'tourist_routes_23-line', circlelayerId: 'tourist_routes_23-circle', color: '#FB3343' },
+        { sourceId: 'tourist_routes_24', linelayerId: 'tourist_routes_24-line', circlelayerId: 'tourist_routes_24-circle', color: '#BF3353' },
+        { sourceId: 'tourist_routes_25', linelayerId: 'tourist_routes_25-line', circlelayerId: 'tourist_routes_25-circle', color: '#FD3383' },
+        { sourceId: 'tourist_routes_26', linelayerId: 'tourist_routes_26-line', circlelayerId: 'tourist_routes_26-circle', color: '#FF3933' },
+        { sourceId: 'tourist_routes_27', linelayerId: 'tourist_routes_27-line', circlelayerId: 'tourist_routes_27-circle', color: '#FF2313' },
+        { sourceId: 'tourist_routes_28', linelayerId: 'tourist_routes_28-line', circlelayerId: 'tourist_routes_28-circle', color: '#FD8353' },
+    ];
+
+    // Add routes layers and events
+    tourist_routesLayers.forEach(layer => add_tourist_routes_LayerAndEvents(layer.sourceId, layer.linelayerId, layer.circlelayerId, layer.color));
 
     /* --------------------------------------------------------
     　ビーチ
