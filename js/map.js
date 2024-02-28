@@ -1542,7 +1542,7 @@ map.on('load', function () {
             'type': type,
             'source': sourceId,
             'layout': {
-                'visibility': 'visible'
+                'visibility': 'none'
             },
             'paint': paint
         });
@@ -1862,6 +1862,10 @@ map.on('load', function () {
     document.getElementById('hotel_projectsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('hotel_projects', this.checked);
     });
+    // 開発計画 //
+    document.getElementById('development_projectsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility(['road_projects','development_projects'], this.checked);
+    });
     // 映像 //
     document.getElementById('videosCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['videos'], this.checked);
@@ -1933,6 +1937,8 @@ map.on('load', function () {
     updateLayerVisibility(['constellation_current_line','constellation_current_point'], document.getElementById('constellation_currentCheckbox').checked);
     // ホテル計画 //
     updateLayerVisibility('hotel_projects', document.getElementById('hotel_projectsCheckbox').checked);
+    // 開発計画 //
+    updateLayerVisibility(['road_projects','development_projects'], document.getElementById('development_projectsCheckbox').checked);
     // エリア方針 //
     updateLayerVisibility(['north','middle','south','miyako','yaeyama'], document.getElementById('area_policiesCheckbox').checked);
     // 映像 //
