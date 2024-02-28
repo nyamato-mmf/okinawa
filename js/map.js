@@ -1025,7 +1025,6 @@ map.on('load', function () {
             }
         });
         map.on('click', layerId, function (e) {
-            console.log(e.features[0].properties);
             new mapboxgl.Popup()
                 .setLngLat(e.lngLat)
                 .setHTML(e.features[0].properties["ビーチ"])
