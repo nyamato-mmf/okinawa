@@ -1319,7 +1319,6 @@ map.on('load', function () {
             'paint': paint
         });
         map.on('click', layerId, function (e) {
-            console.log(e.features[0].properties);
             new mapboxgl.Popup()
                 .setLngLat(e.lngLat)
                 .setHTML("人流：" + e.features[0].properties["description"] + "等星")
@@ -1495,6 +1494,96 @@ map.on('load', function () {
 
     // Add layers
     area_policies.forEach(elem => add_area_policies_Layer(map, elem.sourceId, elem.layerId, elem.geojsonPath, elem.fillColor, elem.popupText));
+
+    /* --------------------------------------------------------
+    　ホテル計画
+    -------------------------------------------------------- */
+    map.addSource('hotel_projects', {
+        'type': 'geojson',
+        'data': './geojson/new_projects/hotel_projects/hotel_projects.geojson'
+    });
+    map.addLayer({
+        'id': "hotel_projects",
+        'type': 'circle',
+        'source': 'hotel_projects',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 7,
+            'circle-color': "purple",
+        }
+    });
+    // ポップアップ //
+    map.on('click', "hotel_projects", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML("名称：" + e.features[0].properties["name"] + "<br>開業：" + e.features[0].properties["open"] + "<br>客室数：" + e.features[0].properties["rooms"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "hotel_projects", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "hotel_projects", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+
+    /* --------------------------------------------------------
+    　開発計画
+    -------------------------------------------------------- */
+    function add_development_projects_Layer(sourceId, layerId, type, paint) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': `./geojson/new_projects/development_projects/${sourceId}.geojson`
+        });
+        map.addLayer({
+            'id': layerId,
+            'type': type,
+            'source': sourceId,
+            'layout': {
+                'visibility': 'visible'
+            },
+            'paint': paint
+        });
+        map.on('click', layerId, function (e) {
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML("名称：" + e.features[0].properties["name"] + "<br>完成予定：" + e.features[0].properties["open"] + "<br>分類：" + e.features[0].properties["category"])
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }    
+    // Add line layer
+    add_development_projects_Layer('road_projects', 'road_projects', 'line', {
+        'line-color': [
+            'case',
+            ['==', ['get', "category"], "道路交通"], '#007FFF',
+            "#000000"
+        ],
+        'line-width': 5,
+    });
+    // Add point layer
+    add_development_projects_Layer('development_projects', 'development_projects', 'circle', {
+        'circle-color': [
+            'case',
+            ['==', ['get', "category"], "道路交通"], '#007FFF',
+            ['==', ['get', "category"], "道路交通／商業施設"], '#007FFF',
+            ['==', ['get', "category"], "スポーツ施設"], '#B3C6FF',
+            ['==', ['get', "category"], "商業施設"], '#B3C6FF',
+            ['==', ['get', "category"], "医療施設"], '#B3C6FF',
+            ['==', ['get', "category"], "空港施設"], '#FFFF99',
+            ['==', ['get', "category"], "観光・レクリエーション施設"], '#FF6666',
+            ['==', ['get', "category"], "学校施設"], '#C8FFB0',
+            "#000000"
+        ],
+        'circle-radius': 7,
+    });
 
     /* --------------------------------------------------------
     　映像
@@ -1769,6 +1858,10 @@ map.on('load', function () {
     document.getElementById('area_policiesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['north','middle','south','miyako','yaeyama'], this.checked);
     });
+    // ホテル計画 //
+    document.getElementById('hotel_projectsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('hotel_projects', this.checked);
+    });
     // 映像 //
     document.getElementById('videosCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['videos'], this.checked);
@@ -1838,6 +1931,8 @@ map.on('load', function () {
     updateLayerVisibility('coworking', document.getElementById('coworkingCheckbox').checked);
     // 人流（KDDI） //
     updateLayerVisibility(['constellation_current_line','constellation_current_point'], document.getElementById('constellation_currentCheckbox').checked);
+    // ホテル計画 //
+    updateLayerVisibility('hotel_projects', document.getElementById('hotel_projectsCheckbox').checked);
     // エリア方針 //
     updateLayerVisibility(['north','middle','south','miyako','yaeyama'], document.getElementById('area_policiesCheckbox').checked);
     // 映像 //
