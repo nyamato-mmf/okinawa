@@ -6,9 +6,9 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[127.78771,26.15626,0]},"properties":{"name":"コストコ沖縄南城倉庫店","description":"","open":"2024/8","category":"商業施設"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[127.98776,26.60114,0]},"properties":{"name":"公立沖縄北部医療センター","description":"","open":"2028","category":"医療施設"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[127.64375,26.20018,0]},"properties":{"name":"那覇空港誘導路　増設検討","description":"","open":"未定","category":"空港施設"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[128.02689,26.70421,0]},"properties":{"name":"古宇利島 人工浮島（ポンツーン）構想","description":"","open":"2026","category":"観光・レクリエーション施設"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[127.74174,26.23916,0]},"properties":{"name":"幸地IC　開通","description":"","open":"2026","category":"道路交通"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[127.97414,26.64168,0]},"properties":{"name":"ジャングリア","description":"","open":"2025","category":"観光・レクリエーション施設"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[127.64229,26.17524,0]},"properties":{"name":"瀬長島ロープウェイ構想","description":"","open":"2029","category":"道路交通"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[125.39037,24.75699,0]},"properties":{"name":"宝塚医療大学　観光学部キャンパス","description":"","open":"2024/4","category":"学校施設"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[125.39037,24.75699,0]},"properties":{"name":"宝塚医療大学　観光学部キャンパス","description":"","open":"2024/4","category":"学校施設"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[128.0439886,26.6957481,0]},"properties":{"name":"古宇利島 人工浮島（ポンツーン）構想","description":"","open":"2026","category":"観光・レクリエーション施設"}}
 ]}
