@@ -311,44 +311,37 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
-    　自然公園
+    　交通渋滞
     -------------------------------------------------------- */
-    function add_shizen_koen_MapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
-        map.addSource(sourceId, {
-            'type': 'geojson',
-            'data': geojsonPath
-        });
-        map.addLayer({
-            'id': layerId,
-            'type': 'fill',
-            'source': sourceId,
-            'layout': {
-                'visibility': 'none'
-            },
-            'paint': {
-                'fill-color': fillColor,
-                'fill-opacity': 0.3
-            }
-        });
-        // ポップアップ //
-        map.on('click', layerId, function (e) {
-            console.log(e.features[0].properties);
-            new mapboxgl.Popup()
-                .setLngLat(e.lngLat)
-                .setHTML(popupText)
-                .addTo(map);
-        });
-        map.on('mouseenter', layerId, function () {
-            map.getCanvas().style.cursor = 'pointer';
-        });
-        map.on('mouseleave', layerId, function () {
-            map.getCanvas().style.cursor = '';
-        });
-    }
-
-    add_shizen_koen_MapLayer(map, 'shizenkoen_01', 'shizenkoen_01', './geojson/city_planning/shizen_koen/shizenkoen_01.geojson', '#0000ff', '自然公園区域');
-    add_shizen_koen_MapLayer(map, 'shizenkoen_02', 'shizenkoen_02', './geojson/city_planning/shizen_koen/shizenkoen_02.geojson', '#ff0000', '特別区域');
-    add_shizen_koen_MapLayer(map, 'shizenkoen_03', 'shizenkoen_03', './geojson/city_planning/shizen_koen/shizenkoen_03.geojson', '#00ff00', '特別保護地区');
+    map.addSource('traffic_congestions', {
+        'type': 'geojson',
+        'data': './geojson/infrastructure/traffic_congestions/traffic_congestions.geojson'
+    });
+    map.addLayer({
+        'id': "traffic_congestions",
+        'type': 'line',
+        'source': 'traffic_congestions',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'line-color': "red",
+            'line-width': 3,
+        }
+    });
+    // ポップアップ //
+    map.on('click', "traffic_congestions", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["名称"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "traffic_congestions", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "traffic_congestions", function () {
+        map.getCanvas().style.cursor = '';
+    });
 
     /* --------------------------------------------------------
     　バス
@@ -424,6 +417,46 @@ map.on('load', function () {
     map.on('mouseleave', "railways", function () {
         map.getCanvas().style.cursor = '';
     });
+
+    /* --------------------------------------------------------
+    　自然公園
+    -------------------------------------------------------- */
+    function add_shizen_koen_MapLayer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
+        map.addSource(sourceId, {
+            'type': 'geojson',
+            'data': geojsonPath
+        });
+        map.addLayer({
+            'id': layerId,
+            'type': 'fill',
+            'source': sourceId,
+            'layout': {
+                'visibility': 'none'
+            },
+            'paint': {
+                'fill-color': fillColor,
+                'fill-opacity': 0.3
+            }
+        });
+        // ポップアップ //
+        map.on('click', layerId, function (e) {
+            console.log(e.features[0].properties);
+            new mapboxgl.Popup()
+                .setLngLat(e.lngLat)
+                .setHTML(popupText)
+                .addTo(map);
+        });
+        map.on('mouseenter', layerId, function () {
+            map.getCanvas().style.cursor = 'pointer';
+        });
+        map.on('mouseleave', layerId, function () {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+    add_shizen_koen_MapLayer(map, 'shizenkoen_01', 'shizenkoen_01', './geojson/city_planning/shizen_koen/shizenkoen_01.geojson', '#0000ff', '自然公園区域');
+    add_shizen_koen_MapLayer(map, 'shizenkoen_02', 'shizenkoen_02', './geojson/city_planning/shizen_koen/shizenkoen_02.geojson', '#ff0000', '特別区域');
+    add_shizen_koen_MapLayer(map, 'shizenkoen_03', 'shizenkoen_03', './geojson/city_planning/shizen_koen/shizenkoen_03.geojson', '#00ff00', '特別保護地区');
 
     /* --------------------------------------------------------
     　自然保全地域
@@ -1757,6 +1790,10 @@ map.on('load', function () {
     document.getElementById('roadsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('roads', this.checked);
     });
+    // 交通渋滞 //
+    document.getElementById('traffic_congestionsCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('traffic_congestions', this.checked);
+    });
     // バス //
     document.getElementById('busCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['bus_line', 'bus_circle'], this.checked);
@@ -1886,6 +1923,8 @@ map.on('load', function () {
     updateLayerVisibility('cruise_naha', document.getElementById('cruise_nahaCheckbox').checked);
     // 道路 //
     updateLayerVisibility('roads', document.getElementById('roadsCheckbox').checked);
+    // 交通渋滞 //
+    updateLayerVisibility('traffic_congestions', document.getElementById('traffic_congestionsCheckbox').checked);
     // バス //
     updateLayerVisibility(['bus_line', 'bus_circle'], document.getElementById('busCheckbox').checked);
     // 鉄道 //
