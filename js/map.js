@@ -387,7 +387,8 @@ map.on('load', function () {
     }    
     // Add line layer
     add_bus_Layer('bus_line', 'bus_line', 'line', {
-        'line-color': '#000000',
+        'line-color': '#ffff00',
+        'line-width': 2
     });
     
     // Add point layer
