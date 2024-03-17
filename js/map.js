@@ -26,7 +26,7 @@ map.on('load', function () {
         'tileSize': 512,
         'maxzoom': 14
     });
-    map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.5 });
+    map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.0 });
     
 
     // Fly to functionality
