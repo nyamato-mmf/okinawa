@@ -1108,11 +1108,11 @@ map.on('load', function () {
             'visibility': 'none'
         },
         'paint': {
-            'circle-radius': 4,
+            'circle-radius': 5,
             'circle-color': [
                 'case',
                 ['==', ['get', "タイプ"], "民宿"], 'red',
-                ['==', ['get', "タイプ"], "ホテル"], 'green',
+                ['==', ['get', "タイプ"], "ホテル"], 'lime',
                 ['==', ['get', "タイプ"], "コンドミニアム"], 'blue',
                 ['==', ['get', "タイプ"], "ロッジ"], 'yellow',
                 ['==', ['get', "タイプ"], "旅館"], 'purple',
@@ -1128,7 +1128,7 @@ map.on('load', function () {
     map.on('click', "hotels", function (e) {
         new mapboxgl.Popup()
             .setLngLat(e.lngLat)
-            .setHTML(e.features[0].properties["タイプ"])
+            .setHTML(e.features[0].properties["タイプ"] + '<br>' + e.features[0].properties["名前"])
             .addTo(map);
     });
     map.on('mouseenter', "hotels", function () {
