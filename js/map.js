@@ -1334,6 +1334,39 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　プロ野球キャンプ地
+    -------------------------------------------------------- */
+    map.addSource('npb_camp', {
+        'type': 'geojson',
+        'data': './geojson/facilities/npb_camp/npb_camp.geojson'
+    });
+    map.addLayer({
+        'id': "npb_camp",
+        'type': 'circle',
+        'source': 'npb_camp',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 6,
+            'circle-color': "green",
+        }
+    });
+    // ポップアップ //
+    map.on('click', "npb_camp", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML("<strong><mark>" + e.features[0].properties["球団名"] + "</mark></strong><br>" + e.features[0].properties["キャンプ地"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "npb_camp", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "npb_camp", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　人流（consttelation_current)
     -------------------------------------------------------- */
     function add_constellation_current_Layer(sourceId, layerId, type, paint) {
@@ -1928,6 +1961,10 @@ map.on('load', function () {
     document.getElementById('coworkingCheckbox').addEventListener('change', function () {
         updateLayerVisibility('coworking', this.checked);
     });
+    // プロ野球キャンプ地 //
+    document.getElementById('npb_campCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('npb_camp', this.checked);
+    });
     // 人流（KDDI） //
     document.getElementById('constellation_currentCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['constellation_current_line','constellation_current_point'], this.checked);
@@ -2017,6 +2054,8 @@ map.on('load', function () {
     updateLayerVisibility('startups', document.getElementById('startupsCheckbox').checked);
     // コワーキングスペース //
     updateLayerVisibility('coworking', document.getElementById('coworkingCheckbox').checked);
+    // コワーキングスペース //
+    updateLayerVisibility('npb_camp', document.getElementById('npb_campCheckbox').checked);
     // 人流（KDDI） //
     updateLayerVisibility(['constellation_current_line','constellation_current_point'], document.getElementById('constellation_currentCheckbox').checked);
     // 地価公示 //
