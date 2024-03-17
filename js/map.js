@@ -1326,8 +1326,8 @@ map.on('load', function () {
             'visibility': 'none'
         },
         'paint': {
-            'circle-radius': 4,
-            'circle-color': "purple",
+            'circle-radius': 5,
+            'circle-color': "lime",
         }
     });
     // ポップアップ //
