@@ -1398,6 +1398,48 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　地価公示
+    -------------------------------------------------------- */
+    map.addSource('chika', {
+        'type': 'geojson',
+        'data': './geojson/market/chika/L01-23_47.geojson'
+    });
+    map.addLayer({
+        'id': "chika",
+        'type': 'circle',
+        'source': 'chika',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 4,
+            'circle-color': [
+                'interpolate',
+                ['linear'],
+                ['get', 'L01_006'],
+                30000, '#e6e6ff',
+                50000, '#ccccff',
+                100000, '#b3b3ff',
+                200000, '#8080ff',
+                300000, '#3333ff',
+                400000, '#0000ff',
+            ],
+        }
+    });
+    // ポップアップ //
+    map.on('click', "chika", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(parseFloat(e.features[0].properties["L01_006"])/1000 + "千円/㎡")
+            .addTo(map);
+    });
+    map.on('mouseenter', "chika", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "chika", function () {
+        map.getCanvas().style.cursor = '';
+    });
+    /* --------------------------------------------------------
     　エリア方針
     -------------------------------------------------------- */
     function add_area_policies_Layer(map, sourceId, layerId, geojsonPath, fillColor, popupText) {
@@ -1890,6 +1932,10 @@ map.on('load', function () {
     document.getElementById('constellation_currentCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['constellation_current_line','constellation_current_point'], this.checked);
     });
+    // 地価公示 //
+    document.getElementById('chikaCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('chika', this.checked);
+    });
     // エリア方針 //
     document.getElementById('area_policiesCheckbox').addEventListener('change', function () {
         updateLayerVisibility(['north','middle','south','miyako','yaeyama'], this.checked);
@@ -1973,6 +2019,8 @@ map.on('load', function () {
     updateLayerVisibility('coworking', document.getElementById('coworkingCheckbox').checked);
     // 人流（KDDI） //
     updateLayerVisibility(['constellation_current_line','constellation_current_point'], document.getElementById('constellation_currentCheckbox').checked);
+    // 地価公示 //
+    updateLayerVisibility('chika', document.getElementById('chikaCheckbox').checked);
     // ホテル計画 //
     updateLayerVisibility('hotel_projects', document.getElementById('hotel_projectsCheckbox').checked);
     // 開発計画 //
