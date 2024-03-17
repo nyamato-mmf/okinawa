@@ -6,17 +6,28 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoibnlhbWF0byIsImEiOiJja2Y4dzNkOW8wY3MwMnFvM29iNnJzNzVzIn0.GHlHwu3r5YjKBU3qAKvccQ';
 const map = new mapboxgl.Map({
     container: 'map',
-    style: "mapbox://styles/mapbox/light-v11",
+    //style: "mapbox://styles/mapbox/light-v11",
+    style: "mapbox://styles/mapbox/satellite-v9",
     zoom: 9,
     center: [127.93383619628926, 26.504074468870304],
 });
 
-map.setMaxZoom(13);
-map.setMaxPitch(60)
+map.setMaxZoom(20);
+map.setMaxPitch(80)
+
 
 map.on('load', function () {
 
 
+    // Add terrain source, with slight exaggeration
+    map.addSource('mapbox-dem', {
+        'type': 'raster-dem',
+        'url': 'mapbox://mapbox.terrain-rgb',
+        'tileSize': 512,
+        'maxzoom': 14
+    });
+    map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.5 });
+    
 
     // Fly to functionality
     document.getElementById("fly").select.onchange = function() {
@@ -1349,7 +1360,7 @@ map.on('load', function () {
         },
         'paint': {
             'circle-radius': 6,
-            'circle-color': "green",
+            'circle-color': "blue",
         }
     });
     // ポップアップ //
