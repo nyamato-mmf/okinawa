@@ -1279,6 +1279,39 @@ map.on('load', function () {
     });
 
     /* --------------------------------------------------------
+    　大学・短期大学
+    -------------------------------------------------------- */
+    map.addSource('universities', {
+        'type': 'geojson',
+        'data': './geojson/facilities/universities/universities.geojson'
+    });
+    map.addLayer({
+        'id': "universities",
+        'type': 'circle',
+        'source': 'universities',
+        'layout': {
+            'visibility': 'none'
+        },
+        'paint': {
+            'circle-radius': 5,
+            'circle-color': "yellow",
+        }
+    });
+    // ポップアップ //
+    map.on('click', "universities", function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties["P29_005"])
+            .addTo(map);
+    });
+    map.on('mouseenter', "universities", function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', "universities", function () {
+        map.getCanvas().style.cursor = '';
+    });
+
+    /* --------------------------------------------------------
     　スタートアップ
     -------------------------------------------------------- */
     map.addSource('startups', {
@@ -1964,6 +1997,10 @@ map.on('load', function () {
     document.getElementById('hospitalsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('hospitals', this.checked);
     });
+    // 大学・短期大学 //
+    document.getElementById('universitiesCheckbox').addEventListener('change', function () {
+        updateLayerVisibility('universities', this.checked);
+    });
     // スタートアップ //
     document.getElementById('startupsCheckbox').addEventListener('change', function () {
         updateLayerVisibility('startups', this.checked);
@@ -2061,11 +2098,13 @@ map.on('load', function () {
     updateLayerVisibility('convenience_stores', document.getElementById('convenience_storesCheckbox').checked);
     // 病院・診療所・クリニック //
     updateLayerVisibility('hospitals', document.getElementById('hospitalsCheckbox').checked);
+    // 大学・短期大学 //
+    updateLayerVisibility('universities', document.getElementById('universitiesCheckbox').checked);
     // スタートアップ //
     updateLayerVisibility('startups', document.getElementById('startupsCheckbox').checked);
     // コワーキングスペース //
     updateLayerVisibility('coworking', document.getElementById('coworkingCheckbox').checked);
-    // コワーキングスペース //
+    // プロ野球キャンプ地 //
     updateLayerVisibility('npb_camp', document.getElementById('npb_campCheckbox').checked);
     // 人流（KDDI） //
     updateLayerVisibility(['constellation_current_line','constellation_current_point'], document.getElementById('constellation_currentCheckbox').checked);
